@@ -393,11 +393,9 @@ http://iptvtree.net:8080/mitrovic/ff9bb47a59/157591
 
 
 #EXTINF:-1 tvg-logo="https://www.teknisitv.com/wp-content/uploads/2023/02/FREKUENSI-CHAMPIONS-TV-5-DAN-CHAMPIONS-TV-6..jpg" group-title="#🇮🇩JUARA TV🇮🇩#", JUARA TV 5 LIVE 1
-http://iptvorbit.net:8080/andy/andy/17855
+http://live.watsits.art:80/play/live.php?mac=00:1A:79:C7:1E:07&stream=303022_&extension=ts
 #EXTINF:-1 tvg-logo="https://www.teknisitv.com/wp-content/uploads/2023/02/FREKUENSI-CHAMPIONS-TV-5-DAN-CHAMPIONS-TV-6..jpg" group-title="#🇮🇩JUARA TV🇮🇩#", JUARA TV 6 LIVE 1
-http://iptvorbit.net:8080/andy/andy/17428
-
-
+http://live.watsits.art:80/play/live.php?mac=00:1A:79:C7:1E:07&stream=303021_&extension=ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/logomotogp.png" group-title="#🏍️EVENT GP&F1🏎️#", GP 1
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:17:BE&stream=305274&extension=ts
@@ -10115,6 +10113,30 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=317027&ex
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/OPTUS.png" group-title="VIP SPORT", OPTUS SPORT 8 BK
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=317028&extension=ts&play_token=ImSo0aZpTa
 
+#EXTINF:-1 tvg-logo="______" group-title="VIP SPORT", VIDIO 1
+http://live.watsits.art:80/play/live.php?mac=00:1A:79:C7:1E:07&stream=303022_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="VIP SPORT", VIDIO 2
+http://live.watsits.art:80/play/live.php?mac=00:1A:79:C7:1E:07&stream=303021_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="VIP SPORT", VIDIO 3
+http://live.watsits.art:80/play/live.php?mac=00:1A:79:C7:1E:07&stream=303020_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="VIP SPORT", VIDIO 4
+http://live.watsits.art:80/play/live.php?mac=00:1A:79:C7:1E:07&stream=303019_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="VIP SPORT", VIDIO 5
+http://live.watsits.art:80/play/live.php?mac=00:1A:79:C7:1E:07&stream=303018_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="VIP SPORT", VIDIO 6
+http://live.watsits.art:80/play/live.php?mac=00:1A:79:C7:1E:07&stream=303017_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="VIP SPORT", VIDIO 7
+http://live.watsits.art:80/play/live.php?mac=00:1A:79:C7:1E:07&stream=303016_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="VIP SPORT", VIDIO 8
+http://live.watsits.art:80/play/live.php?mac=00:1A:79:C7:1E:07&stream=303015_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="VIP SPORT", VIDIO 9
+http://live.watsits.art:80/play/live.php?mac=00:1A:79:C7:1E:07&stream=303014_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="VIP SPORT", VIDIO 10
+http://live.watsits.art:80/play/live.php?mac=00:1A:79:C7:1E:07&stream=303013_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="VIP SPORT", VIDIO 11
+http://live.watsits.art:80/play/live.php?mac=00:1A:79:C7:1E:07&stream=303012_&extension=ts
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbgGkVpn7N7-gH6Tlxen-xugwOnA4xdHm7gQ&usqp=CAU" group-title="VIP SPORT", NBC SPORT BK
 http://servi-teevee.net:80/play/OtwSvzebcZSpHfatJPpr461YdO-z5VXmb2qWX3OpoeqgFg0bhSMTdQ2HcnHjFkb7
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGvRmqlfvB0oKJPpfBcz8xPB2fiSbaTWg-AA&usqp=CAU" group-title="VIP SPORT", PEACOCK PL BK
@@ -10124,17 +10146,27 @@ http://servi-teevee.net:80/play/OtwSvzebcZSpHfatJPpr461YdO-z5VXmb2qWX3Opoer8wrnq
 http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1032458&extension=ts&play_token=Km5mJBAKNm
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGvRmqlfvB0oKJPpfBcz8xPB2fiSbaTWg-AA&usqp=CAU" group-title="VIP SPORT", PEACOCK PL
 http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1032457&extension=ts&play_token=cvcqACl3FV
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6h5ZSWmEWH7UqKXQ4D9yFKOBQyPKj4gQLig&usqp=CAU" group-title="VIP SPORT", PEACOCK 1
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1032456&extension=ts&play_token=sxawlwRtqd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6h5ZSWmEWH7UqKXQ4D9yFKOBQyPKj4gQLig&usqp=CAU" group-title="VIP SPORT", PEACOCK 2
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1032455&extension=ts&play_token=Y03rpkUlFR
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6h5ZSWmEWH7UqKXQ4D9yFKOBQyPKj4gQLig&usqp=CAU" group-title="VIP SPORT", PEACOCK 3
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1032454&extension=ts&play_token=Y03rpkUlFR
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6h5ZSWmEWH7UqKXQ4D9yFKOBQyPKj4gQLig&usqp=CAU" group-title="VIP SPORT", PEACOCK 4
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1032453&extension=ts&play_token=Y03rpkUlFR
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6h5ZSWmEWH7UqKXQ4D9yFKOBQyPKj4gQLig&usqp=CAU" group-title="VIP SPORT", PEACOCK 5
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1032452&extension=ts&play_token=Y03rpkUlFR
 
+#EXTINF:-1 tvg-logo="______" group-title="VIP SPORT", PEACOCK 1
+http://live.watsits.art:80/play/live.php?mac=00:1A:79:C7:1E:07&stream=303901_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="VIP SPORT", PEACOCK 2
+http://live.watsits.art:80/play/live.php?mac=00:1A:79:C7:1E:07&stream=303900_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="VIP SPORT", PEACOCK 3
+http://live.watsits.art:80/play/live.php?mac=00:1A:79:C7:1E:07&stream=303899_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="VIP SPORT", PEACOCK 4
+http://live.watsits.art:80/play/live.php?mac=00:1A:79:C7:1E:07&stream=303898_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="VIP SPORT", PEACOCK 5
+http://live.watsits.art:80/play/live.php?mac=00:1A:79:C7:1E:07&stream=303897_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="VIP SPORT", PEACOCK 6
+http://live.watsits.art:80/play/live.php?mac=00:1A:79:C7:1E:07&stream=303896_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="VIP SPORT", PEACOCK 7
+http://live.watsits.art:80/play/live.php?mac=00:1A:79:C7:1E:07&stream=303895_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="VIP SPORT", PEACOCK 8
+http://live.watsits.art:80/play/live.php?mac=00:1A:79:C7:1E:07&stream=303894_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="VIP SPORT", PEACOCK 9
+http://live.watsits.art:80/play/live.php?mac=00:1A:79:C7:1E:07&stream=303893_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="VIP SPORT", PEACOCK 10
+http://live.watsits.art:80/play/live.php?mac=00:1A:79:C7:1E:07&stream=303892_&extension=ts
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png" group-title="VIP SPORT", HUB SPORT PREMIER 1
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:00:20:4B&stream=1032529&extension=ts&play_token=pHXIZj0LWC
