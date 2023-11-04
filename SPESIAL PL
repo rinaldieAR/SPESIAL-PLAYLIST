@@ -14238,36 +14238,26 @@ http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/8
 
 
 
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Apple-TV-Logo-2019-present.png" group-title="OD APPLE TV", APPLE FILM 1
-http://solestar.ddns.me:81/play/live.php?mac=00:1A:79:12:34:5A&stream=1601495_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Apple-TV-Logo-2019-present.png" group-title="OD APPLE TV", APPLE FILM 2
-http://solestar.ddns.me:81/play/live.php?mac=00:1A:79:12:34:5A&stream=1601494_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Apple-TV-Logo-2019-present.png" group-title="OD APPLE TV", APPLE FILM 3
-http://solestar.ddns.me:81/play/live.php?mac=00:1A:79:12:34:5A&stream=1601493_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Apple-TV-Logo-2019-present.png" group-title="OD APPLE TV", APPLE FILM 4
-http://solestar.ddns.me:81/play/live.php?mac=00:1A:79:12:34:5A&stream=1601492_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Apple-TV-Logo-2019-present.png" group-title="OD APPLE TV", APPLE FILM 5
-http://solestar.ddns.me:81/play/live.php?mac=00:1A:79:12:34:5A&stream=1601491_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Apple-TV-Logo-2019-present.png" group-title="OD APPLE TV", APPLE FILM 6
-http://solestar.ddns.me:81/play/live.php?mac=00:1A:79:12:34:5A&stream=1601490_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Apple-TV-Logo-2019-present.png" group-title="OD APPLE TV", APPLE FILM 7
-http://solestar.ddns.me:81/play/live.php?mac=00:1A:79:12:34:5A&stream=1601489_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Apple-TV-Logo-2019-present.png" group-title="OD APPLE TV", APPLE FILM 8
-http://solestar.ddns.me:81/play/live.php?mac=00:1A:79:12:34:5A&stream=1601488_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Apple-TV-Logo-2019-present.png" group-title="OD APPLE TV", APPLE FILM 9
-http://solestar.ddns.me:81/play/live.php?mac=00:1A:79:12:34:5A&stream=1601487_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Apple-TV-Logo-2019-present.png" group-title="OD APPLE TV", APPLE FILM 10
-http://solestar.ddns.me:81/play/live.php?mac=00:1A:79:12:34:5A&stream=1601486_&extension=ts
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7UL2NGHZ-Mo6IdEHxMc3fsgBy8dX1Ac-iaQ&usqp=CAU" group-title="OD NATGEO", NATGEO FILM 1
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=1337314&extension=ts&play_token=Gh2iKCWrje
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7UL2NGHZ-Mo6IdEHxMc3fsgBy8dX1Ac-iaQ&usqp=CAU" group-title="OD NATGEO", NATGEO FILM 2
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=1337313&extension=ts&play_token=u5hydcWBSu
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7UL2NGHZ-Mo6IdEHxMc3fsgBy8dX1Ac-iaQ&usqp=CAU" group-title="OD NATGEO", NATGEO FILM 3
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=1337312&extension=ts&play_token=u5hydcWBSu
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7UL2NGHZ-Mo6IdEHxMc3fsgBy8dX1Ac-iaQ&usqp=CAU" group-title="OD NATGEO", NATGEO FILM 4
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=1337311&extension=ts&play_token=u5hydcWBSu
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7UL2NGHZ-Mo6IdEHxMc3fsgBy8dX1Ac-iaQ&usqp=CAU" group-title="OD NATGEO", NATGEO FILM 5
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=1337310&extension=ts&play_token=u5hydcWBSu
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7UL2NGHZ-Mo6IdEHxMc3fsgBy8dX1Ac-iaQ&usqp=CAU" group-title="OD NATGEO", NATGEO FILM 6
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=1337309&extension=ts&play_token=u5hydcWBSu
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7UL2NGHZ-Mo6IdEHxMc3fsgBy8dX1Ac-iaQ&usqp=CAU" group-title="OD NATGEO", NATGEO FILM 7
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=1337308&extension=ts&play_token=u5hydcWBSu
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7UL2NGHZ-Mo6IdEHxMc3fsgBy8dX1Ac-iaQ&usqp=CAU" group-title="OD NATGEO", NATGEO FILM 8
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=1337307&extension=ts&play_token=u5hydcWBSu
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7UL2NGHZ-Mo6IdEHxMc3fsgBy8dX1Ac-iaQ&usqp=CAU" group-title="OD NATGEO", NATGEO FILM 9
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=1337306&extension=ts&play_token=u5hydcWBSu
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7UL2NGHZ-Mo6IdEHxMc3fsgBy8dX1Ac-iaQ&usqp=CAU" group-title="OD NATGEO", NATGEO FILM 10
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=1337305&extension=ts&play_token=u5hydcWBSu
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE KINDER 1
 http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=994040&extension=ts&play_token=9t1VGqgnHU
