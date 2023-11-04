@@ -649,15 +649,6 @@ http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=571248&extensi
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=571247&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="____" group-title="MAC MALAYSIA", ASTRO SUPERSPORT 4
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=571246&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="_____" group-title="MAC MALAYSIA", SPOTV
-http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=704583_&extension=ts
-#EXTINF:-1 tvg-logo="_____" group-title="MAC MALAYSIA", SPOTV HD
-http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=704584_&extension=ts
-#EXTINF:-1 tvg-logo="_____" group-title="MAC MALAYSIA", SPOTV 2
-http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=704585_&extension=ts
-#EXTINF:-1 tvg-logo="_____" group-title="MAC MALAYSIA", PREMIER SPORT
-http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=704589_&extension=ts
-
 
 #EXTINF:-1 tvg-logo="____" group-title="MAC MALAYSIA", ASTRO AWANI
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=571243&extension=ts&play_token=GVZS088tcf
@@ -676,16 +667,8 @@ http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=5712426&extens
 #EXTINF:-1 tvg-logo="____" group-title="MAC MALAYSIA", AXN
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=571222&extension=ts&play_token=GVZS088tcf
 
-#EXTINF:-1 tvg-logo="_____" group-title="MAC MALAYSIA", HBO FAMILY 
-http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=40762_&extension=ts
-#EXTINF:-1 tvg-logo="_____" group-title="MAC MALAYSIA", HBO HITS
-http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=40763_&extension=ts
-#EXTINF:-1 tvg-logo="_____" group-title="MAC MALAYSIA", NICK JR
-http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=704635_&extension=ts
-#EXTINF:-1 tvg-logo="_____" group-title="MAC MALAYSIA", NICKELODEN
-http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=704634_&extension=ts
 #EXTINF:-1 tvg-logo="____" group-title="MAC MALAYSIA", CRIME INVESTIGATION
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=57122=15&extension=ts&play_token=GVZS088tcf
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=5712215&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="____" group-title="MAC MALAYSIA", CINEMAX
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=571214&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="____" group-title="MAC MALAYSIA", CTI ASIA
@@ -906,14 +889,6 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571248&ex
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571247&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="____" group-title="MAC MALAYSIA 2", ASTRO SUPERSPORT 4
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571246&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="_____" group-title="MAC MALAYSIA 2", SPOTV
-http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=704583_&extension=ts
-#EXTINF:-1 tvg-logo="_____" group-title="MAC MALAYSIA 2", SPOTV HD
-http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=704584_&extension=ts
-#EXTINF:-1 tvg-logo="_____" group-title="MAC MALAYSIA 2", SPOTV 2
-http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=704585_&extension=ts
-#EXTINF:-1 tvg-logo="_____" group-title="MAC MALAYSIA 2", PREMIER SPORT
-http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=704589_&extension=ts
 
 
 #EXTINF:-1 tvg-logo="____" group-title="MAC MALAYSIA 2", ASTRO AWANI
@@ -933,16 +908,7 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=5712426&e
 #EXTINF:-1 tvg-logo="____" group-title="MAC MALAYSIA 2", AXN
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571222&extension=ts&play_token=GVZS088tcf
 
-#EXTINF:-1 tvg-logo="_____" group-title="MAC MALAYSIA 2", HBO FAMILY 
-http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=40762_&extension=ts
-#EXTINF:-1 tvg-logo="_____" group-title="MAC MALAYSIA 2", HBO HITS
-http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=40763_&extension=ts
-#EXTINF:-1 tvg-logo="_____" group-title="MAC MALAYSIA 2", NICK JR
-http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=704635_&extension=ts
-#EXTINF:-1 tvg-logo="_____" group-title="MAC MALAYSIA 2", NICKELODEN
-http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=704634_&extension=ts
-#EXTINF:-1 tvg-logo="____" group-title="MAC MALAYSIA 2", CRIME INVESTIGATION
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=57122=15&extension=ts&play_token=GVZS088tcf
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=5712215&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="____" group-title="MAC MALAYSIA 2", CINEMAX
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571214&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="____" group-title="MAC MALAYSIA 2", CTI ASIA
@@ -977,8 +943,6 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571181&ex
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571179&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="____" group-title="MAC MALAYSIA 2", AFN
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=534440&extension=ts&play_token=GVZS088tcf
-
-
 
 
 
@@ -3906,54 +3870,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyle
 #EXTINF:-1 tvg-id="Lifetime.id" tvg-url="-----------------------l" tvg-logo="https://static.mncnow.id/images/channel/ff9ab40f/566e_r32.jpg" group-title="MNC GRUP",Lifetime
 https://nyanv-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://dariel-cubmu.astroboy.workers.dev/
-#EXTINF:-1 tvg-url="-----------------------l" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c685840ff04901846167c11f3e5f/561144495d784a92abd6e181c233ce71.jpg" group-title="MNC GRUP",Fitness TV
-https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff04901845601ffcb4364/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://dariel-cubmu.astroboy.workers.dev/
-#EXTINF:-1 tvg-url="-----------------------l" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c685840ff04901846168c0fc3e60/b7f6241a20b242b5b2360532e08c8913.jpg" group-title="MNC GRUP",Nature Vision TV
-https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff0490184560339e74365/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://dariel-cubmu.astroboy.workers.dev/
-#EXTINF:-1 tvg-url="-----------------------l" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857fe540a1018060b4163a40be/73b299fdfe2e44bba1fa0fe29d3e4d91.jpg" group-title="MNC GRUP",SuperYacht TV
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6857fe540a1018060b4163a40be/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://dariel-cubmu.astroboy.workers.dev/
-#EXTINF:-1 tvg-url="-----------------------l" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857fe540a1018060aab83c40b9/1f60c0e2a14d4a26b0316f31aad41cbf.jpg" group-title="MNC GRUP",Travel TV
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6857fe540a1018060aab83c40b9/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://dariel-cubmu.astroboy.workers.dev/
-#EXTINF:-1 tvg-url="-----------------------l" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6858262bb8001827b6c3a722be5/c57094c5b4b24827ae82a64e01841bc8.jpg" group-title="MNC GRUP",Gossip
-https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c68582449a2e01825972ddc221f2/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://dariel-cubmu.astroboy.workers.dev/
-#EXTINF:-1 tvg-url="-----------------------l" tvg-id="EatNGo.id" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be3daa5c58d6/073cb14d55e54ce58f028f2d74649f02.png" group-title="MNC GRUP",Eat N Go
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170342015d30907/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://dariel-cubmu.astroboy.workers.dev/
-#EXTINF:-1 tvg-url="-----------------------l" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c685840ff04901846165390f3e5c/0bbba8c1f15c49af9344999c3b8ac020.jpg" group-title="MNC GRUP",Joke TV
-https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff049018455fe09894361/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
@@ -3967,15 +3883,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
 #EXTINF:-1 group-title="MNC GRUP" tvg-id="Arirang" tvg-url="-----------------------l" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_351.png",Arirang
 https://nyanv-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://dariel-cubmu.astroboy.workers.dev/
-#EXTINF:-1 group-title="MNC GRUP" tvg-id="FashionTVAsia.fr" tvg-url="-----------------------l" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1280px-Fashion_TV_logo.svg.png",Fashion TV
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6857fe540a1018060ac364140ba/manifest.mpd
-
-
-
 <=============== Kids Channels =====================>
 
 #EXTINF:-1 tvg-id="CartoonNetwork" tvg-url="-----------------------l" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network" group-title="MNC GRUP",Cartoon Network
@@ -3987,34 +3894,6 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg332production/ch371/02.m3u
 #EXTINF:-1 tvg-url="-----------------------l" tvg-logo="https://e7.pngegg.com/pngimages/1009/66/png-clipart-boomerang-logo-television-channel-cartoon-logo-miscellaneous-television.png" group-title="MNC GRUP",Boomerang
 #https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d055f43ff37a5/manifest.mpd
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch372)/03.m3u8
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://dariel-cubmu.astroboy.workers.dev/
-#EXTINF:-1 tvg-url="-----------------------l" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6858262bb8001827b64d0742be1/e00b58b6aaa1455c82d8980c3f90c98c.jpg" group-title="MNC GRUP",Cartoon TV Premium
-https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://dariel-cubmu.astroboy.workers.dev/
-#EXTINF:-1 tvg-url="-----------------------l" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6858262bb8001827b65fa882be2/1aa82a2c32ca49698d23ddeec560c48c.jpg" group-title="MNC GRUP",Cartoon TV
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d144f21811dc9/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://dariel-cubmu.astroboy.workers.dev/
-#EXTINF:-1 tvg-url="-----------------------l" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c685840ff04901846166f4d93e5e/8e60b38dbec04327b6a595877c1e94b3.jpg" group-title="MNC GRUP",Cartoon TV Classics
-https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff0490184560100c34363/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://dariel-cubmu.astroboy.workers.dev/
-#EXTINF:-1 tvg-url="-----------------------l" tvg-id="DuniaAnak.id" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be1f09275720/cdf3a2185da14403a42ca58f74f261c0.png" group-title="MNC GRUP",Dunia Anak
-https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
@@ -4081,28 +3960,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="BeSmart.id" tvg-url="-----------------------l" tvg-logo="https://static.mncnow.id/images/channel/5f12df59/dfe3_r32.jpg" group-title="MNC GRUP",BeSmart
 #https://nyanv-live-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://dariel-cubmu.astroboy.workers.dev/
-#EXTINF:-1 tvg-id="DuniaAnak.id" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f4/Dunia_Anak_Transvision.png" group-title="MNC GRUP" tvg-url="-----------------------l" tvg-id="" tvg-name="",Dunia Anak
-https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://dariel-cubmu.astroboy.workers.dev/
-#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/lingua.png" group-title="MNC GRUP" tvg-url="-----------------------l" tvg-id="LinguaChannel.id" tvg-name="",Lingua
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341b51bd0904/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://dariel-cubmu.astroboy.workers.dev/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/Logo_ECTV_DSh.png" group-title="MNC GRUP" tvg-url="-----------------------l" tvg-id="" tvg-name="",English Club TV
-https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff049018455f484ca435e/manifest.mpd
-
 <======================= Music ==========================>
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -4110,13 +3967,6 @@ https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff049018455f48
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="MusicTV.id" tvg-url="-----------------------l" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_111.png" group-title="MNC GRUP",Music TV
 https://nyanv-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://dariel-cubmu.astroboy.workers.dev/
-#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/musik_indo.png" group-title="MNC GRUP" tvg-url="-----------------------l" tvg-id="" tvg-name="",Musik Indonesia
-https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c685730a4243017317dee5df1572/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
@@ -4129,28 +3979,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="MTV90s" tvg-url="-----------------------l" tvg-logo="https://static.mncnow.id/images/channel/a8d4099d/7ed4_r32.jpg" group-title="MNC GRUP",MTV 90's
 https://nyanv-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://dariel-cubmu.astroboy.workers.dev/
-#EXTINF:-1 tvg-url="-----------------------l" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6858262bb8001827b6deaeb2be6/aeaefeb9436e43fd96fad4bc19fe6187.jpg" group-title="MNC GRUP",Clubbing TV
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856fd0d66d017032d0246a7f90/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://dariel-cubmu.astroboy.workers.dev/
-#EXTINF:-1 tvg-url="-----------------------l" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c685758bcfff0175de4453980cf5/ab7212269b0a4780be13f498fd269bfa.png" group-title="MNC GRUP",Nusantara
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c685758bcfff0175ab9d2b374926/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://dariel-cubmu.astroboy.workers.dev/
-#EXTINF:-1 tvg-url="-----------------------l" tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c685840ff0490184616d5ba53e65/6f255a28dad9438393d033696d4be336.jpg" group-title="MNC GRUP",Song TV
-https://cdnjkt2.transvision.co.id:1001/live/master/100/4028c685840ff0490184560acf62436a/manifest.mpd
-
 
 <====================== News ========================>
 
@@ -4175,20 +4003,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
 
 #EXTINF:-1 group-title="MNC GRUP" tvg-id="" tvg-url="-----------------------l" tvg-logo="https://thumbor.prod.vidiocdn.com/A9PXp2pjYWnd8NZ0oQbwniC31So=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8815/metro-globe-network-1ab3f1.jpg",Metro Globe Network
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://dariel-cubmu.astroboy.workers.dev/
-#EXTINF:-1 tvg-url="-----------------------l" group-title="MNC GRUP" tvg-logo="https://cdn.cnbcindonesia.com/cnbc/images/logo.png?v=5.6.23" tvg-id="CNBCIndonesia.id" tvg-url=”https://tinyurl.com/jejevisionepg2”,CNBC INDONESIA
-https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c68565fa79ce01665868040a343f/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://dariel-cubmu.astroboy.workers.dev/
-#EXTINF:-1 group-title="MNC GRUP" tvg-logo="https://3.bp.blogspot.com/-uofM2vEet-0/XE8wsXFAudI/AAAAAAAAGqU/zOlv9fcbBDsS-9PXZ4se5N-hRbIsgSd4QCK4BGAYYCw/s1600/CNN%2BIndonesia%2BLogo%2B%255Bwww.blogovector.com%255D.png" tvg-url="-----------------------l" tvg-id=”CNNIndonesia",CNN INDONESIA
-https://cdnjkt2.transvision.co.id:1001/live/master/5/4028c685651d7bcc01651f0e4ce10098/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
@@ -4244,12 +4058,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd
 #EXTINF:-1 tvg-name="" tvg-id="BBCNews.id" tvg-url="-----------------------l" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_332.jpg" group-title="MNC GRUP",BBC World
 https://nyanv-live-cdn.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://dariel-cubmu.astroboy.workers.dev/
-#EXTINF:-1 group-title="MNC GRUP" tvg-id="CNN" tvg-url="-----------------------l" tvg-logo="https://www.mncvision.id/userfiles/image/channel/cnn_new.jpg",CNN International 
-https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016d063630b46d1c/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
@@ -4293,13 +4101,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd
 #EXTINF:-1 group-title="MNC GRUP" tvg-id="ABCAustralia.id" tvg-url="https://tinyurl.com/JejeEPGNew" tvg-logo="https://static.mncnow.id/images/channel/4462f88d/6981_r32.jpg" ,ABC Australia
 https://nyanv-live-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://dariel-cubmu.astroboy.workers.dev/
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/WION_news_Logo.svg/574px-WION_news_Logo.svg.png" group-title="MNC GRUP" tvg-url="-----------------------l" tvg-id="" tvg-name="",WION
-https://cdnjkt2.transvision.co.id:1001/live/master/2/4028c68572841ba301729d434e393c21/manifest.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -4316,13 +4117,6 @@ http://edge.linknetott.swiftserve.com/channelgroup4/cg427production/ch258/03.m3u
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-url="-----------------------l" group-title="MNC GRUP" tvg-id="Reformed21.id" tvg-logo="https://static.mncnow.id/images/channel/1631ac69/2884_r32.jpg",Reformed 21
 https://nyanv-live-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://dariel-cubmu.astroboy.workers.dev/
-#EXTINF:-1 tvg-logo="https://pijar.tv/wp-content/uploads/2017/10/LOGO-PIJAR-TV-WARNA-e1509096043319.png" group-title="MNC GRUP" tvg-url="-----------------------l" tvg-id="" tvg-name="",Pijar TV
-https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c685730a4243017321f355172d0c/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
@@ -4686,195 +4480,6 @@ http://45.64.97.211:1031/;stream.nsv
 http://live.serverstreaming.net:9340/kisifm
 #EXTINF:-1  tvg-id="" tvg-url="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Smooth_fm_jkt.png/" group-title="MNC GRUP",KISI FM Bogor
 https://svara-stream.radioddns.net:8443/jakarta_smoothfm_mp3
-
-
-#######################
-KOP ID & MY ##########
-#################################################################################################################################################################################
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="NASIONAL DIGITAL", ###NASIONAL DIGITAL###
-https://github.com/inaldie/inaldie/raw/main/LOGO.ts
-#EXTINF:-1 group-title="NASIONAL DIGITAL", MYTV Net
-http://tvkuonline.my.id:25461/riyad/riyad/1
-#EXTINF:-1 group-title="NASIONAL DIGITAL", MYTV 2
-http://tvkuonline.my.id:25461/riyad/riyad/2
-#EXTINF:-1 group-title="NASIONAL DIGITAL", MYTV 3
-http://tvkuonline.my.id:25461/riyad/riyad/3
-#EXTINF:-1 group-title="NASIONAL DIGITAL", MYTV 4
-http://tvkuonline.my.id:25461/riyad/riyad/4
-#EXTINF:-1 group-title="NASIONAL DIGITAL", MYTV 5
-http://tvkuonline.my.id:25461/riyad/riyad/5
-#EXTINF:-1 group-title="NASIONAL DIGITAL", MYTV 6
-http://tvkuonline.my.id:25461/riyad/riyad/6
-#EXTINF:-1 group-title="NASIONAL DIGITAL", MYTV 7 Live Events
-http://tvkuonline.my.id:25461/riyad/riyad/7
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Jowo Channel
-http://tvkuonline.my.id:25461/riyad/riyad/421
-#EXTINF:-1 group-title="NASIONAL DIGITAL", RCTI
-http://tvkuonline.my.id:25461/riyad/riyad/8
-#EXTINF:-1 group-title="NASIONAL DIGITAL", MNCTV
-http://tvkuonline.my.id:25461/riyad/riyad/9
-#EXTINF:-1 group-title="NASIONAL DIGITAL", TV ONE
-http://tvkuonline.my.id:25461/riyad/riyad/10
-#EXTINF:-1 group-title="NASIONAL DIGITAL", GTV
-http://tvkuonline.my.id:25461/riyad/riyad/11
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/METRO.png" group-title="NASIONAL DIGITAL", METROTV HD
-http://tvkuonline.my.id:25461/riyad/riyad/12
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/TRANS.png" group-title="NASIONAL DIGITAL", TRANSTV HD
-http://tvkuonline.my.id:25461/riyad/riyad/13
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Indosiar
-http://tvkuonline.my.id:25461/riyad/riyad/14
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/TRANS%207.png" group-title="NASIONAL DIGITAL",TRANS7 HD
-http://tvkuonline.my.id:25461/riyad/riyad/15
-#EXTINF:-1 group-title="NASIONAL DIGITAL", SCTV
-http://tvkuonline.my.id:25461/riyad/riyad/16
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/ANTV.png" group-title="NASIONAL DIGITAL", ANTV HD
-http://tvkuonline.my.id:25461/riyad/riyad/17
-#EXTINF:-1 group-title="NASIONAL DIGITAL", NET.
-http://tvkuonline.my.id:25461/riyad/riyad/18
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/KOMPAS.png" group-title="NASIONAL DIGITAL", KOMPASTV HD
-http://tvkuonline.my.id:25461/riyad/riyad/19
-#EXTINF:-1 group-title="NASIONAL DIGITAL", RTV
-http://tvkuonline.my.id:25461/riyad/riyad/21
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Mentari TV
-http://tvkuonline.my.id:25461/riyad/riyad/23
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/MOJI.png" group-title="NASIONAL DIGITAL", MOJI HD
-http://tvkuonline.my.id:25461/riyad/riyad/24
-#EXTINF:-1 group-title="NASIONAL DIGITAL", INEWS
-http://tvkuonline.my.id:25461/riyad/riyad/22
-#EXTINF:-1 group-title="NASIONAL DIGITAL", CNN Indonesia
-http://tvkuonline.my.id:25461/riyad/riyad/25
-#EXTINF:-1 group-title="NASIONAL DIGITAL", CNBC Indonesia
-http://tvkuonline.my.id:25461/riyad/riyad/27
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Berita Satu
-http://tvkuonline.my.id:25461/riyad/riyad/28
-#EXTINF:-1 group-title="NASIONAL DIGITAL", TVRI Nasional
-http://tvkuonline.my.id:25461/riyad/riyad/439
-#EXTINF:-1 group-title="NASIONAL DIGITAL", JTV
-http://tvkuonline.my.id:25461/riyad/riyad/45
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Bali TV
-http://tvkuonline.my.id:25461/riyad/riyad/432
-#EXTINF:-1 group-title="NASIONAL DIGITAL", NTV
-http://tvkuonline.my.id:25461/riyad/riyad/72
-#EXTINF:-1 group-title="NASIONAL DIGITAL", SPOTV
-http://tvkuonline.my.id:25461/riyad/riyad/422
-#EXTINF:-1 group-title="NASIONAL DIGITAL", SPOTV 2
-http://tvkuonline.my.id:25461/riyad/riyad/423
-#EXTINF:-1 group-title="NASIONAL DIGITAL", MUTV
-http://tvkuonline.my.id:25461/riyad/riyad/48
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Real Madrid TV
-http://tvkuonline.my.id:25461/riyad/riyad/408
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Bein Sports 1 HD
-http://tvkuonline.my.id:25461/riyad/riyad/416
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Bein Sports 3 HD
-http://tvkuonline.my.id:25461/riyad/riyad/417
-#EXTINF:-1 group-title="NASIONAL DIGITAL", FoxSport HD
-http://tvkuonline.my.id:25461/riyad/riyad/418
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Usee Sports 1
-http://tvkuonline.my.id:25461/riyad/riyad/419
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Usee Sports 2
-http://tvkuonline.my.id:25461/riyad/riyad/420
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Fight Sport HD
-http://tvkuonline.my.id:25461/riyad/riyad/446
-#EXTINF:-1 group-title="NASIONAL DIGITAL", NBA TV
-http://tvkuonline.my.id:25461/riyad/riyad/447
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Sports TV
-http://tvkuonline.my.id:25461/riyad/riyad/406
-#EXTINF:-1 group-title="NASIONAL DIGITAL", HBO HD
-http://tvkuonline.my.id:25461/riyad/riyad/412
-#EXTINF:-1 group-title="NASIONAL DIGITAL", HBO Hits
-http://tvkuonline.my.id:25461/riyad/riyad/413
-#EXTINF:-1 group-title="NASIONAL DIGITAL", HBO Signature HD
-http://tvkuonline.my.id:25461/riyad/riyad/414
-#EXTINF:-1 group-title="NASIONAL DIGITAL", HBO Family HD
-http://tvkuonline.my.id:25461/riyad/riyad/415
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Cinemax
-http://tvkuonline.my.id:25461/riyad/riyad/424
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Galaxy HD
-http://tvkuonline.my.id:25461/riyad/riyad/448
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Galaxy Movies Premium
-http://tvkuonline.my.id:25461/riyad/riyad/449
-#EXTINF:-1 group-title="NASIONAL DIGITAL", AXN HD
-http://tvkuonline.my.id:25461/riyad/riyad/444
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Cinema World
-http://tvkuonline.my.id:25461/riyad/riyad/401
-#EXTINF:-1 group-title="NASIONAL DIGITAL", My Cinema Europe
-http://tvkuonline.my.id:25461/riyad/riyad/372
-#EXTINF:-1 group-title="NASIONAL DIGITAL", K+
-http://tvkuonline.my.id:25461/riyad/riyad/391
-#EXTINF:-1 group-title="NASIONAL DIGITAL", TVN
-http://tvkuonline.my.id:25461/riyad/riyad/392
-#EXTINF:-1 group-title="NASIONAL DIGITAL", TVN Movies
-http://tvkuonline.my.id:25461/riyad/riyad/393
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Celestial Movies
-http://tvkuonline.my.id:25461/riyad/riyad/394
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Celestial Classic Movies
-http://tvkuonline.my.id:25461/riyad/riyad/396
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Thrill
-http://tvkuonline.my.id:25461/riyad/riyad/398
-#EXTINF:-1 group-title="NASIONAL DIGITAL", HITS
-http://tvkuonline.my.id:25461/riyad/riyad/400
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Paramount Network
-http://tvkuonline.my.id:25461/riyad/riyad/442
-#EXTINF:-1 group-title="NASIONAL DIGITAL", FLiK
-http://tvkuonline.my.id:25461/riyad/riyad/434
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Citra Drama
-http://tvkuonline.my.id:25461/riyad/riyad/427
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Bioskop Indonesia
-http://tvkuonline.my.id:25461/riyad/riyad/433
-#EXTINF:-1 group-title="NASIONAL DIGITAL", KIX
-http://tvkuonline.my.id:25461/riyad/riyad/402
-#EXTINF:-1 group-title="NASIONAL DIGITAL", My Cinema
-http://tvkuonline.my.id:25461/riyad/riyad/443
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Rock Action
-http://tvkuonline.my.id:25461/riyad/riyad/403
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Rock Entertainment
-http://tvkuonline.my.id:25461/riyad/riyad/404
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Dunia Lain
-http://tvkuonline.my.id:25461/riyad/riyad/435
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Zoo Moo Asia
-http://tvkuonline.my.id:25461/riyad/riyad/407
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Aniplus Asia
-http://tvkuonline.my.id:25461/riyad/riyad/395
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Indi Kids
-http://tvkuonline.my.id:25461/riyad/riyad/440
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Cartoon Network
-http://tvkuonline.my.id:25461/riyad/riyad/425
-#EXTINF:-1 group-title="NASIONAL DIGITAL", DreamWorks HD
-http://tvkuonline.my.id:25461/riyad/riyad/441
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Nick Jr
-http://tvkuonline.my.id:25461/riyad/riyad/426
-#EXTINF:-1 group-title="NASIONAL DIGITAL", National Geograpic
-http://tvkuonline.my.id:25461/riyad/riyad/428
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Nat Geo Wild
-http://tvkuonline.my.id:25461/riyad/riyad/429
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Tech Storm
-http://tvkuonline.my.id:25461/riyad/riyad/445
-#EXTINF:-1 group-title="NASIONAL DIGITAL", AFN
-http://tvkuonline.my.id:25461/riyad/riyad/450
-#EXTINF:-1 group-title="NASIONAL DIGITAL", HGTV
-http://tvkuonline.my.id:25461/riyad/riyad/452
-#EXTINF:-1 group-title="NASIONAL DIGITAL", History Channel
-http://tvkuonline.my.id:25461/riyad/riyad/430
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Smithsonian Channel
-http://tvkuonline.my.id:25461/riyad/riyad/387
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Sony GEM
-http://tvkuonline.my.id:25461/riyad/riyad/451
-#EXTINF:-1 group-title="NASIONAL DIGITAL", MTA TV
-http://tvkuonline.my.id:25461/riyad/riyad/411
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Makkah TV
-http://tvkuonline.my.id:25461/riyad/riyad/71
-#EXTINF:-1 group-title="NASIONAL DIGITAL", U Channel
-http://tvkuonline.my.id:25461/riyad/riyad/431
-#EXTINF:-1 group-title="NASIONAL DIGITAL", TVMU
-http://tvkuonline.my.id:25461/riyad/riyad/436
-#EXTINF:-1 group-title="NASIONAL DIGITAL", TV9 Nusantara
-http://tvkuonline.my.id:25461/riyad/riyad/437
-#EXTINF:-1 group-title="NASIONAL DIGITAL", Rodja TV
-http://tvkuonline.my.id:25461/riyad/riyad/438
-#EXTINF:-1 group-title="NASIONAL DIGITAL", TV MUI
-http://tvkuonline.my.id:25461/riyad/riyad/410
-
 
 
 #######################
@@ -7760,26 +7365,22 @@ http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=704579_&extensio
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="ASIA SPORT", ARENA BOLA 2
 http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=704580_&extension=ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="ASIA SPORT", ASTRO ARENA
-http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=704581_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="ASIA SPORT", ASTRO ARENA 2
-http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=704582_&extension=ts
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASIA SPORT", ASTRO SUPERSPORT 1 BK
-http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115615_&extension=ts
+http://solestar.ddns.me:81/play/live.php?mac=00:1A:79:12:34:5A&stream=38186_&extension=ts
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="ASIA SPORT", ASTRO SUPERSPORT 2 BK
-http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115616_&extension=ts
+http://solestar.ddns.me:81/play/live.php?mac=00:1A:79:12:34:5A&stream=38187_&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6hyQfCsG2uj55y1lfQkHLo5SeTvsJEr4j6nCVwUnioe5X2MlOaRK-ijrS2KmXh0GDubc&usqp=CAU" group-title="ASIA SPORT", ASTRO SUPERSPORT 3 BK
-http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115617_&extension=ts
+http://solestar.ddns.me:81/play/live.php?mac=00:1A:79:12:34:5A&stream=38189_&extension=ts
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="ASIA SPORT", ASTRO SUPERSPORT 4 BK
-http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115618_&extension=ts
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Astro_SuperSport_UHD.png/revision/latest?cb=20220415221642" group-title="ASIA SPORT", ASTRO SUPERSPORT 1 UHD
-http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=348095_&extension=ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="ASIA SPORT", ASTRO CRICKET BK
-http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115614_&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQipmZeJaO5X50CB4A1hLmR3uZPXTZrNaihZg&usqp=CAU" group-title="ASIA SPORT", ASTRO GOLF
-http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115703_&extension=ts
+http://solestar.ddns.me:81/play/live.php?mac=00:1A:79:12:34:5A&stream=38191_&extension=ts
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Astro_SuperSport_UHD.png/revision/latest?cb=20220415221642" group-title="ASIA SPORT", ASTRO SUPERSPORT 5 BK
+http://solestar.ddns.me:81/play/live.php?mac=00:1A:79:12:34:5A&stream=1117031_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2dcE3mjJNK1PXvA6dyegcuadQrjtNZjxKwg&usqp=CAU" group-title="ASIA SPORT", BEIN SPORTS 1 MY
+http://solestar.ddns.me:81/play/live.php?mac=00:1A:79:12:34:5A&stream=38196_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2dcE3mjJNK1PXvA6dyegcuadQrjtNZjxKwg&usqp=CAU" group-title="ASIA SPORT", BEIN SPORTS 2 MY
+http://solestar.ddns.me:81/play/live.php?mac=00:1A:79:12:34:5A&stream=38198_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2dcE3mjJNK1PXvA6dyegcuadQrjtNZjxKwg&usqp=CAU" group-title="ASIA SPORT", BEIN SPORTS 3 MY
+http://solestar.ddns.me:81/play/live.php?mac=00:1A:79:12:34:5A&stream=1117032_&extension=ts
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/HUB%201.png" group-title="ASIA SPORT", HUB SPORT 1 HU
@@ -7924,9 +7525,6 @@ http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115500_&extensio
 https://ctrl.laotv.la/live/Bsport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSxSmaCkSbJqWAIDq5p2qUlH9vwzZGtJPEyg&usqp=CAU" group-title="ASIA SPORT", BEIN SPORTS 2 TH
 https://ctrl.laotv.la/live/Bsport2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2dcE3mjJNK1PXvA6dyegcuadQrjtNZjxKwg&usqp=CAU" group-title="ASIA SPORT", BEIN SPORTS 3 TH
-http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115601_&extension=ts
 
 #EXTINF:-1 tvg-logo="____" group-title="ASIA SPORT", NBA TV TH
 http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=115738_&extension=ts
