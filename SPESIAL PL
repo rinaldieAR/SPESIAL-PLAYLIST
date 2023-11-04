@@ -7462,14 +7462,19 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=1327366&e
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6e-WPbwXmOPuPk3hUUS6GhnET5NpcpAtaig&usqp=CAU" group-title="ASIA SPORT", STAR SPORT 3
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=155976&extension=ts&play_token=BicPkTPyRr
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmHauy6pGcg2tUXirgK_7HroS0-I6RqjyFeA&usqp=CAU" group-title="ASIA SPORT", STAR SPORT SELECT 1
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=1114583extension=ts&play_token=GVZS088tcf
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=282675&extension=ts&play_token=bzczrmNhQT
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdCYnAbUMdNdXADJNi7AYkoJURGvIh5AXYVg&usqp=CAU" group-title="ASIA SPORT", STAR SPORT SELECT 2
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=1114584&extension=ts&play_token=GVZS088tcf
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=282676&extension=ts&play_token=8jRlJJyiSw
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw7oODkwDTvMMXEEJU7wXcsI8h1ZJARNJ2Hw&usqp=CAU" group-title="ASIA SPORT", STAR SPORT 1 BK
-http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=7892_&extension=ts&play_token=W0JcMWGscf
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=155968&extension=ts&play_token=LaJSPhmyx7
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ51qv6jcXrkmPJuK-IolWWogc8Qf65hfvGdw&usqp=CAU" group-title="ASIA SPORT", STAR SPORT 2 BK
-http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=7893_&extension=ts&play_token=W0JcMWGscf
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=282673&extension=ts&play_token=Syi5bVLCB9
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ51qv6jcXrkmPJuK-IolWWogc8Qf65hfvGdw&usqp=CAU" group-title="ASIA SPORT", STAR SPORT 3 BK
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=282678&extension=ts&play_token=3FSLv1gmNg
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw7oODkwDTvMMXEEJU7wXcsI8h1ZJARNJ2Hw&usqp=CAU" group-title="ASIA SPORT", STAR SPORT 1 hls
 http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png/revision/latest/scale-to-width-down/460?cb=20221025083646" group-title="ASIA SPORT", SONY TEN SPORT 1
