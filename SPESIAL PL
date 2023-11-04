@@ -4488,854 +4488,567 @@ ASEAN TV  ###########
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ###ASEAN TV###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
-#EXTM3U
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ------|Indonesia|------
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60289
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID001:BEIN SPORT 3 HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60464
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID002:ISLAM CHANNEL
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60409
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", 352 Astro AOD
+https://iptv.skuy.co.id/live/bebas/nikmatin/177732.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID003:CNBC
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60475
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", 354 Astro AOD
+https://iptv.skuy.co.id/live/bebas/nikmatin/177728.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID004:CNN
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60407
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ABC Australia
+https://iptv.skuy.co.id/live/bebas/nikmatin/54416.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID005:BERITA SATU WORLD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60408
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ADI TV
+https://iptv.skuy.co.id/live/bebas/nikmatin/132934.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID006:BERITA SATU
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60476
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Al Jazeera
+https://iptv.skuy.co.id/live/bebas/nikmatin/52878.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID007:TVKU
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60477
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Anhui TV
+https://iptv.skuy.co.id/live/bebas/nikmatin/133798.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID008:MNC SPORTS 3 HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60411
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Animal Planet
+https://iptv.skuy.co.id/live/bebas/nikmatin/77.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID009:Movie Channels HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60410
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Animax
+https://iptv.skuy.co.id/live/bebas/nikmatin/47.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID010:MNC NEWS HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60285
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Aniplus
+https://iptv.skuy.co.id/live/bebas/nikmatin/177748.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID011:MOVIE CHANNELS HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60286
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ANTV
+https://iptv.skuy.co.id/live/bebas/nikmatin/9.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID012:RCTI HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60479
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Arirang
+https://iptv.skuy.co.id/live/bebas/nikmatin/52014.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID013:SOCCER CHANNEL HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60480
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Asia Food Network
+https://iptv.skuy.co.id/live/bebas/nikmatin/94.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID014:MNC SPORTS 2 HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60459
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Astro Aura
+https://iptv.skuy.co.id/live/bebas/nikmatin/177734.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID015:MNC SPORTS HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60357
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Astro Boo
+https://iptv.skuy.co.id/live/bebas/nikmatin/177727.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID016:GALAXY PREMIUM HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60374
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Astro Ceria
+https://iptv.skuy.co.id/live/bebas/nikmatin/177726.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID017:GALAXY HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60375
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Astro Citra
+https://iptv.skuy.co.id/live/bebas/nikmatin/177749.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID018:ASIAN FOOD NETWORK HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60376
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Astro Colors
+https://iptv.skuy.co.id/live/bebas/nikmatin/177743.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID019:NICKJR HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60481
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Astro Cricket
+https://iptv.skuy.co.id/live/bebas/nikmatin/177729.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID020:SPOTV 2 HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60482
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Astro Hua Hee Dai
+https://iptv.skuy.co.id/live/bebas/nikmatin/177733.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID021:SPOTV HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60448
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Astro iQiyi
+https://iptv.skuy.co.id/live/bebas/nikmatin/177740.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID022:SEA CHANNEL
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60449
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Astro Oasis
+https://iptv.skuy.co.id/live/bebas/nikmatin/177738.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID023:NHK WORLD JAPAN
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60450
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Astro Premier
+https://iptv.skuy.co.id/live/bebas/nikmatin/177731.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID024:ARIRANG KOREA
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60451
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Astro Rania
+https://iptv.skuy.co.id/live/bebas/nikmatin/177735.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID025:CELESTIAL MOVIES
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60471
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", AXN
+https://iptv.skuy.co.id/live/bebas/nikmatin/38.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID026:SCM
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60472
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Baby TV
+https://iptv.skuy.co.id/live/bebas/nikmatin/87701.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID027:FOX NEWS
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60483
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Badar TV
+https://iptv.skuy.co.id/live/bebas/nikmatin/132890.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID028:HISTORY
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60473
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", BBC Earth
+https://iptv.skuy.co.id/live/bebas/nikmatin/87698.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID029:NAT GEO WILD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60474
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", BBC World News
+https://iptv.skuy.co.id/live/bebas/nikmatin/93.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID030:SONY ONE
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60458
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", beIN Sports 1
+https://iptv.skuy.co.id/live/bebas/nikmatin/25.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID031:ANIMAX
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60456
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", beIN Sports 3
+https://iptv.skuy.co.id/live/bebas/nikmatin/26.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID032:AXN
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60457
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Berita Satu
+https://iptv.skuy.co.id/live/bebas/nikmatin/17.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID033:LIFETIME
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60466
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Bloomberg
+https://iptv.skuy.co.id/live/bebas/nikmatin/51989.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID034:NEWS ASIA CHANNEL
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60403
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", BN Channel
+https://iptv.skuy.co.id/live/bebas/nikmatin/133792.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID035:CRIME INVESTIGATION
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60404
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Boomerang
+https://iptv.skuy.co.id/live/bebas/nikmatin/127844.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID036:FMN
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60465
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Cartoon Network
+https://iptv.skuy.co.id/live/bebas/nikmatin/81.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID037:NAT GEO
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60461
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", CBeeBies
+https://iptv.skuy.co.id/live/bebas/nikmatin/127843.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID038:NICKELODEON
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60344
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Celestial Classic Movies
+https://iptv.skuy.co.id/live/bebas/nikmatin/90006.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID039:TV5 MONDE ASIA
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60351
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Celestial Movies
+https://iptv.skuy.co.id/live/bebas/nikmatin/21.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID040:BABY TV
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60349
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", CGTN
+https://iptv.skuy.co.id/live/bebas/nikmatin/129393.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID041:FIGHT SPORTS
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60350
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Channel 8
+https://iptv.skuy.co.id/live/bebas/nikmatin/133840.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID042:DISNEY XD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60348
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Channel News Asia
+https://iptv.skuy.co.id/live/bebas/nikmatin/117976.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID043:MIAOMI
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60347
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Channel U
+https://iptv.skuy.co.id/live/bebas/nikmatin/133839.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID044:CGTN
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60342
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Cinema World
+https://iptv.skuy.co.id/live/bebas/nikmatin/49.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID045:BANDUNG TV
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60343
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Cinemax
+https://iptv.skuy.co.id/live/bebas/nikmatin/16851.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID046:TAWAF TV
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60346
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Citra Bioskop
+https://iptv.skuy.co.id/live/bebas/nikmatin/143883.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID047:LIFESTYLE FASHION
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60345
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Citra Dangdut
+https://iptv.skuy.co.id/live/bebas/nikmatin/143891.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID048:OK TV
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60484
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Citra Drama
+https://iptv.skuy.co.id/live/bebas/nikmatin/143886.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID049:KIDS TV
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60462
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Citra Entertainment
+https://iptv.skuy.co.id/live/bebas/nikmatin/143887.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID050:DW
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60463
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ABC Australia
+https://iptv.skuy.co.id/live/bebas/nikmatin/54416.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID051:FRANCE24
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60367
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", CNBC Asia
+https://iptv.skuy.co.id/live/bebas/nikmatin/88903.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID052:AL JAZEERA ENGLISH
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60454
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", CNBC Indonesia
+https://iptv.skuy.co.id/live/bebas/nikmatin/13.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID053:HITS
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60455
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", CNN Indonesia
+https://iptv.skuy.co.id/live/bebas/nikmatin/15.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID054:MUSIC TV
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60439
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", CNN International
+https://iptv.skuy.co.id/live/bebas/nikmatin/55999.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID055:BBC CBEEBIES
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60287
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Crime & Investigation
+https://iptv.skuy.co.id/live/bebas/nikmatin/133879.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID056:IDX
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60288
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", CTI Asia
+https://iptv.skuy.co.id/live/bebas/nikmatin/177744.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID057:MNC INFOTAINMENT
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60276
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Dazn 1
+https://iptv.skuy.co.id/live/bebas/nikmatin/134467.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID058:LIFE
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60279
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Dazn 2
+https://iptv.skuy.co.id/live/bebas/nikmatin/134468.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID059:MUSLIM TV
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60277
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Dazn F1
+https://iptv.skuy.co.id/live/bebas/nikmatin/134466.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID060:MNC ENTERTAINMENT
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60278
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Discovery Asia
+https://iptv.skuy.co.id/live/bebas/nikmatin/90.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID061:VISION PRIME
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60280
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Discovery Channel
+https://iptv.skuy.co.id/live/bebas/nikmatin/67.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID062:MNC SHOP SMART
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60281
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", DW
+https://iptv.skuy.co.id/live/bebas/nikmatin/133806.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID063:ZEE BIOSKOP
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60282
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Euronews
+https://iptv.skuy.co.id/live/bebas/nikmatin/133807.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID064:THRILL
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60283
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Eurosport 1
+https://iptv.skuy.co.id/live/bebas/nikmatin/86870.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID065:ANTV
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60293
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Eurosport 2
+https://iptv.skuy.co.id/live/bebas/nikmatin/86871.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID066:TVN MOVIES
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60290
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", EWTN
+https://iptv.skuy.co.id/live/bebas/nikmatin/133805.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID067:INEWS
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60291
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Fashion TV
+https://iptv.skuy.co.id/live/bebas/nikmatin/72.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID068:GTV
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60292
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Fashion TV 4K
+https://iptv.skuy.co.id/live/bebas/nikmatin/133731.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ID069:MNC SHOP TRENDY
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/60284
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Fashion TV Midnight Secret
+https://iptv.skuy.co.id/live/bebas/nikmatin/73.ts
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Fight Sports
+https://iptv.skuy.co.id/live/bebas/nikmatin/90039.ts
 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", First Warriors
+https://iptv.skuy.co.id/live/bebas/nikmatin/143890.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ------|Vietnam|------
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/1872
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", FMN Channel
+https://iptv.skuy.co.id/live/bebas/nikmatin/23.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", VN001:TRA VINH HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/1871
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Fox News
+https://iptv.skuy.co.id/live/bebas/nikmatin/55816.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", VN002:VTV4 HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/1870
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", France24
+https://iptv.skuy.co.id/live/bebas/nikmatin/133808.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", VN003:KBS WORLD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/1869
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Galaxy
+https://iptv.skuy.co.id/live/bebas/nikmatin/87705.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", VN004:NHK WORLD HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/1868
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Galaxy Premium
+https://iptv.skuy.co.id/live/bebas/nikmatin/87706.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", VN005:ARIRANG
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/1867
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", GTV
+https://iptv.skuy.co.id/live/bebas/nikmatin/54418.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", VN006:DISCOVERY HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/1866
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", HBO
+https://iptv.skuy.co.id/live/bebas/nikmatin/56.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", VN007:DISCOVERY ASIA HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/1865
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", HBO Family
+https://iptv.skuy.co.id/live/bebas/nikmatin/75.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", VN008:BOOMERANG HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/1864
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", HBO Hits
+https://iptv.skuy.co.id/live/bebas/nikmatin/92.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", VN009:BABY FIRST HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/1863
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", HBO Signature
+https://iptv.skuy.co.id/live/bebas/nikmatin/28656.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", VN010:HOA BINH
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/1862
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", HGTV
+https://iptv.skuy.co.id/live/bebas/nikmatin/64.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", PH001:Knowledge
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/50129
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", History
+https://iptv.skuy.co.id/live/bebas/nikmatin/71.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", PH002:ANC | HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/50128
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", HITS
+https://iptv.skuy.co.id/live/bebas/nikmatin/43.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", PH003:CNN
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/50127
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", HITS Movies
+https://iptv.skuy.co.id/live/bebas/nikmatin/2911.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", PH004:GMA LIFE | HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/50126
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Hunan TV
+https://iptv.skuy.co.id/live/bebas/nikmatin/133799.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", PH005:GMA NEWS
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/50125
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", I Channel
+https://iptv.skuy.co.id/live/bebas/nikmatin/133849.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", PH006:GMA PINOY | HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/50124
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Indosiar
+https://iptv.skuy.co.id/live/bebas/nikmatin/8.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", PH007:Teleradio
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/50123
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", iNews
+https://iptv.skuy.co.id/live/bebas/nikmatin/129417.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", PH008:ANIMAX
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/50122
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", JawaPos TV
+https://iptv.skuy.co.id/live/bebas/nikmatin/132941.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", PH009:NHK WORLD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/50121
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Jiangsu TV
+https://iptv.skuy.co.id/live/bebas/nikmatin/133800.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", PH010:ARIRANG TV WORLD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/50120
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", JITV
+https://iptv.skuy.co.id/live/bebas/nikmatin/132961.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", PH011:Cinema One
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/50119
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", JTV
+https://iptv.skuy.co.id/live/bebas/nikmatin/130048.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", PH012:EGG
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/50118
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", K+
+https://iptv.skuy.co.id/live/bebas/nikmatin/2912.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", PH013:Kapamilya
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/50117
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", KBS World
+https://iptv.skuy.co.id/live/bebas/nikmatin/21661.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", PH014:TFC
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/50116
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Kids TV
+https://iptv.skuy.co.id/live/bebas/nikmatin/87702.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", PH015:Discovery
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/49969
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", KiX
+https://iptv.skuy.co.id/live/bebas/nikmatin/48.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", PH016:Animal Planet
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/66820
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Kompas TV
+https://iptv.skuy.co.id/live/bebas/nikmatin/14.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", PH017:EWTN
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/66821
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Lifetime
+https://iptv.skuy.co.id/live/bebas/nikmatin/16748.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", PH018:Paramount
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/66822
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Live 4K
+https://iptv.skuy.co.id/live/bebas/nikmatin/177705.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", PH019:Premier Sports
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/66823
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Love Nature
+https://iptv.skuy.co.id/live/bebas/nikmatin/52017.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", PH020:Rock
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/66824
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Magna TV
+https://iptv.skuy.co.id/live/bebas/nikmatin/129418.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", PH021:TAP Movies
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/66825
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Mentari TV
+https://iptv.skuy.co.id/live/bebas/nikmatin/132900.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", PH022:TAP TV
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/66826
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Metro TV
+https://iptv.skuy.co.id/live/bebas/nikmatin/11.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", PH023:Tap Edge
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/66827
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Miaomi
+https://iptv.skuy.co.id/live/bebas/nikmatin/21606.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", PH024:Food Network
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/66828
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Milan TV
+https://iptv.skuy.co.id/live/bebas/nikmatin/134474.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ------|Malaysia|------
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/1735
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MNC
+https://iptv.skuy.co.id/live/bebas/nikmatin/54425.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY001:TV 1
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/1734
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MNC Sport 1
+https://iptv.skuy.co.id/live/bebas/nikmatin/132876.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY002:TV 2
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/1733
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MNC Sport 2
+https://iptv.skuy.co.id/live/bebas/nikmatin/132877.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY003:TV 3
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/1732
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MNC Sport 3
+https://iptv.skuy.co.id/live/bebas/nikmatin/132878.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY004:NTV 7
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/1731
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Moji
+https://iptv.skuy.co.id/live/bebas/nikmatin/129419.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY005:TV 8
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/1730
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MQTV
+https://iptv.skuy.co.id/live/bebas/nikmatin/133847.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY006:TV 9
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/1729
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MTV
+https://iptv.skuy.co.id/live/bebas/nikmatin/88.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY007:QUAN JIA
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/1728
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MU TV
+https://iptv.skuy.co.id/live/bebas/nikmatin/134475.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY008:SHUANG XING
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/1727
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Muadz TV
+https://iptv.skuy.co.id/live/bebas/nikmatin/129412.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY009:Wah Lai Toi
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/1726
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Music TV
+https://iptv.skuy.co.id/live/bebas/nikmatin/133794.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY010:HUA HEE DAI
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/1725
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", NBA TV
+https://iptv.skuy.co.id/live/bebas/nikmatin/87720.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY011:AOD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/1724
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Net. TV
+https://iptv.skuy.co.id/live/bebas/nikmatin/2.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY012:AEC
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/1723
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", NHK World
+https://iptv.skuy.co.id/live/bebas/nikmatin/41.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY013:Super Sport 1
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/1722
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Nick Jr
+https://iptv.skuy.co.id/live/bebas/nikmatin/77708.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY014:Super Sport 2
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/1721
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Nickelodeon
+https://iptv.skuy.co.id/live/bebas/nikmatin/63249.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY015:Super Sport 3
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/1720
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", OKTV
+https://iptv.skuy.co.id/live/bebas/nikmatin/132247.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY016:Super Sport 4
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/1719
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", One Golf
+https://iptv.skuy.co.id/live/bebas/nikmatin/33.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY022:Super Sport 5
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/1713
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", One Music
+https://iptv.skuy.co.id/live/bebas/nikmatin/52030.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY043:ASTRO ASSP4 HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/59217
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Paramount Network
+https://iptv.skuy.co.id/live/bebas/nikmatin/52.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY042:ASTRO ASSP3 HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/59218
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Premier Sports
+https://iptv.skuy.co.id/live/bebas/nikmatin/177730.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY040:ASTRO ASSP HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/59220
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", RA TV
+https://iptv.skuy.co.id/live/bebas/nikmatin/132958.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY041:ASTRO ASSP2 HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/59219
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", RCTI
+https://iptv.skuy.co.id/live/bebas/nikmatin/53259.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY107:Astro SuperSport Events 6
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71079
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Red Bull TV
+https://iptv.skuy.co.id/live/bebas/nikmatin/52877.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY133:Astro Premier 2
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71105
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Reformed 21
+https://iptv.skuy.co.id/live/bebas/nikmatin/132885.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY136:ASTRO Rugby Pass
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71108
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Rock Action
+https://iptv.skuy.co.id/live/bebas/nikmatin/143885.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY137:ASTRO Cricket
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71109
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Rock Entertainment
+https://iptv.skuy.co.id/live/bebas/nikmatin/177687.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY177:Astro SuperSport Events 3
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71146
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Rodja TV
+https://iptv.skuy.co.id/live/bebas/nikmatin/16689.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY108:ASTRO Ceria
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71080
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", RTV
+https://iptv.skuy.co.id/live/bebas/nikmatin/77707.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY057:ASTRO Colors Tamil
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71035
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Russia Today
+https://iptv.skuy.co.id/live/bebas/nikmatin/51990.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY056:ASTRO Star Vijay
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71034
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", SCTV
+https://iptv.skuy.co.id/live/bebas/nikmatin/4.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY054:ASTRO Zee Tamil
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71032
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Soccer Channel
+https://iptv.skuy.co.id/live/bebas/nikmatin/90269.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY053:ASTRO Adithya
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71031
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Sony Gem
+https://iptv.skuy.co.id/live/bebas/nikmatin/39.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY017:CELESTIAL
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/1718
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Sony One
+https://iptv.skuy.co.id/live/bebas/nikmatin/152.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY018:BERNAMA
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/1717
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", SPO TV 1
+https://iptv.skuy.co.id/live/bebas/nikmatin/68.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY020:Star Chinese Channel
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/1715
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", SPO TV 2
+https://iptv.skuy.co.id/live/bebas/nikmatin/87710.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY021:XIAO TAI YANG
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/1714
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Stingray Naturescape
+https://iptv.skuy.co.id/live/bebas/nikmatin/143889.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY023:TVB CLASSIC
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/1712
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Suria
+https://iptv.skuy.co.id/live/bebas/nikmatin/132412.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY029:WARNA
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/1706
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Tech Storm
+https://iptv.skuy.co.id/live/bebas/nikmatin/143888.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY030:RIA
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/1705
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Tennis Channel
+https://iptv.skuy.co.id/live/bebas/nikmatin/50.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY031:AWANI
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/1704
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Thrill
+https://iptv.skuy.co.id/live/bebas/nikmatin/22.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY034:OASIS
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/1701
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TLC
+https://iptv.skuy.co.id/live/bebas/nikmatin/78.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY082:Singapore Channel 8
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71054
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Trans 7
+https://iptv.skuy.co.id/live/bebas/nikmatin/6.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY035:Singapore Suria
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/1700
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Trans TV
+https://iptv.skuy.co.id/live/bebas/nikmatin/5.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY036:Singapore Vasantham
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/1699
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TRT World
+https://iptv.skuy.co.id/live/bebas/nikmatin/133809.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY151:sukan
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71123
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TV One
+https://iptv.skuy.co.id/live/bebas/nikmatin/10.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY037:WWE
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/1698
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TV1
+https://iptv.skuy.co.id/live/bebas/nikmatin/177737.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY038:BOO
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/1697
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TV2
+https://iptv.skuy.co.id/live/bebas/nikmatin/177736.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY042:Ria
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71020
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TVB Classic
+https://iptv.skuy.co.id/live/bebas/nikmatin/177742.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY043:Awesome TV
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71021
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TVB Xing He
+https://iptv.skuy.co.id/live/bebas/nikmatin/177741.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY046:TV ALHIJRAH
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71024
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TVKU
+https://iptv.skuy.co.id/live/bebas/nikmatin/117977.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY047:aura
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71025
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TVMU
+https://iptv.skuy.co.id/live/bebas/nikmatin/133801.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY048:Astro Premier 1
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71026
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TvN
+https://iptv.skuy.co.id/live/bebas/nikmatin/57.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY049:KBSW
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71027
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TvN Movies
+https://iptv.skuy.co.id/live/bebas/nikmatin/58.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY050:GO SHOP
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71028
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TVRI
+https://iptv.skuy.co.id/live/bebas/nikmatin/16.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY051:Sun Music
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71029
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TVRI Sport
+https://iptv.skuy.co.id/live/bebas/nikmatin/133930.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY052:TUTOR TV SK
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71030
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Useesport 1
+https://iptv.skuy.co.id/live/bebas/nikmatin/177746.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY055:Star Vijay Super
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71033
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Useesport 2
+https://iptv.skuy.co.id/live/bebas/nikmatin/177747.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY058:SUN TV HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71036
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Vasantham
+https://iptv.skuy.co.id/live/bebas/nikmatin/132411.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY059:HBO Hits
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71037
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Vision Prime
+https://iptv.skuy.co.id/live/bebas/nikmatin/132246.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY060:iQIYI HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71038
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", VTV
+https://iptv.skuy.co.id/live/bebas/nikmatin/134473.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY061:GO SHOP 2
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71039
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Warner TV
+https://iptv.skuy.co.id/live/bebas/nikmatin/76.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY067:TVB JADE
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71040
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Wesal TV
+https://iptv.skuy.co.id/live/bebas/nikmatin/16687.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY069:CTI Asia
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71042
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", WWE Network
+https://iptv.skuy.co.id/live/bebas/nikmatin/18477.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY070:TVB E-NEWS
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71043
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ZeeBioskop
+https://iptv.skuy.co.id/live/bebas/nikmatin/27479.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY071:TVB XING HE HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71044
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Play Sports 1
+https://iptv.skuy.co.id/live/bebas/nikmatin/178198.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY072:TVBS ASIA HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71045
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Play Sports 2
+https://iptv.skuy.co.id/live/bebas/nikmatin/178203.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY073:CCM
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71046
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Play Sports 3
+https://iptv.skuy.co.id/live/bebas/nikmatin/178200.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY075:CCTV4 HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71047
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", SSC 1
+https://iptv.skuy.co.id/live/bebas/nikmatin/178193.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY076:AOD 352 HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71048
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", SSC 2
+https://iptv.skuy.co.id/live/bebas/nikmatin/178199.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY077:AOD 353 HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71049
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", SSC 3
+https://iptv.skuy.co.id/live/bebas/nikmatin/178189.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY078:AOD 354 HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71050
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", SSC 4
+https://iptv.skuy.co.id/live/bebas/nikmatin/178196.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY079:AOD 355 HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71051
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", SSC 5
+https://iptv.skuy.co.id/live/bebas/nikmatin/178192.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY080:KBS World HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71052
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", SSC Extra 1
+https://iptv.skuy.co.id/live/bebas/nikmatin/178202.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY081:ONE HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71053
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", SSC Extra 2
+https://iptv.skuy.co.id/live/bebas/nikmatin/178201.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY083:TVN HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71055
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", SSC Extra 3
+https://iptv.skuy.co.id/live/bebas/nikmatin/178194.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY084:Hits Movies HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71056
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TNT Sports 1
+https://iptv.skuy.co.id/live/bebas/nikmatin/178190.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY086:Cinemax HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71058
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TNT Sports 2
+https://iptv.skuy.co.id/live/bebas/nikmatin/178197.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY087:TVN Movies
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71059
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TNT Sports 3
+https://iptv.skuy.co.id/live/bebas/nikmatin/178191.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY088:OKEY TV
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71060
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TNT Sports 4
+https://iptv.skuy.co.id/live/bebas/nikmatin/178195.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY089:Moonbug Kids
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71061
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Sky Sports NBA
+https://iptv.skuy.co.id/live/bebas/nikmatin/178204.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY091:AL JAZEERA HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71063
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Sky Sports PL
+https://iptv.skuy.co.id/live/bebas/nikmatin/178205.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY092:SKY NEWS HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71064
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY093:CNA HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71065
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY094:CNBC
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71066
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY095:Bloomberg TV
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71067
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY096:ABC AUSTRALIA
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71068
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY097:8TV
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71069
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY099:Discovery HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71071
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY100:DISCOVERY ASIA
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71072
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY101:Discovery Science
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71073
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY102:HISTORY HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71074
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY103:ANIMAL PLANET HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71075
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY104:TUTOR TV UPSR
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71076
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY106:TUTOR TV SMK
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71078
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY112:Cartoon Network
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71084
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY113:NICKELODEON HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71085
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY114:NICK JR
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71086
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY115:AXN HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71087
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY116:Phoenix
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71088
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY117:HITS HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71089
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY118:TLC HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71090
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY119:FOOD NTWK HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71091
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY120:AFN HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71092
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY122:WARNER TV
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71094
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY123:Crime Investigation
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71095
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY124:HGTV HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71096
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY125:DMAX HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71097
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY126:COMEDY CENTRAL
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71098
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY127:MTV
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71099
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY128:ANIMAX
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71100
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY129:bEIN Sports 3
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71101
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY132:beIN SPORTS
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71104
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY134:EUROSPORT HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71106
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY135:GOLF CHANNEL HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71107
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY139:KPLUS HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71111
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY140:DW HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71112
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY141:FRANCE24 HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71113
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY146:beIN Sports 2
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71118
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY147:BBC Earth HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71119
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY148:BBC Lifestyle
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71120
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY150:BBC World News
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71122
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY164:Paramount Channel
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71135
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY166:Global Trekker
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71137
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY168:SCM
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71138
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY169:SETi Chinese
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71139
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY178:SPOTV
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71147
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY179:TVS
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71148
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY180:Awesome TV
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/71149
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MY019:Kix HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/1716
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ------|Thailand|------
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/32199
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TH001:CH5 HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/61275
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TH002:NBT 2 HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/61276
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TH003:TPBS
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/61277
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TH004:ALTV4
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/61278
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TH005:TNN24
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/61279
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TH006:Workpoint TV
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/61280
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TH007:True 4 U
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/61281
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TH008:GMM25
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/61282
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TH009:CH 8
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/61283
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TH010:MONO
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/61284
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TH011:ONE 31 HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/61285
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TH012:Thairath TV HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/61286
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TH013:3 HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/61287
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TH015:AmarinTV HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/61288
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TH016:CH7 HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/61289
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TH017:PPTV HD
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/61290
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TH018:DLTV10
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/61291
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TH019:DLTV11
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/61292
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TH020:DLTV12
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/61293
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TH021:DLTV1
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/61294
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TH022:DLTV3
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/61295
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TH023:DLTV5
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/61296
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TH024:DLTV6
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/61297
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TH025:DLTV7
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/61298
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TH026:DLTV8
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/61299
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TH027:DLTV9
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/61300
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TH028:DLTV13
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/61301
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TH029:DLTV14
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/61302
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TH030:DLTV15
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/61303
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TH032:LunthungTV
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/61304
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TH033:MVTV
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/61305
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TH034:Esan TV
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/61306
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TH035:MediaTV
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/61307
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TH037:NHK
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/61308
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TH038:Channel News Asia
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/61309
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TH039:DW
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/61310
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TH040:France 24
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/61311
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TH041:Police TV
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/61312
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TH042:White Channel
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/61313
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TH043:True Shopping
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/61314
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TH044:TrueSelect
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/61315
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TH045:B0006
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/61316
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TH046:V0022
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/61317
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TH047:AIS Play Stadium 2
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/61318
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TH048:Ball Thai 2
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/61319
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TH049:Ball Thai 9
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/61320
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TH050:Ball Thai 11
-http://yesimes.oknirvana.club:8880/D12m1640/693788036/61321
 
 
 #######################
