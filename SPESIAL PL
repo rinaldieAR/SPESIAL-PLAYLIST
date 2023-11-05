@@ -10139,16 +10139,6 @@ http://live.watsits.art:80/play/live.php?mac=00:1A:79:C7:1E:07&stream=303013_&ex
 http://live.watsits.art:80/play/live.php?mac=00:1A:79:C7:1E:07&stream=303012_&extension=ts
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbgGkVpn7N7-gH6Tlxen-xugwOnA4xdHm7gQ&usqp=CAU" group-title="VIP SPORT", NBC SPORT BK
-http://servi-teevee.net:80/play/OtwSvzebcZSpHfatJPpr461YdO-z5VXmb2qWX3OpoeqgFg0bhSMTdQ2HcnHjFkb7
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGvRmqlfvB0oKJPpfBcz8xPB2fiSbaTWg-AA&usqp=CAU" group-title="VIP SPORT", PEACOCK PL BK
-http://servi-teevee.net:80/play/OtwSvzebcZSpHfatJPpr461YdO-z5VXmb2qWX3Opoer8wrnqNk0Vxl2iAge8Ip0U
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbgGkVpn7N7-gH6Tlxen-xugwOnA4xdHm7gQ&usqp=CAU" group-title="VIP SPORT", NBC SPORT
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1032458&extension=ts&play_token=Km5mJBAKNm
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGvRmqlfvB0oKJPpfBcz8xPB2fiSbaTWg-AA&usqp=CAU" group-title="VIP SPORT", PEACOCK PL
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1032457&extension=ts&play_token=cvcqACl3FV
-
 #EXTINF:-1 tvg-logo="______" group-title="VIP SPORT", PEACOCK 1
 http://live.watsits.art:80/play/live.php?mac=00:1A:79:C7:1E:07&stream=303901_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="VIP SPORT", PEACOCK 2
@@ -10192,12 +10182,8 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:00:20:4B&stream=1032521&exte
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:00:20:4B&stream=1032520&extension=ts&play_token=ayBMjbP8JI
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmdP_fzhLfHBOL4jqihNzdOeuCALbB5TpTDw&usqp=CAU" group-title="VIP SPORT", NOW SPORT PREMIER 1 4K
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1032489&extension=ts&play_token=Y0Fv9Nv97I
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmdP_fzhLfHBOL4jqihNzdOeuCALbB5TpTDw&usqp=CAU" group-title="VIP SPORT", NOW SPORT PREMIER 1 4K2
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:00:20:4B&stream=1032488&extension=ts&play_token=YROuIbKK4c
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuRLhrZIRQZMWuuazqb4OcUp2b8CKJGZTZ1w&usqp=CAU" group-title="VIP SPORT", NOW SPORT PREMIER 1
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:00:20:4B&stream=1032487&extension=ts&play_token=nmdMACbqFH
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1110622&extension=ts&play_token=j9T5EaSzWy
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuRLhrZIRQZMWuuazqb4OcUp2b8CKJGZTZ1w&usqp=CAU" group-title="VIP SPORT", NOW SPORT PREMIER 2
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:00:20:4B&stream=1032486&extension=ts&play_token=nmdMACbqFH
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuRLhrZIRQZMWuuazqb4OcUp2b8CKJGZTZ1w&usqp=CAU" group-title="VIP SPORT", NOW SPORT PREMIER 3
