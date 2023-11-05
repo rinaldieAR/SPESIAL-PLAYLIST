@@ -4493,563 +4493,1013 @@ https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", 352 Astro AOD
-https://iptv.skuy.co.id/live/bebas/nikmatin/177732.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/e0ca9c22b972add893fdad34af4255bc.png" group-title="ASEAN TV", MY: Animax
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/157486
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", 354 Astro AOD
-https://iptv.skuy.co.id/live/bebas/nikmatin/177728.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/f9cbb250de1822306dc0b7e9cdd23c9a.png" group-title="ASEAN TV", MY: Astro Arena
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/157485
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ABC Australia
-https://iptv.skuy.co.id/live/bebas/nikmatin/54416.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/e976949486bc089b9dec986e9a860ff8.png" group-title="ASEAN TV", MY: Astro Awani
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/157478
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ADI TV
-https://iptv.skuy.co.id/live/bebas/nikmatin/132934.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/edc8a9c38c820781eb4785f4e5ee89ca.png" group-title="ASEAN TV", MY: Astro Cricket
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/157565
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Al Jazeera
-https://iptv.skuy.co.id/live/bebas/nikmatin/52878.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/28fc1cfc2e9b5b2ba64f6bf5bcaa357d.png" group-title="ASEAN TV", MY: Astro Oasis
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/157489
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Anhui TV
-https://iptv.skuy.co.id/live/bebas/nikmatin/133798.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/584608e7b0eb904734396e6cc6831811.png" group-title="ASEAN TV", MY: Astro Prima
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/157467
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Animal Planet
-https://iptv.skuy.co.id/live/bebas/nikmatin/77.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="ASEAN TV", MY: Astro SuperSport
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/146068
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Animax
-https://iptv.skuy.co.id/live/bebas/nikmatin/47.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="ASEAN TV", MY: Astro SuperSport 2
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/157556
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Aniplus
-https://iptv.skuy.co.id/live/bebas/nikmatin/177748.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="ASEAN TV", MY: Astro SuperSport 3
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/157557
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ANTV
-https://iptv.skuy.co.id/live/bebas/nikmatin/9.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="ASEAN TV", MY: Astro SuperSport 4
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/157558
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Arirang
-https://iptv.skuy.co.id/live/bebas/nikmatin/52014.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-02/480daf2471d76a0819242a59da7005f9.png" group-title="ASEAN TV", MY: Astro SuperSport 5
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/287792
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Asia Food Network
-https://iptv.skuy.co.id/live/bebas/nikmatin/94.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/fa7dae21ca0a660204573e4d010232ab.png" group-title="ASEAN TV", MY: Astro Xiao Tai Yang
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/201164
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Astro Aura
-https://iptv.skuy.co.id/live/bebas/nikmatin/177734.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/c23b25dd57cbcc578a72dda7e35fdf08.png" group-title="ASEAN TV", MY: BBC Earth
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/171979
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Astro Boo
-https://iptv.skuy.co.id/live/bebas/nikmatin/177727.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/661d6fd8993dd9aaf43e249d036e9eb3.jpg" group-title="ASEAN TV", MY: beIN Sports
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/157561
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Astro Ceria
-https://iptv.skuy.co.id/live/bebas/nikmatin/177726.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/602e805f1abfd464565db600ffd3f028.png" group-title="ASEAN TV", MY: Bloomberg TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/157533
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Astro Citra
-https://iptv.skuy.co.id/live/bebas/nikmatin/177749.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/515d63ff66edb49dc64a03093e9f6fd2.png" group-title="ASEAN TV", MY: Boomerang
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/171955
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Astro Colors
-https://iptv.skuy.co.id/live/bebas/nikmatin/177743.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/feda2de53c7fd947f29ff4740860c233.png" group-title="ASEAN TV", MY: Celestial Classic Movies (CCM)
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/157512
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Astro Cricket
-https://iptv.skuy.co.id/live/bebas/nikmatin/177729.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/51e29412b2a80c8afa779e56b99dccdd.png" group-title="ASEAN TV", MY: Celestial Movies
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/174687
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Astro Hua Hee Dai
-https://iptv.skuy.co.id/live/bebas/nikmatin/177733.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/ad7a1e1bb94a07f128ce21def6a0adc3.png" group-title="ASEAN TV", MY: Crime+ Investigation
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/157554
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Astro iQiyi
-https://iptv.skuy.co.id/live/bebas/nikmatin/177740.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/838a78d02f3d18a23b94402dd8420a2b.png" group-title="ASEAN TV", MY: Discovery Science
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/157530
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Astro Oasis
-https://iptv.skuy.co.id/live/bebas/nikmatin/177738.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/451dbdd3fbdd722d2ca3c1b4ba7ada36.png" group-title="ASEAN TV", MY: Disney XD
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/157544
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Astro Premier
-https://iptv.skuy.co.id/live/bebas/nikmatin/177731.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/32a4269c4918eeef41af63deb0f43083.png" group-title="ASEAN TV", MY: FOX SPORTS 2
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/157488
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Astro Rania
-https://iptv.skuy.co.id/live/bebas/nikmatin/177735.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ASEAN TV", MY: Harvest TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/299917
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", AXN
-https://iptv.skuy.co.id/live/bebas/nikmatin/38.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/25ab65a39a10d628b5c9319b423b6497.png" group-title="ASEAN TV", MY: Hits
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/157545
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Baby TV
-https://iptv.skuy.co.id/live/bebas/nikmatin/87701.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/652a9e2547c9b24a6a2b0eb16b43a1f1.png" group-title="ASEAN TV", MY: HITS Movies
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/157477
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Badar TV
-https://iptv.skuy.co.id/live/bebas/nikmatin/132890.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ASEAN TV", MY: KIX
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/299963
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", BBC Earth
-https://iptv.skuy.co.id/live/bebas/nikmatin/87698.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/98ac421179bbfd4dc8f4f4640667e35b.png" group-title="ASEAN TV", MY: Local Now Family Flix
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/296889
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", BBC World News
-https://iptv.skuy.co.id/live/bebas/nikmatin/93.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/92307ca79c909c2f7881199792c74c0b.png" group-title="ASEAN TV", MY: Nick Jr
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/157546
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", beIN Sports 1
-https://iptv.skuy.co.id/live/bebas/nikmatin/25.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/b92ffe0e329e6808620cf9b9f92f1523.png" group-title="ASEAN TV", MY: NTV 7
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/174695
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", beIN Sports 3
-https://iptv.skuy.co.id/live/bebas/nikmatin/26.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/667e24a26ecfe1070bd6a40a113c0159.png" group-title="ASEAN TV", MY: RTB Sukmaindera
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/299546
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Berita Satu
-https://iptv.skuy.co.id/live/bebas/nikmatin/17.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/7f3190f95ee41181d69a2edcc5321131.png" group-title="ASEAN TV", MY: RTM TV 1
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/158357
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Bloomberg
-https://iptv.skuy.co.id/live/bebas/nikmatin/51989.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/4d495580f894286e82e1f9ee33d2874b.png" group-title="ASEAN TV", MY: RTM TV 2
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/158355
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", BN Channel
-https://iptv.skuy.co.id/live/bebas/nikmatin/133792.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/7c4b2443678d05d7f2032e5519eec970.png" group-title="ASEAN TV", MY: TV 3
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/158360
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Boomerang
-https://iptv.skuy.co.id/live/bebas/nikmatin/127844.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/3adc723d4576cb0b512751fe4073c326.png" group-title="ASEAN TV", MY: TV 9
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/171953
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Cartoon Network
-https://iptv.skuy.co.id/live/bebas/nikmatin/81.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/7bcedbeb3814000d4e785498f51b2099.png" group-title="ASEAN TV", MY: TV Alhijrah
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/157491
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", CBeeBies
-https://iptv.skuy.co.id/live/bebas/nikmatin/127843.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/66ac88e17edd3d12e424a58a3a9b1d45.png" group-title="ASEAN TV", MY: TVN Movies
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/297499
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Celestial Classic Movies
-https://iptv.skuy.co.id/live/bebas/nikmatin/90006.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/ab95d8e974bb7f697b1dd79c7ac0f765.png" group-title="ASEAN TV", MY: Warner TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/157550
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Celestial Movies
-https://iptv.skuy.co.id/live/bebas/nikmatin/21.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-09/dbdc2509d6a47f3f52661d02f2f989b9.jfif" group-title="ASEAN TV", VN: Air TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/284690
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", CGTN
-https://iptv.skuy.co.id/live/bebas/nikmatin/129393.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/171cfee003cb96de14dfaf62e85d85e3.png" group-title="ASEAN TV", VN: An Ninh TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/145002
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Channel 8
-https://iptv.skuy.co.id/live/bebas/nikmatin/133840.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/7d48641d13defe634063230f4275f19d.png" group-title="ASEAN TV", VN: Ba Ria Vung Tau TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/266884
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Channel News Asia
-https://iptv.skuy.co.id/live/bebas/nikmatin/117976.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/31d6d3bd05a08b424812855ceddb745d.png" group-title="ASEAN TV", VN: Brian TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/284692
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Channel U
-https://iptv.skuy.co.id/live/bebas/nikmatin/133839.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/95dae3bffb2fb5d2e1880c5fa3b24282.jpg" group-title="ASEAN TV", VN: Da Nang TV 1
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/145004
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Cinema World
-https://iptv.skuy.co.id/live/bebas/nikmatin/49.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/1e246e32cba2a29a5f9a6f414f5fc7ad.webp" group-title="ASEAN TV", VN: Da Nang TV 2
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/166131
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Cinemax
-https://iptv.skuy.co.id/live/bebas/nikmatin/16851.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/c13c546808eb7578d993bef21fea30c3.jfif" group-title="ASEAN TV", VN: Dao Lane Xang
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/284696
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Citra Bioskop
-https://iptv.skuy.co.id/live/bebas/nikmatin/143883.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/fdb0296fffdbc911a42d1ebe596135f9.jfif" group-title="ASEAN TV", VN: Dhammasapha TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/284697
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Citra Dangdut
-https://iptv.skuy.co.id/live/bebas/nikmatin/143891.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/e646fd61537a00a04d6cd8ef7a1719d4.jpg" group-title="ASEAN TV", VN: Gia Lai TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/145017
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Citra Drama
-https://iptv.skuy.co.id/live/bebas/nikmatin/143886.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/e9a37239d88b729277c8ded0dfb5349e.png" group-title="ASEAN TV", VN: Good Idea TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/284699
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Citra Entertainment
-https://iptv.skuy.co.id/live/bebas/nikmatin/143887.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/103f499bf2d28429a51425761961d831.jfif" group-title="ASEAN TV", VN: Hmong Star TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/284701
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ABC Australia
-https://iptv.skuy.co.id/live/bebas/nikmatin/54416.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/cc0926397b35e4ab10fa9a02df604cbe.jfif" group-title="ASEAN TV", VN: Hmong TV Network
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/284702
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", CNBC Asia
-https://iptv.skuy.co.id/live/bebas/nikmatin/88903.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/5f4321c7dc573c2cd11a2d0de5585ca5.jfif" group-title="ASEAN TV", VN: Hmong USA TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/284703
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", CNBC Indonesia
-https://iptv.skuy.co.id/live/bebas/nikmatin/13.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-05/45fa613c2f9c394155264ea7d035f63c.png" group-title="ASEAN TV", VN: Hoa Binh TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/145013
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", CNN Indonesia
-https://iptv.skuy.co.id/live/bebas/nikmatin/15.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/edd00e16d7e6cf220cbd760d2700a907.jfif" group-title="ASEAN TV", VN: Houng Fa
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/284704
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", CNN International
-https://iptv.skuy.co.id/live/bebas/nikmatin/55999.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/2ebce6cdfe8dc265ba805c60ec7e6edf.png" group-title="ASEAN TV", VN: HTV 2
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/172014
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Crime & Investigation
-https://iptv.skuy.co.id/live/bebas/nikmatin/133879.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/f9cbb250de1822306dc0b7e9cdd23c9a.png" group-title="ASEAN TV", MY: Astro Arena
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/157485
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", CTI Asia
-https://iptv.skuy.co.id/live/bebas/nikmatin/177744.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/cdef5887200c78162b96805aef3857cb.jpg" group-title="ASEAN TV", VN: HTV 7
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/172002
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Dazn 1
-https://iptv.skuy.co.id/live/bebas/nikmatin/134467.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/ab57dceb84f76d6ed2ab701733d1969b.png" group-title="ASEAN TV", VN: Hung Yen TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/145011
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Dazn 2
-https://iptv.skuy.co.id/live/bebas/nikmatin/134468.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/2db6eaef115fbdda8aa186d1074bde81.jpg" group-title="ASEAN TV", VN: ISTV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/284705
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Dazn F1
-https://iptv.skuy.co.id/live/bebas/nikmatin/134466.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/a020166f50a1974e39e3aa0d811404be.png" group-title="ASEAN TV", VN: Khmer TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/284706
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Discovery Asia
-https://iptv.skuy.co.id/live/bebas/nikmatin/90.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/0438de733929bc67bcece8221cf28133.jfif" group-title="ASEAN TV", VN: Khomsanh TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/284707
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Discovery Channel
-https://iptv.skuy.co.id/live/bebas/nikmatin/67.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/67d2c42aa95589a3d192dfd85179bcab.png" group-title="ASEAN TV", VN: Kien Giang
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/145019
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", DW
-https://iptv.skuy.co.id/live/bebas/nikmatin/133806.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/34a4fb1c78d9a872c0a44de51fec46a0.jfif" group-title="ASEAN TV", VN: Lao Champa TV 1
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/284712
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Euronews
-https://iptv.skuy.co.id/live/bebas/nikmatin/133807.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/200f8392924036a62f8ef47d44b7ed56.jfif" group-title="ASEAN TV", VN: Lao Champa TV 2
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/284713
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Eurosport 1
-https://iptv.skuy.co.id/live/bebas/nikmatin/86870.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/fb28cf49e870998e1a1b3de90684f160.jfif" group-title="ASEAN TV", VN: Lao Champa TV 3
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/284714
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Eurosport 2
-https://iptv.skuy.co.id/live/bebas/nikmatin/86871.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/623c8203e871438f821f6a69bb7f903c.jfif" group-title="ASEAN TV", VN: Lao Heritage Foundation TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/284715
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", EWTN
-https://iptv.skuy.co.id/live/bebas/nikmatin/133805.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/7ddf88dd765a2bcbef12846993c6c365.jfif" group-title="ASEAN TV", VN: Lao Net TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/294873
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Fashion TV
-https://iptv.skuy.co.id/live/bebas/nikmatin/72.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/71368a33daf5d951cdcbf940184a4bcf.jfif" group-title="ASEAN TV", VN: Lao Planet TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/284719
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Fashion TV 4K
-https://iptv.skuy.co.id/live/bebas/nikmatin/133731.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/63331cc2755c22828288f040132a5c43.jfif" group-title="ASEAN TV", VN: Lao SV TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/284717
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Fashion TV Midnight Secret
-https://iptv.skuy.co.id/live/bebas/nikmatin/73.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/71ef1659696da2daf2d8886b8a513313.png" group-title="ASEAN TV", VN: Lao Thai US TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/284718
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Fight Sports
-https://iptv.skuy.co.id/live/bebas/nikmatin/90039.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/099ff20fdb95f11b5304af5d37418098.jfif" group-title="ASEAN TV", VN: Look Thoong TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/284720
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", First Warriors
-https://iptv.skuy.co.id/live/bebas/nikmatin/143890.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/0aea65fbd6adb4d4162d23432ff30810.jfif" group-title="ASEAN TV", VN: LS TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/284711
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", FMN Channel
-https://iptv.skuy.co.id/live/bebas/nikmatin/23.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/b32730b712c8bf20a5b34c069ef0e60f.png" group-title="ASEAN TV", VN: NAT TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/284721
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Fox News
-https://iptv.skuy.co.id/live/bebas/nikmatin/55816.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/12ecafc1f286098b95d0cee4c7d2f829.jfif" group-title="ASEAN TV", VN: Ning TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/284722
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", France24
-https://iptv.skuy.co.id/live/bebas/nikmatin/133808.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/39d6ff699a4057b12feede14effb7909.jfif" group-title="ASEAN TV", VN: Oh Muang Lao TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/284723
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Galaxy
-https://iptv.skuy.co.id/live/bebas/nikmatin/87705.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/357cfb646f695f3a1d54bd75ce5fa79b.jpg" group-title="ASEAN TV", VN: PNTV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/284725
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Galaxy Premium
-https://iptv.skuy.co.id/live/bebas/nikmatin/87706.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/47d96498290d6c7d226796dbe94adc6e.jpg" group-title="ASEAN TV", VN: Quang Nam TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/266888
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", GTV
-https://iptv.skuy.co.id/live/bebas/nikmatin/54418.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/5fef0ab98641b45db49ad27834da665b.png" group-title="ASEAN TV", VN: Quoc Hoi
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/145114
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", HBO
-https://iptv.skuy.co.id/live/bebas/nikmatin/56.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/dd7242411215b501cc1b7651b9413cd9.jpg" group-title="ASEAN TV", VN: Tea TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/284729
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", HBO Family
-https://iptv.skuy.co.id/live/bebas/nikmatin/75.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/08e06e16acc654ed5f0e9e85ec4b8fee.jpg" group-title="ASEAN TV", VN: Tea TV 2
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/284728
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", HBO Hits
-https://iptv.skuy.co.id/live/bebas/nikmatin/92.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/e32282a9ce569b19046d543bfcd17743.png" group-title="ASEAN TV", VN: Tien Giang
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/144982
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", HBO Signature
-https://iptv.skuy.co.id/live/bebas/nikmatin/28656.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/7f02775a16c83f8e8c7d1e1cb816c43c.png" group-title="ASEAN TV", VN: True Visions
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/266880
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", HGTV
-https://iptv.skuy.co.id/live/bebas/nikmatin/64.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/bd9f977d9ed6ad3fe7af6b1c605ec3a9.jfif" group-title="ASEAN TV", VN: Uniquely Thai
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/284730
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", History
-https://iptv.skuy.co.id/live/bebas/nikmatin/71.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/07821d0fa9b3ddfe5e7e5fbc6b0e644e.jfif" group-title="ASEAN TV", VN: Vanphenh TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/284732
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", HITS
-https://iptv.skuy.co.id/live/bebas/nikmatin/43.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/5776b0e152814bc872f49e274b7162fc.jfif" group-title="ASEAN TV", VN: Vati Lao TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/284733
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", HITS Movies
-https://iptv.skuy.co.id/live/bebas/nikmatin/2911.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-11/7f659f288daf49aed803fde7055a825d.png" group-title="ASEAN TV", VN: VGS Shop
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/166145
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Hunan TV
-https://iptv.skuy.co.id/live/bebas/nikmatin/133799.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ASEAN TV", VN: Viet Mtv
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/299384
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", I Channel
-https://iptv.skuy.co.id/live/bebas/nikmatin/133849.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/172b482316bf25945fb1b6989d416151.png" group-title="ASEAN TV", VN: VTC 3
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/172072
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Indosiar
-https://iptv.skuy.co.id/live/bebas/nikmatin/8.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/6a0e3c19f98145dccd3df565a3482121.png" group-title="ASEAN TV", VN: VTV 1
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/144993
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", iNews
-https://iptv.skuy.co.id/live/bebas/nikmatin/129417.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/782cd837c6e47c844f676402a4945254.png" group-title="ASEAN TV", VN: VTV 7
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/172010
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", JawaPos TV
-https://iptv.skuy.co.id/live/bebas/nikmatin/132941.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/fc20e91680aa1fef7c273d6305ae43a3.png" group-title="ASEAN TV", VN: VTV 8
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/172039
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Jiangsu TV
-https://iptv.skuy.co.id/live/bebas/nikmatin/133800.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/0ffd98187ea351db7fa5fde48f647f21.png" group-title="ASEAN TV", VN: VTV 9
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/172013
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", JITV
-https://iptv.skuy.co.id/live/bebas/nikmatin/132961.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/8f5b8284fd4e32797c426646375aee55.png" group-title="ASEAN TV", VN: Yen Bai TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/145088
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", JTV
-https://iptv.skuy.co.id/live/bebas/nikmatin/130048.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/9120294969624eecdcbaadb5deb8dfef.png" group-title="ASEAN TV", TH: ALTV 4
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/193236
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", K+
-https://iptv.skuy.co.id/live/bebas/nikmatin/2912.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/34fa0c9a55806aef1cebdeb2d27a1020.png" group-title="ASEAN TV", TH: Amarin 34
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/146703
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", KBS World
-https://iptv.skuy.co.id/live/bebas/nikmatin/21661.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/34f4b9da902d0c56f26c5211aae2761a.png" group-title="ASEAN TV", TH: Banteng 100
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/158634
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Kids TV
-https://iptv.skuy.co.id/live/bebas/nikmatin/87702.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/5acfb4128631003655ffac8e001828fa.png" group-title="ASEAN TV", TH: Bayon TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/23852
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", KiX
-https://iptv.skuy.co.id/live/bebas/nikmatin/48.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/73dfb16b1591ed70bad8df66e67f032b.png" group-title="ASEAN TV", TH: BBTV Channel 7
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/23853
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Kompas TV
-https://iptv.skuy.co.id/live/bebas/nikmatin/14.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/80c6a4b784d42d91851c65d6dc8ef19e.png" group-title="ASEAN TV", TH: Cartoon Network
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/172166
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Lifetime
-https://iptv.skuy.co.id/live/bebas/nikmatin/16748.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/f517fea5b98139e9e249d94b5d708aab.png" group-title="ASEAN TV", TH: Channel 3
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/266866
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Live 4K
-https://iptv.skuy.co.id/live/bebas/nikmatin/177705.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/4d1bb4695654b2d55655ef0e5ff33526.jfif" group-title="ASEAN TV", TH: Channel 8
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/281631
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Love Nature
-https://iptv.skuy.co.id/live/bebas/nikmatin/52017.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/9293a8594a87e260ed7f12f9a6bfe565.png" group-title="ASEAN TV", TH: Channel 138 MV LAO
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/281633
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Magna TV
-https://iptv.skuy.co.id/live/bebas/nikmatin/129418.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/78cc11f16cb517d5f98a124aba17ec73.png" group-title="ASEAN TV", TH: CNBC
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/162533
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Mentari TV
-https://iptv.skuy.co.id/live/bebas/nikmatin/132900.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/42cea95a54f6454b63cc7920adfff97b.jfif" group-title="ASEAN TV", TH: CTB TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/23858
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Metro TV
-https://iptv.skuy.co.id/live/bebas/nikmatin/11.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/7541ac1a7db19ee409b58b0d458c4256.png" group-title="ASEAN TV", TH: Discovery Asia
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/264824
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Miaomi
-https://iptv.skuy.co.id/live/bebas/nikmatin/21606.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/5aedbb90378d997c50b0a3c2f66bed7d.png" group-title="ASEAN TV", TH: DL TV 1
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/163375
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Milan TV
-https://iptv.skuy.co.id/live/bebas/nikmatin/134474.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/fe4dd8195742e4c54f06b373117093ac.png" group-title="ASEAN TV", TH: DL TV 2
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/163376
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MNC
-https://iptv.skuy.co.id/live/bebas/nikmatin/54425.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/fc9bc1ee1bf930d3672eb0fc4ca497bb.png" group-title="ASEAN TV", TH: DL TV 3
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/163377
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MNC Sport 1
-https://iptv.skuy.co.id/live/bebas/nikmatin/132876.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a34d5a97d2e75448f8eb60c5848d353c.png" group-title="ASEAN TV", TH: DL TV 4
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/163378
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MNC Sport 2
-https://iptv.skuy.co.id/live/bebas/nikmatin/132877.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/da2c0f95aece43b895e010b139e75974.png" group-title="ASEAN TV", TH: DL TV 5
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/163379
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MNC Sport 3
-https://iptv.skuy.co.id/live/bebas/nikmatin/132878.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/d04a293e7c58adcbabfc3bb5120a4a63.png" group-title="ASEAN TV", TH: DL TV 6
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/163380
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Moji
-https://iptv.skuy.co.id/live/bebas/nikmatin/129419.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a1566b23a8220fc448d6b7beb09d4a98.png" group-title="ASEAN TV", TH: DL TV 7
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/163381
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MQTV
-https://iptv.skuy.co.id/live/bebas/nikmatin/133847.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/7979a3363ff951342e4e76ce397da1f0.png" group-title="ASEAN TV", TH: DL TV 8
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/163382
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MTV
-https://iptv.skuy.co.id/live/bebas/nikmatin/88.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/5b2af3d35e0b93de9291b053c9bcb43b.png" group-title="ASEAN TV", TH: DL TV 9
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/163383
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", MU TV
-https://iptv.skuy.co.id/live/bebas/nikmatin/134475.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/701b5c419138fabf0bc71282abead28f.png" group-title="ASEAN TV", TH: DL TV 10
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/163384
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Muadz TV
-https://iptv.skuy.co.id/live/bebas/nikmatin/129412.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/b3484b1f99775c0fff3647578cd88887.png" group-title="ASEAN TV", TH: DL TV 11
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/163385
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Music TV
-https://iptv.skuy.co.id/live/bebas/nikmatin/133794.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/7db860b802219750cac31a45910f9982.png" group-title="ASEAN TV", TH: DL TV 12
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/163386
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", NBA TV
-https://iptv.skuy.co.id/live/bebas/nikmatin/87720.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/86168cce2d600d5f2773e84702a59059.png" group-title="ASEAN TV", TH: DL TV 13
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/163387
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Net. TV
-https://iptv.skuy.co.id/live/bebas/nikmatin/2.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/ae7da1a6848ba39405fa468a5482ff68.png" group-title="ASEAN TV", TH: DL TV 14
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/163388
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", NHK World
-https://iptv.skuy.co.id/live/bebas/nikmatin/41.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a5ece1f2633cf02e4f282b4580330aa2.png" group-title="ASEAN TV", TH: DL TV 15
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/163389
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Nick Jr
-https://iptv.skuy.co.id/live/bebas/nikmatin/77708.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ASEAN TV", TH: DMC TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/299487
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Nickelodeon
-https://iptv.skuy.co.id/live/bebas/nikmatin/63249.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/d93b7bd40eec931474545e65dfd2a244.png" group-title="ASEAN TV", TH: Drama Channel
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/275989
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", OKTV
-https://iptv.skuy.co.id/live/bebas/nikmatin/132247.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/ec3dcc4f99f58587fbcd43a442aa3c14.png" group-title="ASEAN TV", TH: ETV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/147245
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", One Golf
-https://iptv.skuy.co.id/live/bebas/nikmatin/33.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/e9cc9f108bb21a76bd594dc65cb79050.png" group-title="ASEAN TV", TH: Fast & FunBox
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/281630
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", One Music
-https://iptv.skuy.co.id/live/bebas/nikmatin/52030.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/cf1b8eb6d1b86b1af29c484cd9d6aa3d.png" group-title="ASEAN TV", TH: Global Buddhist Network
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/299375
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Paramount Network
-https://iptv.skuy.co.id/live/bebas/nikmatin/52.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/8234cc4d09f36e5c42dd26407dbe02a6.png" group-title="ASEAN TV", TH: GMM25
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/146729
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Premier Sports
-https://iptv.skuy.co.id/live/bebas/nikmatin/177730.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/7efc4fe7a014e33da62fcbbb4a4cf22b.png" group-title="ASEAN TV", TH: Good Idea TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/146728
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", RA TV
-https://iptv.skuy.co.id/live/bebas/nikmatin/132958.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/917a0e2d62c003893a24922786881822.png" group-title="ASEAN TV", TH: Green
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/146725
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", RCTI
-https://iptv.skuy.co.id/live/bebas/nikmatin/53259.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/7720039e34480a25f9af016ae7834281.png" group-title="ASEAN TV", TH: Happy TV 65
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/145034
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Red Bull TV
-https://iptv.skuy.co.id/live/bebas/nikmatin/52877.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/9ebb303def714bd61da2906264519a7a.png" group-title="ASEAN TV", TH: MCOT
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/145029
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Reformed 21
-https://iptv.skuy.co.id/live/bebas/nikmatin/132885.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/10219085f6f26ead4da27d8f83dbe516.png" group-title="ASEAN TV", TH: MONO 29
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/146760
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Rock Action
-https://iptv.skuy.co.id/live/bebas/nikmatin/143885.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/2d88189579ae452a99fcab007506d80b.jpeg" group-title="ASEAN TV", TH: Nation TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/146781
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Rock Entertainment
-https://iptv.skuy.co.id/live/bebas/nikmatin/177687.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/f8fee14f8a8ea3489b96f8ed9b65695e.png" group-title="ASEAN TV", TH: NBT TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/23886
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Rodja TV
-https://iptv.skuy.co.id/live/bebas/nikmatin/16689.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-06/8275e1ae0654761c92ced547f4a58014.png" group-title="ASEAN TV", TH: New 18
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/15004
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", RTV
-https://iptv.skuy.co.id/live/bebas/nikmatin/77707.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/4e8e521e9905469500bf9f076f58d3b0.png" group-title="ASEAN TV", TH: News 1
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/174663
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Russia Today
-https://iptv.skuy.co.id/live/bebas/nikmatin/51990.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/6fc40c06c8cb2f00cc6d940e2ad1b702.svg" group-title="ASEAN TV", TH: PPTV 36
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/281639
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", SCTV
-https://iptv.skuy.co.id/live/bebas/nikmatin/4.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ASEAN TV", TH: SBT TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/299488
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Soccer Channel
-https://iptv.skuy.co.id/live/bebas/nikmatin/90269.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/3f160557af8d2b69661ca59b531b71b7.jpeg" group-title="ASEAN TV", TH: Thai Parliament TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/285565
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Sony Gem
-https://iptv.skuy.co.id/live/bebas/nikmatin/39.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/15738560a31ca5567c4293d619ec7316.png" group-title="ASEAN TV", TH: Thai PBS 3
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/145027
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Sony One
-https://iptv.skuy.co.id/live/bebas/nikmatin/152.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/0244396f223842503ab8bfb9a7902576.png" group-title="ASEAN TV", TH: Thai TV 5
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/162537
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", SPO TV 1
-https://iptv.skuy.co.id/live/bebas/nikmatin/68.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/63b8c9e39df0f9f5812c40fd81f8ffec.png" group-title="ASEAN TV", TH: Thairath TV 32
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/23909
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", SPO TV 2
-https://iptv.skuy.co.id/live/bebas/nikmatin/87710.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/021476879e3c00b468957969dd99b258.png" group-title="ASEAN TV", TH: True 4U
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/54319
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Stingray Naturescape
-https://iptv.skuy.co.id/live/bebas/nikmatin/143889.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/590ebca19cefce3b34411f40e945241d.png" group-title="ASEAN TV", TH: True Premier Football 1
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/162591
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Suria
-https://iptv.skuy.co.id/live/bebas/nikmatin/132412.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/5f7b81ae336629c71d84283bcf1669a1.png" group-title="ASEAN TV", TH: True Sport 4
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/285569
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Tech Storm
-https://iptv.skuy.co.id/live/bebas/nikmatin/143888.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-05/da43304978d600b414aaef24cd6cd9dc.jfif" group-title="ASEAN TV", TH: True Vision NBA
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/281638
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Tennis Channel
-https://iptv.skuy.co.id/live/bebas/nikmatin/50.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/e856d2e65855aa3517fb075898524fc9.png" group-title="ASEAN TV", TH: Umm TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/158644
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Thrill
-https://iptv.skuy.co.id/live/bebas/nikmatin/22.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c2e56e3edee32f61fa3f82f5c5a9fc49.jfif" group-title="ASEAN TV", TH: V2H2 TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/195636
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TLC
-https://iptv.skuy.co.id/live/bebas/nikmatin/78.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a657c87c78ac0afeba2a1f9c9bef2260.png" group-title="ASEAN TV", TH: White Channel
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/23908
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Trans 7
-https://iptv.skuy.co.id/live/bebas/nikmatin/6.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/503b50d6b22d0ca34a837b142f9fcb13.jpg" group-title="ASEAN TV", TH: Work Point
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/23405
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Trans TV
-https://iptv.skuy.co.id/live/bebas/nikmatin/5.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/3c01a873fbf007c3fd33382ebd45d46f.jpg" group-title="ASEAN TV", TH: Yateem TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/158801
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TRT World
-https://iptv.skuy.co.id/live/bebas/nikmatin/133809.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/6cec74cc58cd1641d2b2566e768d9191.jfif" group-title="ASEAN TV", TH: Zabb Channel
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/158622
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TV One
-https://iptv.skuy.co.id/live/bebas/nikmatin/10.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/9d55b3f226ab7d36bd78dee89ed6a47a.png" group-title="ASEAN TV", SG: Asian Food Network
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/157549
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TV1
-https://iptv.skuy.co.id/live/bebas/nikmatin/177737.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ASEAN TV", SG: Channel 8
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/59293
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TV2
-https://iptv.skuy.co.id/live/bebas/nikmatin/177736.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/41cafcadf9e3bd00c4a9a012c2218b91.jpg" group-title="ASEAN TV", SG: Channel News Asia (CNA)
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/157524
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TVB Classic
-https://iptv.skuy.co.id/live/bebas/nikmatin/177742.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c922da17bb8dbfb8049917747ad87f0b.png" group-title="ASEAN TV", SG: CinemaWorld
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/171956
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TVB Xing He
-https://iptv.skuy.co.id/live/bebas/nikmatin/177741.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-09/e0eb1987c0c6676f82f1bf2a7bfc6246.png" group-title="ASEAN TV", SG: HITS Movies
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/296827
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TVKU
-https://iptv.skuy.co.id/live/bebas/nikmatin/117977.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ASEAN TV", SG: Suria
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/59290
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TVMU
-https://iptv.skuy.co.id/live/bebas/nikmatin/133801.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/98e7071dda87b21cbc412e0f7c29f0a6.png" group-title="ASEAN TV", SG: Tech Storm
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/299953
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TvN
-https://iptv.skuy.co.id/live/bebas/nikmatin/57.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ASEAN TV", SG: Vasantham
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/59297
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TvN Movies
-https://iptv.skuy.co.id/live/bebas/nikmatin/58.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ASEAN TV", ID: 01. ETV Live Event
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298491
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TVRI
-https://iptv.skuy.co.id/live/bebas/nikmatin/16.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ASEAN TV", ID: 02. ETV Live Event 02
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298492
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TVRI Sport
-https://iptv.skuy.co.id/live/bebas/nikmatin/133930.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ASEAN TV", ID: 24/7 Angry Birds Toons
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298493
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Useesport 1
-https://iptv.skuy.co.id/live/bebas/nikmatin/177746.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ASEAN TV", ID: 24/7 BabyBus Indonesia
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298494
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Useesport 2
-https://iptv.skuy.co.id/live/bebas/nikmatin/177747.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ASEAN TV", ID: 24/7 Donald Ducks
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298495
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Vasantham
-https://iptv.skuy.co.id/live/bebas/nikmatin/132411.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ASEAN TV", ID: 24/7 Doraemon
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298496
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Vision Prime
-https://iptv.skuy.co.id/live/bebas/nikmatin/132246.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ASEAN TV", ID: 24/7 Just For Laughs
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298497
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", VTV
-https://iptv.skuy.co.id/live/bebas/nikmatin/134473.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ASEAN TV", ID: 24/7 Mr Bean Cartoon
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298498
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Warner TV
-https://iptv.skuy.co.id/live/bebas/nikmatin/76.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ASEAN TV", ID: 24/7 Mr. Bean Classic
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298499
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Wesal TV
-https://iptv.skuy.co.id/live/bebas/nikmatin/16687.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ASEAN TV", ID: 24/7 Tom And Jerry
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298500
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", WWE Network
-https://iptv.skuy.co.id/live/bebas/nikmatin/18477.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ASEAN TV", ID: 24/7 Upin Ipin
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298501
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", ZeeBioskop
-https://iptv.skuy.co.id/live/bebas/nikmatin/27479.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ASEAN TV", ID: 24/7 Warkop DKI
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298502
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Play Sports 1
-https://iptv.skuy.co.id/live/bebas/nikmatin/178198.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ASEAN TV", ID: AMTV &#40;Aula Media TV&#41;
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/299484
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Play Sports 2
-https://iptv.skuy.co.id/live/bebas/nikmatin/178203.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/32ae863c9590a45b0a4f899c42c8b465.png" group-title="ASEAN TV", ID: ANIMAL PLANET
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/157532
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Play Sports 3
-https://iptv.skuy.co.id/live/bebas/nikmatin/178200.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ac69997f647a6e4b289ee8a647d0dfbd.png" group-title="ASEAN TV", ID: Animax
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/165081
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", SSC 1
-https://iptv.skuy.co.id/live/bebas/nikmatin/178193.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/d0f77c4ae23b787f4aab6ed458ece469.png" group-title="ASEAN TV", ID: AniPlus
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298504
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", SSC 2
-https://iptv.skuy.co.id/live/bebas/nikmatin/178199.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="ASEAN TV", ID: ANTV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/165072
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", SSC 3
-https://iptv.skuy.co.id/live/bebas/nikmatin/178189.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/32bd23bf3ba1d1f2e4f55a42a928169e.png" group-title="ASEAN TV", ID: Arirang
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/247447
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", SSC 4
-https://iptv.skuy.co.id/live/bebas/nikmatin/178196.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/125d62efd4ca9cc3e87364fa41cf6536.png" group-title="ASEAN TV", ID: Asian Food Network
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298503
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", SSC 5
-https://iptv.skuy.co.id/live/bebas/nikmatin/178192.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/3c8d63e4a3d5b6c065651caf9a8cde50.png" group-title="ASEAN TV", ID: AXN
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/165079
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", SSC Extra 1
-https://iptv.skuy.co.id/live/bebas/nikmatin/178202.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/5e1f1850a8202cc1ef4f60c2a0e8acd3.png" group-title="ASEAN TV", ID: Baby TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/157605
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", SSC Extra 2
-https://iptv.skuy.co.id/live/bebas/nikmatin/178201.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/8665e7afb44b5a32eb3b9e0fa2b9b12f.png" group-title="ASEAN TV", ID: Bali TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/197962
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", SSC Extra 3
-https://iptv.skuy.co.id/live/bebas/nikmatin/178194.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/2a775aaea195c8c104012a3f1823d059.jpeg" group-title="ASEAN TV", ID: Balikpapan TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/166409
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TNT Sports 1
-https://iptv.skuy.co.id/live/bebas/nikmatin/178190.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/425c62827170957e85a34b7e7563869c.png" group-title="ASEAN TV", ID: Bandung TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/166416
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TNT Sports 2
-https://iptv.skuy.co.id/live/bebas/nikmatin/178197.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ASEAN TV", ID: BBC Lifestyle
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/264747
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TNT Sports 3
-https://iptv.skuy.co.id/live/bebas/nikmatin/178191.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/0df06bc563f4f3bf615dc3ea7e55fb8c.png" group-title="ASEAN TV", ID: beIN Sports 1
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/165105
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", TNT Sports 4
-https://iptv.skuy.co.id/live/bebas/nikmatin/178195.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ba5a124ab816d4a371da240396786a62.png" group-title="ASEAN TV", ID: beIN Sports 3
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298506
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Sky Sports NBA
-https://iptv.skuy.co.id/live/bebas/nikmatin/178204.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/bd019732db2be6aed863964f280e1d0c.svg" group-title="ASEAN TV", ID: Berita Satu
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/162513
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ASEAN TV", Sky Sports PL
-https://iptv.skuy.co.id/live/bebas/nikmatin/178205.ts
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/88fc948cd7f31c7a29c4f302326724d7.png" group-title="ASEAN TV", ID: Berita Satu news
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/287421
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c5aca927f5717086d94a73d71939bffa.jpg" group-title="ASEAN TV", ID: Berita Satu World
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/162136
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c160471d97eadb4d67e82e6915754e96.png" group-title="ASEAN TV", ID: Bioskop Indonesia
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/264801
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/780b9b284a9a6eef24c46a6a1b64f894.png" group-title="ASEAN TV", ID: Bloomberg TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/157599
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/1d192d86ab16c1103668385201f76d94.png" group-title="ASEAN TV", ID: Boomerang
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/165109
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/417e73b7aedc07a73aa59b7d76bc6e6b.png" group-title="ASEAN TV", ID: Boomerang EN
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298507
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/bbdc8a56aca2bffb311728507a93f75f.png" group-title="ASEAN TV", ID: Cartoon Network
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/157593
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c4ab7dac711298d08ad55255eee58029.png" group-title="ASEAN TV", ID: CBeebies
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/247448
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e781645d9f686de47e29b212df4791a1.png" group-title="ASEAN TV", ID: CCM
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/165103
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/03722835968ebf5a812fcb4ad2d041dc.png" group-title="ASEAN TV", ID: Celestial Movies
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/165065
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/8bfe173c57ec17bf46e0f6ba975deb8a.png" group-title="ASEAN TV", ID: CGTN
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298510
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/493aaa3003ce5a94d1bcfa27cf5eedb2.png" group-title="ASEAN TV", ID: CGTN Documentary
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298511
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/9cb6c8614be38cc1944a1747d414bd86.png" group-title="ASEAN TV", ID: Champion TV 1
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298512
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/62e36432e548966b8c3a4a2afe63ee7e.png" group-title="ASEAN TV", ID: Champion TV 2
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298513
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/676a8a5e1a9ddc807d4c646db2863591.png" group-title="ASEAN TV", ID: Champion TV 3
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298514
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ef1ee75b73bdfcb0056cd605e00a2bca.png" group-title="ASEAN TV", ID: Channel News Asia
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/157602
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ASEAN TV", ID: Chinese Drama
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298516
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/67979916a84e98b9942945379c1e648b.png" group-title="ASEAN TV", ID: CinemaWorld
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/165082
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="ASEAN TV", ID: Cinemax
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/197964
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/582b49165511b164bcca3bc14a8c5b6d.png" group-title="ASEAN TV", ID: Citra Bioskop
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298519
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/675c678b8c55e53b1e5e9d3da50befb1.png" group-title="ASEAN TV", ID: Citra Dangdut
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/247446
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/f3002848368f2982b1a30e82f1842917.png" group-title="ASEAN TV", ID: Citra Drama
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/264748
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/9b24e6afb5920e1696c0a0fceda060cf.png" group-title="ASEAN TV", ID: Citra Entertainment
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298520
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4415ae88fbabaa7f388eaa7dead5e038.png" group-title="ASEAN TV", ID: CNBC Indonesia
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/165062
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/8d73d72ec854dfe8a9c9865555bb9728.png" group-title="ASEAN TV", ID: CNN Indonesia
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/162137
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/da42e92252317dddadd514f5c5b6e0dc.png" group-title="ASEAN TV", ID: CNN International
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/264778
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-09/01cc51b112da6bcf045df6318e213693.png" group-title="ASEAN TV", ID: Crime+ Investigation
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/165052
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/346b56a716927612398ba160e78effd0.png" group-title="ASEAN TV", ID: Da Ai TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/165061
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4ed79d28be4e787382d0b8bf16a2b69b.png" group-title="ASEAN TV", ID: Discovery World
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/157597
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a4ea1e073cfec663989ca1db24ba699f.png" group-title="ASEAN TV", ID: Disney Channel
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/165075
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7dcbeab064ba8b1eefb6115fc283aaeb.png" group-title="ASEAN TV", ID: Disney Junior
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/162511
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/d7b3960e71c668eeaff78b4145d6173e.png" group-title="ASEAN TV", ID: Disney XD
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/276564
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b83befd00501db18989297ee6b217e02.png" group-title="ASEAN TV", ID: DreamWorks
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/157610
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/848ef5f24db25a9bd1d39c675aa0dc80.png" group-title="ASEAN TV", ID: Dunia Anak
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/264753
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/7d1eda2ff2dc3180e2400733458a4a8b.png" group-title="ASEAN TV", ID: Dunia Lain
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298524
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/4438aed45f7b7df82c2bcba4858c3d88.png" group-title="ASEAN TV", ID: Eat&Go
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/264765
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/aae56ad9266b920e324b5de943da25ae.png" group-title="ASEAN TV", ID: Ent
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/157581
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ASEAN TV", ID: Etv Bioskop
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298526
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ASEAN TV", ID: Etv Bioskop 02
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298527
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ASEAN TV", ID: Etv Bioskop 03
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298528
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ASEAN TV", ID: Etv Bioskop 04
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298529
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/1b93a982149c1ae794f98d2c80c5bf5d.png" group-title="ASEAN TV", ID: Fashion TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298530
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/9a23440ace36f97097366f4bb8d2ecfa.png" group-title="ASEAN TV", ID: Fight Sport
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298531
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ASEAN TV", ID: FLIK
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/165095
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/5c412828b788580430141e8acf3d7425.png" group-title="ASEAN TV", ID: FMN
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/165057
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b4da330f49c65c6be3540a71af81d638.png" group-title="ASEAN TV", ID: Fox Life
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/165083
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/dddbae34f8fafd015e5221a02075ad19.png" group-title="ASEAN TV", ID: Galaxy
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/264773
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/3a174e88de5f3dad328641d7d7524b25.png" group-title="ASEAN TV", ID: Galaxy Premium
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/264774
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/5662c41e221b11f3cff14f60ac5b862e.png" group-title="ASEAN TV", ID: GEM
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298533
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="ASEAN TV", ID: GTV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/157578
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="ASEAN TV", ID: HBO
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/197972
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="ASEAN TV", ID: HBO Family
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/197055
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="ASEAN TV", ID: HBO Hits
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/196480
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="ASEAN TV", ID: HBO Signature
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/221948
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/cbfaa9907820b6dbfc30fe48ae8bf3b8.png" group-title="ASEAN TV", ID: HGTV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298535
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/64856f589d7cf4ebc75e471cc73e98f3.png" group-title="ASEAN TV", ID: Hip Hip Horee!
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298536
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/dfc965449b772322e8cb39b5c5491d62.png" group-title="ASEAN TV", ID: History
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/162519
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/ae782ad6176bbda366bbaf7e52bdff09.png" group-title="ASEAN TV", ID: Hits
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/165085
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0f522aea18d3fbc38100a8f629bb4f07.png" group-title="ASEAN TV", ID: Hits Movies
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/221947
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/1470dba88dbd7fa85ae09b801fee6fc9.png" group-title="ASEAN TV", ID: Horee!
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/264750
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-10/06da81eac8b78bcc95cff8e173d9ca07.png" group-title="ASEAN TV", ID: Huma Betang TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/299486
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/110bdcc65fd8509659d074e68e432214.png" group-title="ASEAN TV", ID: Hunan TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/247443
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/ccc0ed5631ee9e4dbde438fbcbbe0277.png" group-title="ASEAN TV", ID: I AM Channel
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/287423
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ASEAN TV", ID: I Konser
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/264760
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/aba9289c98406c8b6eaba1925ec4d591.png" group-title="ASEAN TV", ID: IDX
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/157590
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/2b58230b601a563bb26eb0e8adc69e5d.png" group-title="ASEAN TV", ID: IMC
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/264769
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ASEAN TV", ID: Indi Kids
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298539
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ASEAN TV", ID: Indosiar
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/162138
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png" group-title="ASEAN TV", ID: INews
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/157579
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ASEAN TV", ID: Infotainment
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298541
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/8accd154ca087aac62b6dfaba31b8507.png" group-title="ASEAN TV", ID: Insert
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/264766
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/520121649c890cfb036e87548beffed6.png" group-title="ASEAN TV", ID: Jak TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/157601
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/1cf2bc6e1e92eb6b90d262ac626787f7.png" group-title="ASEAN TV", ID: JTV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/165091
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce1fbaa72fd9c4f2b3095b33fc9fe696.png" group-title="ASEAN TV", ID: K+
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/197969
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/564c06a526774b8025fde18160461e1f.png" group-title="ASEAN TV", ID: KBS World
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/197053
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/2e7e12a2db287afa4fcc4f41d273004f.png" group-title="ASEAN TV", ID: Kids TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/162505
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/16d25160960bdf82fb24de6143ae7ae9.png" group-title="ASEAN TV", ID: KIX
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/165068
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png" group-title="ASEAN TV", ID: Kompas TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/165060
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/81b0c7cdcd17b9278bd3314c401b9600.png" group-title="ASEAN TV", ID: Life
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/157585
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/b6d40037e76d59f5cd57f43ea872153b.png" group-title="ASEAN TV", ID: Lifestyle & Fashion
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/157592
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/7aabd389aa14698263ab6099a84ae153.png" group-title="ASEAN TV", ID: Lifetime
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298543
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e4e8232626085a26b9c146aea7235215.png" group-title="ASEAN TV", ID: Love Nature
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/264756
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/db1dfff49cbaffb6a323ce329f64a2f8.png" group-title="ASEAN TV", ID: Mentari TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298546
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0d6aa1d2981e77a4613a82f086c66e6f.png" group-title="ASEAN TV", ID: Metro TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/165059
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/6dfb5c834dbf9a8ce7f257f63d9be322.png" group-title="ASEAN TV", ID: Miao Mi
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/266805
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/67fd02c3def9c39cfd50f6a5dfd16510.png" group-title="ASEAN TV", ID: MNC News
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/165058
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/b7918790d6ed6e4084150c40fd836251.png" group-title="ASEAN TV", ID: MNC Sports
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/157589
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a69bff38e05e469908d7e8190e1184eb.png" group-title="ASEAN TV", ID: MNC Sports 2
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298548
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e5b6a41ba121fd867a41a6e8ccf30b20.png" group-title="ASEAN TV", ID: MNC Sports 3
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298549
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="ASEAN TV", ID: MNC TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/165054
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="ASEAN TV", ID: Moji
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298550
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ASEAN TV", ID: MQTV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298551
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/291c3c364ac79b346426329acea392dd.png" group-title="ASEAN TV", ID: MTA 7 Asia
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/162522
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/572ee91ff1e528d04284dd7e952bed14.png" group-title="ASEAN TV", ID: MTA TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298552
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c55ff05370aeab02fdde282cdb7e6105.png" group-title="ASEAN TV", ID: Music TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/165108
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a33da8890f49577c3a90507a07c8815d.png" group-title="ASEAN TV", ID: My Cinema
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298553
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/7602d6c9a46aec9787799e32fda8d070.png" group-title="ASEAN TV", ID: My Cinema Asia
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298554
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/21e2e3ff0f19266e11d9456e6bf19494.png" group-title="ASEAN TV", ID: My Family
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298555
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/9dcac0452d126b9596563d6aec5aa7a3.png" group-title="ASEAN TV", ID: My Kidz
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298556
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/63e2ef1897448dd9519000543c357037.png" group-title="ASEAN TV", ID: Nat Geo
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/165094
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/0160f1fd2c3e9fd3a0d3338465d9b92f.png" group-title="ASEAN TV", ID: Nat Geo Wild
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/197967
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/640140bd2fc894332ef6c9f4fef9fd36.png" group-title="ASEAN TV", ID: NBA TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298558
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/708e6db12bbe5bfc95557e44f72ab6a0.png" group-title="ASEAN TV", ID: Net
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/80292
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/355fc0dc73253b7e89db48bfadbb2807.png" group-title="ASEAN TV", ID: NHK World
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298560
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c407878e19cad2a98a707210492d0f4c.png" group-title="ASEAN TV", ID: Nick Jr
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/165107
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/7e1eb622eae30edbe35b5b87868b19f4.png" group-title="ASEAN TV", ID: Nick Jr EN
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298561
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/e1dd8b2c9477e9c047fc597e8835eebb.png" group-title="ASEAN TV", ID: nickelodeon
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/162510
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/57916d34f1de029dc3287fae59b7ceb8.png" group-title="ASEAN TV", ID: Nusantara TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/166410
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/d606abe507f84e193a4667de2caf6c7f.png" group-title="ASEAN TV", ID: OK TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/221956
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ASEAN TV", ID: ONE
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298563
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/adfc2c1f1d74779905488ad1bc067153.png" group-title="ASEAN TV", ID: Paramount Network
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298564
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a5c26c764dbc192e64d3019219ebebaf.png" group-title="ASEAN TV", ID: Prambors
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/264761
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-10/3eab9934cb20ef8a82b2e1fc3c09aaf8.png" group-title="ASEAN TV", ID: Radar Cirebon TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/300662
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/553fc8904e711c0a1bf4f84ece28e985.png" group-title="ASEAN TV", ID: Rajawali TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/196457
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="ASEAN TV", ID: RCTI
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/157591
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/72d376f51855e885d4d094d6f697324e.png" group-title="ASEAN TV", ID: Rock Action
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298490
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/9a6cf4f6391f4d39f34c0a04a208e4c1.png" group-title="ASEAN TV", ID: Rock Entertaiment
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298565
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ASEAN TV", ID: Rock Extreme
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298566
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/25d069c7b9d080d58b938c698a148cdc.png" group-title="ASEAN TV", ID: Rodja TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/264758
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="ASEAN TV", ID: SCTV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/162141
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/66ccbde52f52776d0260f416549d914c.png" group-title="ASEAN TV", ID: SEA Today
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298568
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/8b87b060c72b157ad6ee4f1d2b025e31.png" group-title="ASEAN TV", ID: Sindonews TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/299485
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/da2ecbcb1534e2e02105084ca71466ad.png" group-title="ASEAN TV", ID: Smithsonian Channel
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/264767
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/c8bcdc3a1efe05b9889c9d515ec7fdbe.png" group-title="ASEAN TV", ID: Sony One
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/165077
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/957f888d2a434d5f6a1526e178dcec47.png" group-title="ASEAN TV", ID: SpoTV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298570
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/035c4b78f75c9bd0f7cfb4f61ebb3146.png" group-title="ASEAN TV", ID: SpoTV 2
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298571
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/54e3399a19f5ee556aa1f85f3103520c.png" group-title="ASEAN TV", ID: Tech Storm
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298572
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/9397a211ee5003fca0d125a8c2232edd.png" group-title="ASEAN TV", ID: Thrill
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/157580
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/9db0dba6fa657f28678589d5a274bfa9.png" group-title="ASEAN TV", ID: TLC
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/165086
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="ASEAN TV", ID: Trans 7
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/162502
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="ASEAN TV", ID: Trans TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/162503
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/276d4bb9823769badeb7209703d9e83a.png" group-title="ASEAN TV", ID: TV 9 Nusantara
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/162509
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="ASEAN TV", ID: TV One
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/296214
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ASEAN TV", ID: TVKU
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/166709
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/d8a152836e34ee6141b7efdf3d10da5b.png" group-title="ASEAN TV", ID: TVN
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/197965
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c99306ef4b6afd25b48264fb45e91306.png" group-title="ASEAN TV", ID: TVN Movies
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/157596
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/fa116bfa87b7355a9f73a63f8070843c.png" group-title="ASEAN TV", ID: TVRI
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/162504
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/65e84aeb0473183e918e3395efa3d64f.png" group-title="ASEAN TV", ID: TVRI 4
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/287433
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/c5c7106cdb7be8d41387d8696774d07b.png" group-title="ASEAN TV", ID: TVRI Jambi
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/166692
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/f9a14843b0ad55e50f9141733710994e.png" group-title="ASEAN TV", ID: TVRI Kalimantan Tengah
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/166702
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/05fa2b7d8fef39455387f2566b52701b.png" group-title="ASEAN TV", ID: TVRI Sport
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/166686
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/c13b7324e131c35d64fc7007c0b153ce.png" group-title="ASEAN TV", ID: TVRI Sulawesi Selatan
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/166699
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c06fb1934479ecc6192471dee8b59a73.png" group-title="ASEAN TV", ID: U Channel
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/162146
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b3c7f04ad2b1bdc88af962a4b2402136.png" group-title="ASEAN TV", ID: Usee Prime
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/162524
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ASEAN TV", ID: Usee Sport 1
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298577
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="ASEAN TV", ID: Usee Sport 2
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/298578
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/aace6b866a640045edacb67fe95b4435.png" group-title="ASEAN TV", ID: Vision Prime
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/197958
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/e08e2ff4a5f2f8c6b281d41b443aa6e2.jpg" group-title="ASEAN TV", ID: Warner TV
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/157594
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/4ffa668fdf208ec522418bd231225c7f.png" group-title="ASEAN TV", ID: Zee Bioskop
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/157584
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ffe9e8c7ffa0c48eccb971c397c8e0de.png" group-title="ASEAN TV", ID: ZooMoo
+http://37.49.225.117:8080/0613bffd/1a194bc3bd/264751
+
+
+
 
 
 
