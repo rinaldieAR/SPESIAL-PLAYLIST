@@ -302,9 +302,6 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=132717&ex
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=110765&extension=ts&play_token=8dUyatZl02
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/ligaeropa.png" group-title="#⚽EVENT BOLA⚽#", LIGA TOP EROPA 20
 http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1032471&extension=ts&play_token=InCwgv0Zsg
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/ligaeropa.png" group-title="#⚽EVENT BOLA⚽#", LIGA TOP EROPA 21
-http://nplay.is:2095/play/live.php?mac=10:27:BE:24:54:87&stream=28096_&extension=m3u8
 #EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/262/768/png-clipart-traffic-sign-sign-stop-angle-text.png" group-title="#⚽EVENT BOLA⚽#", CARI DI EROPA SPORT
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
@@ -400,7 +397,7 @@ http://live.watsits.art:80/play/live.php?mac=00:1A:79:C7:1E:07&stream=303021_&ex
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/logomotogp.png" group-title="#🏍️EVENT GP&F1🏎️#", GP 1
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:17:BE&stream=305274&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/logomotogp.png" group-title="#🏍️EVENT GP&F1🏎️#", GP 2
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch3300)/index.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3300%29/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/logomotogp.png" group-title="#🏍️EVENT GP&F1🏎️#", GP 3
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=692421&extension=ts&play_token=DNtPXPsBWp
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/logomotogp.png" group-title="#🏍️EVENT GP&F1🏎️#", GP 4
@@ -438,7 +435,7 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61977_&extens
 #EXTINF:-1 tvg-logo="https://www.mmawiki.org/en/wp-content/uploads/2014/02/ufc.jpg" group-title="#🥊EVENT UFC🥊", UFC LIVE 1
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=58305&extension=ts
 #EXTINF:-1 tvg-logo="https://www.mmawiki.org/en/wp-content/uploads/2014/02/ufc.jpg" group-title="#🥊EVENT UFC🥊", UFC LIVE 2
-http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=100967_&extension=ts
+http://190.61.43.117:45000/play/a060
 #EXTINF:-1 tvg-logo="https://www.mmawiki.org/en/wp-content/uploads/2014/02/ufc.jpg" group-title="#🥊EVENT UFC🥊", UFC LIVE 3
 http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=13259_&extension=ts
 #EXTINF:-1 tvg-logo="https://www.mmawiki.org/en/wp-content/uploads/2014/02/ufc.jpg" group-title="#🥊EVENT UFC🥊", UFC LIVE 4
