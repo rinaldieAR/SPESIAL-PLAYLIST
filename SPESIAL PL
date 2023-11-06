@@ -420,17 +420,63 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=79479&ext
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjPN1ahBMn-Dlf5P1L-ZHjVUWxPb3vBpd92A&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇮🇹#", DAZN ZONA IT HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:7E:AF&stream=56669&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyAGU3rKq-Q4upVyYDDhy5Q_NOfAcLm6rZzA&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇮🇹#", DAZN 1 ES
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=612264&extension=ts&play_token=V9sccPkwgY
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFV7fMwWm-r3a_xJ-RpbcLy0SGmnk3_BjUpg&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇮🇹#", DAZN 2 ES
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=612265&extension=ts&play_token=KGuq7bsCmW
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFV7fMwWm-r3a_xJ-RpbcLy0SGmnk3_BjUpg&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇮🇹#", DAZN 3 ES
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=612266&extension=ts&play_token=rXjLsvIH6B
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFV7fMwWm-r3a_xJ-RpbcLy0SGmnk3_BjUpg&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇮🇹#", DAZN 4 ES
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=612265&extension=ts&play_token=rXjLsvIH6B
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyAGU3rKq-Q4upVyYDDhy5Q_NOfAcLm6rZzA&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇮🇹#", DAZN 1 DE
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=411389&extension=ts&play_token=ip4liZ2ZbN
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFV7fMwWm-r3a_xJ-RpbcLy0SGmnk3_BjUpg&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇮🇹#", DAZN 2 DE
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1021296_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyAGU3rKq-Q4upVyYDDhy5Q_NOfAcLm6rZzA&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇮🇹#", DAZN LA LIGA
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=760760&extension=ts&play_token=Eer9aO17Oo
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAy6M9roB5zzsqC9YF5ZMU0WUU5dDcI9r3Mg&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇮🇹#", DAZN F1 IT
 http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=317784&extension=ts&play_token=cz0KKH7WWe
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAy6M9roB5zzsqC9YF5ZMU0WUU5dDcI9r3Mg&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇮🇹#", DAZN F1 DE
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=61977_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAy6M9roB5zzsqC9YF5ZMU0WUU5dDcI9r3Mg&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇮🇹#", DAZN NBA
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=699718&extension=ts&play_token=toLrOYoPp6
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAy6M9roB5zzsqC9YF5ZMU0WUU5dDcI9r3Mg&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇮🇹#", DAZN NFL
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=699719&extension=ts&play_token=r737rSi3j8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAy6M9roB5zzsqC9YF5ZMU0WUU5dDcI9r3Mg&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇮🇹#", DAZN MLB
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=699717&extension=ts&play_token=wIddfjDmez
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAy6M9roB5zzsqC9YF5ZMU0WUU5dDcI9r3Mg&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇮🇹#", DAZN EVENT 1
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=699716&extension=ts&play_token=rdAmGZQV3g
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAy6M9roB5zzsqC9YF5ZMU0WUU5dDcI9r3Mg&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇮🇹#", DAZN EVENT 2
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=699715&extension=ts&play_token=rdAmGZQV3g
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAy6M9roB5zzsqC9YF5ZMU0WUU5dDcI9r3Mg&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇮🇹#", DAZN EVENT 3
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=699714&extension=ts&play_token=rdAmGZQV3g
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAy6M9roB5zzsqC9YF5ZMU0WUU5dDcI9r3Mg&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇮🇹#", DAZN EVENT 4
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=699713&extension=ts&play_token=rdAmGZQV3g
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAy6M9roB5zzsqC9YF5ZMU0WUU5dDcI9r3Mg&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇮🇹#", DAZN EVENT 5
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=699712&extension=ts&play_token=rdAmGZQV3g
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAy6M9roB5zzsqC9YF5ZMU0WUU5dDcI9r3Mg&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇮🇹#", DAZN EVENT 6
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=699711&extension=ts&play_token=rdAmGZQV3g
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAy6M9roB5zzsqC9YF5ZMU0WUU5dDcI9r3Mg&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇮🇹#", DAZN EVENT 7
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=699710&extension=ts&play_token=rdAmGZQV3g
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAy6M9roB5zzsqC9YF5ZMU0WUU5dDcI9r3Mg&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇮🇹#", DAZN EVENT 8
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=699709&extension=ts&play_token=rdAmGZQV3g
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAy6M9roB5zzsqC9YF5ZMU0WUU5dDcI9r3Mg&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇮🇹#", DAZN WEB 1
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=601791&extension=ts&play_token=r1V63gH36x
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAy6M9roB5zzsqC9YF5ZMU0WUU5dDcI9r3Mg&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇮🇹#", DAZN WEB 2
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=601790&extension=ts&play_token=MS7R7LJ8Xj
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAy6M9roB5zzsqC9YF5ZMU0WUU5dDcI9r3Mg&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇮🇹#", DAZN WEB 3
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=601789&extension=ts&play_token=MS7R7LJ8Xj
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAy6M9roB5zzsqC9YF5ZMU0WUU5dDcI9r3Mg&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇮🇹#", DAZN WEB 4
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=601788&extension=ts&play_token=MS7R7LJ8Xj
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAy6M9roB5zzsqC9YF5ZMU0WUU5dDcI9r3Mg&usqp=CAU" group-title="#🇪🇸EVENT DAZN🇮🇹#", DAZN WEB 5
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=601787&extension=ts&play_token=MS7R7LJ8Xj
+
+
+
 
 #EXTINF:-1 tvg-logo="https://www.mmawiki.org/en/wp-content/uploads/2014/02/ufc.jpg" group-title="#🥊EVENT UFC🥊", UFC LIVE 1
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=58305&extension=ts
