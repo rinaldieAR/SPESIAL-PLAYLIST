@@ -2285,19 +2285,6 @@ INDEKOS   ############
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="INDEKOS TV", ###INDEKOS TV###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
-#EXTINF:-1 group-title="INDEKOS TV" tvg-logo="_______", TRANS 7
-http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=54266_&extension=ts
-#EXTINF:-1 group-title="INDEKOS TV" tvg-logo="_______", ANTV
-http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=54246_&extension=ts
-#EXTINF:-1 group-title="INDEKOS TV" tvg-logo="_______", METRO
-http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=54223_&extension=ts
-#EXTINF:-1 group-title="INDEKOS TV" tvg-logo="_______", CNN INDONESIA
-http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=54218_&extension=ts
-
-#EXTINF:-1 group-title="INDEKOS TV" tvg-logo="_______", DAAI TV
-http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=54248_&extension=ts
-
-
 
 #EXTINF:-1 group-title="INDEKOS TV" tvg-logo="_______", INDOSIAR
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -2390,9 +2377,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/tvn/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
-
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/38.jpg" group-title="INDEKOS TV", ANIPLUS
-http://rr.dens.tv/h/h114/S4/mnf.m3u8
 
 #EXTINF:-1 group-title="INDEKOS TV" tvg-logo="_______", AXN
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -2679,6 +2663,8 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3300%29/inde
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch21%29/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="FIRSTMEDIA", PREMIER SPORT
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch320%29/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/38.jpg" group-title="FIRSTMEDIA", ANIPLUS
+http://rr.dens.tv/h/h114/S4/mnf.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ac69997f647a6e4b289ee8a647d0dfbd.png" group-title="FIRSTMEDIA", ANIMAX
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch52%29/index.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1d192d86ab16c1103668385201f76d94.png" group-title="FIRSTMEDIA", BOOMERANG
@@ -7564,25 +7550,20 @@ http://servi-teevee.net:80/play/OtwSvzebcZSpHfatJPpr4wUEZYbEbHD6qigpLkv8wGT624YK
 http://servi-teevee.net:80/play/OtwSvzebcZSpHfatJPpr4wUEZYbEbHD6qigpLkv8wGSU7uUP6BheZuNornMpNYyv
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASIA SPORT", ASTRO SUPERSPORT 1 BK
-http://solestar.ddns.me:81/play/live.php?mac=00:1A:79:12:34:5A&stream=38186_&extension=ts
+http://line.atlaspro4k.me:80/play/live.php?mac=00:1A:79:E2:3F:6B&stream=828097&extension=ts&play_token=SELC1HiUlr
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="ASIA SPORT", ASTRO SUPERSPORT 2 BK
-http://solestar.ddns.me:81/play/live.php?mac=00:1A:79:12:34:5A&stream=38187_&extension=ts
+http://line.atlaspro4k.me:80/play/live.php?mac=00:1A:79:E2:3F:6B&stream=828097&extension=ts&play_token=SELC1HiUlr
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6hyQfCsG2uj55y1lfQkHLo5SeTvsJEr4j6nCVwUnioe5X2MlOaRK-ijrS2KmXh0GDubc&usqp=CAU" group-title="ASIA SPORT", ASTRO SUPERSPORT 3 BK
-http://solestar.ddns.me:81/play/live.php?mac=00:1A:79:12:34:5A&stream=38189_&extension=ts
+http://line.atlaspro4k.me:80/play/live.php?mac=00:1A:79:E2:3F:6B&stream=828096&extension=ts&play_token=SELC1HiUlr
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="ASIA SPORT", ASTRO SUPERSPORT 4 BK
-http://solestar.ddns.me:81/play/live.php?mac=00:1A:79:12:34:5A&stream=38191_&extension=ts
+http://line.atlaspro4k.me:80/play/live.php?mac=00:1A:79:E2:3F:6B&stream=828095&extension=ts&play_token=x9CXqRFDRS
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Astro_SuperSport_UHD.png/revision/latest?cb=20220415221642" group-title="ASIA SPORT", ASTRO SUPERSPORT 5 BK
-http://solestar.ddns.me:81/play/live.php?mac=00:1A:79:12:34:5A&stream=1117031_&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2dcE3mjJNK1PXvA6dyegcuadQrjtNZjxKwg&usqp=CAU" group-title="ASIA SPORT", BEIN SPORTS 1 MY
-http://solestar.ddns.me:81/play/live.php?mac=00:1A:79:12:34:5A&stream=38196_&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2dcE3mjJNK1PXvA6dyegcuadQrjtNZjxKwg&usqp=CAU" group-title="ASIA SPORT", BEIN SPORTS 2 MY
-http://solestar.ddns.me:81/play/live.php?mac=00:1A:79:12:34:5A&stream=38198_&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2dcE3mjJNK1PXvA6dyegcuadQrjtNZjxKwg&usqp=CAU" group-title="ASIA SPORT", BEIN SPORTS 3 MY
-http://solestar.ddns.me:81/play/live.php?mac=00:1A:79:12:34:5A&stream=1117032_&extension=ts
+http://line.atlaspro4k.me:80/play/live.php?mac=00:1A:79:E2:3F:6B&stream=828094&extension=ts&play_token=N2RTgvVxRR
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="ASIA SPORT", ASTRO CRICKET BK
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=315181&extension=ts&play_token=JBdPJX1QWc
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/HUB%201.png" group-title="ASIA SPORT", HUB SPORT 1 HU
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=941573&extension=ts&play_token=RP5LJytYQt
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/HUB%202.png" group-title="ASIA SPORT", HUB SPORT 2 HU
