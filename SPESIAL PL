@@ -13284,1453 +13284,258 @@ http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=65415_&extens
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT WORLD 2", MATCH CTPAHA RU
 http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=65331_&extension=ts
 
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", RMC SPORT 1
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=65938_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", beIN SPORTS FEED YAYIN mac saati aktif
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/12
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", RMC SPORT 2
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=65939_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", beIN SPORTS 1 FULL HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/5395
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", RMC SPORT 3
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=65941_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", beIN SPORTS 1 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/8
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", RMC SPORT 4
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=65944_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", beIN SPORTS 1 QHD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/5396
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", RMC SPORT 5
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=65943_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", beIN SPORTS 1 SD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/9
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", BEIN SPORT 1
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=65960_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", beIN SPORTS 1 MOBIL
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/11
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", BEIN SPORT 2
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=65962_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", beIN SPORTS 1 480p
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/26
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", BEIN SPORT 3
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=65963_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", beIN SPORTS 1 4K YUKSEK KALITE
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/7
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", BEIN SPORT MAX 4
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=65965_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", beIN SPORTS 2 FHD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/14
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", BEIN SPORT MAX 5
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=65966_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", beIN SPORTS 2 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/15
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", BEIN SPORT MAX 6
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=65967_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", beIN SPORTS 2 SD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/16
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", BEIN SPORT MAX 7
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=65968_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", beIN SPORTS 3 FHD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/17
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", BEIN SPORT MAX 8
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=65969_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", beIN SPORTS 3 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/18
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", BEIN SPORT MAX 9
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=65970_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", beIN SPORTS 3 SD MOBIL
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/9237
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", beIN SPORTS 4 FHD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/19
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", TRT SPORT 1
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=2015_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", beIN SPORTS 4 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/9238
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", TRT SPORT 2
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=2019_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", beIN SPORTS 5 FHD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/69216
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", TRT SPORT 3
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=2020_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", beIN SPORTS 5 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/69215
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", TIVIBU SPORT 1
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=2041_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", beIN SPORTS MAX 1 FHD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/20
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", TIVIBU SPORT 2
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=2045_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", beIN SPORTS MAX 1 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/9233
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", TIVIBU SPORT 3
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=33296_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", beIN SPORTS MAX 1 Yedek
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/9234
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", SMART SPORT 1
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=2032_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", beIN SPORTS MAX 2 FHD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/21
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", SMART SPORT 2
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=2034_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", beIN SPORTS MAX 2 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/9235
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", A SPORT
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=2023_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", beIN SPORTS MAX 2 Yedek
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/9236
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", beIN SPORTS HABER FHD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/22
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", S SPORT 1
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=2026_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", beIN SPORTS HABER HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/22358
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", S SPORT 2
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=2029_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", S SPORT FHD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/24
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", BEIN SPORT HABER
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=2195_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", S SPORT HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/20085
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", BEIN SPORT 1
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=2199_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", S SPORT 2 FHD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/25
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", BEIN SPORT 2
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=2207_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", S SPORT 2 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/20086
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", BEIN SPORT 3
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=2209_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", EUROSPORT 1 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/34
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", BEIN SPORT 4
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=2212_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", EUROSPORT 2 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/35
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", BEIN SPORT 5
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=210061_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", EDGE SPORT HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/21010
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", BEIN SPORT MAX 1
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=2215_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", S SPORT PLUS 1 HD ( Yayın zamanı aktif )
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/35959
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", BEIN SPORT MAX 2
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=2217_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", S SPORT PLUS 2 HD ( Yayın zamanı aktif )
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/35960
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", S SPORT PLUS 3 HD ( Yayın zamanı aktif )
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/35961
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", DAZN EVENT 1
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=64945_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", S SPORT PLUS 4 HD ( Yayın zamanı aktif )
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/35962
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", DAZN EVENT 2
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=64946_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", S SPORT PLUS 5 HD ( Yayın zamanı aktif )
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/35963
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", DAZN EVENT 3
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=64947_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", S SPORT PLUS 6 HD ( Yayın zamanı aktif )
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/35964
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", DAZN EVENT 4
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=64948_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", TR: EUROSPORT 1 RAW
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/59917
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", DAZN EVENT 5
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=64949_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", TR: EUROSPORT 2 RAW
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/59918
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", DAZN EVENT 6
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=64950_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", TR: b**N SPORTS HABER RAW
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/59919
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", DAZN EVENT 7
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=64951_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", TR: S SPORT RAW
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/59924
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", DAZN EVENT 8
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=64952_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", TR: S SPORT2 RAW
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/59925
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", DAZN EVENT 9
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=64953_&extension=ts
 
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", DAZN EVENT 10
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=64954_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SKY SPORT 1 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/4854
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", DAZN EVENT 11
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=64955_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SKY SPORT 1 FHD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/4855
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", DAZN EVENT 12
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=64956_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SKY SPORT 1 (2K)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/4856
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", DAZN EVENT 13
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=64957_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SKY SPORT 2
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/4857
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", DAZN EVENT 14
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=64958_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SKY SPORT 2 FHD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/4858
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SKY SPORT 2 (2K)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/4859
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", DAZN EVENT 15
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=64959_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SKY SPORT 3 FHD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/4860
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", SPORT KLUB
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=242989_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SKY SPORT 3
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/4861
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", SPORT KLUB 1
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=242990_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SKY SPORT 4 FHD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/4862
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", SPORT KLUB 2
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=242991_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SKY SPORT 4
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/4863
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", SPORT KLUB 3
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=242992_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SKY SPORT 5 FHD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/4864
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", SPORT KLUB 4
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=242993_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SKY SPORT 5
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/4865
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", SPORT KLUB 5
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=242994_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SKY SPORT 6 FHD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/4866
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", SPORT KLUB 6
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=243043_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SKY SPORT 6
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/4867
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", SPORT KLUB 7
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=243044_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SKY SPORT 7 FHD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/4868
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", SPORT KLUB 8
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=243045_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SKY SPORT 7
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/4869
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", SPORT KLUB 9
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=243046_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SKY SPORT 8 FHD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/4870
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", ARENA SPORT 1X2
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=242987_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SKY SPORT 8
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/4871
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", ARENA SPORT PREMIUM 1
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=243035_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SKY SPORT 9 FHD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/4872
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", ARENA SPORT PREMIUM 2
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=243036_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SKY SPORT 10 FHD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/4873
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", ARENA SPORT PREMIUM 3
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=243037_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SKY SPORT 11 FHD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/4874
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", ARENA SPORT 1
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=243027_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SKY SPORT 12 FHD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/4875
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", ARENA SPORT 2
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=243028_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SKY SPORT 13 FHD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/4876
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", ARENA SPORT 3
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=243029_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SKY SPORT 14 FHD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/4877
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", ARENA SPORT 4
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=243030_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SKY SPORT NEWS HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/4878
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", ARENA SPORT 5
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=243031_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SKY SPORT TENNİS
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/91077
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", ARENA SPORT 6
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=243032_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SKY SPORT PREMIER LEAGUE HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/70458
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", ARENA SPORT 7
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=243033_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SKY SPORT MIX FHD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/92952
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", ARENA SPORT 8
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=243034_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SKY SPORT MIX HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/92953
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", ARENA SPORT 9
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=55327_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SKY SPORT AUSTRIA 1 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/4892
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", ARENA SPORT 10
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=55328_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SKY SPORT AUSTRIA 2 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/4893
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", CYTAVISION SPORT 1
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=253345_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SKY SPORT AUSTRIA 3 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/4894
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", CYTAVISION SPORT 2
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=253346_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SKY SPORT AUSTRIA 4 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/4895
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", CYTAVISION SPORT 3
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=253347_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SKY SPORT F1
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/32103
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", CYTAVISION SPORT 4
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=253348_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SKY SPORT F1+
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/32104
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", CYTAVISION SPORT 5
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=253349_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SPORT 1
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/65137
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", CYTAVISION SPORT 6
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=253350_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", DAZN 1 FHD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/4879
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", CYTAVISION SPORT 7
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=253351_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", DAZN 1 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/4880
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", TNT SPORT 1
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=55312_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", DAZN 2 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/4881
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", TNT SPORT 2
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=55313_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", DAZN 2 FHD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/4882
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", TNT SPORT 3
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=55314_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", DAZN Event 1
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/70406
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", DAZN Event 2
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/70407
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", DAZN Event 3
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/70408
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", DAZN Event 4
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/70409
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", DAZN Event 5
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/70410
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", DAZN Event 6
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/70411
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", DAZN Event 7
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/70412
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", DAZN Event 8
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/70413
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", DAZN Event 9
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/70414
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", DAZN Event 10
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/70415
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", DAZN Event 11
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/70416
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", DAZN Event 12
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/70417
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", DAZN Event 13
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/70418
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", DAZN Event 14
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/70419
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", DAZN Event 15
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/70420
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", DAZN Event 16
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/70421
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", DAZN Event 17
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/70422
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", EUROSPORT 1 DE
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/4883
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", EUROSPORT 1 DE (2K)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/4884
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", EUROSPORT 2 DE
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/4885
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", EUROSPORT 2 DE (2K)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/4886
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", EUROSPORT 2 XTRA HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/4887
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SPORTDIGITAL HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/4889
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", ORF SPORT  HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/4890
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", AT | ORF Sport+ HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/20793
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", AT | Sky Sport Austria 3 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/20800
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", AT | Sky Sport Austria 2 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/20801
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", AT | Sky Sport Austria 1 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/20803
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", AL: Ksport 4
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73125
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", AL: Ksport 3
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73126
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", AL: Super Sport 1
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73185
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", AL: Super Sport 2 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73186
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", AL: Super Sport 2
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73187
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", AL: Super Sport 3 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73188
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", AL: Super Sport 3
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73189
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", AL: Super Sport 4 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73190
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", AL: Super Sport 4
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73191
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", AL: Super Sport 5 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73192
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", AL: Super Sport 5
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73193
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", AL: ART Sport 1 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73194
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", AL: ART Sport 2 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73195
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", AL: ART Sport 3 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73196
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", AL: Tring Sport 1 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73198
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", AL: Tring Sport 1
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73199
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", AL: Tring Sport 2
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73200
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", AL: Ksport 1
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73201
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", AL: Ksport 2
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73202
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", AL: Tring Sport 3
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73203
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", DK: TV 2 Sport
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73722
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", DK: V Sport Golf
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73748
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", DK: TV3 Sport
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73766
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", DK: Eurosport 1 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73767
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", DK: Eurosport 2 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73768
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", Swiss: Blue Sport Event 1
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72566
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", Swiss: Blue Sport 1 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72567
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", Swiss: Blue Sport 2 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72568
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", Swiss: MySports 1 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72569
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", Swiss: MySports 2 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72570
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", Swiss: My Sport 3 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72571
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", Swiss: My Sport 4 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72572
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", Swiss: MySport 5 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72573
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", Swiss: MySport 6 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72574
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", Swiss: MySport 7 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72575
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", Swiss: MySport 8 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72576
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", AZ: CBC SPORT HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/898
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: SKY SPORT NEWS (UK)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72186
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: SKY SPORT PREMIER LEAGUE (UK)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72187
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: SKY SPORTS FOOTBALL (UK)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72188
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: SKY SPORT ACTION (UK)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72189
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: SKY SPORTS ARENA (UK)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72190
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: SKY SPORT MIX (UK)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72191
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: SKY SPORTS MAIN EVENT (UK)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72192
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: SKY SPORTS F1 (UK)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72193
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: SKY SPORT GOLF (UK)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72194
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: SKY SPORT CRICKET (UK)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72195
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: BT SPORT 1 (UK)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72196
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: BT SPORT 2 (UK)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72197
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: BT SPORT 3 (UK)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72198
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: SPORT TV 1 (PT)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72199
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: SPORT TV 2 (PT)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72200
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: SPORT TV 3 (PT)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72201
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: SPORT TV 4 (PT)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72202
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: SPORT TV 5 (PT)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72203
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: ELEVEN SPORT 1 (PT)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72204
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: ELEVEN SPORT 2 (PT)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72205
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: b**N SP0RTS 1 HD+(TR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72206
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: b**N SP0RTS 2 HD+(TR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72207
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: SKY SPORT NEWS (DE)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72208
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: SKY SPORT 1 (DE)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72209
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: SKY SPORT 2 (DE)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72210
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: BUNDESLIGA 1 (DE)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72211
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: DAZN Sport 1 HD (DE)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72212
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: DAZN Sport 2 HD (DE)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72213
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: ESPN 1 HD (NL)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72214
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: ESPN 2 HD (NL)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72215
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: ZIGGO SPORT SELECT HD (NL)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72216
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: ELEVEN SPORT 1 (PL)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72217
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: ELEVEN SPORT 2 (PL)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72218
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: ELEVEN SPORT 3 (PL)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72219
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: Canal  Sport 1 HD (PL)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72220
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: Canal  Sport 2 HD (PL)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72221
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: b**N SP0RTS PREMIUM 1 AR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72222
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: b**N SP0RTS PREMIUM 2 (AR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72223
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: b**N SP0RTS PREMIUM 3 (AR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72224
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: b**N SP0RTS 1 (AR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72225
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: b**N SP0RTS 2 (AR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72226
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: b**N SP0RTS 3 (AR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72227
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: b**N SP0RTS 4 (AR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72228
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: b**N SP0RTS 5 (AR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72229
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: b**N SP0RTS 6 (AR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72230
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: b**N SP0RTS 7 (AR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72231
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: b**N SP0RTS 1 EN (AR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72232
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: b**N SP0RTS 2 EN (AR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72233
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: b**N SP0RTS M*X 1 (AR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72234
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: b**N SP0RTS M*X 2 (AR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72235
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: b**N SP0RTS M*X 3 (AR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72236
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: b**N SP0RTS M*X 4 (AR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72237
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: b**N SP0RTST M*X 5 (AR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72238
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: b**N SP0RTS MAX 6 (AR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72239
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: RMC SPORT 1 (FR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72240
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: RMC SPORT 2 (FR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72241
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: RMC SPORT 3 (FR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72242
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: RMC SPORT 4 (FR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72243
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: LALIGA TV BAR (ES)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72244
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: Arena Sport 1 HD (EX-YU)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72245
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: Arena Sport 2 HD (EX-YU)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72246
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: Arena Sport 3 HD (EX-YU)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72247
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: Arena Sport 4 HD (EX-YU)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72248
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: Arena Sport 5 HD (EX-YU)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72249
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: SPORT KLUB 1 (EX-YU)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72250
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: SPORT KLUB 2 (EX-YU)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72251
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: SPORT KLUB 3 (EX-YU)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72252
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: SPORT KLUB 4 (EX-YU)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72253
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: Super Sport 1 (AL)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72254
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: Super Sport 2 (AL)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72255
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: Super Sport 3 (AL)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72256
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: Tring Sport 1 (AL)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72257
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: Tring Sport 2 (AL)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72258
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: DIGI SPORT 1 (RO)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72259
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: DIGI SPORT 2 (RO)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72260
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: DIGI SPORT 3 (RO)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72261
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: DIGI SPORT 4 (RO)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72262
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: UFC Network
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72263
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: NBA Network (US)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72264
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: NHL Network (US)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72265
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: MLB Network (US)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72266
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: NFL Network (US)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72267
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", VIP SPORT: WWE Network (US)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72268
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", FR: CANAL+ HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/71362
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", FR: RMC SPORT 1
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/71398
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", FR: RMC SPORT 2
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/71399
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", FR: RMC SPORT 3
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/71400
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", FR: RMC SPORT 4
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/71401
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", FR: CANAL+ LIGUE premier  1
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/71418
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", FR: CANAL  Sport HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/71419
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", FR: Eurosport 1 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/71420
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", FR: Eurosport 2 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/71421
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", FR: INFOSPORT
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/71423
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", FR: INFOSPORT+
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/71424
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", NL: EUROSPORT 1 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72331
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", NL: EUROSPORT 2 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72332
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", NL: ESPN 1 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72341
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", NL: ESPN 2 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72342
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", NL: ESPN 3 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72343
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", NL: ESPN 4 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72344
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", NL: ZIGGO RACING HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72345
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", NL: ZIGGO SPORT DOCU HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72346
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", NL: ZIGGO SPORT GOLF HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72347
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", NL: ZIGGO SPORT SELECT HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72348
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", NL: ZIGGO SPORT EXTRA
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72349
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", NL: ZIGGO SPORT VOETBAL
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72362
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", NL: ESPN HD RAW
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72392
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", NL: ESPN 2 HD RAW
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72393
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", NL: ESPN 4 HD RAW
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72394
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", NL: Ziggo Sport Select HD RAW
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72395
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", ES: EUROSPORT 1 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72470
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", ES: EUROSPORT 2
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72471
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", ES: DAZN 1 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72479
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", ES: DAZN 2 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72480
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", ES: DAZN 3 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72481
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", ES: DAZN 4 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72482
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", ES: DAZN F1 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72483
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", PL: TVP Sport HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72626
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", PL: CANAL  SPORT 2 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72649
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", PL: CANAL  SPORT 3 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72650
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", PL: CANAL  SPORT 4 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72651
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", PL: CANAL  SPORT HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72652
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", PL: Eleven Sports 1 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72672
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", PL: Eleven Sports 2 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72673
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", PL: Eleven Sports 3 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72674
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", PL: ELEVEN SPORTS 4 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72675
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", PL: Eurosport 1 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72680
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", PL: Eurosport 2 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72681
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", PL: Extreme Sports HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72682
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", PL: nSport
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72716
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", PL: Polsat Sport Extra HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72732
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", PL: Polsat Sport Fight HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72733
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", PL: Polsat Sport HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72734
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", PL: Polsat Sport News HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72735
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", PL: Polsat Sport Premium 1
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72736
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", PL: Polsat Sport Premium 2
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72737
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", PL: Sportklub HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72745
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", PL: POLSAT SPORT PREMIUM 3
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72761
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", PL: POLSAT SPORT PREMIUM 4
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72762
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", PL: POLSAT SPORT PREMIUM 5
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72763
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", PL: POLSAT SPORT PREMIUM 6
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72764
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", RO: Extreme Sport RO
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72152
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", RO: EUROSPORT 1 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72167
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", RO: EUROSPORT 2 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72168
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", RO: Prima Sport 2 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72170
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", RO: Prima Sport 1 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72171
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", RO: DIGI SPORT 1 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72172
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", RO: DIGI SPORT 2 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72173
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", RO: DIGI SPORT 3 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72174
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", RO: DIGI SPORT 4 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72175
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", RO: Orange Sport 1 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72176
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", RO: Orange Sport 2 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72177
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", RO: Orange Sport 3 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72178
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", RO:  Orange Sport 4 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72179
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", IT:  SKY SPORT 24 HEVC
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72789
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", IT: SKY SPORT UNO HEVC
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72790
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", IT: SKY SPORT MOTOGP HEVC
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72791
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", IT: SKY SPORT 24 FHD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72893
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", IT: SKY SPORT 24 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72894
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", IT: SKY SPORT UNO 4K
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72895
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", IT: SKY SPORT UNO FHD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72896
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", IT: SKY SPORT UNO HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72897
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", IT: SKY SPORT FORMULA 1 FHD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72898
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", IT: SKY SPORT FORMULA 1 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72899
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", IT: SKY SPORT MOTOGP FHD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72900
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", IT: SKY SPORT MOTOGP HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72901
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", IT: SKY SPORT FOOTBALL FHD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72902
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", IT: SKY SPORT FOOTBALL HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72903
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", IT: Sky Sport 251 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72904
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", IT: SKY SPORT ARENA FHD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72905
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", IT: SKY SPORT ARENA HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72906
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", IT: SKY SPORT NBA FHD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72907
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", IT: SKY SPORT NBA HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72908
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", IT: Sky Sport Tennis HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72909
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", IT: RAI SPORT
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72922
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", UK: Premier Sport
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/71560
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", UK: Premier Sports 1
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/71561
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", UK: Premier Sport 2
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/71562
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", UK: Eir Sport 1
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/71563
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", UK: Eir Sport 2
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/71564
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", UK: BT Sport 1
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/71565
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", UK: BT Sport 2
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/71566
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", UK: BT Sport 3
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/71567
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", UK: BT Sport ESPN
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/71568
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", UK: SKY Sports Main Event
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/71569
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", UK: S*y Sports Mix
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/71577
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", UK: S*y Sports F1
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/71578
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", UK: Motorsport TV
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/71579
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", UK: EDGEsport
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/71581
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", UK: Eurosport 1
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/71582
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", UK: Eurosport 2
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/71583
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", UK: S*y Sport Racing
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/71587
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", BG: MAX SPORT 3
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73209
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", BG: Sport   HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73215
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", BG: NOVA SPORT
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73221
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", BG: DIEMA SPORT
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73244
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", BG: DIEMA SPORT 2
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73245
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", BG: DIEMA SPORT 3 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73246
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", BG: MAX SPORT 4
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73274
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", AR: Iraqia Sport
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/71812
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", AR: ON  Sport
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/71835
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", AR: Nile Sport
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/71873
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", AR: dmc Sports
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/71880
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", AR: Libya Sport Channel
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/71937
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", RU: Eurosport 1 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73559
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", RU: Eurosport 2 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73560
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", RU: Extreme Sports
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73564
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", RU: Viasat Sport HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73568
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", RU: Trace Sport Stars HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73571
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", RU: Trace Sport Stars HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73584
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", BE: PROXIMUS SPORT 1 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72959
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", BE: ELEVENSPORT 1 HD (BE)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72960
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", BE: ELEVENSPORT 1 HD (FR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72961
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", BE: ELEVENSPORT 2 HD (BE)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72962
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", BE: ELEVENSPORT 2 HD (FR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72963
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", BE: ELEVENSPORT 3 HD (BE)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72964
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", BE: ELEVENSPORT 3 HD (FR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72965
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", BE: PLAY SPORTS 1 HD+
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72970
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", BE: PLAY SPORTS 2 HD+
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72971
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", BE: PLAY SPORTS 3 HD+
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72972
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", BE: VOO SPORT WORLD 1 HD+
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72978
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", BE: VOO SPORT WORLD 2 HD+
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72979
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", BE: VOO SPORT WORLD 3 HD+
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72980
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", EX-YU: Arena Sport 1 HD (HR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/74575
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", EX-YU: Arena Sport 2 HD (HR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/74576
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", EX-YU: Arena Sport 3 HD (HR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/74577
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", EX-YU: Arena Sport 4 HD (HR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/74578
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", EX-YU: Arena Sport 5 HD (HR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/74579
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", EX-YU: Arena Sport 6 HD (HR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/74580
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", EX-YU: Arena Sport 1 HD (SR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/74581
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", EX-YU: Arena Sport 2 HD (SR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/74582
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", EX-YU: Arena Sport 3 HD (SR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/74583
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", EX-YU: Arena Sport 4 HD (SR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/74584
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", EX-YU: Arena Sport 5 (SR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/74585
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", EX-YU: Sport Klub HD (HR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/74586
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", EX-YU: Sport Klub HD (SR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/74587
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", EX-YU: Sport Klub 1 HD (HR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/74588
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", EX-YU: Sport Klub 2 HD (HR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/74589
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", EX-YU: Sport Klub 3 HD (HR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/74590
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", EX-YU: Sport Klub 4 (HR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/74591
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", EX-YU: Sport Klub 5 (HR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/74592
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", EX-YU: Sport Klub 6 (HR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/74593
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", EX-YU: Sport Klub 1 HD (SR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/74594
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", EX-YU: Sport Klub 2 HD (SR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/74595
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", EX-YU: Sport Klub 3 HD (SR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/74596
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", EX-YU: Sport Klub 4 (SR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/74597
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", EX-YU: Sport Klub 5 (SR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/74598
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", EX-YU: Sport Klub 6 (SR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/74599
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", EX-YU: MAX SPORT 1 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/74600
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", EX-YU: MAX SPORT 2 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/74601
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", EX-YU: Eurosport 1 HD (SR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/74605
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", EX-YU: Eurosport 2 HD (SR)
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/74606
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", PT: Eleven Sports 1 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73349
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", PT: Eleven Sports 2 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73350
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", PT: Eleven Sports 3 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73351
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", PT: Eleven Sports 4 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73352
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", PT: Eleven Sports 5 FHD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73353
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", PT: Eleven Sports 6 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73354
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", PT: Eleven Sport 1
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73355
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", PT: Eleven Sport 2
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73356
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", PT: Eleven Sport 3
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73357
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", PT: Eleven Sport 4 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73358
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", PT: Eleven Sport 5 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73359
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", PT: Eleven Sport 6
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73360
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", PT: SPORT TV
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73361
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", PT: SPORT TV 1 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73362
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", PT: SPORT TV 1
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73363
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", PT: SPORT TV 2 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73364
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", PT: SPORT TV 2
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73365
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", PT: SPORT TV 3 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73366
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", PT: SPORT TV 3
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73367
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", PT: SPORT TV 4
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73368
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", PT: SPORT TV 5
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73369
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", PT: EUROSPORT 2
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73373
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", PT: Eurosport 1 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73374
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", PT: KOMBAT SPORT
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73375
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", PT: SPORT TV NBA HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73378
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", PT: SPORTING TV
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73379
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SW: V Sportus
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73828
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SW: V Sport UltraHD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73829
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SW: V Sport Football
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73830
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SW: V Sport Motor
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73831
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SW: V Sport Hockey
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73832
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SW: V Sport Football
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73833
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SW: V Sport Golf
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73834
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SW: V Sport Golf
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73835
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SW: V Sport Extra
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73836
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SW: V Sport 1
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73837
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SW: V Sport Premium
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73838
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SW: Fight Sports
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73847
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SW: Eurosport 1 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73848
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SW: Eurosport 1 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73849
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SW: Eurosport 2 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73850
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", SW: Sport Expressen TV
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73851
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", USA: PX Sports
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/74787
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", USA: TyC Sports
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/74817
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", USA: ESPN Deportes
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/74836
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", HU: Sport 1
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73618
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", HU: Eurosport 2
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73623
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", HU: Eurosport 1
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73624
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", HU: Sport 1
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73640
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", HU: Sport 2
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73641
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", HU: Extreme Sports
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73691
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", HU: Digi Sport 2 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73698
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", HU: Digi Sport 1 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/73699
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", GR: Novasports News HD.
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72539
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", GR: Novasports Start HD.
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72540
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", GR: Novasports Prime HD.
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72541
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", GR: Nova Sports 1 HD.
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72542
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", GR: Nova Sports 2 HD.
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72543
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", GR: Nova Sports 3 HD.
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72544
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", GR: Nova Sports 4 HD.
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72545
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", GR: Nova Sports 5 HD.
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72546
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", GR: Nova Sports 6 HD.
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72547
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", GR: OTESports Highlights HD.
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72548
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", GR: COSMOTE Sport 1 HD.
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72549
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", GR: COSMOTE Sport 2 HD.
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72550
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", GR: COSMOTE Sport 3 HD.
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72551
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", GR: COSMOTE Sport 4 HD.
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72552
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", GR: COSMOTE Sport 5 HD.
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72553
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", GR: COSMOTE Sport 6 HD.
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72554
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", GR: COSMOTE Sport 7 HD.
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72555
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", GR: COSMOTE Sport 8 HD.
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72556
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", GR: COSMOTE Sport 9 HD.
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/72557
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", CZ: Sport 1 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/74726
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", CZ: Sport 2 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/74727
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", CZ: Sport 5
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/74728
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", CZ: Nova Sport 2 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/74729
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", CZ: CT sport HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/74739
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", CZ: CANAL+ Domo
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/74747
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT WORLD 3", beIN SPORTS 1 HD
-http://streamsyn.com:8080/hakkiismailyilmaz/3201353016/8
-
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", TNT SPORT 4
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=247476_&extension=ts
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7UL2NGHZ-Mo6IdEHxMc3fsgBy8dX1Ac-iaQ&usqp=CAU" group-title="OD NATGEO", NATGEO FILM 1
