@@ -10545,6 +10545,30 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1032465&e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/OPTUS.png" group-title="VIP SPORT", OPTUS SPORT 8 BK
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1032464&extension=ts&play_token=ImSo0aZpTa
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR53KhUxQjOk5qa5eXaASTnZHCGt4-xczTT7w&usqp=CAU" group-title="VIP SPORT", FIFA+ 1
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=902919&extension=ts&play_token=cIa2Hpy21V
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR53KhUxQjOk5qa5eXaASTnZHCGt4-xczTT7w&usqp=CAU" group-title="VIP SPORT", FIFA+ 2
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=902918&extension=ts&play_token=6d0RFgTjmI
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR53KhUxQjOk5qa5eXaASTnZHCGt4-xczTT7w&usqp=CAU" group-title="VIP SPORT", FIFA+ 3
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=902917&extension=ts&play_token=MjAPTe2gPx
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR53KhUxQjOk5qa5eXaASTnZHCGt4-xczTT7w&usqp=CAU" group-title="VIP SPORT", FIFA+ 4
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=902916&extension=ts&play_token=MjAPTe2gPx
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR53KhUxQjOk5qa5eXaASTnZHCGt4-xczTT7w&usqp=CAU" group-title="VIP SPORT", FIFA+ 5
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=902915&extension=ts&play_token=MjAPTe2gPx
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR53KhUxQjOk5qa5eXaASTnZHCGt4-xczTT7w&usqp=CAU" group-title="VIP SPORT", FIFA+ 6
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=902914&extension=ts&play_token=MjAPTe2gPx
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR53KhUxQjOk5qa5eXaASTnZHCGt4-xczTT7w&usqp=CAU" group-title="VIP SPORT", FIFA+ 7
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=902913&extension=ts&play_token=MjAPTe2gPx
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR53KhUxQjOk5qa5eXaASTnZHCGt4-xczTT7w&usqp=CAU" group-title="VIP SPORT", FIFA+ 8
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=902912&extension=ts&play_token=MjAPTe2gPx
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR53KhUxQjOk5qa5eXaASTnZHCGt4-xczTT7w&usqp=CAU" group-title="VIP SPORT", FIFA+ 9
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=902911&extension=ts&play_token=MjAPTe2gPx
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR53KhUxQjOk5qa5eXaASTnZHCGt4-xczTT7w&usqp=CAU" group-title="VIP SPORT", FIFA+ 10
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=902910&extension=ts&play_token=MjAPTe2gPx
+
+
+
 #EXTINF:-1 tvg-logo="______" group-title="VIP SPORT", VIDIO 1
 http://live.watsits.art:80/play/live.php?mac=00:1A:79:C7:1E:07&stream=303022_&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="VIP SPORT", VIDIO 2
