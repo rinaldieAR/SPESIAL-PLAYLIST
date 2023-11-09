@@ -483,7 +483,7 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=58305&extension
 #EXTINF:-1 tvg-logo="https://www.mmawiki.org/en/wp-content/uploads/2014/02/ufc.jpg" group-title="#🥊EVENT UFC🥊", UFC LIVE 2
 http://190.61.43.117:45000/play/a060
 #EXTINF:-1 tvg-logo="https://www.mmawiki.org/en/wp-content/uploads/2014/02/ufc.jpg" group-title="#🥊EVENT UFC🥊", UFC LIVE 3
-http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=13259_&extension=ts
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=174995&extension=ts
 #EXTINF:-1 tvg-logo="https://www.mmawiki.org/en/wp-content/uploads/2014/02/ufc.jpg" group-title="#🥊EVENT UFC🥊", UFC LIVE 4
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=825538&extension=ts
 #EXTINF:-1 tvg-logo="https://www.mmawiki.org/en/wp-content/uploads/2014/02/ufc.jpg" group-title="#🥊EVENT UFC🥊", UFC LIVE 5
