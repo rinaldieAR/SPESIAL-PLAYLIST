@@ -3330,11 +3330,10 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 #EXTINF:-1 tvg-url="http://tinyurl.com/jejeEpg" tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="MNC GRUP",Moji
-http://edge.linknetott.swiftserve.com/channelgroup4/cg409production/ch26/03.m3u8
+http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/298550
 
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png" group-title="MNC GRUP" tvg-url="-----------------------l" tvg-id="SCTV.id" tvg-name="SCTV", SCTV 
-http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/03.m3u8
-
+http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/162141
 
 
 #EXTINF:-1 group-title="MNC GRUP" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png", INDOSIAR IH
@@ -3484,15 +3483,16 @@ http://iptvtree.net:8080/nika/pXAcXnhye4QKXvJu/197964
 
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="MNC GRUP", HBO Ex
-http://sysadminhost.net:8080/24eacfe8/c52fb4d1/197972
+http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/197972
 #EXTINF:-1 group-title="MNC GRUP" tvg-id="HBO Family HD" tvg-url="-----------------------" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115",HBO Family Ex
-http://sysadminhost.net:8080/24eacfe8/c52fb4d1/197055
+http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/197055
 #EXTINF:-1 group-title="MNC GRUP" tvg-id="HBO Hits HD" tvg-url="-----------------------" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_160_115",HBO Hits Ex
-http://sysadminhost.net:8080/24eacfe8/c52fb4d1/196480
+http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/196480
 #EXTINF:-1 group-title="MNC GRUP" tvg-id="HBO Signature HD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_160_115",HBO Signatur Ex
-http://sysadminhost.net:8080/24eacfe8/c52fb4d1/221948
+http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/221948
 #EXTINF:-1 group-title="MNC GRUP" tvg-id="Cinemax" tvg-url="-----------------------l" tvg-logo="https://i.imgur.com/uB76Ft0.png",Cinema Ex
-http://sysadminhost.net:8080/24eacfe8/c52fb4d1/197964
+http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/197964
+
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -3567,22 +3567,22 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.
 http://edge.linknetott.swiftserve.com/channelgroup2/cg232production/ch309/03.m3u8
 
 #EXTINF:-1 group-title="MNC GRUP" tvg-id="" tvg-url="-----------------------l" tvg-logo="https://thumbor.prod.vidiocdn.com/gYngIcjyXI6_5Nesj57ALzHIQTA=/smart/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/7988362/ejav-41dff4.jpg",ETV Bioskop 1 Sy
-http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298526
+http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/298526
 #EXTINF:-1 group-title="MNC GRUP" tvg-id="" tvg-url="-----------------------l" tvg-logo="https://thumbor.prod.vidiocdn.com/gYngIcjyXI6_5Nesj57ALzHIQTA=/smart/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/7988362/ejav-41dff4.jpg",ETV Bioskop 1 Kc
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298526
 
 #EXTINF:-1 group-title="MNC GRUP" tvg-id="" tvg-url="-----------------------l" tvg-logo="https://thumbor.prod.vidiocdn.com/gYngIcjyXI6_5Nesj57ALzHIQTA=/smart/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/7988362/ejav-41dff4.jpg",ETV Bioskop 2 Sy
-http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298527
+http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/298527
 #EXTINF:-1 group-title="MNC GRUP" tvg-id="" tvg-url="-----------------------l" tvg-logo="https://thumbor.prod.vidiocdn.com/gYngIcjyXI6_5Nesj57ALzHIQTA=/smart/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/7988362/ejav-41dff4.jpg",ETV Bioskop 2 Kc
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298527
 
 #EXTINF:-1 group-title="MNC GRUP" tvg-id="" tvg-url="-----------------------l" tvg-logo="https://thumbor.prod.vidiocdn.com/gYngIcjyXI6_5Nesj57ALzHIQTA=/smart/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/7988362/ejav-41dff4.jpg",ETV Bioskop 3 Sy
-http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298528
+http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/298528
 #EXTINF:-1 group-title="MNC GRUP" tvg-id="" tvg-url="-----------------------l" tvg-logo="https://thumbor.prod.vidiocdn.com/gYngIcjyXI6_5Nesj57ALzHIQTA=/smart/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/7988362/ejav-41dff4.jpg",ETV Bioskop 3 Kc
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298528
 
 #EXTINF:-1 group-title="MNC GRUP" tvg-id="" tvg-url="-----------------------l" tvg-logo="https://thumbor.prod.vidiocdn.com/gYngIcjyXI6_5Nesj57ALzHIQTA=/smart/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/7988362/ejav-41dff4.jpg",ETV Bioskop 4 Sy
-http://sysadminhost.net:8080/24eacfe8/c52fb4d1/298529
+http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/298529
 #EXTINF:-1 group-title="MNC GRUP" tvg-id="" tvg-url="-----------------------l" tvg-logo="https://thumbor.prod.vidiocdn.com/gYngIcjyXI6_5Nesj57ALzHIQTA=/smart/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/7988362/ejav-41dff4.jpg",ETV Bioskop 4 Kc
 http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298529
 
@@ -3611,7 +3611,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMo
 https://nyanv-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
 #EXTINF:-1 tvg-id="" tvg-url="-----------------------l" tvg-logo="https://lh3.googleusercontent.com/REU0lZrQhT4Ba2EEZRSCiwcDva7IraLpb6bh3JjdiO8W-NIVZW8urM6Ztk5Xc8MjTD8" group-title="MNC GRUP",Chinese Drama
-http://sysadminhost.net:8080/de77df6b/0f1f4102c5/298516
+http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/298516
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
@@ -3680,14 +3681,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/
 #EXTINF:-1 tvg-url="-----------------------l" tvg-logo="https://globalxtreme.net/images/channels/loc-16.png" tvg-id="BioskopIndonesia.id" tvg-name="" group-title="MNC GRUP",Bioskop Indonesia
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
 
-#EXTINF: -1 tvg-url="-----------------------l" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHWPZAEX10uqUxUytHwuHnNKTDTwm3iUFbZA&usqp=CAU" group-title="MNC GRUP",Citra Bioskop
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch376)/index.m3u8
-
 #EXTINF:-1 tvg-url="-----------------------l" tvg-id="flik.id" tvg-name="" tvg-logo="https://2.bp.blogspot.com/-6Pk41U_qeN8/Vrq1QgMhk9I/AAAAAAAAVqI/eElw8bnfEMw/s479-Ic42/Flik%252520TV.png" group-title="MNC GRUP",Flik
-http://sysadminhost.net:8080/de77df6b/0f1f4102c5/165095
-
-#EXTINF:-1 tvg-url="-----------------------l" tvg-id="CitraDrama.id" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Citra_Drama.PNG" group-title="MNC GRUP",Citra Drama
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch378)/index.m3u8
+http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/165095
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
@@ -3877,9 +3872,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotai
 #EXTINF:-1 tvg-id="VisionPrime.id" tvg-url="-----------------------l" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_94.png" group-title="MNC GRUP",Vision Prime
 https://nyanv-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
-#EXTINF:-1 tvg-id="" tvg-url="-----------------------l" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png" group-title="MNC GRUP",Citra Entertainment
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch379)/index.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -3925,10 +3917,6 @@ http://edge.linknetott.swiftserve.com/channelgroup2/cg218production/ch103/02.m3u
 #EXTINF:-1 tvg-url="-----------------------l" tvg-id="DaVinciAsia.de" tvg-logo="https://www.davinci.tv/wp-content/uploads/2023/02/Da_Vinci_Primary_Logo_RGB_Red_AW.png"  group-title="MNC GRUP",Da Vinci
 http://edge.linknetott.swiftserve.com/channelgroup3/cg332production/ch371/02.m3u8
 
-#EXTINF:-1 tvg-url="-----------------------l" tvg-logo="https://e7.pngegg.com/pngimages/1009/66/png-clipart-boomerang-logo-television-channel-cartoon-logo-miscellaneous-television.png" group-title="MNC GRUP",Boomerang
-#https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d055f43ff37a5/manifest.mpd
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch372)/03.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -3945,7 +3933,8 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd
 http://edge.linknetott.swiftserve.com/channelgroup4/cg437production/ch375/03.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-url="-----------------------l" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/IndiKids.png" group-title="MNC GRUP",IndiKids
-http://kuchini.site:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298539
+http://iptvtree.net:8080/xplatinum/TKwnvKfDN8PP49KT/298539
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
