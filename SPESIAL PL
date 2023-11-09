@@ -2557,8 +2557,11 @@ FIRSHMEDIA    ############
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
 
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/MOJI.png" group-title="FIRSTMEDIA", MOJI HD
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch26%29/index.m3u8
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/MOJI.png" group-title="FIRSTMEDIA", MOJI
+http://xtv.ooo:8080/3212571066/abc123/350997
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/INDOSIAR.png" group-title="FIRSTMEDIA", INDOSIAR
+http://xtv.ooo:8080/3212571066/abc123/350972
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/TRANS.png" group-title="FIRSTMEDIA", TRANSTV HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch396%29/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/TRANS%207.png" group-title="FIRSTMEDIA", TRANS7 HD
@@ -2612,15 +2615,15 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch399%29/index
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3c8d63e4a3d5b6c065651caf9a8cde50.png" group-title="FIRSTMEDIA", AXN
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch332%29/index.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="FIRSTMEDIA", HBO
-http://kuchini.site:8080/F30140/f3de2280/197972
+http://xtv.ooo:8080/3212571066/abc123/350955
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="FIRSTMEDIA", HBO FAMILY
-http://kuchini.site:8080/F30140/f3de2280/197055
+http://xtv.ooo:8080/3212571066/abc123/350956
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="FIRSTMEDIA", HBO HITS
-http://kuchini.site:8080/F30140/f3de2280/196480
+http://xtv.ooo:8080/3212571066/abc123/350957
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="FIRSTMEDIA", HBO SIGNATURE 
-http://kuchini.site:8080/F30140/f3de2280/221948
+http://xtv.ooo:8080/3212571066/abc123/350958
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="FIRSTMEDIA", CINEMAX 
-http://kuchini.site:8080/F30140/f3de2280/197964
+http://xtv.ooo:8080/3212571066/abc123/350922
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/adfc2c1f1d74779905488ad1bc067153.png" group-title="FIRSTMEDIA", PARAMOUNT NETWORK
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch309%29/index.m3u8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/72d376f51855e885d4d094d6f697324e.png" group-title="FIRSTMEDIA", ROCK ACTION
@@ -2866,7 +2869,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h216/01.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h216/02.m3u8
 
-NASIONAL SD-HD
 #EXTINF:-1 group-title="DENS TV" tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png", ROCK ACTION SD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h218/01.m3u8
