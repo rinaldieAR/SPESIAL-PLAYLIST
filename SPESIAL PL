@@ -9482,6 +9482,15 @@ http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=24828_&e
 #EXTINF:-1 tvg-logo="_____________" group-title="LATIN SPORT", DIRECTTV SPORT
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=66832_&extension=ts&play_token=W0JcMWGscf
 
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/directvsports1.png" group-title="LATIN SPORT", DirecTV Sports 1 CO
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=656326&extension=ts&play_token=CN2xBNmpdp
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/directvsports1.png" group-title="LATIN SPORT", DirecTV Sports 2 CO
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=779448&extension=ts&play_token=CN2xBNmpdp
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/directvsports1.png" group-title="LATIN SPORT", DirecTV Sports 2 LT
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=90797&extension=ts&play_token=CN2xBNmpdp
+
+
+
 #EXTINF:-1 tvg-logo="https://s8.postimg.cc/qthzouo05/1516325501_a57d469ee395de417336e66ec14dd41ddbf22918.jpg" group-title="LATIN SPORT", SPORTV HD
 http://vivo.10initiatived.uk:8880/287994003284/287994003284/16753
 #EXTINF:-1 tvg-logo="http://static.process-one.net/bootstrap/img/art/customers_mlb.png" group-title="LATIN SPORT", MLB NETWORK HD (US)
@@ -10397,9 +10406,6 @@ http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/2121703
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="LATIN SPORT", ABC seattle | KOMO 4
 http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/2151870
 
-#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/directvsports1.png" group-title="LATIN SPORT", SUDAMERICANO SUB 20 | DirecTV Sports ECU
-http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/2154022
-
 #EXTINF:-1 tvg-logo="http://l3d.us:25461/images/7b8d51f2200d4749c4bbcfe7c6c919c6.png" group-title="LATIN SPORT", SUDAMERICANO SUB 20 | TYC Sports ARGENTINA
 http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/2154023
 
@@ -10581,6 +10587,32 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=902912&ex
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=902911&extension=ts&play_token=MjAPTe2gPx
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR53KhUxQjOk5qa5eXaASTnZHCGt4-xczTT7w&usqp=CAU" group-title="VIP SPORT", FIFA+ 10
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=902910&extension=ts&play_token=MjAPTe2gPx
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="VIP SPORT", TUDN EXTRA 1
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=982317&extension=ts&play_token=MjAPTe2gPx
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="VIP SPORT", TUDN EXTRA 2
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=982320&extension=ts&play_token=MjAPTe2gPx
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="VIP SPORT", TUDN EXTRA 3
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=982321&extension=ts&play_token=MjAPTe2gPx
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="VIP SPORT", TUDN EXTRA 4
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=982322&extension=ts&play_token=MjAPTe2gPx
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="VIP SPORT", TUDN EXTRA 5
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=982323&extension=ts&play_token=MjAPTe2gPx
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="VIP SPORT", TUDN EXTRA 6
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=982324&extension=ts&play_token=MjAPTe2gPx
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="VIP SPORT", TUDN EXTRA 7
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=982325&extension=ts&play_token=MjAPTe2gPx
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="VIP SPORT", TUDN EXTRA 8
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=982326&extension=ts&play_token=MjAPTe2gPx
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="VIP SPORT", TUDN EXTRA 9
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=982327&extension=ts&play_token=MjAPTe2gPx
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="VIP SPORT", TUDN EXTRA 10
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=982318&extension=ts&play_token=MjAPTe2gPx
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="VIP SPORT", TUDN EXTRA 11
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=982319&extension=ts&play_token=MjAPTe2gPx
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png" group-title="VIP SPORT", TUDN MXC
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=5528708&extension=ts&play_token=MjAPTe2gPx
+
 
 
 
