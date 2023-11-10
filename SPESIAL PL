@@ -9488,7 +9488,8 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=656326&ex
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=779448&extension=ts&play_token=CN2xBNmpdp
 #EXTINF:-1 tvg-logo="http://ceoapps.org/logos/directvsports1.png" group-title="LATIN SPORT", DirecTV Sports 2 LT
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=90797&extension=ts&play_token=CN2xBNmpdp
-
+#EXTINF:-1 tvg-logo="http://ceoapps.org/logos/directvsports1.png" group-title="LATIN SPORT", TIGO SPORT
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=389449&extension=ts&play_token=CN2xBNmpdp
 
 
 #EXTINF:-1 tvg-logo="https://s8.postimg.cc/qthzouo05/1516325501_a57d469ee395de417336e66ec14dd41ddbf22918.jpg" group-title="LATIN SPORT", SPORTV HD
@@ -10476,6 +10477,8 @@ LAIN-LAIN SPORT  ######
 ################################################################################################################################################################################# LAIN-LAIN SPORT
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="LAIN-LAIN SPORT", ###LAIN-LAIN SPORT###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
+#EXTINF:-1 tvg-logo="xxxxxxxx" group-title="LAIN-LAIN SPORT", FLOW SPORT
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=533664&extension=ts&play_token=33OqsgppFx
 
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="LAIN-LAIN SPORT", AUTOMOTO
 http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=508154&extension=ts&play_token=MQYoRJeFcv 
@@ -11130,6 +11133,11 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=984950&exten
 http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=984951&extension=ts&play_token=KADFOT0Lsx
 #EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT PREMIUM
 http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=984953&extension=ts&play_token=HalHutHLf1
+
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="FOX SPORT", FOX SPORT SOCCER
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=533668&extension=ts&play_token=33OqsgppFx
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Fox_Sports_Racing_%28television_channel%29_logo.png" group-title="FOX SPORT", FOX RACING
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=533669&extension=ts&play_token=33OqsgppFx
 
 #EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="MOVIE ASIA", FOX MOVIES
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=110856&extension=ts&play_token=33OqsgppFx
