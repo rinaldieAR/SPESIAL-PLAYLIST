@@ -308,30 +308,33 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1032471&exte
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
 
-#EXTINF:-1 tvg-logo="https://setkab.go.id/wp-content/uploads/2023/09/FIFA-Launches-Logo-Mascot-of-U-17-World-Cup-Indonesia-2023.jpg" group-title="#🇮🇩LIVE WORLD CUP U17🇮🇩#", SERVER 1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🇮🇩LIVE WORLD CUP U17🇮🇩#", SERVER 1
 http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=261969&extension=ts&play_token=r737rSi3j8
-#EXTINF:-1 tvg-logo="https://setkab.go.id/wp-content/uploads/2023/09/FIFA-Launches-Logo-Mascot-of-U-17-World-Cup-Indonesia-2023.jpg" group-title="#🇮🇩LIVE WORLD CUP U17🇮🇩#", SERVER 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🇮🇩LIVE WORLD CUP U17🇮🇩#", SERVER 2
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571245&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://setkab.go.id/wp-content/uploads/2023/09/FIFA-Launches-Logo-Mascot-of-U-17-World-Cup-Indonesia-2023.jpg" group-title="#🇮🇩LIVE WORLD CUP U17🇮🇩#", SERVER 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🇮🇩LIVE WORLD CUP U17🇮🇩#", SERVER 3
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571248&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://setkab.go.id/wp-content/uploads/2023/09/FIFA-Launches-Logo-Mascot-of-U-17-World-Cup-Indonesia-2023.jpg" group-title="#🇮🇩LIVE WORLD CUP U17🇮🇩#", SERVER 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🇮🇩LIVE WORLD CUP U17🇮🇩#", SERVER 4
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571247&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://setkab.go.id/wp-content/uploads/2023/09/FIFA-Launches-Logo-Mascot-of-U-17-World-Cup-Indonesia-2023.jpg" group-title="#🇮🇩LIVE WORLD CUP U17🇮🇩#", SERVER 5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🇮🇩LIVE WORLD CUP U17🇮🇩#", SERVER 5
 http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=487641&extension=ts&play_token=r737rSi3j8
-#EXTINF:-1 tvg-logo="https://setkab.go.id/wp-content/uploads/2023/09/FIFA-Launches-Logo-Mascot-of-U-17-World-Cup-Indonesia-2023.jpg" group-title="#🇮🇩LIVE WORLD CUP U17🇮🇩#", SERVER 6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🇮🇩LIVE WORLD CUP U17🇮🇩#", SERVER 6
 http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=487775&extension=ts&play_token=r737rSi3j8
-#EXTINF:-1 tvg-logo="https://setkab.go.id/wp-content/uploads/2023/09/FIFA-Launches-Logo-Mascot-of-U-17-World-Cup-Indonesia-2023.jpg" group-title="#🇮🇩LIVE WORLD CUP U17🇮🇩#", SERVER 7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🇮🇩LIVE WORLD CUP U17🇮🇩#", SERVER 7
 http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=265183&extension=ts&play_token=r737rSi3j8
-#EXTINF:-1 tvg-logo="https://setkab.go.id/wp-content/uploads/2023/09/FIFA-Launches-Logo-Mascot-of-U-17-World-Cup-Indonesia-2023.jpg" group-title="#🇮🇩LIVE WORLD CUP U17🇮🇩#", SERVER 8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🇮🇩LIVE WORLD CUP U17🇮🇩#", SERVER 8
 http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=676049&extension=ts&play_token=r737rSi3j8
-#EXTINF:-1 tvg-logo="https://setkab.go.id/wp-content/uploads/2023/09/FIFA-Launches-Logo-Mascot-of-U-17-World-Cup-Indonesia-2023.jpg" group-title="#🇮🇩LIVE WORLD CUP U17🇮🇩#", SERVER 9
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🇮🇩LIVE WORLD CUP U17🇮🇩#", SERVER 9
 http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=577920&extension=ts&play_token=r737rSi3j8
-#EXTINF:-1 tvg-logo="https://setkab.go.id/wp-content/uploads/2023/09/FIFA-Launches-Logo-Mascot-of-U-17-World-Cup-Indonesia-2023.jpg" group-title="#🇮🇩LIVE WORLD CUP U17🇮🇩#", SERVER 10
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🇮🇩LIVE WORLD CUP U17🇮🇩#", SERVER 10
 http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=550436&extension=ts&play_token=r737rSi3j8
-#EXTINF:-1 tvg-logo="https://setkab.go.id/wp-content/uploads/2023/09/FIFA-Launches-Logo-Mascot-of-U-17-World-Cup-Indonesia-2023.jpg" group-title="#🇮🇩LIVE WORLD CUP U17🇮🇩#", SERVER 11
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🇮🇩LIVE WORLD CUP U17🇮🇩#", SERVER 11
 http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=626873&extension=ts&play_token=r737rSi3j8
-#EXTINF:-1 tvg-logo="https://setkab.go.id/wp-content/uploads/2023/09/FIFA-Launches-Logo-Mascot-of-U-17-World-Cup-Indonesia-2023.jpg" group-title="#🇮🇩LIVE WORLD CUP U17🇮🇩#", SERVER 12
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🇮🇩LIVE WORLD CUP U17🇮🇩#", SERVER 12
 http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=626872&extension=ts&play_token=r737rSi3j8
+
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/liga1bri.png" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", INDOSIAR LIVE 1 
 http://tvkuonline.my.id:25461/riyad/riyad/14
