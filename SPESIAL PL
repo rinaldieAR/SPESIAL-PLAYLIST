@@ -6214,8 +6214,6 @@ http://89.187.177.137:8081/&FLIX/index.m3u8
 http://89.187.177.137:8081/&PRIVE/index.m3u8
 #EXTINF:-1 tvg-logo="_______" group-title="MOVIE ASIA", &TV
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/index.m3u8
-#EXTINF:-1 tvg-logo="_____" group-title="MOVIE ASIA", BOO
-http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=704606_&extension=ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="MOVIE ASIA", STAR MOVIE
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=1116488&extension=ts&play_token=1PvUcweHaG
@@ -6304,9 +6302,6 @@ MOVIE MANCANAGARA  #######
 ################################################################################################################################################################################## MOVIE MANCANEGARA
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="MOVIE MANCANEGARA", ###MOVIE MANCANEGARA###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
-
-
-
 
 #EXTINF:-1 tvg-logo="__________" group-title="MOVIE MANCANEGARA", ACTION MAX
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:E5:D6:D1&stream=45618&extension=ts&play_token=1nsvxInv16 
@@ -7162,25 +7157,25 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1141559&e
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1141568&extension=ts&play_token=apIDP5Rsdp
 
 #EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/2fa86f2a5babb597834554c03a0860e1.png" group-title="BEIN GRUP", TR: beIN Movies Premier 1
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:19:76&stream=1141583&extension=ts&play_token=qNoWnPrBn5
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:E5:D6:D1&stream=1141583&extension=ts&play_token=qNoWnPrBn5
 #EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/2fa86f2a5babb597834554c03a0860e1.png" group-title="BEIN GRUP", TR: beIN Movies Premier 2
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:19:76&stream=913327&extension=ts&play_token=H9yzjVGOCF
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:E5:D6:D1&stream=913327&extension=ts&play_token=H9yzjVGOCF
 #EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/ba2b1abc4df0f24ec4624342dcaf19e3.png" group-title="BEIN GRUP", TR: beIN Movies Action 2
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:19:76&stream=1141582&extension=ts&play_token=lTy95WvyCa
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:E5:D6:D1&stream=1141582&extension=ts&play_token=lTy95WvyCa
 #EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/ba2b1abc4df0f24ec4624342dcaf19e3.png" group-title="BEIN GRUP", TR: beIN Movies Drama 3
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:19:76&stream=1141581&extension=ts&play_token=XqpF5pgqWW
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:E5:D6:D1&stream=1141581&extension=ts&play_token=XqpF5pgqWW
 #EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/d6f6094f9be5308137b62e9ce633d4b9.png" group-title="BEIN GRUP", TR: beIN Movies Family 4
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:19:76&stream=1141580&extension=ts&play_token=ls8DWviiCT
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:E5:D6:D1&stream=1141580&extension=ts&play_token=ls8DWviiCT
 #EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/c49ddd4e9867820542e3032033ccc84c.png" group-title="BEIN GRUP", TR: beIN Movies Stars
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:19:76&stream=913331&extension=ts&play_token=f3LYqCh7tQ
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:E5:D6:D1&stream=913331&extension=ts&play_token=f3LYqCh7tQ
 #EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/80e0593a98643f551372665f61d7df2f.png" group-title="BEIN GRUP", TR: beIN Movies Turk
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:19:76&stream=913333&extension=ts&play_token=AG3EqDZEJE
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:E5:D6:D1&stream=913333&extension=ts&play_token=AG3EqDZEJE
 #EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/7a77bc177557656c0bd8e21f4c37a784.png" group-title="BEIN GRUP", TR: beIN Series 1
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:19:76&stream=1141579&extension=ts&play_token=EaTWuWOl6J
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:E5:D6:D1&stream=1141579&extension=ts&play_token=EaTWuWOl6J
 #EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/06caa8cf1237174d03e61498252b9527.png" group-title="BEIN GRUP", TR: beIN Series 2
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:19:76&stream=1141578&extension=ts&play_token=dfIxF8rFhH
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:E5:D6:D1&stream=1141578&extension=ts&play_token=dfIxF8rFhH
 #EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/808fc32d630bbb702a81e320385fe9a5.png" group-title="BEIN GRUP", TR: beIN Gurme
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:19:76&stream=913165&extension=ts&play_token=bZXLmsu2RI
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:E5:D6:D1&stream=913165&extension=ts&play_token=bZXLmsu2RI
 #EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/a7f6f5c42cc96bae07620ebc5a90e284.png" group-title="BEIN GRUP", TR: beIN IZ
 http://31.42.184.159:2082/7Yfd82An4EncW4di/8sj4Fd8Vs0kV8b9B3S1/77302
 
@@ -7823,9 +7818,9 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=591567&ex
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=591564&extension=ts&play_token=jZqboDB8d4
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARAB SPORT", ON TIME SPORT 1 HD
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:00:20:4B&stream=544254&extension=ts&play_token=u9WL1WtfhP
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:E5:D6:D1&stream=544254&extension=ts&play_token=u9WL1WtfhP
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARAB SPORT", ON TIME SPORT 2 HD
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:00:20:4B&stream=544256&extension=ts&play_token=vLiEsZ0JfJ
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:E5:D6:D1&stream=544256&extension=ts&play_token=vLiEsZ0JfJ
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="ARAB SPORT", ON TIME SPORT 3 HD
 http://zeintv.xyz:8080/ahlam1alsayegh2022/004528513460/115204
 
@@ -7960,8 +7955,6 @@ SPORT EROPA  ##########
 ################################################################################################################################################################################# SPORT EROPA
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="EROPA SPORT", ###EROPA SPORT###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
-
-
 
 #EXTINF:-1 tvg-logo="https://www.sat-multimedia.com/wp-content/uploads/2023/02/300x250.jpg" group-title="EROPA SPORT", ARENA SPORT 1X2
 http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:C0:4F:48&stream=242987_&extension=ts
@@ -9043,9 +9036,6 @@ http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=242888_&ext
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SKY SPORT 9 NZ
 http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=242887_&extension=ts
 
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SKY SPORT 9 NZ
-http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=242887_&extension=ts
-
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SKY SPORT SELECT NZ
 http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=242886_&extension=ts
 
@@ -9298,35 +9288,35 @@ AFRICA SPORT
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/superPL.png" group-title="AFRICA SPORT", SUPERSPORT PREMIER LEAGUE
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=239078&extension=ts&play_token=WIj93CqWrq
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:E5:D6:D1&stream=239078&extension=ts&play_token=WIj93CqWrq
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/superlaliga.png" group-title="AFRICA SPORT", SUPERSPORT LIGA
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=239076&extension=ts&play_token=WDliZuSmkz
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:E5:D6:D1&stream=239076&extension=ts&play_token=WDliZuSmkz
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/supertennis.png" group-title="AFRICA SPORT", SUPERSPORT TENNIS
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=425314&extension=ts&play_token=KmNBsBy8G3
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:E5:D6:D1&stream=425314&extension=ts&play_token=KmNBsBy8G3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/superblitz.png" group-title="AFRICA SPORT", SUPERSPORT BLITZ
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=425310&extension=ts&play_token=cB75vs6tv4
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:E5:D6:D1&stream=425310&extension=ts&play_token=cB75vs6tv4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/superpsl.png" group-title="AFRICA SPORT", SUPERSPORT PSL
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=239077&extension=ts&play_token=wAy6FmsPtA
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:E5:D6:D1&stream=239077&extension=ts&play_token=wAy6FmsPtA
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/supergolf.png" group-title="AFRICA SPORT", SUPERSPORT GOLF
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=425667&extension=ts&play_token=Sh0E1BOGwg
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:E5:D6:D1&stream=425667&extension=ts&play_token=Sh0E1BOGwg
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/supergrandstand.png" group-title="AFRICA SPORT", SUPERSPORT GRANDSTAND
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=239079&extension=ts&play_token=iplWY8qXC5
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:E5:D6:D1&stream=239079&extension=ts&play_token=iplWY8qXC5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/supermotor.png" group-title="AFRICA SPORT", SUPERSPORT MOTOR SPORT
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=239082&extension=ts&play_token=a0dyarOiLA
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:E5:D6:D1&stream=239082&extension=ts&play_token=a0dyarOiLA
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/superfootball.png" group-title="AFRICA SPORT", SUPERSPORT FOOTBALL
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=239083&extension=ts&play_token=tJv2b2KNwD
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:E5:D6:D1&stream=239083&extension=ts&play_token=tJv2b2KNwD
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/superrugby.png" group-title="AFRICA SPORT", SUPERSPORT RUGBY
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=239086&extension=ts&play_token=TCL5qFctcH
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:E5:D6:D1&stream=239086&extension=ts&play_token=TCL5qFctcH
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/supercricket.png" group-title="AFRICA SPORT", SUPERSPORT CRICKET
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=239087&extension=ts&play_token=blkGUKpfD1
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:E5:D6:D1&stream=239087&extension=ts&play_token=blkGUKpfD1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/supervariety1.png" group-title="AFRICA SPORT", SUPERSPORT VARIETY 1
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=239081&extension=ts&play_token=7C6v0BjPnK
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:E5:D6:D1&stream=239081&extension=ts&play_token=7C6v0BjPnK
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/supervariety2.png" group-title="AFRICA SPORT", SUPERSPORT VARIETY 2
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=239080&extension=ts&play_token=kt1XRyNjAK
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:E5:D6:D1&stream=239080&extension=ts&play_token=kt1XRyNjAK
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/supervariety3.png" group-title="AFRICA SPORT", SUPERSPORT VARIETY 3
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=239085&extension=ts&play_token=EJNtH2IgAS
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:E5:D6:D1&stream=239085&extension=ts&play_token=EJNtH2IgAS
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/supervariety4.png" group-title="AFRICA SPORT", SUPERSPORT VARIETY 4
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=239084&extension=ts&play_token=Tj5rP8kRtc
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:E5:D6:D1&stream=239084&extension=ts&play_token=Tj5rP8kRtc
 
 
 #EXTINF:-1 tvg-logo="https://www.dignited.com/wp-content/uploads/2017/12/SuperSport-logo.jpg" group-title="AFRICA SPORT", SUPERSPORT LA LIGA
@@ -10481,7 +10471,7 @@ https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=533664&extension=ts&play_token=33OqsgppFx
 
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="LAIN-LAIN SPORT", AUTOMOTO
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=508154&extension=ts&play_token=MQYoRJeFcv 
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:E5:D6:D1&stream=508154&extension=ts&play_token=MQYoRJeFcv 
 #EXTINF:-1 tvg-logo="______" group-title="LAIN-LAIN SPORT", AUTOMOTO SPORT
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1021872&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="LAIN-LAIN SPORT", SPORT 1 CZ
@@ -10496,7 +10486,7 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1021782&exte
 #EXTINF:-1 tvg-logo="______" group-title="LAIN-LAIN SPORT", L'EQUEPE
 http://iptvtree.net:8080/joeBt/FBe7D5gDbFzmWdAx/147
 #EXTINF:-1 tvg-logo="______" group-title="LAIN-LAIN SPORT", STADIUM
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:00:20:4B&stream=91917&extension=ts&play_token=3frBDZwc2g
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:E5:D6:D1&stream=91917&extension=ts&play_token=3frBDZwc2g
 
 #EXTINF:-1 tvg-logo="______" group-title="LAIN-LAIN SPORT", GOLF CHANEL FR
 http://iptvtree.net:8080/joeBt/FBe7D5gDbFzmWdAx/279613
@@ -10516,17 +10506,17 @@ http://premium-ks.ddns.net:88/Megaiptv/YlMNx6nZAA/65087
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=110687&extension=ts&play_token=zbJ3kOYLbL
 
 #EXTINF:-1 tvg-logo="______" group-title="LAIN-LAIN SPORT", TRECE SPORT
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=508164&extension=ts&play_token=U6DIYVbv7g 
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:E5:D6:D1&stream=508164&extension=ts&play_token=U6DIYVbv7g 
 #EXTINF:-1 tvg-logo="______" group-title="LAIN-LAIN SPORT", SPORT TENNIS
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=692386&extension=ts&play_token=2HtbiEdA2Y
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:E5:D6:D1&stream=692386&extension=ts&play_token=2HtbiEdA2Y
 #EXTINF:-1 tvg-logo="______" group-title="LAIN-LAIN SPORT", GOLTV
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=174707&extension=ts&play_token=QRuN8rZocr
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:E5:D6:D1&stream=174707&extension=ts&play_token=QRuN8rZocr
 #EXTINF:-1 tvg-logo="______" group-title="LAIN-LAIN SPORT", GOLF CHANEL
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=174706&extension=ts&play_token=4eaFB82r9d
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:E5:D6:D1&stream=174706&extension=ts&play_token=4eaFB82r9d
 #EXTINF:-1 tvg-logo="______" group-title="LAIN-LAIN SPORT", GOLF NBC
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=174798&extension=ts&play_token=XOBF9Cn30Q
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:E5:D6:D1&stream=174798&extension=ts&play_token=XOBF9Cn30Q
 #EXTINF:-1 tvg-logo="______" group-title="LAIN-LAIN SPORT", NBA TV 1
-http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=174795&extension=ts&play_token=Kux57Ra1IK
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:E5:D6:D1&stream=174795&extension=ts&play_token=Kux57Ra1IK
 
 
 #######################
@@ -10617,8 +10607,6 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=982319&ex
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=552870&extension=ts&play_token=MjAPTe2gPx
 
 
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwcRdr-6gCiwO39-xnVtHCJQRHCkayQnzEaw&usqp=CAU" group-title="VIP SPORT", VIAPLAY EXTRA 1
 http://line.atlaspro4k.me:80/play/live.php?mac=00:1A:79:E2:3F:6B&stream=891330&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwcRdr-6gCiwO39-xnVtHCJQRHCkayQnzEaw&usqp=CAU" group-title="VIP SPORT", VIAPLAY EXTRA 2
@@ -10659,8 +10647,6 @@ http://line.atlaspro4k.me:80/play/live.php?mac=00:1A:79:E2:3F:6B&stream=891313&e
 http://line.atlaspro4k.me:80/play/live.php?mac=00:1A:79:E2:3F:6B&stream=891312&extension=ts&play_token=nsV1nuNwcj
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwcRdr-6gCiwO39-xnVtHCJQRHCkayQnzEaw&usqp=CAU" group-title="VIP SPORT", VIAPLAY EXTRA 20
 http://line.atlaspro4k.me:80/play/live.php?mac=00:1A:79:E2:3F:6B&stream=891311&extension=ts&play_token=nsV1nuNwcj
-
-
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEMfHCBlTHqT4Y6_qcLzWQI-U4eRAy4fkhhQ&usqp=CAU" group-title="VIP SPORT", PEACOCK 1
@@ -11386,106 +11372,6 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1926_&extens
 #EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", TNT BT SPORT 4
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1923_&extension=ts
 
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", BE| VOO SPORT WORLD 1 SD
-http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/390413
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", BE| VOO SPORT WORLD 2 SD
-http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/390411
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", BE| VOO SPORT WORLD 3 SD
-http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/390409
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", FR| CANAL+ SPORT SD
-http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/58967
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", FR| RMC SPORT 1 SD
-http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/59057
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", FR| RMC SPORT 2 SD
-http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/59058
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", FR| BEIN SPORT 1 SD
-http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/59062
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", FR| BEIN SPORT 2 SD
-http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/59063
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", FR| BEIN SPORT 3 SD
-http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/59064
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", FR| BEIN SPORTS MAX 4 SD
-http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/59066
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", FR| BEIN SPORTS MAX 5 SD
-http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/59067
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", FR| BEIN SPORTS MAX 6 SD
-http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/59068
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", FR| BEIN SPORTS MAX 7 SD
-http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/59069
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", FR| BEIN SPORTS MAX 8 SD
-http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/59070
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", FR| BEIN SPORTS MAX 9 SD
-http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/59071
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", FR| BEIN SPORTS MAX 10 SD
-http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/59065
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", FR| EUROSPORT 1 SD
-http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/59072
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", FR| EUROSPORT 2 SD
-http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/59073
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", FR| MOTOR SPORT VISION SD
-http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/148222
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", IT| SKY SPORT 24 SD
-http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/56594
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", IT| SKY SPORT UNO SD
-http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/56600
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", IT| SPORT ACTION SD
-http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/337100
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", IT| SKY SPORT MOTOGP SD
-http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/56603
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", IT| SKY SPORT F1 SD
-http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/56606
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", IT| SKY SPORT GOLF SD
-http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/56609
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", IT| SKY SPORT NBA SD
-http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/56612
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", IT| SKY SPORT FOOTBALL SD
-http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/56617
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", IT| SKY SPORT ARENA SD
-http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/56620
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", IT| SKY SPORT CALCIO SD
-http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/56623
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", IT| SKY SPORT BAR PRIMEVIDEO SD (Only Event)
-http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/365297
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", IT| SKY SPORT BAR UNO SD (Only Event)
-http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/365291
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", IT| SKY SPORT BAR DUE SD (Only Event)
-http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/365294
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", IT| SKY DAZN BAR SD
-http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/56671
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", IT| DAZN CHANNEL SD (Only Event)
-http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/365408
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", ES| DAZN 1 SD
-http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/55483
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", ES| EUROSPORT 1 SD
-http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/55534
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", ES| EUROSPORT 2 SD
-http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/55535
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", ES| DAZN LA LIGA 1 SD
-http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/472008
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", ES| DAZN LA LIGA 2 SD
-http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/472010
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", ES| DAZN F1 SD
-http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/55560
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", ES| DAZN 2 SD
-http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/55557
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", ES| DAZN 4 SD
-http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/55562
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", AR| beIN SPORTS 1 SD
-http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/192754
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", AR| beIN SPORTS 2 SD
-http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/192753
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", AR| beIN SPORTS 3 SD
-http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/192752
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", AR| beIN SPORTS 4 SD
-http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/192751
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", AR| beIN SPORTS 5 SD
-http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/192750
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", AR| beIN SPORTS 6 SD
-http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/192749
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SD-HD", AR| beIN SPORTS 7 SD
-http://mol-2.com:8080/FnB395KegENkUxB/mdp0fspYNCHqt7A/192748
 
 #EXTINF:-1 tvg-logo="______" group-title="SPORT SD-HD", TNT BT SPORT 1 
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AE:71:D6&stream=97146_&extension=ts
