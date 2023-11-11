@@ -316,7 +316,7 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571245&ex
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🇮🇩LIVE WORLD CUP U17🇮🇩#", SERVER 3
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571248&extension=ts&play_token=GVZS088tcf
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🇮🇩LIVE WORLD CUP U17🇮🇩#", SERVER 4
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571247&extension=ts&play_token=GVZS088tcf
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=738144&extension=ts&play_token=n323jw1JIj
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🇮🇩LIVE WORLD CUP U17🇮🇩#", SERVER 5
 http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=487641&extension=ts&play_token=r737rSi3j8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🇮🇩LIVE WORLD CUP U17🇮🇩#", SERVER 6
