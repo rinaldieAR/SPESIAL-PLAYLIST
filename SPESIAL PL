@@ -10262,37 +10262,88 @@ MLS FOOTBALL #########
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="MLS FOOTBALL", ###MLS SPORT###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbSE4nq8mB3cnzkzGAgTnSkrTzr7CMC6Dzdg&usqp=CAU" group-title="MLS FOOTBALL",  MLS 1
-http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1316357&extension=ts&play_token=zjZmScxZK0
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbSE4nq8mB3cnzkzGAgTnSkrTzr7CMC6Dzdg&usqp=CAU" group-title="MLS FOOTBALL",  MLS 2
-http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1316355&extension=ts&play_token=tNStZJ8vvh
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbSE4nq8mB3cnzkzGAgTnSkrTzr7CMC6Dzdg&usqp=CAU" group-title="MLS FOOTBALL",  MLS 3
-http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1316353&extension=ts&play_token=tNStZJ8vvh
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbSE4nq8mB3cnzkzGAgTnSkrTzr7CMC6Dzdg&usqp=CAU" group-title="MLS FOOTBALL",  MLS 4
-http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1316351&extension=ts&play_token=tNStZJ8vvh
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbSE4nq8mB3cnzkzGAgTnSkrTzr7CMC6Dzdg&usqp=CAU" group-title="MLS FOOTBALL",  MLS 5
-http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1316349&extension=ts&play_token=KQ73OXcq2K
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbSE4nq8mB3cnzkzGAgTnSkrTzr7CMC6Dzdg&usqp=CAU" group-title="MLS FOOTBALL",  MLS 6
-http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1316347&extension=ts&play_token=KQ73OXcq2K
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbSE4nq8mB3cnzkzGAgTnSkrTzr7CMC6Dzdg&usqp=CAU" group-title="MLS FOOTBALL",  MLS 7
-http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1316345&extension=ts&play_token=KQ73OXcq2K
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbSE4nq8mB3cnzkzGAgTnSkrTzr7CMC6Dzdg&usqp=CAU" group-title="MLS FOOTBALL",  MLS 8
-http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1316343&extension=ts&play_token=KQ73OXcq2K
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbSE4nq8mB3cnzkzGAgTnSkrTzr7CMC6Dzdg&usqp=CAU" group-title="MLS FOOTBALL",  MLS 9
-http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1316341&extension=ts&play_token=KQ73OXcq2K
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbSE4nq8mB3cnzkzGAgTnSkrTzr7CMC6Dzdg&usqp=CAU" group-title="MLS FOOTBALL",  MLS 10
-http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1316339&extension=ts&play_token=6O7YeFJkzY
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbSE4nq8mB3cnzkzGAgTnSkrTzr7CMC6Dzdg&usqp=CAU" group-title="MLS FOOTBALL",  MLS 11
-http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1316337&extension=ts&play_token=6O7YeFJkzY
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbSE4nq8mB3cnzkzGAgTnSkrTzr7CMC6Dzdg&usqp=CAU" group-title="MLS FOOTBALL",  MLS 12
-http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1316335&extension=ts&play_token=6O7YeFJkzY
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbSE4nq8mB3cnzkzGAgTnSkrTzr7CMC6Dzdg&usqp=CAU" group-title="MLS FOOTBALL",  MLS 13
-http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1316333&extension=ts&play_token=6O7YeFJkzY
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbSE4nq8mB3cnzkzGAgTnSkrTzr7CMC6Dzdg&usqp=CAU" group-title="MLS FOOTBALL",  MLS 14
-http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1316331&extension=ts&play_token=6O7YeFJkzY
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbSE4nq8mB3cnzkzGAgTnSkrTzr7CMC6Dzdg&usqp=CAU" group-title="MLS FOOTBALL",  MLS 15
-http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1316329&extension=ts&play_token=hJECtC6qlB
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbSE4nq8mB3cnzkzGAgTnSkrTzr7CMC6Dzdg&usqp=CAU" group-title="MLS FOOTBALL",  MLS 1
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=864905&extension=ts&play_token=r737rSi3j8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbSE4nq8mB3cnzkzGAgTnSkrTzr7CMC6Dzdg&usqp=CAU" group-title="MLS FOOTBALL",  MLS 2
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=864906&extension=ts&play_token=r737rSi3j8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbSE4nq8mB3cnzkzGAgTnSkrTzr7CMC6Dzdg&usqp=CAU" group-title="MLS FOOTBALL",  MLS 3
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=864907&extension=ts&play_token=r737rSi3j8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbSE4nq8mB3cnzkzGAgTnSkrTzr7CMC6Dzdg&usqp=CAU" group-title="MLS FOOTBALL",  MLS 4
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=864908&extension=ts&play_token=r737rSi3j8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbSE4nq8mB3cnzkzGAgTnSkrTzr7CMC6Dzdg&usqp=CAU" group-title="MLS FOOTBALL",  MLS 5
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=864909&extension=ts&play_token=r737rSi3j8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbSE4nq8mB3cnzkzGAgTnSkrTzr7CMC6Dzdg&usqp=CAU" group-title="MLS FOOTBALL",  MLS 6
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=864910&extension=ts&play_token=r737rSi3j8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbSE4nq8mB3cnzkzGAgTnSkrTzr7CMC6Dzdg&usqp=CAU" group-title="MLS FOOTBALL",  MLS 7
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=864911&extension=ts&play_token=r737rSi3j8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbSE4nq8mB3cnzkzGAgTnSkrTzr7CMC6Dzdg&usqp=CAU" group-title="MLS FOOTBALL",  MLS 8
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=864912&extension=ts&play_token=r737rSi3j8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbSE4nq8mB3cnzkzGAgTnSkrTzr7CMC6Dzdg&usqp=CAU" group-title="MLS FOOTBALL",  MLS 9
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=864913&extension=ts&play_token=r737rSi3j8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbSE4nq8mB3cnzkzGAgTnSkrTzr7CMC6Dzdg&usqp=CAU" group-title="MLS FOOTBALL",  MLS 10
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=864914&extension=ts&play_token=r737rSi3j8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbSE4nq8mB3cnzkzGAgTnSkrTzr7CMC6Dzdg&usqp=CAU" group-title="MLS FOOTBALL",  MLS 11
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=864915&extension=ts&play_token=r737rSi3j8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbSE4nq8mB3cnzkzGAgTnSkrTzr7CMC6Dzdg&usqp=CAU" group-title="MLS FOOTBALL",  MLS 12
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=864916&extension=ts&play_token=r737rSi3j8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbSE4nq8mB3cnzkzGAgTnSkrTzr7CMC6Dzdg&usqp=CAU" group-title="MLS FOOTBALL",  MLS 13
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=864917&extension=ts&play_token=r737rSi3j8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbSE4nq8mB3cnzkzGAgTnSkrTzr7CMC6Dzdg&usqp=CAU" group-title="MLS FOOTBALL",  MLS 14
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=864918&extension=ts&play_token=r737rSi3j8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbSE4nq8mB3cnzkzGAgTnSkrTzr7CMC6Dzdg&usqp=CAU" group-title="MLS FOOTBALL",  MLS 15
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=864919&extension=ts&play_token=r737rSi3j8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhpkXd2_32db0w95SPISgC2Soe21B9bd03W7D4aLNdE35el87Ei2kghah&s=10" group-title="MLS FOOTBALL",  MLS 🍎 APPLE+ 1
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=864920&extension=ts&play_token=r737rSi3j8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhpkXd2_32db0w95SPISgC2Soe21B9bd03W7D4aLNdE35el87Ei2kghah&s=10" group-title="MLS FOOTBALL",  MLS 🍎 APPLE+ 2
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=864921&extension=ts&play_token=r737rSi3j8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhpkXd2_32db0w95SPISgC2Soe21B9bd03W7D4aLNdE35el87Ei2kghah&s=10" group-title="MLS FOOTBALL",  MLS 🍎 APPLE+ 3
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=864922&extension=ts&play_token=r737rSi3j8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhpkXd2_32db0w95SPISgC2Soe21B9bd03W7D4aLNdE35el87Ei2kghah&s=10" group-title="MLS FOOTBALL",  MLS 🍎 APPLE+ 4
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=864923&extension=ts&play_token=r737rSi3j8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhpkXd2_32db0w95SPISgC2Soe21B9bd03W7D4aLNdE35el87Ei2kghah&s=10" group-title="MLS FOOTBALL",  MLS 🍎 APPLE+ 5
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=864924&extension=ts&play_token=r737rSi3j8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhpkXd2_32db0w95SPISgC2Soe21B9bd03W7D4aLNdE35el87Ei2kghah&s=10" group-title="MLS FOOTBALL",  MLS 🍎 APPLE+ 6
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=864925&extension=ts&play_token=r737rSi3j8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhpkXd2_32db0w95SPISgC2Soe21B9bd03W7D4aLNdE35el87Ei2kghah&s=10" group-title="MLS FOOTBALL",  MLS 🍎 APPLE+ 7
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=864926&extension=ts&play_token=r737rSi3j8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhpkXd2_32db0w95SPISgC2Soe21B9bd03W7D4aLNdE35el87Ei2kghah&s=10" group-title="MLS FOOTBALL",  MLS 🍎 APPLE+ 8
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=864927&extension=ts&play_token=r737rSi3j8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhpkXd2_32db0w95SPISgC2Soe21B9bd03W7D4aLNdE35el87Ei2kghah&s=10" group-title="MLS FOOTBALL",  MLS 🍎 APPLE+ 9
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=864928&extension=ts&play_token=r737rSi3j8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhpkXd2_32db0w95SPISgC2Soe21B9bd03W7D4aLNdE35el87Ei2kghah&s=10" group-title="MLS FOOTBALL",  MLS 🍎 APPLE+ 10
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=864929&extension=ts&play_token=r737rSi3j8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhpkXd2_32db0w95SPISgC2Soe21B9bd03W7D4aLNdE35el87Ei2kghah&s=10" group-title="MLS FOOTBALL",  MLS 🍎 APPLE+ 11
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=864930&extension=ts&play_token=r737rSi3j8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhpkXd2_32db0w95SPISgC2Soe21B9bd03W7D4aLNdE35el87Ei2kghah&s=10" group-title="MLS FOOTBALL",  MLS 🍎 APPLE+ 12
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=864931&extension=ts&play_token=r737rSi3j8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhpkXd2_32db0w95SPISgC2Soe21B9bd03W7D4aLNdE35el87Ei2kghah&s=10" group-title="MLS FOOTBALL",  MLS 🍎 APPLE+ 13
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=864932&extension=ts&play_token=r737rSi3j8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhpkXd2_32db0w95SPISgC2Soe21B9bd03W7D4aLNdE35el87Ei2kghah&s=10" group-title="MLS FOOTBALL",  MLS 🍎 APPLE+ 14
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=864933&extension=ts&play_token=r737rSi3j8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhpkXd2_32db0w95SPISgC2Soe21B9bd03W7D4aLNdE35el87Ei2kghah&s=10" group-title="MLS FOOTBALL",  MLS 🍎 APPLE+ 15
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=864934&extension=ts&play_token=r737rSi3j8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhpkXd2_32db0w95SPISgC2Soe21B9bd03W7D4aLNdE35el87Ei2kghah&s=10" group-title="MLS FOOTBALL",  MLS 🍎 APPLE+ 16
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=864935&extension=ts&play_token=r737rSi3j8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhpkXd2_32db0w95SPISgC2Soe21B9bd03W7D4aLNdE35el87Ei2kghah&s=10" group-title="MLS FOOTBALL",  MLS 🍎 APPLE+ 17
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=864936&extension=ts&play_token=r737rSi3j8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhpkXd2_32db0w95SPISgC2Soe21B9bd03W7D4aLNdE35el87Ei2kghah&s=10" group-title="MLS FOOTBALL",  MLS 🍎 APPLE+ 18
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=864937&extension=ts&play_token=r737rSi3j8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhpkXd2_32db0w95SPISgC2Soe21B9bd03W7D4aLNdE35el87Ei2kghah&s=10" group-title="MLS FOOTBALL",  MLS 🍎 APPLE+ 19
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=864938&extension=ts&play_token=r737rSi3j8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhpkXd2_32db0w95SPISgC2Soe21B9bd03W7D4aLNdE35el87Ei2kghah&s=10" group-title="MLS FOOTBALL",  MLS 🍎 APPLE+ 20
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=864939&extension=ts&play_token=r737rSi3j8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhpkXd2_32db0w95SPISgC2Soe21B9bd03W7D4aLNdE35el87Ei2kghah&s=10" group-title="MLS FOOTBALL",  MLS 🍎 APPLE+ 15
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=864940&extension=ts&play_token=r737rSi3j8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhpkXd2_32db0w95SPISgC2Soe21B9bd03W7D4aLNdE35el87Ei2kghah&s=10" group-title="MLS FOOTBALL",  MLS 🍎 APPLE+ 15
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=864941&extension=ts&play_token=r737rSi3j8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhpkXd2_32db0w95SPISgC2Soe21B9bd03W7D4aLNdE35el87Ei2kghah&s=10" group-title="MLS FOOTBALL",  MLS 🍎 APPLE+ 15
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=864942&extension=ts&play_token=r737rSi3j8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhpkXd2_32db0w95SPISgC2Soe21B9bd03W7D4aLNdE35el87Ei2kghah&s=10" group-title="MLS FOOTBALL",  MLS 🍎 APPLE+ 15
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=864943&extension=ts&play_token=r737rSi3j8
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Major-League-Soccer-Symbol.png" group-title="MLS FOOTBALL", MLS League Pass 01
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:00:20:4B&stream=679130&extension=ts&play_token=EDjzNuShe7
@@ -10322,38 +10373,6 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:00:20:4B&stream=1344195&exte
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:00:20:4B&stream=1344194&extension=ts&play_token=3jvWJZ8WRH
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKGv3E2nMlcTpSfJH7HPFB9cEX_op60Pdxtg&usqp=CAU" group-title="MLS FOOTBALL", TUDN CHAMPEONES CUP
 http://miarea.vip:8080/PicoteDemo/vccjAc89v2/272481
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhpkXd2_32db0w95SPISgC2Soe21B9bd03W7D4aLNdE35el87Ei2kghah&s=10" group-title="MLS FOOTBALL",  MLS 🍎 APPLE+ 1
-http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=1591805_&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhpkXd2_32db0w95SPISgC2Soe21B9bd03W7D4aLNdE35el87Ei2kghah&s=10" group-title="MLS FOOTBALL",  MLS 🍎 APPLE+ 2
-http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=1591804_&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhpkXd2_32db0w95SPISgC2Soe21B9bd03W7D4aLNdE35el87Ei2kghah&s=10" group-title="MLS FOOTBALL",  MLS 🍎 APPLE+ 3
-http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=1591803_&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhpkXd2_32db0w95SPISgC2Soe21B9bd03W7D4aLNdE35el87Ei2kghah&s=10" group-title="MLS FOOTBALL",  MLS 🍎 APPLE+ 4
-http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=1591802_&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhpkXd2_32db0w95SPISgC2Soe21B9bd03W7D4aLNdE35el87Ei2kghah&s=10" group-title="MLS FOOTBALL",  MLS 🍎 APPLE+ 5
-http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=1591801_&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhpkXd2_32db0w95SPISgC2Soe21B9bd03W7D4aLNdE35el87Ei2kghah&s=10" group-title="MLS FOOTBALL",  MLS 🍎 APPLE+ 6
-http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=1591800_&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhpkXd2_32db0w95SPISgC2Soe21B9bd03W7D4aLNdE35el87Ei2kghah&s=10" group-title="MLS FOOTBALL",  MLS 🍎 APPLE+ 7
-http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=1591799_&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhpkXd2_32db0w95SPISgC2Soe21B9bd03W7D4aLNdE35el87Ei2kghah&s=10" group-title="MLS FOOTBALL",  MLS 🍎 APPLE+ 8
-http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=1591798_&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhpkXd2_32db0w95SPISgC2Soe21B9bd03W7D4aLNdE35el87Ei2kghah&s=10" group-title="MLS FOOTBALL",  MLS 🍎 APPLE+ 9
-http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=1591797_&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhpkXd2_32db0w95SPISgC2Soe21B9bd03W7D4aLNdE35el87Ei2kghah&s=10" group-title="MLS FOOTBALL",  MLS 🍎 APPLE+ 10
-http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=1591796_&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhpkXd2_32db0w95SPISgC2Soe21B9bd03W7D4aLNdE35el87Ei2kghah&s=10" group-title="MLS FOOTBALL",  MLS 🍎 APPLE+ 11
-http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=1591795_&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhpkXd2_32db0w95SPISgC2Soe21B9bd03W7D4aLNdE35el87Ei2kghah&s=10" group-title="MLS FOOTBALL",  MLS 🍎 APPLE+ 12
-http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=1591794_&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhpkXd2_32db0w95SPISgC2Soe21B9bd03W7D4aLNdE35el87Ei2kghah&s=10" group-title="MLS FOOTBALL",  MLS 🍎 APPLE+ 13
-http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=1591793_&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhpkXd2_32db0w95SPISgC2Soe21B9bd03W7D4aLNdE35el87Ei2kghah&s=10" group-title="MLS FOOTBALL",  MLS 🍎 APPLE+ 14
-http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=1591792_&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhpkXd2_32db0w95SPISgC2Soe21B9bd03W7D4aLNdE35el87Ei2kghah&s=10" group-title="MLS FOOTBALL",  MLS 🍎 APPLE+ 15
-http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=1591791_&extension=ts
 
 
 
