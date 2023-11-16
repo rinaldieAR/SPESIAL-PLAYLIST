@@ -15086,60 +15086,6 @@ http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=1337306&exten
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7UL2NGHZ-Mo6IdEHxMc3fsgBy8dX1Ac-iaQ&usqp=CAU" group-title="OD NATGEO", NATGEO FILM 10
 http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=1337305&extension=ts&play_token=u5hydcWBSu
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE KINDER 1
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=994040&extension=ts&play_token=9t1VGqgnHU
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE KINDER 2
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=994039&extension=ts&play_token=9t1VGqgnHU
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE KINDER 3
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=994038&extension=ts&play_token=9t1VGqgnHU
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE MOVIE 1
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=994037&extension=ts&play_token=9t1VGqgnHU
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE MOVIE 2
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=994036&extension=ts&play_token=9t1VGqgnHU
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE MOVIE 3
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=994035&extension=ts&play_token=9t1VGqgnHU
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE MOVIE 4
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=994034&extension=ts&play_token=9t1VGqgnHU
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE MOVIE 5
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=994033&extension=ts&play_token=9t1VGqgnHU
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE MOVIE 6
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=994032&extension=ts&play_token=9t1VGqgnHU
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE MOVIE 7
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=994031&extension=ts&play_token=9t1VGqgnHU
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE MOVIE 8
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=994030&extension=ts&play_token=9t1VGqgnHU
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE MOVIE 9
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=994029&extension=ts&play_token=9t1VGqgnHU
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE MOVIE 10
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=994028&extension=ts&play_token=9t1VGqgnHU
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE MOVIE 11
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=994027&extension=ts&play_token=9t1VGqgnHU
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE MOVIE 12
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=994026&extension=ts&play_token=9t1VGqgnHU
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE MOVIE 13
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=994025&extension=ts&play_token=9t1VGqgnHU
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE MOVIE 14
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=994024&extension=ts&play_token=9t1VGqgnHU
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE MOVIE 15
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=994023&extension=ts&play_token=9t1VGqgnHU
-
 #EXTINF:-1 tvg-logo="https://www.peacocktv.com/dam/commerce/assets/partners/logo-peacock-social-1200x628.jpg" group-title="OD PEACOCK", PEACOCK SERIES 1
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=1095510&extension=ts&play_token=IFoO8jKkVg
 #EXTINF:-1 tvg-logo="https://www.peacocktv.com/dam/commerce/assets/partners/logo-peacock-social-1200x628.jpg" group-title="OD PEACOCK", PEACOCK SERIES 2
@@ -15164,93 +15110,6 @@ http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=1095501&extens
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=1095500&extension=ts&play_token=8qTKEftCly
 #EXTINF:-1 tvg-logo="https://www.peacocktv.com/dam/commerce/assets/partners/logo-peacock-social-1200x628.jpg" group-title="OD PEACOCK", PEACOCK SERIES 12
 http://tv.trexiptv.com/play/live.php?mac=00:1a:79:00:10:10&stream=1095499&extension=ts&play_token=mQ5MP5caD7
-
-
-#EXTINF:-1 tvg-logo="https://otakudome.com/wp-content/uploads/2020/04/HBO-Max-Large-1024x683-1.jpeg" group-title="OD HBOMAX", HBO MAX 1
-http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=1095496_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://otakudome.com/wp-content/uploads/2020/04/HBO-Max-Large-1024x683-1.jpeg" group-title="OD HBOMAX", HBO MAX 2
-http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=1095495_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://otakudome.com/wp-content/uploads/2020/04/HBO-Max-Large-1024x683-1.jpeg" group-title="OD HBOMAX", HBO MAX 3
-http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=1095494_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://otakudome.com/wp-content/uploads/2020/04/HBO-Max-Large-1024x683-1.jpeg" group-title="OD HBOMAX", HBO MAX 4
-http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=1095493_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://otakudome.com/wp-content/uploads/2020/04/HBO-Max-Large-1024x683-1.jpeg" group-title="OD HBOMAX", HBO MAX 5
-http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=1095492_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://otakudome.com/wp-content/uploads/2020/04/HBO-Max-Large-1024x683-1.jpeg" group-title="OD HBOMAX", HBO MAX 6
-http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=1095491_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://otakudome.com/wp-content/uploads/2020/04/HBO-Max-Large-1024x683-1.jpeg" group-title="OD HBOMAX", HBO MAX 7
-http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=1095490_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://otakudome.com/wp-content/uploads/2020/04/HBO-Max-Large-1024x683-1.jpeg" group-title="OD HBOMAX", HBO MAX 8
-http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=1095489_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://otakudome.com/wp-content/uploads/2020/04/HBO-Max-Large-1024x683-1.jpeg" group-title="OD HBOMAX", HBO MAX 9
-http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=1095488_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://otakudome.com/wp-content/uploads/2020/04/HBO-Max-Large-1024x683-1.jpeg" group-title="OD HBOMAX", HBO MAX 10
-http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=1095487_&extension=ts
-
-
-#EXTINF:-1 tvg-logo="https://www.androidauthority.com/wp-content/uploads/2020/08/starz-logo.jpg" group-title="OD STARZ", STARZ SERIES  1
-http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=1095724_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://www.androidauthority.com/wp-content/uploads/2020/08/starz-logo.jpg" group-title="OD STARZ", STARZ SERIES  2
-http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=1095723_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://www.androidauthority.com/wp-content/uploads/2020/08/starz-logo.jpg" group-title="OD STARZ", STARZ SERIES  3
-http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=1095722_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://www.androidauthority.com/wp-content/uploads/2020/08/starz-logo.jpg" group-title="OD STARZ", STARZ SERIES  4
-http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=1095721_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://www.androidauthority.com/wp-content/uploads/2020/08/starz-logo.jpg" group-title="OD STARZ", STARZ SERIES  5
-http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=1095720_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://www.androidauthority.com/wp-content/uploads/2020/08/starz-logo.jpg" group-title="OD STARZ", STARZ SERIES  6
-http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=1095719_&extension=ts
-
-
-#EXTINF:-1 tvg-logo="https://www.androidauthority.com/wp-content/uploads/2020/08/starz-logo.jpg" group-title="OD STARZ", STARZ SERIES  7
-http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=1095718_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://www.androidauthority.com/wp-content/uploads/2020/08/starz-logo.jpg" group-title="OD STARZ", STARZ SERIES  8
-http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=1095717_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://www.androidauthority.com/wp-content/uploads/2020/08/starz-logo.jpg" group-title="OD STARZ", STARZ SERIES  8
-http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=1095716_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://www.androidauthority.com/wp-content/uploads/2020/08/starz-logo.jpg" group-title="OD STARZ", STARZ SERIES  10
-http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=1095715_&extension=ts
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR38ZlDD5UDfjBMm_FzasEZAOtzEgwnPtF1tA&usqp=CAU" group-title="OD STARZ", STARZ FILM 1
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:00:11:FD&stream=1095724&extension=ts&play_token=mmb2aFmWNT
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR38ZlDD5UDfjBMm_FzasEZAOtzEgwnPtF1tA&usqp=CAU" group-title="OD STARZ", STARZ FILM 2
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:00:11:FD&stream=1095723&extension=ts&play_token=mmb2aFmWNT
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR38ZlDD5UDfjBMm_FzasEZAOtzEgwnPtF1tA&usqp=CAU" group-title="OD STARZ", STARZ FILM 3
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:00:11:FD&stream=1095722&extension=ts&play_token=mmb2aFmWNT
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR38ZlDD5UDfjBMm_FzasEZAOtzEgwnPtF1tA&usqp=CAU" group-title="OD STARZ", STARZ FILM 4
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:00:11:FD&stream=1095721&extension=ts&play_token=mmb2aFmWNT
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR38ZlDD5UDfjBMm_FzasEZAOtzEgwnPtF1tA&usqp=CAU" group-title="OD STARZ", STARZ FILM 5
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:00:11:FD&stream=1095720&extension=ts&play_token=mmb2aFmWNT
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR38ZlDD5UDfjBMm_FzasEZAOtzEgwnPtF1tA&usqp=CAU" group-title="OD STARZ", STARZ FILM 6
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:00:11:FD&stream=1095719&extension=ts&play_token=mmb2aFmWNT
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR38ZlDD5UDfjBMm_FzasEZAOtzEgwnPtF1tA&usqp=CAU" group-title="OD STARZ", STARZ FILM 7
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:00:11:FD&stream=1095718&extension=ts&play_token=mmb2aFmWNT
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR38ZlDD5UDfjBMm_FzasEZAOtzEgwnPtF1tA&usqp=CAU" group-title="OD STARZ", STARZ FILM 8
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:00:11:FD&stream=1095717&extension=ts&play_token=mmb2aFmWNT
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR38ZlDD5UDfjBMm_FzasEZAOtzEgwnPtF1tA&usqp=CAU" group-title="OD STARZ", STARZ FILM 9
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:00:11:FD&stream=1095716&extension=ts&play_token=mmb2aFmWNT
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR38ZlDD5UDfjBMm_FzasEZAOtzEgwnPtF1tA&usqp=CAU" group-title="OD STARZ", STARZ FILM 10
-http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:00:11:FD&stream=1095715&extension=ts&play_token=mmb2aFmWNT
-
-
 
 #EXTINF:-1 tvg-logo="https://www.channelcanada.com/wp-content/uploads/2021/03/Paramount-Originals.jpg" group-title="OD PARAMOUNT", PARAMOUNT SERIES  1
 http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=1095583_&extension=ts
@@ -15283,27 +15142,121 @@ http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=1095575_&exte
 http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=1095574_&extension=ts
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDOlPpNggbR5ZOFueBCFuBgT-4AGqMufGg&usqp=CAU" group-title="OD BEIN", BEIN OD MOVIE 1
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1010765&extension=ts&play_token=9t1VGqgnHU
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDOlPpNggbR5ZOFueBCFuBgT-4AGqMufGg&usqp=CAU" group-title="OD BEIN", BEIN OD MOVIE 2
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1010764&extension=ts&play_token=IGchCGC0kf
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDOlPpNggbR5ZOFueBCFuBgT-4AGqMufGg&usqp=CAU" group-title="OD BEIN", BEIN OD MOVIE 3
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1010763&extension=ts&play_token=tSjCZ4Zxce
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDOlPpNggbR5ZOFueBCFuBgT-4AGqMufGg&usqp=CAU" group-title="OD BEIN", BEIN OD MOVIE 4
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1010762&extension=ts&play_token=5lqUG5WEo9
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDOlPpNggbR5ZOFueBCFuBgT-4AGqMufGg&usqp=CAU" group-title="OD BEIN", BEIN OD MOVIE 5
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1010761&extension=ts&play_token=jCEvGAnDZw
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDOlPpNggbR5ZOFueBCFuBgT-4AGqMufGg&usqp=CAU" group-title="OD BEIN", BEIN OD KIDS 1
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=671284&extension=ts&play_token=7ckKI48UmL
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDOlPpNggbR5ZOFueBCFuBgT-4AGqMufGg&usqp=CAU" group-title="OD BEIN", BEIN OD KIDS 2
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=671283&extension=ts&play_token=Wt385WF31g
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDOlPpNggbR5ZOFueBCFuBgT-4AGqMufGg&usqp=CAU" group-title="OD BEIN", BEIN OD KIDS 3
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=671282&extension=ts&play_token=Ub4dYPpBCA
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDOlPpNggbR5ZOFueBCFuBgT-4AGqMufGg&usqp=CAU" group-title="OD BEIN", BEIN BOX OFFICE 1
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=671275&extension=ts&play_token=Gu49lWloYy
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDOlPpNggbR5ZOFueBCFuBgT-4AGqMufGg&usqp=CAU" group-title="OD BEIN", BEIN BOX OFFICE 2
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=671272&extension=ts&play_token=550LE8wj0Q
+#EXTINF:-1 tvg-logo="https://otakudome.com/wp-content/uploads/2020/04/HBO-Max-Large-1024x683-1.jpeg" group-title="OD HBOMAX", HBO MAX 1
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1095496_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://otakudome.com/wp-content/uploads/2020/04/HBO-Max-Large-1024x683-1.jpeg" group-title="OD HBOMAX", HBO MAX 2
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1095495_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://otakudome.com/wp-content/uploads/2020/04/HBO-Max-Large-1024x683-1.jpeg" group-title="OD HBOMAX", HBO MAX 3
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1095494_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://otakudome.com/wp-content/uploads/2020/04/HBO-Max-Large-1024x683-1.jpeg" group-title="OD HBOMAX", HBO MAX 4
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1095493_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://otakudome.com/wp-content/uploads/2020/04/HBO-Max-Large-1024x683-1.jpeg" group-title="OD HBOMAX", HBO MAX 5
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1095492_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://otakudome.com/wp-content/uploads/2020/04/HBO-Max-Large-1024x683-1.jpeg" group-title="OD HBOMAX", HBO MAX 6
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1095491_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://otakudome.com/wp-content/uploads/2020/04/HBO-Max-Large-1024x683-1.jpeg" group-title="OD HBOMAX", HBO MAX 7
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1095490_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://otakudome.com/wp-content/uploads/2020/04/HBO-Max-Large-1024x683-1.jpeg" group-title="OD HBOMAX", HBO MAX 8
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1095489_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://otakudome.com/wp-content/uploads/2020/04/HBO-Max-Large-1024x683-1.jpeg" group-title="OD HBOMAX", HBO MAX 9
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1095488_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://otakudome.com/wp-content/uploads/2020/04/HBO-Max-Large-1024x683-1.jpeg" group-title="OD HBOMAX", HBO MAX 10
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1095487_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://www.androidauthority.com/wp-content/uploads/2020/08/starz-logo.jpg" group-title="OD STARZ", STARZ SERIES  1
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1095724_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://www.androidauthority.com/wp-content/uploads/2020/08/starz-logo.jpg" group-title="OD STARZ", STARZ SERIES  2
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1095723_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://www.androidauthority.com/wp-content/uploads/2020/08/starz-logo.jpg" group-title="OD STARZ", STARZ SERIES  3
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1095722_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://www.androidauthority.com/wp-content/uploads/2020/08/starz-logo.jpg" group-title="OD STARZ", STARZ SERIES  4
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1095721_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://www.androidauthority.com/wp-content/uploads/2020/08/starz-logo.jpg" group-title="OD STARZ", STARZ SERIES  5
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1095720_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://www.androidauthority.com/wp-content/uploads/2020/08/starz-logo.jpg" group-title="OD STARZ", STARZ SERIES  6
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1095719_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://www.androidauthority.com/wp-content/uploads/2020/08/starz-logo.jpg" group-title="OD STARZ", STARZ SERIES  7
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1095718_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://www.androidauthority.com/wp-content/uploads/2020/08/starz-logo.jpg" group-title="OD STARZ", STARZ SERIES  8
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1095717_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://www.androidauthority.com/wp-content/uploads/2020/08/starz-logo.jpg" group-title="OD STARZ", STARZ SERIES  8
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1095716_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://www.androidauthority.com/wp-content/uploads/2020/08/starz-logo.jpg" group-title="OD STARZ", STARZ SERIES  10
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1095715_&extension=ts
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE KINDER 1
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=994040&extension=ts&play_token=9t1VGqgnHU
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE KINDER 2
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=994039&extension=ts&play_token=9t1VGqgnHU
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE KINDER 3
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=994038&extension=ts&play_token=9t1VGqgnHU
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE MOVIE 1
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=994037&extension=ts&play_token=9t1VGqgnHU
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE MOVIE 2
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=994036&extension=ts&play_token=9t1VGqgnHU
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE MOVIE 3
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=994035&extension=ts&play_token=9t1VGqgnHU
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE MOVIE 4
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=994034&extension=ts&play_token=9t1VGqgnHU
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE MOVIE 5
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=994033&extension=ts&play_token=9t1VGqgnHU
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE MOVIE 6
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=994032&extension=ts&play_token=9t1VGqgnHU
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE MOVIE 7
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=994031&extension=ts&play_token=9t1VGqgnHU
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE MOVIE 8
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=994030&extension=ts&play_token=9t1VGqgnHU
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE MOVIE 9
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=994029&extension=ts&play_token=9t1VGqgnHU
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE MOVIE 10
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=994028&extension=ts&play_token=9t1VGqgnHU
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE MOVIE 11
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=994027&extension=ts&play_token=9t1VGqgnHU
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE MOVIE 12
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=994026&extension=ts&play_token=9t1VGqgnHU
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE MOVIE 13
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=994025&extension=ts&play_token=9t1VGqgnHU
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE MOVIE 14
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=994024&extension=ts&play_token=9t1VGqgnHU
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Logo_vodafone_new.png" group-title="OD VODAFONE", VODAFONE MOVIE 15
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=994023&extension=ts&play_token=9t1VGqgnHU
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRm0GaetXF79nwzJk7cy-xqwoXzA9RVFJQiw&usqp=CAU" group-title="OD SKY GO", SKY GO DETECTIVE CONAN 1
@@ -15413,34 +15366,55 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=692032&ex
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=692031&extension=ts&play_token=ktlShZu2ca
 
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDOlPpNggbR5ZOFueBCFuBgT-4AGqMufGg&usqp=CAU" group-title="OD BEIN", BEIN OD MOVIE 1
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1010765&extension=ts&play_token=9t1VGqgnHU
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDOlPpNggbR5ZOFueBCFuBgT-4AGqMufGg&usqp=CAU" group-title="OD BEIN", BEIN OD MOVIE 2
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1010764&extension=ts&play_token=IGchCGC0kf
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDOlPpNggbR5ZOFueBCFuBgT-4AGqMufGg&usqp=CAU" group-title="OD BEIN", BEIN OD MOVIE 3
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1010763&extension=ts&play_token=tSjCZ4Zxce
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDOlPpNggbR5ZOFueBCFuBgT-4AGqMufGg&usqp=CAU" group-title="OD BEIN", BEIN OD MOVIE 4
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1010762&extension=ts&play_token=5lqUG5WEo9
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDOlPpNggbR5ZOFueBCFuBgT-4AGqMufGg&usqp=CAU" group-title="OD BEIN", BEIN OD MOVIE 5
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1010761&extension=ts&play_token=jCEvGAnDZw
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDOlPpNggbR5ZOFueBCFuBgT-4AGqMufGg&usqp=CAU" group-title="OD BEIN", BEIN OD KIDS 1
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=671284&extension=ts&play_token=7ckKI48UmL
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDOlPpNggbR5ZOFueBCFuBgT-4AGqMufGg&usqp=CAU" group-title="OD BEIN", BEIN OD KIDS 2
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=671283&extension=ts&play_token=Wt385WF31g
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDOlPpNggbR5ZOFueBCFuBgT-4AGqMufGg&usqp=CAU" group-title="OD BEIN", BEIN OD KIDS 3
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=671282&extension=ts&play_token=Ub4dYPpBCA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDOlPpNggbR5ZOFueBCFuBgT-4AGqMufGg&usqp=CAU" group-title="OD BEIN", BEIN BOX OFFICE 1
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=671275&extension=ts&play_token=Gu49lWloYy
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRekDOlPpNggbR5ZOFueBCFuBgT-4AGqMufGg&usqp=CAU" group-title="OD BEIN", BEIN BOX OFFICE 2
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=671272&extension=ts&play_token=550LE8wj0Q
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSfxqmC_Sp1HO5Jn8-n_7g4CQwa0RbUHlcQQ&usqp=CAU" group-title="OD AMAZON PRIME", AMAZON 1
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1275543&extension=ts&play_token=gHH5j332YQ
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1275543&extension=ts&play_token=gHH5j332YQ
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSfxqmC_Sp1HO5Jn8-n_7g4CQwa0RbUHlcQQ&usqp=CAU" group-title="OD AMAZON PRIME", AMAZON 2
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1275542&extension=ts&play_token=wJj7HVobSQ
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1275542&extension=ts&play_token=wJj7HVobSQ
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSfxqmC_Sp1HO5Jn8-n_7g4CQwa0RbUHlcQQ&usqp=CAU" group-title="OD AMAZON PRIME", AMAZON 3
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1275541&extension=ts&play_token=F5Xi40dhPi
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1275541&extension=ts&play_token=F5Xi40dhPi
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSfxqmC_Sp1HO5Jn8-n_7g4CQwa0RbUHlcQQ&usqp=CAU" group-title="OD AMAZON PRIME", AMAZON 4
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1275540&extension=ts&play_token=F5Xi40dhPi
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1275540&extension=ts&play_token=F5Xi40dhPi
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSfxqmC_Sp1HO5Jn8-n_7g4CQwa0RbUHlcQQ&usqp=CAU" group-title="OD AMAZON PRIME", AMAZON 5
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1275539&extension=ts&play_token=F5Xi40dhPi
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1275539&extension=ts&play_token=F5Xi40dhPi
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSfxqmC_Sp1HO5Jn8-n_7g4CQwa0RbUHlcQQ&usqp=CAU" group-title="OD AMAZON PRIME", AMAZON 6
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1275538&extension=ts&play_token=F5Xi40dhPi
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1275538&extension=ts&play_token=F5Xi40dhPi
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSfxqmC_Sp1HO5Jn8-n_7g4CQwa0RbUHlcQQ&usqp=CAU" group-title="OD AMAZON PRIME", AMAZON 7
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=1275537&extension=ts&play_token=F5Xi40dhPi
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1275537&extension=ts&play_token=F5Xi40dhPi
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdR4BUrpMkhG8BXeVTxxaXgUTosR6W9__9Nw&usqp=CAU" group-title="MOVIE 24/7", TOM & JERRY
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=587343&extension=ts&play_token=9FqJa1TIIY
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=587343&extension=ts&play_token=9FqJa1TIIY
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdR4BUrpMkhG8BXeVTxxaXgUTosR6W9__9Nw&usqp=CAU" group-title="MOVIE 24/7", TRANSPORMERS
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=976605&extension=ts&play_token=oDyD96hBBf
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=976605&extension=ts&play_token=oDyD96hBBf
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdR4BUrpMkhG8BXeVTxxaXgUTosR6W9__9Nw&usqp=CAU" group-title="MOVIE 24/7", TWILIGHT
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=976606&extension=ts&play_token=ByeDALI70z
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=976606&extension=ts&play_token=ByeDALI70z
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdR4BUrpMkhG8BXeVTxxaXgUTosR6W9__9Nw&usqp=CAU" group-title="MOVIE 24/7", RAMBO
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=559546&extension=ts&play_token=QUKc0dL3Y1
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=559546&extension=ts&play_token=QUKc0dL3Y1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdR4BUrpMkhG8BXeVTxxaXgUTosR6W9__9Nw&usqp=CAU" group-title="MOVIE 24/7", FAMILY MOVIE
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=559550&extension=ts&play_token=a6vTVl06wu
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=559550&extension=ts&play_token=a6vTVl06wu
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdR4BUrpMkhG8BXeVTxxaXgUTosR6W9__9Nw&usqp=CAU" group-title="MOVIE 24/7", HOROR MOVIE
-http://z.xzzz.vip:80/play/live.php?mac=00:1a:79:4a:D7:CB&stream=559553&extension=ts&play_token=h5ISEO0WhP
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=559553&extension=ts&play_token=h5ISEO0WhP
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdR4BUrpMkhG8BXeVTxxaXgUTosR6W9__9Nw&usqp=CAU" group-title="MOVIE 24/7", MR. BEAN
 http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=559543&extension=ts&play_token=10v7yXhJgO
