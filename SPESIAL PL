@@ -308,21 +308,18 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=1032471&exte
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
 
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🏆LIVE WC U17🏆#", SERVER IND 1
+#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", SERVER IND 1
 http://iptvtree.net:8080/onestream/j4DvYuVxCA27Zmg3hPyXRa/162138
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🏆LIVE WC U17🏆#", SERVER IND 2
+#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", SERVER IND 2
 http://iptvtree.net:8080/onestream/j4DvYuVxCA27Zmg3hPyXRa/162141
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🏆LIVE WC U17🏆#", SERVER IND 3
+#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", SERVER IND 3
 http://iptvtree.net:8080/onestream/j4DvYuVxCA27Zmg3hPyXRa/298550
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🏆LIVE WC U17🏆#", SERVER IND 4
+#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", SERVER IND 4
 http://iptvtree.net:8080/06c71787/b4841bff74/162138
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🏆LIVE WC U17🏆#", SERVER IND 5
+#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", SERVER IND 5
 http://iptvtree.net:8080/06c71787/b4841bff74/162141
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🏆LIVE WC U17🏆#", SERVER IND 6
+#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", SERVER IND 6
 http://iptvtree.net:8080/06c71787/b4841bff74/298550
 
 #EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", SERVER IND 7
@@ -347,67 +344,65 @@ http://xtv.ooo:8080/3212571066/abc123/351030
 http://xtv.ooo:8080/3212571066/abc123/350997
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🏆LIVE WC U17🏆#", SERVER 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🏆LIVE WC U17🏆#", LIVE 1
 http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=261969&extension=ts&play_token=r737rSi3j8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🏆LIVE WC U17🏆#", SERVER 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🏆LIVE WC U17🏆#", LIVE 2
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571245&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🏆LIVE WC U17🏆#", SERVER 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🏆LIVE WC U17🏆#", LIVE 3
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571248&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🏆LIVE WC U17🏆#", SERVER 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🏆LIVE WC U17🏆#", LIVE 4
 http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=738144&extension=ts&play_token=n323jw1JIj
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🏆LIVE WC U17🏆#", SERVER 5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🏆LIVE WC U17🏆#", LIVE 5
 http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=487641&extension=ts&play_token=r737rSi3j8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🏆LIVE WC U17🏆#", SERVER 6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🏆LIVE WC U17🏆#", LIVE 6
 http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=487775&extension=ts&play_token=r737rSi3j8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🏆LIVE WC U17🏆#", SERVER 7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🏆LIVE WC U17🏆#", LIVE 7
 http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=487776&extension=ts&play_token=EU9fu8BNGt
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🏆LIVE WC U17🏆#", SERVER 8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🏆LIVE WC U17🏆#", LIVE 8
 http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=676049&extension=ts&play_token=r737rSi3j8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🏆LIVE WC U17🏆#", SERVER 9
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🏆LIVE WC U17🏆#", LIVE 9
 http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=577920&extension=ts&play_token=r737rSi3j8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🏆LIVE WC U17🏆#", SERVER 10
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🏆LIVE WC U17🏆#", LIVE 10
 http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=550436&extension=ts&play_token=r737rSi3j8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🏆LIVE WC U17🏆#", SERVER 11
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🏆LIVE WC U17🏆#", LIVE 11
 http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=626873&extension=ts&play_token=r737rSi3j8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🏆LIVE WC U17🏆#", SERVER 12
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🏆LIVE WC U17🏆#", LIVE 12
 http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=626872&extension=ts&play_token=r737rSi3j8
 
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🏆LIVE WC U17🏆#", LIVE 11
 http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=41528_&extension=ts
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🏆LIVE WC U17🏆#", LIVE 12
 https://stream.ayas.ir/hls2/bein5.m3u8
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🏆LIVE WC U17🏆#", LIVE 13
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571248&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🏆LIVE WC U17🏆#", LIVE 14
 http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=50530_&extension=ts
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE 5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🏆LIVE WC U17🏆#", LIVE 15
 http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=47346_&extension=ts
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE 6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🏆LIVE WC U17🏆#", LIVE 16
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:b9:f0:90&stream=55550&extension=ts
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE 7
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🏆LIVE WC U17🏆#", LIVE 17
 http://sunmodernfxz.xyz/play/live.php?mac=00:1A:79:bc:cf:4e&stream=861836&extension=ts&play_token=k8hN59PvTf
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE 8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🏆LIVE WC U17🏆#", LIVE 18
 http://line.sohakiller.net:80/play/live.php?mac=00:1A:79:6B:06:77&stream=552870_&extension=ts
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE 9
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🏆LIVE WC U17🏆#", LIVE 19
 https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE 10
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🏆LIVE WC U17🏆#", LIVE 20
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:DE:27:60&stream=1021130_&extension=ts
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE 11
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🏆LIVE WC U17🏆#", LIVE 21
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:DE:27:60&stream=1756294_&extension=ts
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE 12
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🏆LIVE WC U17🏆#", LIVE 22
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:DE:27:60&stream=1497336_&extension=ts
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE 13
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🏆LIVE WC U17🏆#", LIVE 23
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:DE:27:60&stream=1497338_&extension=ts
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE 14
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🏆LIVE WC U17🏆#", LIVE 24
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:DE:27:60&stream=2594_&extension=ts
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE 15
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🏆LIVE WC U17🏆#", LIVE 25
 http://sunmodernfxz.xyz/play/live.php?mac=00:1A:79:bc:cf:4e&stream=311684&extension=ts&play_token=k8hN59PvTf
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE 16
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🏆LIVE WC U17🏆#", LIVE 26
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:DE:27:60&stream=1350754_&extension=ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🏆LIVE WC U17🏆#", SERVER 17
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🏆LIVE WC U17🏆#", LIVE 27
 https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/liga1bri.png" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", INDOSIAR LIVE 1 
 http://iptvtree.net:8080/06c71787/b4841bff74/162138
