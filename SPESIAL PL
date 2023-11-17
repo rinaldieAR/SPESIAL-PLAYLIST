@@ -460,6 +460,12 @@ http://kuchini.site:8080/silversatcom/tY7Tev877uJ662bw/157591
 http://iptvtree.net:8080/mitrovic/ff9bb47a59/157591
 
 
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Champions_TV_5.png" group-title="Sports", JUARA 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"yGGRr8NyxQBuurbovfYeFA","kid":"eSybOCYVxH_fuEDf0jh7iw"}],"type": "temporary"}
+https://drm-epl-vidio-com-epl-1.akamaized.net/out/v1/1b34ee57680f49229adaa19b74a9b60d/index.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c9f3795d0a1d46b505fd5b5d34953dec:ef3bb480e631339ce3690d519f328fbd
 #EXTINF:-1 group-title="#🇮🇩JUARA TV🇮🇩#" tvg-logo="https://cdn6.aptoide.com/imgs/2/1/8/218bdc15a03af95e96f49378d2379615_icon.png",JUARA 1
@@ -3474,7 +3480,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/sctv/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://dariel-cubmu.astroboy.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://apiv2.xaad.workers.dev/
 #EXTINF:-1 tvg-id="Indosiar.id"  tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png" group-title="VISIO+",Indosiar
 https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
@@ -3551,8 +3557,6 @@ https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/1.m3u8
 <================== Premium Movies ====================>
 
 
-
-
 #EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="VISIO+",HBO Signature SG
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
@@ -3607,28 +3611,28 @@ http://iptvtree.net:8080/onestream/j4DvYuVxCA27Zmg3hPyXRa/197964
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://dariel-cubmu.astroboy.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://apiv2.xaad.workers.dev/
 #EXTINF:0 tvg-id="HBO.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/HBO_HD_logo.png/640px-HBO_HD_logo.png" group-title="VISIO+",HBO CUB
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://dariel-cubmu.astroboy.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://apiv2.xaad.workers.dev/
 #EXTINF:0 tvg-id="HBO.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="VISIO+",HBO Family CUB
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://dariel-cubmu.astroboy.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://apiv2.xaad.workers.dev/
 #EXTINF:0 tvg-id="HBO.id" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="VISIO+",HBO Hits CUB
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://dariel-cubmu.astroboy.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://apiv2.xaad.workers.dev/
 #EXTINF:0 tvg-id="HBO.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="VISIO+",HBO Signature CUB
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
@@ -3775,7 +3779,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://dariel-cubmu.astroboy.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://apiv2.xaad.workers.dev/
 #EXTINF:-1  tvg-logo="https://globalxtreme.net/images/channels/loc-16.png" tvg-id="BioskopIndonesia.id" tvg-name="" group-title="VISIO+",Bioskop Indonesia
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
 
@@ -3791,7 +3795,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 group-title="VISIO+" tvg-id="ZeeBioskop.id"  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_23.png",Zee Bioskop
+#EXTINF:-1 group-title="VISIO+" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_23.png",Zee Bioskop
 https://nyanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
 #EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png" group-title="VISIO+",Sony Max
@@ -3901,14 +3905,14 @@ https://smithsonianaus-samsungau.amagi.tv/playlist720p.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://dariel-cubmu.astroboy.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://apiv2.xaad.workers.dev/
 #EXTINF:-1  tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6858262bb8001827b6764522be3/982842a26aea41cb980ece08814c337b.jpg" group-title="VISIO+",Knowledge+
 https://cdnjkt2.transvision.co.id:1001/live/master/3/4028c68582449a2e018259716f7821f0/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://dariel-cubmu.astroboy.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://apiv2.xaad.workers.dev/
 #EXTINF:-1  tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c6857fe540a1018060a6dbbb40b8/e6ad4148d45148f189db13925065fa5b.jpg" group-title="VISIO+",HowTo
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6857fe540a1018060a6dbbb40b8/manifest.mpd
 
@@ -3929,32 +3933,14 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockente
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://dariel-cubmu.astroboy.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://apiv2.xaad.workers.dev/
 #EXTINF:-1  tvg-id="WarnerTV" tvg-logo="https://www.exorbeo.com/wp-content/uploads/2013/10/warner+logo+hd.png" group-title="VISIO+",Warner TV 
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
-
-#EXTINF:-1 tvg-id="TLC"  tvg-logo="https://1000logos.net/wp-content/uploads/2020/08/TLC-Logo.png" group-title="VISIO+",TLC
-http://edge.linknetott.swiftserve.com/channelgroup1/cg017production/ch35/02.m3u8
-
-#EXTINF:-1 tvg-id="HGTV"  tvg-logo="https://mncvision.id/userfiles/image/channel/HGTV_150x150px-01.png" group-title="VISIO+",HGTV 
-http://edge.linknetott.swiftserve.com/channelgroup4/cg429production/ch354/02.m3u8
-
-#EXTINF:-1 tvg-id="AFN"  tvg-logo="https://seeklogo.com/images/A/asian-food-network-logo-317857506A-seeklogo.com.png" group-title="VISIO+",Asian Food Network 
-http://edge.linknetott.swiftserve.com/channelgroup4/cg419production/ch76/02.m3u8
-
-#EXTINF:-1  tvg-logo="https://picture.dens.tv/wp/img/whatson_v2/1280x720/Logo%20DFC.png" group-title="VISIO+",Dens Food Channel 
-http://op-group1-swiftservesd-1.dens.tv/s/s38/S4/mnf.m3u8
-
-#EXTINF:-1  tvg-id="FoodNetwork" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png" group-title="VISIO+",Food Network
-http://edge.linknetott.swiftserve.com/channelgroup4/cg430production/ch355/02.m3u8
-
-#EXTINF:-1   tvg-name="" tvg-logo="https://staging.firstmedia.com:8443/files/logos/channels/7-LIFESTYLE/First%20Lifestyle%20HD-FirstMedia-Chl-303.jpg" group-title="VISIO+",First Lifestyle
-http://edge.linknetott.swiftserve.com/channelgroup3/cg339production/ch3/03.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=https://dariel-cubmu.astroboy.workers.dev/
+#KODIPROP:inputstream.adaptive.license_key=https://apiv2.xaad.workers.dev/
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/new/COOKING%20TV.jpg" group-title="VISIO+"   tvg-name="",Cooking TV
 https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c68582449a2e0182597009c021ef/manifest.mpd
 
@@ -3994,7 +3980,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyle
 #EXTINF:-1 tvg-id="Lifetime.id"  tvg-logo="https://static.mncnow.id/images/channel/ff9ab40f/566e_r32.jpg" group-title="VISIO+",Lifetime
 https://nyanv-live-cdn.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
 
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -4009,11 +3994,15 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
 
 <=============== Kids Channels =====================>
 
-#EXTINF:-1 tvg-id="CartoonNetwork"  tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" tvg-id="CartoonNetworkAsia.sg" tvg-name="Cartoon Network" group-title="VISIO+",Cartoon Network
-http://edge.linknetott.swiftserve.com/channelgroup2/cg218production/ch103/02.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png" group-title="VISION+",Mentari TV
+http://103.166.27.2:8112/play/a018/index.m3u8
 
-#EXTINF:-1  tvg-id="DaVinciAsia.de" tvg-logo="https://www.davinci.tv/wp-content/uploads/2023/02/Da_Vinci_Primary_Logo_RGB_Red_AW.png"  group-title="VISIO+",Da Vinci
-http://edge.linknetott.swiftserve.com/channelgroup3/cg332production/ch371/02.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Aniplus_Asia_Logo.png" group-title="VISION+",Aniplus
+https://mantul.biz.id:443/ekos/748382/265
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
@@ -4027,12 +4016,13 @@ https://nyanv-live-cdn.mncnow.id/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
 #EXTINF:-1 tvg-id="ZooMoo.sg"  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_39.png" group-title="VISIO+",ZooMoo
 https://nyanv-live-cdn.mncnow.id/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd
 
-#EXTINF:-1   tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/HOREE_logo.png" group-title="VISIO+",Horee
-http://edge.linknetott.swiftserve.com/channelgroup4/cg437production/ch375/03.m3u8
-
 #EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/IndiKids.png" group-title="VISIO+",IndiKids
 http://iptvtree.net:8080/onestream/j4DvYuVxCA27Zmg3hPyXRa/298539
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Hip_Hip_Horee%21.png" group-title="VISION+",Hip Hip Horee!
+http://iptvtree.net:8080/onestream/j4DvYuVxCA27Zmg3hPyXRa/298536
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
@@ -4073,13 +4063,13 @@ https://nyanv-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="AnimaxAsia.sg"  tvg-logo="https://static.mncnow.id/images/channel/7f3aed08/01ac_r32.jpg" group-title="VISIO+",Animax
+#EXTINF:-1  tvg-logo="https://static.mncnow.id/images/channel/7f3aed08/01ac_r32.jpg" group-title="VISIO+",Animax
 https://nyanv-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="BeSmart.id"  tvg-logo="https://static.mncnow.id/images/channel/5f12df59/dfe3_r32.jpg" group-title="VISIO+",BeSmart
+#EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/5f12df59/dfe3_r32.jpg" group-title="VISIO+",BeSmart
 #https://nyanv-live-cdn.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
 <======================= Music ==========================>
 
@@ -4179,7 +4169,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd
 #EXTINF:-1 tvg-name="" tvg-id="BBCNews.id"  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_332.jpg" group-title="VISIO+",BBC World
 https://nyanv-live-cdn.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
 
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -4228,27 +4217,24 @@ https://nyanv-live-cdn.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlu
 #EXTINF:-1 tvg-id="TV5MondeAsia.fr" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://static.mncnow.id/images/channel/93861924/4ebd_r32.jpg" group-title="VISIO+",TV 5 Monde
 https://nyanv-live-cdn.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1200px-Rai_Italia_-_Logo_2017.svg.png" group-title="VISIO+",Rai Italia
-http://edge.linknetott.swiftserve.com/channelgroup4/cg427production/ch258/03.m3u8
-
 <=============Christian Channels==================>
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1  group-title="VISIO+" tvg-id="Reformed21.id" tvg-logo="https://static.mncnow.id/images/channel/1631ac69/2884_r32.jpg",Reformed 21
+#EXTINF:-1  group-title="VISIO+" tvg-logo="https://static.mncnow.id/images/channel/1631ac69/2884_r32.jpg",Reformed 21
 https://nyanv-live-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="Life.id"  tvg-id="LIFE.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_91.png" group-title="VISIO+",LIFE
+#EXTINF:-1 tvg-id="Life.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_91.png" group-title="VISIO+",LIFE
 https://nyanv-live-cdn.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="EWTNAfricaAsia.us" tvg-url="http://lichphatsong.xyz/schedule/epg.xml" tvg-logo="https://static.mncnow.id/images/channel/d8af9a0a/db05_r32.jpg" group-title="VISIO+",EWTN
+#EXTINF:-1 tvg-url="http://lichphatsong.xyz/schedule/epg.xml" tvg-logo="https://static.mncnow.id/images/channel/d8af9a0a/db05_r32.jpg" group-title="VISIO+",EWTN
 https://nyanv-live-cdn.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
 
 
@@ -4257,13 +4243,13 @@ https://nyanv-live-cdn.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Jiangsu_Broadcasting_Corporation.svg/1200px-Jiangsu_Broadcasting_Corporation.svg.png" group-title="VISIO+",JiangsuTV
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Jiangsu_Broadcasting_Corporation.svg/1200px-Jiangsu_Broadcasting_Corporation.svg.png" group-title="VISIO+",JiangsuTV
 https://nyanv-live-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1   tvg-logo="https://w7.pngwing.com/pngs/184/708/png-transparent-hunan-television-television-channel-mango-tv-stale-television-angle-text-thumbnail.png" group-title="VISIO+",HunanTV
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/184/708/png-transparent-hunan-television-television-channel-mango-tv-stale-television-angle-text-thumbnail.png" group-title="VISIO+",HunanTV
 https://nyanv-live-cdn.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -4286,133 +4272,207 @@ https://nyanv-live-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 
 <==================================== TVRI GRoup =========================================>
 
-#EXTINF:-1   tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISIO+",TVRI Nasional
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
 
-#EXTINF:-1   tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISIO+",TVRI World
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1  tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISION+",TVRI Nasional
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/stream4/streamPlaylist.m3u8
 
-#EXTINF:-1   tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISIO+",TVRI Sport HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1  tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISION+",TVRI World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
-http://210.210.155.35/session/7cf53f90-1487-11ee-bf9c-c81f66f89318/qwr9ew/s/s107/01.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/stream3/streamPlaylist.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISIO+",TVRI Yogyakarta
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1  tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISION+",TVRI Sport HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/stream3/streamPlaylist.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISIO+",TVRI Sumatra Barat
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISION+",TVRI Aceh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISUMBARPADANG)/index.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIACEH)/stream3/streamPlaylist.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISIO+",TVRI Sumatra Selatan
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISION+",TVRI Sumatra Utara
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISUMSEL)/index.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISUMUTMEDAN)/stream3/streamPlaylist.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISIO+",TVRI Sulawesi Utara
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISION+",TVRI Sumatra Selatan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULUTMANADO)/index.m3u8?checkedby:iptvcat.com
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISUMSEL)/stream3/streamPlaylist.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISIO+",TVRI Sulawesi Tengah
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISION+",TVRI Sumatra Barat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULTENGPALU)/index.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISUMBARPADANG)/stream3/streamPlaylist.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISIO+",TVRI Sulawesi Barat
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISION+",TVRI Bengkulu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIsulbarmajene)/index.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBENGKULU)/stream3/streamPlaylist.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISIO+",TVRI Sulawesi Selatan
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISION+",TVRI Riau
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULSELMAKASAR)/index.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIRIAU)/stream3/streamPlaylist.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISIO+",TVRI Sulawesi Tenggara
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISION+",TVRI Jambi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULTRA)/index.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJAMBI)/stream3/streamPlaylist.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISIO+",TVRI Riau
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISION+",TVRI Lampung
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIriau)/index.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRILAMPUNG)/stream3/streamPlaylist.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISIO+",TVRI Papua
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISION+",TVRI Bangka Belitung
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPAPUA)/index.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBABEL)/stream3/streamPlaylist.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISIO+",TVRI Nusa Tenggara Timur
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISION+",TVRI Kalimantan Barat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINTTKUPANG)/index.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALBAR)/stream3/streamPlaylist.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISIO+",TVRI Nusa Tenggara Barat
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISION+",TVRI Kalimantan Timur
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINTBMATARAM)/index.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/stream3/streamPlaylist.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISIO+",TVRI Bali
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISION+",TVRI Kalimantan Selatan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBALI)/index.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/stream3/streamPlaylist.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISIO+",TVRI Maluku
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISION+",TVRI Kalimantan Tengah
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/index.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALTENG)/stream3/streamPlaylist.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISIO+",TVRI Lampung
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISION+",TVRI DKI Jakarta
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRILAMPUNG)/index.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/stream3/streamPlaylist.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISIO+",TVRI Kalimantan Timur
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISION+",TVRI Jawa Barat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALTIMSAMARINDA)/index.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/stream3/streamPlaylist.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISIO+",TVRI Kalimantan Selatan
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISION+",TVRI Jawa Tengah
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALSELBANJARMSN)/index.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/stream3/streamPlaylist.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISIO+",TVRI Kalimantan Barat
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISION+",TVRI Yogyakarta
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALBAR)/index.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/stream3/streamPlaylist.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISIO+",TVRI Kalimantan Tengah
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISION+",TVRI Jawa Timur
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIKALTENG)/index.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/stream3/streamPlaylist.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISIO+",TVRI Jawa Timur
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISION+",TVRI Bali
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBALI)/stream3/streamPlaylist.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISIO+",TVRI Jawa Tengah
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISION+",TVRI Nusa Tenggara Barat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINTBMATARAM)/stream3/streamPlaylist.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISIO+",TVRI Jawa Barat
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISION+",TVRI Nusa Tenggara Timur
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINTTKUPANG)/stream3/streamPlaylist.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISIO+",TVRI Jambi
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISION+",TVRI Gorontalo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8
-#https://118.97.50.107/Content/HLS/Live/Channel(TVRIJAMBI)/index.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIGORONTALO)/stream3/streamPlaylist.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISIO+",TVRI Bangka Belitung
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISION+",TVRI Sulawesi Barat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBABEL)/index.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULBARMAJENE)/stream3/streamPlaylist.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISIO+",TVRI Gorontalo
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISION+",TVRI Sulawesi Tengah
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIGORONTALO)/index.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULTENGPALU)/stream3/streamPlaylist.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISIO+",TVRI DKI Jakarta
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISION+",TVRI Sulawesi Utara
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/index.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULUTMANADO)/stream3/streamPlaylist.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISIO+",TVRI Bengkulu
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISION+",TVRI Sulawesi Tenggara
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIBENGKULU)/index.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULTRA)/stream3/streamPlaylist.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISIO+",TVRI Aceh
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISION+",TVRI Sulawesi Selatan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIACEH)/index.m3u8
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRISULSELMAKASAR)/stream3/streamPlaylist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISION+",TVRI Maluku
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/stream3/streamPlaylist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1  tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="VISION+",TVRI Papua
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIPAPUA)/stream3/streamPlaylist.m3u8
+
 
 <=======================Local Channels===============>
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 group-title="VISION+" tvg-logo="https://tvdesa.id/wp-content/uploads/2020/10/icon-mytvdesa-logo-200.png",TV Desa
+https://5bf7b725107e5.streamlock.net/mytvdesa/mytvdesa/chunklist_w1952744023.m3u8
 
 #EXTINF:-1 group-title="VISIO+"   tvg-logo="https://i.imgur.com/wkK7YNx.png",JITV Jogja
 https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w60235457.m3u8
@@ -4453,8 +4513,6 @@ https://v2.siar.us/tatv/live.sdp/chunks.m3u8
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
 
 <======================= Internet Radio ===============================>
-
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q6Ecw0q.png" group-title="RADIO FM", Motion RADIO 97.5 FM Jakarta
 http://101.50.1.250:8000/motion.aac
