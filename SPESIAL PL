@@ -3481,7 +3481,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
 
 
-<================================== China =========================>
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
@@ -3720,7 +3719,7 @@ https://5bf7b725107e5.streamlock.net/mytvdesa/mytvdesa/chunklist_w1952744023.m3u
 #EXTINF:-1 group-title="VISION+"   tvg-logo="https://i.imgur.com/wkK7YNx.png",JITV Jogja
 https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w60235457.m3u8
 
-#EXTINF:-1  tvg-name=""   tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3b/Logo_Jawapos_TV.png/300px-Logo_Jawapos_TV.png" group-title="VISION+",Jawapos TV
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/3/3b/Logo_Jawapos_TV.png/300px-Logo_Jawapos_TV.png" group-title="VISION+",Jawapos TV
 https://v2.siar.us/jawapostv/live/playlist.m3u8
 
 #EXTINF:-1   tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Kawanua_TV.png" group-title="VISION+",Kawanua TV
@@ -4893,37 +4892,37 @@ https://rest-as.ott.kaltura.com/api_v3/service/assetFile/action/playManifest/par
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/TVBS_Asia_logo_2017.png/220px-TVBS_Asia_logo_2017.png" group-title="China",TVB Asia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/TVBS_Asia_logo_2017.png/220px-TVBS_Asia_logo_2017.png" group-title="ASEAN TV",TVB Asia
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/tvbsasia.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Jiangsu_Broadcasting_Corporation.svg/1200px-Jiangsu_Broadcasting_Corporation.svg.png" group-title="China",JiangsuTV
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/dc/Jiangsu_Broadcasting_Corporation.svg/1200px-Jiangsu_Broadcasting_Corporation.svg.png" group-title="ASEAN TV",JiangsuTV
 https://nyanv-live-cdn.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/184/708/png-transparent-hunan-television-television-channel-mango-tv-stale-television-angle-text-thumbnail.png" group-title="China",HunanTV
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/184/708/png-transparent-hunan-television-television-channel-mango-tv-stale-television-angle-text-thumbnail.png" group-title="ASEAN TV",HunanTV
 https://nyanv-live-cdn.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dragon-television-logo-6942D37A27-seeklogo.com.png" group-title="China",Shanghai Dragon TV
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/dragon-television-logo-6942D37A27-seeklogo.com.png" group-title="ASEAN TV",Shanghai Dragon TV
 https://nyanv-live-cdn.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="https://myrepublic.co.id/wp-content/uploads/2019/05/Xing-Kong.jpg" group-title="China",XingkongTV
+#EXTINF:-1 tvg-logo="https://myrepublic.co.id/wp-content/uploads/2019/05/Xing-Kong.jpg" group-title="ASEAN TV",XingkongTV
 https://nyanv-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:-1 tvg-logo="https://jadibatek.com/wp-content/uploads/2020/04/anhui-tv-logo.jpg" group-title="China",Anhui TV
+#EXTINF:-1 tvg-logo="https://jadibatek.com/wp-content/uploads/2020/04/anhui-tv-logo.jpg" group-title="ASEAN TV",Anhui TV
 https://nyanv-live-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 
 
@@ -5784,8 +5783,6 @@ https://mwmpos03.akamaized.net/out/v1/d5536f0898994112a118290f25e5648b/manifest.
 https://mwmpos01.akamaized.net/out/v1/ee3d338d368f453a9c4181d119599e05/manifest.mpd
 
 
-
-
 ########################   MIX   ################################################################
 
 #EXTINF:-1 group-title="KOREAN",MTN
@@ -5858,7 +5855,6 @@ http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:-1 group-title="KOREAN",국방国防TV
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-
 
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTINF:-1 group-title="KOREAN" tvg-logo="https://github.com/dlqvnt/dlqvnt/raw/main/logo/cjenm.png", CJ ENM
@@ -5933,8 +5929,6 @@ https://5ddfd163bd00d.streamlock.net/nHDTV/nHDTV/playlist.m3u8
 #EXTINF:-1 group-title="KOREAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/1200px-Munhwa_Broadcasting_Company.svg.png", MBC Yeosu
 https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 
-
-#######https://github.com/Televison/LeanbackLauncher/blob/123193ae274e1569fbdf393795bba2196c435a26/.idea/S-Korea.m3u
 
 #EXTINF:-1 tvg-id="KRBD1400001ED" tvg-chno="501" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBD1400001ED_20230524T004408SQUARE.png_20230524004408.png" group-title="KOREAN" , 연합뉴스TV
 https://dvar4azmtmll0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6tpj7htwv2prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
@@ -6122,10 +6116,6 @@ https://d24jtwkashyon.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 
 #EXTINF:-1 tvg-id="KRBC5000018O9" tvg-chno="839" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC5000018O9_20230426T013650SQUARE.png_20230426013651.png" group-title="KOREAN" , JTBC 골프
 https://d2onj944t92pwq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-70fxr8r2oets2/FC00000018.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-
-
-
 
 
 #######################
@@ -6822,7 +6812,6 @@ http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/19233/index.m3u8
 http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/4000/index.m3u8
 
 
-
 #######################
 KIDS DISNEY  ##########
 ################################################################################################################################################################################# KIDS DISNEY
@@ -6909,7 +6898,6 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21433
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", NICKELODEN (US)
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12719
-
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", VF Disney Movie
 http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/15010/index.m3u8
@@ -7060,7 +7048,6 @@ http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/17023/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", KLI Kids FHD
 http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/20047/index.m3u8
-
 
 
 #######################
@@ -7490,33 +7477,33 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=63102_&extens
 #EXTINF:-1 tvg-logo="-------" group-title="BEIN GRUP", SINEMA AKSIYON
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31500_&extension=ts
 
-#EXTINF:-1 tvg-logo="http://one-iptv.com/imageslogo/beINMovies1.qa.png" group-title="BEIN GRUP", AR.| MOVIES HD 1 PREMIERE
+#EXTINF:-1 tvg-logo="http://one-iptv.com/imageslogo/beINMovies1.qa.png" group-title="BEIN GRUP", MOVIES HD 1 PREMIERE
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1141583&extension=ts&play_token=MgyS4WVOeU
-#EXTINF:-1 tvg-logo="http://one-iptv.com/imageslogo/beINMovies2.qa.png" group-title="BEIN GRUP", AR.| MOVIES HD 2 ACTION
+#EXTINF:-1 tvg-logo="http://one-iptv.com/imageslogo/beINMovies2.qa.png" group-title="BEIN GRUP", MOVIES HD 2 ACTION
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1141582&extension=ts&play_token=dYgqNacRQV
-#EXTINF:-1 tvg-logo="http://one-iptv.com/imageslogo/beINMovies3.qa.png" group-title="BEIN GRUP", AR.| MOVIES HD 3 DRAMA
+#EXTINF:-1 tvg-logo="http://one-iptv.com/imageslogo/beINMovies3.qa.png" group-title="BEIN GRUP", MOVIES HD 3 DRAMA
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1141581&extension=ts&play_token=8fxs2eyFZK
-#EXTINF:-1 tvg-logo="http://one-iptv.com/imageslogo/beINMovies4.qa.png" group-title="BEIN GRUP", AR.| MOVIES HD 4 FAMILY
+#EXTINF:-1 tvg-logo="http://one-iptv.com/imageslogo/beINMovies4.qa.png" group-title="BEIN GRUP", MOVIES HD 4 FAMILY
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1141580&extension=ts&play_token=nAmdAmhDE0
-#EXTINF:-1 tvg-logo="http://one-iptv.com/imageslogo/beINSeries1.qa.png" group-title="BEIN GRUP", AR.| SERIES 1 HD
+#EXTINF:-1 tvg-logo="http://one-iptv.com/imageslogo/beINSeries1.qa.png" group-title="BEIN GRUP", SERIES 1 HD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1141579&extension=ts&play_token=EJvx2h1ADS
-#EXTINF:-1 tvg-logo="http://one-iptv.com/imageslogo/beINSeries1.qa.png" group-title="BEIN GRUP", AR.| SERIES 2 HD
+#EXTINF:-1 tvg-logo="http://one-iptv.com/imageslogo/beINSeries1.qa.png" group-title="BEIN GRUP", SERIES 2 HD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1141578&extension=ts&play_token=IW135GfoZ4
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Fox_Action_Movies_logo.svg/2560px-Fox_Action_Movies_logo.svg.png" group-title="BEIN GRUP", AR.| FOX MOVIES
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Fox_Action_Movies_logo.svg/2560px-Fox_Action_Movies_logo.svg.png" group-title="BEIN GRUP", FOX MOVIES
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1141571&extension=ts&play_token=e5qdZupde5
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Fox_Action_Movies_logo.svg/2560px-Fox_Action_Movies_logo.svg.png" group-title="BEIN GRUP", AR.| FOX ACTION MOVIES
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Fox_Action_Movies_logo.svg/2560px-Fox_Action_Movies_logo.svg.png" group-title="BEIN GRUP", FOX ACTION MOVIES
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1141570&extension=ts&play_token=973IEEUfHF
-#EXTINF:-1 tvg-logo="http://one-iptv.com/imageslogo/beINMovies3.qa.png" group-title="BEIN GRUP", AR.| ON DRAMA HD
+#EXTINF:-1 tvg-logo="http://one-iptv.com/imageslogo/beINMovies3.qa.png" group-title="BEIN GRUP", ON DRAMA HD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1141577&extension=ts&play_token=CXcG9k1l6H
-#EXTINF:-1 tvg-logo="http://one-iptv.com/imageslogo/FoxLife.pt.png" group-title="BEIN GRUP", AR.| FOX LIFE HD
+#EXTINF:-1 tvg-logo="http://one-iptv.com/imageslogo/FoxLife.pt.png" group-title="BEIN GRUP", FOX LIFE HD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1141572&extension=ts&play_token=bU6G5u0437
-#EXTINF:-1 tvg-logo="http://one-iptv.com/imageslogo/Fatafeat.qa.png" group-title="BEIN GRUP", AR.| FATAFEAT HD
+#EXTINF:-1 tvg-logo="http://one-iptv.com/imageslogo/Fatafeat.qa.png" group-title="BEIN GRUP", FATAFEAT HD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1141574&extension=ts&play_token=cHCUyYSC2c
-#EXTINF:-1 tvg-logo="http://one-iptv.com/imageslogo/Baraem.qa.png" group-title="BEIN GRUP", AR.| BARAEM HD
+#EXTINF:-1 tvg-logo="http://one-iptv.com/imageslogo/Baraem.qa.png" group-title="BEIN GRUP", BARAEM HD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1141558&extension=ts&play_token=88yqQfPrHq
-#EXTINF:-1 tvg-logo="http://one-iptv.com/imageslogo/DisneyChannel.de.png" group-title="BEIN GRUP", AR.| JEEM KIDS HD
+#EXTINF:-1 tvg-logo="http://one-iptv.com/imageslogo/DisneyChannel.de.png" group-title="BEIN GRUP", JEEM KIDS HD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1141559&extension=ts&play_token=Um4HPCdo5Q
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl-mlFQVqM3VW0A3e8LxwnzuVLX2UzlxCBlw&usqp=CAU" group-title="BEIN GRUP", AR.| STARS MOVIES HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl-mlFQVqM3VW0A3e8LxwnzuVLX2UzlxCBlw&usqp=CAU" group-title="BEIN GRUP", STARS MOVIES HD
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=1141568&extension=ts&play_token=apIDP5Rsdp
 
 #EXTINF:-1 tvg-logo="http://myserveriptv.com:2082/images/2fa86f2a5babb597834554c03a0860e1.png" group-title="BEIN GRUP", TR: beIN Movies Premier 1
@@ -8319,56 +8306,12 @@ SPORT EROPA  ##########
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="EROPA SPORT", ###EROPA SPORT###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
-#EXTINF:-1 tvg-logo="https://www.sat-multimedia.com/wp-content/uploads/2023/02/300x250.jpg" group-title="EROPA SPORT", ARENA SPORT 1X2
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1a:79:C3:BA:CC&stream=242987_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://www.sat-multimedia.com/wp-content/uploads/2023/02/300x250.jpg" group-title="EROPA SPORT", ARENA SPORT PREMIUM 1
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1a:79:C3:BA:CC&stream=243035_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://www.sat-multimedia.com/wp-content/uploads/2023/02/300x250.jpg" group-title="EROPA SPORT", ARENA SPORT PREMIUM 2
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1a:79:C3:BA:CC&stream=243036_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://www.sat-multimedia.com/wp-content/uploads/2023/02/300x250.jpg" group-title="EROPA SPORT", ARENA SPORT PREMIUM 3
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1a:79:C3:BA:CC&stream=243037_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://www.sat-multimedia.com/wp-content/uploads/2023/02/300x250.jpg" group-title="EROPA SPORT", ARENA SPORT 1
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1a:79:C3:BA:CC&stream=243027_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://www.sat-multimedia.com/wp-content/uploads/2023/02/300x250.jpg" group-title="EROPA SPORT", ARENA SPORT 2
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1a:79:C3:BA:CC&stream=243028_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://www.sat-multimedia.com/wp-content/uploads/2023/02/300x250.jpg" group-title="EROPA SPORT", ARENA SPORT 3
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1a:79:C3:BA:CC&stream=243029_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://www.sat-multimedia.com/wp-content/uploads/2023/02/300x250.jpg" group-title="EROPA SPORT", ARENA SPORT 4
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1a:79:C3:BA:CC&stream=243030_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://www.sat-multimedia.com/wp-content/uploads/2023/02/300x250.jpg" group-title="EROPA SPORT", ARENA SPORT 5
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1a:79:C3:BA:CC&stream=243031_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://www.sat-multimedia.com/wp-content/uploads/2023/02/300x250.jpg" group-title="EROPA SPORT", ARENA SPORT 6
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1a:79:C3:BA:CC&stream=243032_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://www.sat-multimedia.com/wp-content/uploads/2023/02/300x250.jpg" group-title="EROPA SPORT", ARENA SPORT 7
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1a:79:C3:BA:CC&stream=243033_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://www.sat-multimedia.com/wp-content/uploads/2023/02/300x250.jpg" group-title="EROPA SPORT", ARENA SPORT 8
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1a:79:C3:BA:CC&stream=243034_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://www.sat-multimedia.com/wp-content/uploads/2023/02/300x250.jpg" group-title="EROPA SPORT", ARENA SPORT 9
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1a:79:C3:BA:CC&stream=55327_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://www.sat-multimedia.com/wp-content/uploads/2023/02/300x250.jpg" group-title="EROPA SPORT", ARENA SPORT 10
-http://tanix-hnx.xyz:8080/play/live.php?mac=00:1a:79:C3:BA:CC&stream=55328_&extension=ts
-
 #EXTINF:-1 tvg-logo="https://uploads.tapatalk-cdn.com/20211024/1d439f5f1f4590a608e86f27bd22114e.jpg" group-title="EROPA SPORT", ARENA SPORT 1 PREMIUM
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=801855&extension=ts&play_token=5iYcwPJUh5
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/Arena-2-premium_266x2001.png/revision/latest/scale-to-width-down/300?cb=20221111133122" group-title="EROPA SPORT", ARENA SPORT 2 PREMIUM
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=801856&extension=ts&play_token=Yhwb9Uzywl
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0sU2bGhK8ZEDG1xAqassY6QWgr2cDMaB6jc-UeFQslegh7mz_PQ07t69ul6-TvAXW1_g&usqp=CAU" group-title="EROPA SPORT", ARENA SPORT 3 PREMIUM
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=801857&extension=ts&play_token=dMoNEBGzeZ
-
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9htRBFDpxgTgZHl7j3NK9uqRCed--f0AmItjbHmanlr5M7mpsRjbI_kRhiYj0zoVnECU&usqp=CAU" group-title="EROPA SPORT", ARENA SPORT 1 RS
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=908230&extension=ts&play_token=6M70v2wtcm
@@ -8676,8 +8619,6 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=284070&exten
 #EXTINF:-1 tvg-logo="_____" group-title="EROPA SPORT", SKY SPORT AUSTRIA 3
 http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=284069&extension=ts&play_token=H8RtFzjlqF
 
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/polsatfight.png" group-title="EROPA SPORT", POLSAT FIGHT
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=22087_&extension=ts&play_token=W0JcMWGscf
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/polsatS.png" group-title="EROPA SPORT", POLSAT SPORT
@@ -8721,7 +8662,6 @@ http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=111201_&exten
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=111202_&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMYYB3TwxCTAkGU_s0cFPapDsc3Ow9PTrWEA&usqp=CAU" group-title="EROPA SPORT", TV2 SPORT PREMIUM 1
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=111203_&extension=ts
-
 
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", S SPORT TV 1
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=161952&extension=ts&play_token=49oVKQPh3R
@@ -8803,23 +8743,6 @@ http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:00:10:10&stream=116241&exte
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-artsport-6-2664.png" group-title="EROPA SPORT", ART SPORT 6 HD
 http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:00:10:10&stream=116240&extension=ts&play_token=w4RCMAH0R8
 
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/Kuj1.png" group-title="EROPA SPORT", KUJTESA SPORT 1
-http://premium-ks.ddns.net:88/Metiiptv/kDdXP4CGrZk9/47183
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/Kuj2.png" group-title="EROPA SPORT", KUJTESA SPORT 2
-http://premium-ks.ddns.net:88/Metiiptv/kDdXP4CGrZk9/47184
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/Kuj3.png" group-title="EROPA SPORT", KUJTESA SPORT 3
-http://premium-ks.ddns.net:88/Metiiptv/kDdXP4CGrZk9/47185
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/Kuj2.png" group-title="EROPA SPORT", KUJTESA SPORT 2
-http://premium-ks.ddns.net:88/Metiiptv/kDdXP4CGrZk9/47184
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/Kuj3.png" group-title="EROPA SPORT", KUJTESA SPORT 3
-http://premium-ks.ddns.net:88/Metiiptv/kDdXP4CGrZk9/47185
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/Kuj4.png" group-title="EROPA SPORT", KUJTESA SPORT 4
-http://premium-ks.ddns.net:88/Metiiptv/kDdXP4CGrZk9/47186
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/Kuj5.png" group-title="EROPA SPORT", KUJTESA SPORT 5
-http://premium-ks.ddns.net:88/Metiiptv/kDdXP4CGrZk9/47187
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/SSAL1.png" group-title="EROPA SPORT", SUPER SPORT 1 HD
 http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:00:10:10&stream=315174&extension=ts&play_token=RFCoBly3q3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/SSAL2.png" group-title="EROPA SPORT", SUPER SPORT 2 HD
@@ -8832,20 +8755,6 @@ http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:00:10:10&stream=116251&exte
 http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:00:10:10&stream=116252&extension=ts&play_token=UKtvbHmYC3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/SSAL6.png" group-title="EROPA SPORT", SUPER SPORT 6 HD
 http://tv.trexiptv.com:80/play/live.php?mac=00:1a:79:00:10:10&stream=116253&extension=ts&play_token=UKtvbHmYC3
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT", TRING SPORT News HD
-http://premium-ks.ddns.net:88/Metiiptv/kDdXP4CGrZk9/47178
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT", TRING SPORT 1 FHD
-http://premium-ks.ddns.net:88/Metiiptv/kDdXP4CGrZk9/47179
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT", TRING SPORT 2 FHD
-http://premium-ks.ddns.net:88/Metiiptv/kDdXP4CGrZk9/47180
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT", TRING SPORT 3 FHD 
-http://premium-ks.ddns.net:88/Metiiptv/kDdXP4CGrZk9/47181
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT", TRING SPORT 4 FHD
-http://premium-ks.ddns.net:88/Metiiptv/kDdXP4CGrZk9/47182
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="EROPA SPORT", TRING SPORT 5 FHD
-http://premium-ks.ddns.net:88/Metiiptv/kDdXP4CGrZk9/58869
-
 
 #EXTINF:-1 tvg-logo="xxxxxxxx" group-title="EROPA SPORT", OVER SPORT 1
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=819621&extension=ts&play_token=WsvtVnvgCL
@@ -9742,7 +9651,6 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=457065&extensio
 #EXTINF:-1 tvg-logo="https://www.dignited.com/wp-content/uploads/2017/12/SuperSport-logo.jpg" group-title="AFRICA SPORT", SUPERSPORT TENNIS AF
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=97603&extension=ts
 
-
 #EXTINF:-1 tvg-logo="https://mediakwest.com/wp-content/uploads/2023/02/Digital-Factory-Canal-Mediakwest--1024x576.jpeg" group-title="AFRICA SPORT", CANAL+ 1 AF
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=368899&extension=ts
 #EXTINF:-1 tvg-logo="https://mediakwest.com/wp-content/uploads/2023/02/Digital-Factory-Canal-Mediakwest--1024x576.jpeg" group-title="AFRICA SPORT", CANAL+ 2 AF
@@ -9765,7 +9673,6 @@ https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=79284&extension=ts&play_token=N7EmQhXfa1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/TYC.png" group-title="LATIN SPORT", TYC SPORT AR
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=25306&extension=ts&play_token=spmMNxKLPF
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCFdwEgf7Ef_A8t5mQHi28esDglHspqLd7sQ&usqp=CAU" group-title="LATIN SPORT", ESPN BR
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=59265&extension=ts&play_token=CN2xBNmpdp
@@ -11078,7 +10985,6 @@ MLS FOOTBALL #########
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
 
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbSE4nq8mB3cnzkzGAgTnSkrTzr7CMC6Dzdg&usqp=CAU" group-title="MLS FOOTBALL",  MLS 1
 http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=864905&extension=ts&play_token=r737rSi3j8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbSE4nq8mB3cnzkzGAgTnSkrTzr7CMC6Dzdg&usqp=CAU" group-title="MLS FOOTBALL",  MLS 2
@@ -11222,11 +11128,6 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=107626&exten
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDkXhbSwjuSP-XuaUPzDRs9BBg1vWmOUpSGg&usqp=CAU" group-title="CLUB FOOTBALL", GALATASARAY TV
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:73:BF:36&stream=913366&extension=ts&play_token=rVaW2rlt6f
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl6MCmhuaV1Un8Zx7XUHnSWxUVBOANby0lDZb4pTCroTioIBaVx1ewjJEO&s=10" group-title="CLUB FOOTBALL", FENERBACE TV
-http://iptvtree.net:8080/joeBt/FBe7D5gDbFzmWdAx/575
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9-5j47VYbMzeo5euGb5rpT-_YliZ1TnVpBA&usqp=CAU" group-title="CLUB FOOTBALL", SEVILLA TV
-http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=100151_&extension=ts
-
 
 
 #######################
@@ -12959,10 +12860,6 @@ http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/20078/index.m3u8
 
 
 
-
-
-
-
 #EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 1", VOO WORLD SPORT 1 BE
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:FB:15:3F&stream=390413&extension=ts
 #EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 1", VOO WORLD SPORT 2 BE
@@ -14379,6 +14276,9 @@ http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=65415_&extens
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT WORLD 2", MATCH CTPAHA RU
 http://dragoniptv.de:80/play/live.php?mac=00:1A:79:50:C3:35&stream=65331_&extension=ts
 
+
+
+
 #EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", RMC SPORT 1
 http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=65938_&extension=ts
 
@@ -14449,7 +14349,6 @@ http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=2034_&exten
 #EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", A SPORT
 http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=2023_&extension=ts
 
-
 #EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", S SPORT 1
 http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=2026_&extension=ts
 
@@ -14476,9 +14375,84 @@ http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=210061_&ext
 
 #EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", BEIN SPORT MAX 1
 http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=2215_&extension=ts
-
 #EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", BEIN SPORT MAX 2
 http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=2217_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", SKY SPORT TOP EVENT DE
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=184139_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", SKY SPORT PREMIER LEAGUE DE
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=184144_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", SKY SPORT F1 DE
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=11124_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", SKY SPORT MIX DE
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=184146_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", SKY SPORT TENNIS DE
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=184142_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", SKY SPORT GOLF DE
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=184147_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", EUROSPORT 1 DE
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=184144_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", EUROSPORT 2 DE
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=11157_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", SPORT 1+ DE
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=11121_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", SPORT FUSBALLDIGITAL DE
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=11178_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", MOTORVISION DE
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=11179_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", AUTOMOTOR SPORT DE
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=11182_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", SPORT 1+ DE
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=11180_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", SPORT 1+ DE
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=11121_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", EGDE SPORT DE
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=195518_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", ORF SPORT DE
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=11096_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", SKY SPORT AUSTRIA 1
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=11164_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", SKY SPORT AUSTRIA 2
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=11166_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", SKY SPORT AUSTRIA 3
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=11168_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", SKY SPORT AUSTRIA 4
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=11170_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", DYN SPORT 1
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=432253_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", DYN SPORT 2
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=432254_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", ESPN SPORT 1
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=55304_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", ESPN SPORT 2
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=55305_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", NBA TV
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=55306_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", FOX SPORT 1 US
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=55308_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", FOX SPORT 2 US
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=55309_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", TNT SPORT 1
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=55312_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", TNT SPORT 2
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=55313_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", TNT SPORT 3
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=55314_&extension=ts
+
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", SKY SPORT MIX
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=55315_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", SKY SPORT FOOTBALL
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=55316_&extension=ts
+
+
 
 
 #EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", DAZN EVENT 1
@@ -14598,6 +14572,51 @@ http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=55327_&exte
 
 #EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", ARENA SPORT 10
 http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=55328_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", NOVA SPORT
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=55328_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", SPORT KLUB
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=242989_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", SPORT KLUB 1
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=243038_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", SPORT KLUB 2
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=243039_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", SPORT KLUB 3
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=243040_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", SPORT KLUB 4
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=243041_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", SPORT KLUB 5
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=243042_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", SPORT KLUB 6
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=243043_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", SPORT KLUB 7
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=243044_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", SPORT KLUB 8
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=243045_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", SPORT KLUB 9
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=243046_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", SK FIGHT SR
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=55350_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", SK FIGHT HR
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=55338_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", ARENA FIGHT
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=243047_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", SK GOLF
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=243024_&extension=ts
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", MAX SPORT 1
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=183639_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", MAX SPORT 2
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=183640_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", SPORTSKA
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=55366_&extension=ts
+#EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", MOJA TV
+http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=55367_&extension=ts
+
+
+
+
 
 #EXTINF:-1 tvg-logo="______" group-title="SPORT WORLD 3", CYTAVISION SPORT 1
 http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=253345_&extension=ts
@@ -14702,11 +14721,26 @@ http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=3256_&exten
 http://tanix-hnx.xyz:8080/play/live.php?mac=00:1A:79:00:85:BC&stream=138869_&extension=ts
 
 
-
 #EXTINF:-1 group-title="MPD SPORT" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png", Eurosports
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Eurosport.m3u8 
 #EXTINF:-1 group-title="MPD SPORT" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png", Eurosports B
 https://denverisalive.pages.dev/Discovery/api/Eurosport.m3u8
+
+#EXTINF:-1 group-title="MPD SPORT" tvg-logo="_______", FOX SPORT 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=6a5ee0465846b56021136c6c69741375:a273d74c9c9269c0793862da41cf41b9
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"onPXTJySacB5OGLaQc9BuQ","kid":"al7gRlhGtWAhE2xsaXQTdQ"}],"type":"temporary"}
+https://arlocallivechannelsdash.lcdn.clarotv.com.ar/Content/DASH_DASH_FK/Live/channel(FOX_SPORTS)/master.mpd
+
+#EXTINF:-1 group-title="MPD SPORT" tvg-logo="_______", FOX SPORT 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=c98ddffc470fe449ae1a8d6492116976:5086d370e840010232cf4532b16e197f
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"UIbTcOhAAQIyz0UysW4Zfw","kid":"yY3f_EcP5EmuGo1kkhFpdg"}],"type":"temporary"}
+https://edge-vod04-sl.cvattv.com.ar/live/c3eds/FoxSports1HD/SA_Live_dash_enc_2A/FoxSports1HD.mpd
 
 #EXTINF:-1 group-title="MPD SPORT" tvg-logo="_______", TNT SPORT 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
