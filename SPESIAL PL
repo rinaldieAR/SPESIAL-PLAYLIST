@@ -462,8 +462,10 @@ http://iptvtree.net:8080/87b43fb3/d8db7a3d96/298549
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ODg5MzMzNDItNmFiZS0zNDU3LWE3ZjUtMTBkZmY2OWViNWIw
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/ss4liga1.png" group-title="#🇮🇩EVENT LIGA 1🇮🇩#",  SPORTSTARS 4 LIVE 4
 https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS045siap5NyIF9bWfeYH5heAq-i7YaZ31_sg&usqp=CAU" group-title="#🇮🇩EVENT LIGA 1🇮🇩#", MOJI VOLY 1
 http://iptvtree.net:8080/06c71787/b4841bff74/298550
