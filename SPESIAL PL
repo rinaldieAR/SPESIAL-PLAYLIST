@@ -16020,6 +16020,25 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1337306&exte
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1337305&extension=ts&play_token=u5hydcWBSu
 
 
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/amc-plus-logo-5EBE4D087E-seeklogo.com.png" group-title="OD AMC+", AMC+ 1
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1095558_&extension=ts
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/amc-plus-logo-5EBE4D087E-seeklogo.com.png" group-title="OD AMC+", AMC+ 2
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1095557_&extension=ts
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/amc-plus-logo-5EBE4D087E-seeklogo.com.png" group-title="OD AMC+", AMC+ 3
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1095556_&extension=ts
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/amc-plus-logo-5EBE4D087E-seeklogo.com.png" group-title="OD AMC+", AMC+ 4
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1095555_&extension=ts
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/amc-plus-logo-5EBE4D087E-seeklogo.com.png" group-title="OD AMC+", AMC+ 5
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1095554_&extension=ts
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/amc-plus-logo-5EBE4D087E-seeklogo.com.png" group-title="OD AMC+", AMC+ 6
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1095553_&extension=ts
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/amc-plus-logo-5EBE4D087E-seeklogo.com.png" group-title="OD AMC+", AMC+ 7
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1095552_&extension=ts
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/amc-plus-logo-5EBE4D087E-seeklogo.com.png" group-title="OD AMC+", AMC+ 8
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1095551_&extension=ts
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/amc-plus-logo-5EBE4D087E-seeklogo.com.png" group-title="OD AMC+", AMC+ 9
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1095550_&extension=ts
+
 #EXTINF:-1 tvg-logo="https://www.channelcanada.com/wp-content/uploads/2021/03/Paramount-Originals.jpg" group-title="OD PARAMOUNT", PARAMOUNT SERIES  1
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1095583_&extension=ts
 #EXTINF:-1 tvg-logo="https://www.channelcanada.com/wp-content/uploads/2021/03/Paramount-Originals.jpg" group-title="OD PARAMOUNT", PARAMOUNT SERIES  2
@@ -16061,6 +16080,29 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1095489_&ext
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1095488_&extension=ts
 #EXTINF:-1 tvg-logo="https://otakudome.com/wp-content/uploads/2020/04/HBO-Max-Large-1024x683-1.jpeg" group-title="OD HBOMAX", HBO MAX 10
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1095487_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://otakudome.com/wp-content/uploads/2020/04/HBO-Max-Large-1024x683-1.jpeg" group-title="OD HBOMAX", HBO MAX 11
+http://exprestv.win/play/live.php?mac=00:1A:79:A2:5B:B8&stream=1275554&extension=ts&play_token=R2yAAD7PvX
+#EXTINF:-1 tvg-logo="https://otakudome.com/wp-content/uploads/2020/04/HBO-Max-Large-1024x683-1.jpeg" group-title="OD HBOMAX", HBO MAX 12
+http://exprestv.win/play/live.php?mac=00:1A:79:A2:5B:B8&stream=1275553&extension=ts&play_token=R2yAAD7PvX
+#EXTINF:-1 tvg-logo="https://otakudome.com/wp-content/uploads/2020/04/HBO-Max-Large-1024x683-1.jpeg" group-title="OD HBOMAX", HBO MAX 13
+http://exprestv.win/play/live.php?mac=00:1A:79:A2:5B:B8&stream=1275552&extension=ts&play_token=R2yAAD7PvX
+#EXTINF:-1 tvg-logo="https://otakudome.com/wp-content/uploads/2020/04/HBO-Max-Large-1024x683-1.jpeg" group-title="OD HBOMAX", HBO MAX 14
+http://exprestv.win/play/live.php?mac=00:1A:79:A2:5B:B8&stream=1275551&extension=ts&play_token=R2yAAD7PvX
+#EXTINF:-1 tvg-logo="https://otakudome.com/wp-content/uploads/2020/04/HBO-Max-Large-1024x683-1.jpeg" group-title="OD HBOMAX", HBO MAX 15
+http://exprestv.win/play/live.php?mac=00:1A:79:A2:5B:B8&stream=1275550&extension=ts&play_token=R2yAAD7PvX
+#EXTINF:-1 tvg-logo="https://otakudome.com/wp-content/uploads/2020/04/HBO-Max-Large-1024x683-1.jpeg" group-title="OD HBOMAX", HBO MAX 16
+http://exprestv.win/play/live.php?mac=00:1A:79:A2:5B:B8&stream=1275549&extension=ts&play_token=R2yAAD7PvX
+#EXTINF:-1 tvg-logo="https://otakudome.com/wp-content/uploads/2020/04/HBO-Max-Large-1024x683-1.jpeg" group-title="OD HBOMAX", HBO MAX 17
+http://exprestv.win/play/live.php?mac=00:1A:79:A2:5B:B8&stream=1275548&extension=ts&play_token=R2yAAD7PvX
+#EXTINF:-1 tvg-logo="https://otakudome.com/wp-content/uploads/2020/04/HBO-Max-Large-1024x683-1.jpeg" group-title="OD HBOMAX", HBO MAX 18
+http://exprestv.win/play/live.php?mac=00:1A:79:A2:5B:B8&stream=1275547&extension=ts&play_token=R2yAAD7PvX
+#EXTINF:-1 tvg-logo="https://otakudome.com/wp-content/uploads/2020/04/HBO-Max-Large-1024x683-1.jpeg" group-title="OD HBOMAX", HBO MAX 19
+http://exprestv.win/play/live.php?mac=00:1A:79:A2:5B:B8&stream=1275546&extension=ts&play_token=R2yAAD7PvX
+#EXTINF:-1 tvg-logo="https://otakudome.com/wp-content/uploads/2020/04/HBO-Max-Large-1024x683-1.jpeg" group-title="OD HBOMAX", HBO MAX 20
+http://exprestv.win/play/live.php?mac=00:1A:79:A2:5B:B8&stream=1275545&extension=ts&play_token=R2yAAD7PvX
+
+
 
 #EXTINF:-1 tvg-logo="https://www.androidauthority.com/wp-content/uploads/2020/08/starz-logo.jpg" group-title="OD STARZ", STARZ SERIES  1
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1095724_&extension=ts
@@ -16265,6 +16307,25 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1275539&exte
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1275538&extension=ts&play_token=F5Xi40dhPi
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSfxqmC_Sp1HO5Jn8-n_7g4CQwa0RbUHlcQQ&usqp=CAU" group-title="OD AMAZON PRIME", AMAZON 7
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1275537&extension=ts&play_token=F5Xi40dhPi
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSfxqmC_Sp1HO5Jn8-n_7g4CQwa0RbUHlcQQ&usqp=CAU" group-title="OD AMAZON PRIME", AMAZON 8
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1275536&extension=ts&play_token=F5Xi40dhPi
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSfxqmC_Sp1HO5Jn8-n_7g4CQwa0RbUHlcQQ&usqp=CAU" group-title="OD AMAZON PRIME", AMAZON 9
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1275535&extension=ts&play_token=F5Xi40dhPi
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSfxqmC_Sp1HO5Jn8-n_7g4CQwa0RbUHlcQQ&usqp=CAU" group-title="OD AMAZON PRIME", AMAZON 10
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1275534&extension=ts&play_token=F5Xi40dhPi
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSfxqmC_Sp1HO5Jn8-n_7g4CQwa0RbUHlcQQ&usqp=CAU" group-title="OD AMAZON PRIME", AMAZON 11
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1275533&extension=ts&play_token=F5Xi40dhPi
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSfxqmC_Sp1HO5Jn8-n_7g4CQwa0RbUHlcQQ&usqp=CAU" group-title="OD AMAZON PRIME", AMAZON 12
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1275532&extension=ts&play_token=F5Xi40dhPi
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSfxqmC_Sp1HO5Jn8-n_7g4CQwa0RbUHlcQQ&usqp=CAU" group-title="OD AMAZON PRIME", AMAZON 13
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1275531&extension=ts&play_token=F5Xi40dhPi
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSfxqmC_Sp1HO5Jn8-n_7g4CQwa0RbUHlcQQ&usqp=CAU" group-title="OD AMAZON PRIME", AMAZON 14
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1275530&extension=ts&play_token=F5Xi40dhPi
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSfxqmC_Sp1HO5Jn8-n_7g4CQwa0RbUHlcQQ&usqp=CAU" group-title="OD AMAZON PRIME", AMAZON 15
+http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=1275529&extension=ts&play_token=F5Xi40dhPi
+
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdR4BUrpMkhG8BXeVTxxaXgUTosR6W9__9Nw&usqp=CAU" group-title="MOVIE 24/7", TOM & JERRY
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:08:4f:db&stream=587343&extension=ts&play_token=9FqJa1TIIY
