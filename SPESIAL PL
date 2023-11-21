@@ -16218,35 +16218,6 @@ https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
 https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
 
-#EXTINF:-1 group-title="MPD SPORT" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport6.bh.png",Arena Sport 7
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
-https://webtvstream.bhtelecom.ba/hls6/arena7.mpd
-
-#EXTINF:-1 group-title="MPD SPORT" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport6.bh.png",Arena Sport 8
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
-https://webtvstream.bhtelecom.ba/hls6/arena8.mpd
-
-#EXTINF:-1 group-title="MPD SPORT" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport6.bh.png",Arena Sport 9
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
-https://webtvstream.bhtelecom.ba/hls6/arena9.mpd
-
-#EXTINF:-1 group-title="MPD SPORT" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport6.bh.png",Arena Sport 10
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
-https://webtvstream.bhtelecom.ba/hls6/arena10.mpd
-
-
 
 #EXTINF:-1 group-title="MPD SPORT" tvg-logo="https://cdn.wapka.io/00arml/1dcc34cef9b8e1df1b66b7d2bb431f6a/screenshot_2023-08-30-14-03-50-02_d9722a3191d1befe545c11192a9ddcff.jpg",NBC SPORT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
