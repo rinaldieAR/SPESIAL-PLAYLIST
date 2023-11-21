@@ -7667,6 +7667,28 @@ BEIN GRUP  ############
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="BEIN GRUP", ###BEIN GRUP###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
+#EXTINF:-1 tvg-logo="_______" group-title="BEIN GRUP", BEIN SPORT 1 TOD
+http://176.119.29.76:8082/24476ebd-6204-4d06-b5af-072223bc5851.m3u8
+#EXTINF:-1 tvg-logo="_______" group-title="BEIN GRUP", BEIN SPORT 2 TOD
+http://176.119.29.108:8082/29aed7f2-0371-4e4f-a6dc-ada6a675e449.m3u8
+#EXTINF:-1 tvg-logo="_______" group-title="BEIN GRUP", BEIN SPORT 3 TOD
+http://176.119.29.17:8082/eb34e00c-cb41-4efe-9b06-f824a4347fd4.m3u8
+#EXTINF:-1 tvg-logo="_______" group-title="BEIN GRUP", BEIN SPORT 4 TOD
+http://176.119.29.76:8082/e09943ac-48bc-4ac7-80cd-050e846dd7ad.m3u8
+#EXTINF:-1 tvg-logo="_______" group-title="BEIN GRUP", BEIN SPORT 5 TOD
+http://176.119.29.39:8082/9b797a86-16ce-4ce6-9848-9401b400b470.m3u8
+#EXTINF:-1 tvg-logo="_______" group-title="BEIN GRUP", BEIN SPORT 6 TOD
+http://176.119.29.14:8082/2033e44d-fb78-4d1d-87c5-e113009f710a.m3u8
+#EXTINF:-1 tvg-logo="_______" group-title="BEIN GRUP", BEIN SPORT 7 TOD
+http://176.119.29.157:8082/d68528e7-c7ba-4f27-b112-1c0f64eac4d2.m3u8
+#EXTINF:-1 tvg-logo="_______" group-title="BEIN GRUP", BEIN SPORT 8 TOD
+http://176.119.29.17:8082/13fe561b-dfeb-44f5-beb9-e1ee4f1bb488.m3u8
+#EXTINF:-1 tvg-logo="_______" group-title="BEIN GRUP", BEIN SPORT 9 TOD
+http://176.119.29.42:8082/00df2c2c-c740-41c4-b1ae-d7b57469bccc.m3u8
+#EXTINF:-1 tvg-logo="_______" group-title="BEIN GRUP", BEIN SPORT NEWS
+http://176.119.29.47:8082/8be1fab7-6b6a-49cb-8fe9-cd0d752a6062.m3u8
+
+
 #EXTINF:-1 tvg-logo="_______" group-title="BEIN GRUP", BEIN SPORT PREMIUM 3 AR
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B2:E0:56&stream=192756&extension=m3u8
 #EXTINF:-1 tvg-logo="_______" group-title="BEIN GRUP", BEIN SPORT PREMIUM 2 AR
