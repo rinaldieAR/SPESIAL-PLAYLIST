@@ -8426,11 +8426,6 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:00:20:4B&stream=993130&exten
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/PremierSports-ph.png" group-title="ASIA SPORT", PREMIER SPORT 2
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:00:20:4B&stream=993131&extension=ts&play_token=KfPnTBMTgg
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSifKAaGK0AD88SQnu6MsApMLGHPDwIkNmSDw&usqp=CAU" group-title="ASIA SPORT", ONE SPORT+
-http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=463644_&extension=ts
-#EXTINF:-1 tvg-logo="_____" group-title="ASIA SPORT", TAP SPORT PH
-http://nplay.is:2095/play/live.php?mac=10:27:be:15:df:31&stream=463661_&extension=ts
-
 #EXTINF:-1 tvg-logo="______" group-title="ASIA SPORT", TAP SPORT HD PH
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=926147&extension=ts&play_token=klr4NS5Ljl
 
