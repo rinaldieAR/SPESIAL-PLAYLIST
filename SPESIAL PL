@@ -16153,70 +16153,70 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-050/stream.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
-https://webtvstream.bhtelecom.ba/hls7/as_premium1.mpd
+https://webtvstream.bhtelecom.ba/hls13/as_premium1.mpd
 
 #EXTINF:-1 group-title="MPD SPORT" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png",Arena 2 Premium
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
-https://webtvstream.bhtelecom.ba/hls7/as_premium2.mpd
+https://webtvstream.bhtelecom.ba/hls13/as_premium2.mpd
 
 #EXTINF:-1 group-title="MPD SPORT" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png",Arena 1 Premium
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
-https://webtvstream.bhtelecom.ba/hls7/as_premium3.mpd
+https://webtvstream.bhtelecom.ba/hls13/as_premium3.mpd
 
 #EXTINF:-1 group-title="MPD SPORT" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport1.bh.png",Arena Sport 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
-https://webtvstream.bhtelecom.ba/hls7/arena1.mpd
+https://webtvstream.bhtelecom.ba/hls13/arena1.mpd
 
 #EXTINF:-1 group-title="MPD SPORT" tvg-logo="https://iptvboss.xyz/logos/Bosnia/Arenasport1x2.bh.png",Arena Sport 1x2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
-https://webtvstream.bhtelecom.ba/hls7/arena_1x2.mpd
+https://webtvstream.bhtelecom.ba/hls13/arena_1x2.mpd
 
 #EXTINF:-1 group-title="MPD SPORT" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport2.bh.png",Arena Sport 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
-https://webtvstream.bhtelecom.ba/hls7/arena2.mpd
+https://webtvstream.bhtelecom.ba/hls13/arena2.mpd
 
 #EXTINF:-1 group-title="MPD SPORT" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport3.bh.png",Arena Sport 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
-https://webtvstream.bhtelecom.ba/hls7/arena3.mpd
+https://webtvstream.bhtelecom.ba/hls13/arena3.mpd
 
 #EXTINF:-1 group-title="MPD SPORT" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport4.bh.png",Arena Sport 4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
-https://webtvstream.bhtelecom.ba/hls7/arena4.mpd
+https://webtvstream.bhtelecom.ba/hls13/arena4.mpd
 
 #EXTINF:-1 group-title="MPD SPORT" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport5.bh.png",Arena Sport 5
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
-https://webtvstream.bhtelecom.ba/hls7/arena5.mpd
+https://webtvstream.bhtelecom.ba/hls13/arena5.mpd
 
 #EXTINF:-1 group-title="MPD SPORT" tvg-logo="https://iptvboss.xyz/logos/Bosnia/ArenaSport6.bh.png",Arena Sport 6
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5Bw6b3UysuOoKNlYASTInQ", "kid":"wYtqpzm+TAt3RgX8+11raA" } ], "type":"temporary" }
-https://webtvstream.bhtelecom.ba/hls7/arena6.mpd
+https://webtvstream.bhtelecom.ba/hls13/arena6.mpd
 
 #EXTINF:-1 group-title="MPD SPORT" tvg-logo="https://cdn.wapka.io/00arml/1dcc34cef9b8e1df1b66b7d2bb431f6a/screenshot_2023-08-30-14-03-50-02_d9722a3191d1befe545c11192a9ddcff.jpg",NBC SPORT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -16310,62 +16310,65 @@ https://director.tv.c.is/__cl/cg:default/__c/Stod2Sport5_HD_HTTP/__op/dash-defau
 #EXTINF:-1 tvg-id="ArenaSport1Serbia.rs" tvg-logo="https://i.ibb.co/Bc5hXbD/A1.png" group-title="MPD SPORT", ARENA SPORT 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wYtqpzm+TAt3RgX8+11raA","k":"5Bw6b3UysuOoKNlYASTInQ"}]}
-https://webtvstream.bhtelecom.ba/hls7/arena1.mpd
+https://webtvstream.bhtelecom.ba/hls13/arena1.mpd
 
 #EXTINF:-1 tvg-id="ArenaSport2Serbia.rs" tvg-logo="https://i.ibb.co/gPKgmQK/A2.png" group-title="MPD SPORT", ARENA SPORT 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wYtqpzm+TAt3RgX8+11raA","k":"5Bw6b3UysuOoKNlYASTInQ"}]}
-https://webtvstream.bhtelecom.ba/hls7/arena2.mpd
+https://webtvstream.bhtelecom.ba/hls13/arena2.mpd
 
 #EXTINF:-1 tvg-id="ArenaSport3Serbia.rs" tvg-logo="https://i.ibb.co/RQHG02z/A3.png" group-title="MPD SPORT", ARENA SPORT 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wYtqpzm+TAt3RgX8+11raA","k":"5Bw6b3UysuOoKNlYASTInQ"}]}
-https://webtvstream.bhtelecom.ba/hls7/arena3.mpd
+https://webtvstream.bhtelecom.ba/hls13/arena3.mpd
 
 #EXTINF:-1 tvg-id="ArenaSport4Serbia.rs" tvg-logo="https://i.ibb.co/19G8JXj/A4.png" group-title="MPD SPORT", ARENA SPORT 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wYtqpzm+TAt3RgX8+11raA","k":"5Bw6b3UysuOoKNlYASTInQ"}]}
-https://webtvstream.bhtelecom.ba/hls7/arena4.mpd
+https://webtvstream.bhtelecom.ba/hls13/arena4.mpd
 
 #EXTINF:-1 tvg-id="ArenaSport5Serbia.rs" tvg-logo="https://i.ibb.co/vvZDcJm/A5.png" group-title="MPD SPORT", ARENA SPORT 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wYtqpzm+TAt3RgX8+11raA","k":"5Bw6b3UysuOoKNlYASTInQ"}]}
-https://webtvstream.bhtelecom.ba/hls7/arena5.mpd
+https://webtvstream.bhtelecom.ba/hls13/arena5.mpd
 
 #EXTINF:-1 tvg-id="ArenaSport6Serbia.rs" tvg-logo="https://i.ibb.co/YLZVGGx/A6.png" group-title="MPD SPORT", ARENA SPORT 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wYtqpzm+TAt3RgX8+11raA","k":"5Bw6b3UysuOoKNlYASTInQ"}]}
-https://webtvstream.bhtelecom.ba/hls7/arena6.mpd
+https://webtvstream.bhtelecom.ba/hls13/arena6.mpd
 
 #EXTINF:-1 tvg-id="ArenaSport1x2Serbia.rs" tvg-logo="https://i.ibb.co/0ysP0P3/A1X2.png" group-title="MPD SPORT", ARENA SPORT 1x2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wYtqpzm+TAt3RgX8+11raA","k":"5Bw6b3UysuOoKNlYASTInQ"}]}
-https://webtvstream.bhtelecom.ba/hls7/arena_1x2.mpd
+https://webtvstream.bhtelecom.ba/hls13/arena_1x2.mpd
 
 #EXTINF:-1 tvg-id="ArenaFightSerbia.rs" tvg-logo="https://i.ibb.co/tHkttff/AFIGHT.png" group-title="MPD SPORT", ARENA FIGHT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wYtqpzm+TAt3RgX8+11raA","k":"5Bw6b3UysuOoKNlYASTInQ"}]}
-https://webtvstream.bhtelecom.ba/hls7/arena_fight.mpd
+https://webtvstream.bhtelecom.ba/hls13/arena_fight.mpd
 
 #EXTINF:-1 tvg-id="ArenaSport1PremiumSerbia.rs" tvg-logo="https://i.ibb.co/ckrG72y/A1P.png" group-title="MPD SPORT", ARENA SPORT PREMIUM 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wYtqpzm+TAt3RgX8+11raA","k":"5Bw6b3UysuOoKNlYASTInQ"}]}
-https://webtvstream.bhtelecom.ba/hls7/as_premium1.mpd
+https://webtvstream.bhtelecom.ba/hls13/as_premium1.mpd
 
 #EXTINF:-1 tvg-id="ArenaSport2PremiumSerbia.rs" tvg-logo="https://i.ibb.co/8DTJQL2/A2P.png" group-title="MPD SPORT", ARENA SPORT PREMIUM 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wYtqpzm+TAt3RgX8+11raA","k":"5Bw6b3UysuOoKNlYASTInQ"}]}
-https://webtvstream.bhtelecom.ba/hls7/as_premium2.mpd
+https://webtvstream.bhtelecom.ba/hls13/as_premium2.mpd
+
 #EXTINF:-1 tvg-id="ArenaSport3PremiumSerbia.rs" tvg-logo="https://i.ibb.co/ZK7s8bT/A3P.png" group-title="MPD SPORT", ARENA SPORT PREMIUM 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wYtqpzm+TAt3RgX8+11raA","k":"5Bw6b3UysuOoKNlYASTInQ"}]}
-https://webtvstream.bhtelecom.ba/hls7/as_premium3.mpd
+https://webtvstream.bhtelecom.ba/hls13/as_premium3.mpd
 
 #EXTINF:-1 tvg-id="Inter TV" tvg-logo="https://i.ibb.co/1fnS8Wr/INTERTV.png" group-title="MPD SPORT" , INTER TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc+b+/pHNBfhQ4rWJ0A"}]}
-https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-033/stream.mpd#EXTINF:-1 tvg-id="beIN SPORTS" tvg-logo="https://i.ibb.co/WfN3KhG/BEINSP1.png" group-title="MPD SPORT" , DAZN X BEIN SPORTS 1
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-033/stream.mpd
+
+#EXTINF:-1 tvg-id="beIN SPORTS" tvg-logo="https://i.ibb.co/WfN3KhG/BEINSP1.png" group-title="MPD SPORT" , DAZN X BEIN SPORTS 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gvjioX2sRMChj2YEeTScWQ","k":"GxRPc+b+/pHNBfhQ4rWJ0A"}]}
