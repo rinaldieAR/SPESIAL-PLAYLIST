@@ -8419,8 +8419,13 @@ https://ctrl.laotv.la/live/Bsport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSxSmaCkSbJqWAIDq5p2qUlH9vwzZGtJPEyg&usqp=CAU" group-title="ASIA SPORT", BEIN SPORTS 2 TH
 https://ctrl.laotv.la/live/Bsport2/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSifKAaGK0AD88SQnu6MsApMLGHPDwIkNmSDw&usqp=CAU" group-title="ASIA SPORT", ONE SPORT HD
+http://iptv2077.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=926161&extension=ts&play_token=bo2m2wHalz
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSifKAaGK0AD88SQnu6MsApMLGHPDwIkNmSDw&usqp=CAU" group-title="ASIA SPORT", ONE SPORT
+http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=926161&extension=ts&play_token=GVZS088tcf
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSifKAaGK0AD88SQnu6MsApMLGHPDwIkNmSDw&usqp=CAU" group-title="ASIA SPORT", ONE SPORT BK
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:45:CA:A6&stream=926161&extension=ts&play_token=bo2m2wHalz
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/PremierSports-ph.png" group-title="ASIA SPORT", PREMIER SPORT 1
 http://pal.alphatx.me:80/play/live.php?mac=00:1A:79:00:20:4B&stream=993130&extension=ts&play_token=mOIvrXZBLE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/PremierSports-ph.png" group-title="ASIA SPORT", PREMIER SPORT 2
