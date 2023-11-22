@@ -2493,12 +2493,64 @@ http://iptvtree.net:8080/onestream/j4DvYuVxCA27Zmg3hPyXRa/157550
 
 
 
+
+##########################
+INDEKOS   ############
+#################################################################################################################################################################################
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="HBO ID", ###HBO ID###
+https://github.com/inaldie/inaldie/raw/main/LOGO.ts
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="HBO ID", Cinemax S1
+http://iptvtree.net:8080/onestream/j4DvYuVxCA27Zmg3hPyXRa/197964
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="HBO ID", HBO S1
+http://iptvtree.net:8080/onestream/j4DvYuVxCA27Zmg3hPyXRa/197972
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="HBO ID", HBO Family S1
+http://iptvtree.net:8080/onestream/j4DvYuVxCA27Zmg3hPyXRa/197055
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="HBO ID", HBO Hits S1
+http://iptvtree.net:8080/onestream/j4DvYuVxCA27Zmg3hPyXRa/196480
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="HBO ID", HBO Signature S1
+http://iptvtree.net:8080/onestream/j4DvYuVxCA27Zmg3hPyXRa/221948
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="HBO ID", Cinemax S2
+http://iptvstream.xyz:8080/Dooby/66754f23/197964
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="HBO ID", HBO S2
+http://iptvstream.xyz:8080/Dooby/66754f23/197972
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="HBO ID", HBO Family S2
+http://iptvstream.xyz:8080/Dooby/66754f23/197055
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="HBO ID", HBO Hits S2
+http://iptvstream.xyz:8080/Dooby/66754f23/196480
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="HBO ID", HBO Signature S2
+http://iptvstream.xyz:8080/Dooby/66754f23/221948
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="HBO ID", Cinemax S3
+http://iptvtree.net:8080/SBTV/MHd79ukKzL5wCyDj8NtZeW/197964
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="HBO ID", HBO S3
+http://iptvtree.net:8080/SBTV/MHd79ukKzL5wCyDj8NtZeW/197972
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="HBO ID", HBO Family S3
+http://iptvtree.net:8080/SBTV/MHd79ukKzL5wCyDj8NtZeW/197055
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="HBO ID", HBO Hits S3
+http://iptvtree.net:8080/SBTV/MHd79ukKzL5wCyDj8NtZeW/196480
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="HBO ID", HBO Signature S3
+http://iptvtree.net:8080/SBTV/MHd79ukKzL5wCyDj8NtZeW/221948
+
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="HBO ID", Cinemax S4
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/197964
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="HBO ID", HBO S4
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/197972
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="HBO ID", HBO Family S4
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/197055
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="HBO ID", HBO Hits S4
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/196480
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="HBO ID", HBO Signature S4
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/221948
+
+
 ##########################
 INDEKOS   ############
 #################################################################################################################################################################################
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="INDEKOS TV", ###INDEKOS TV###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
-
 
 #EXTINF:-1 group-title="INDEKOS TV" tvg-logo="_______", INDOSIAR
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -2934,13 +2986,13 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=02cb3453a0313c5fb8f31e9e3f0ba979:90c15b569eb7f84efa56feb2d094151a
-#EXTINF:-1 group-title="VISION+" tvg-id="HBO Family HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115",HBO Family MAX
+#EXTINF:-1 group-title="VISION+"  tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_160_115",HBO Family MAX
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff-4c23-8a76-ad1c0ef025e2)/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=52883505c5eb354db8fd8a81e85ee675:01e87176a59e6f795304100b8609190a
-#EXTINF:-1 group-title="VISION+" tvg-id="Cinemax HD" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://i.imgur.com/uB76Ft0.png",Cinemax MAX
+#EXTINF:-1 group-title="VISION+" tvg-logo="https://i.imgur.com/uB76Ft0.png",Cinemax MAX
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ef01e28-6fac-49c1-9aa4-40b37d431881)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="VISION+", HBO S3
