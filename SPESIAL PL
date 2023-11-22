@@ -8506,6 +8506,8 @@ ARAB SPORT  ###########
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ARAB SPORT", ###ARAB SPORT###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCZB2au0dY9CKyt9WhC87bN8ehJMHfxGH4NS4YiFSkT11pSmifjyaqc2tcmbqLJMROeLw&usqp=CAU" group-title="ARAB SPORT",  SSC SPORT 1 HLS
+https://af.ayassport.ir/hls2/ssc1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0fHWC0Vz6sD7Z-tf3JFUjVOzLt8dR6wgWU0t6R50YRMr8f4W5bHbsMI8L&s=10" group-title="ARAB SPORT",  SSC SPORT 1
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1022746_&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaGYpKKhXY0Q678Nsr97dwOoDsYQu8NzDiMA&usqp=CAU" group-title="ARAB SPORT",  SSC SPORT 2
