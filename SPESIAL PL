@@ -682,6 +682,9 @@ KOP INDONE_SIA 1 & MALAY_SIA 1 ##########
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="INDONE_SIA 2", ###INDONE_SIA 2###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="INDONE_SIA 3", ###INDONE_SIA 3###
+https://github.com/inaldie/inaldie/raw/main/LOGO.ts
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="MALAY_SIA 1", ###MALAY_SIA 1###
 https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="MALAY_SIA 2", ###MALAY_SIA 2###
