@@ -7832,155 +7832,681 @@ https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/21433
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", NICKELODEN (US)
 https://6oclock.xyz:8443/oVTsSvYjZu/cAXDNm9LY9/12719
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", VF Disney Movie
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/15010/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", VF Cartoon
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/10002/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", VF VHS Cartoon
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/11118/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", AF037:BOOMERANG
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/26583
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", MM Walt Disney HD
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/13064/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", AF062:CARTOON NETWORK
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/26531
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Yosso TV Disney
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/20164/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", AF082:DISNEY CHANNEL
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/59238
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Dosug TV Kids HD
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/14214/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", AF083:DISNEY JUNIOR
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/59239
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Citrus Cartoon
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/16050/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", AF156:NICKELODEON
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60753
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Fresh Kids
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/19288/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", FR248:CANAL+ Kids HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/28061
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Kinoshka Kids HD
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/18056/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", SI039:NICKELODEON
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/57889
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Magic Disney HD
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/18064/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Prokop TV Kids
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/18141/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", KS002:Cartoon Network
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/2069
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", VF Disney Cartoon
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/15027/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", KS005:Majid Kids
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/2066
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", NickToons SK
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/6095/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", KS009:SAT7 Kids
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/2062
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Nick Jr
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/114/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", OSN012:DISNEY JUNIOR
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/2161
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Nickelodeon
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/541/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", OSN019:DISNEY
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/2154
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Cartoon Network
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/143/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", OSN022:NICKELODEON
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/2151
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Cartoonito
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/723/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", OSN034:MOONBUG KIDS
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/69413
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Baby TV
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/2084/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", AC197:Cartoon Network
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/27721
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Da Vinci Kids UA
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/1034/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", AF082:DISNEY CHANNEL
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/59238
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Nickelodeon EN
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/1069/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", AC353:Baraem Kids
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/27565
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", NickToons
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/849/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", AC389:MAJD KIDS
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/27529
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Cartoons 90
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/11001/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", AC405:Boomerang
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/27513
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Cartoons Short
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/11002/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", AC436:Nickelodeon
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/27482
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Cartoons Big
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/11003/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", AC491:Atfal Mwaheb Kids
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/27427
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Жара kids HD
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/14147/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", VN070:BOOMERANG HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60301
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Anime Kids HD
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/14151/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", IN417:Cartoon Network HD (Telugu)
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/66818
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Yosso TV Kids
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/14173/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", KOR039:EBS Kids
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60489
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Liberty Disney FHD
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/15093/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", TH080:Cartoon Club
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60424
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Disney HD FR
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/15185/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US026:Disney Channel HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/3142
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", MYTV Kids
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/19409/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US028:Disney XD HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/3140
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", CARTOON NETWORK SE
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/12043/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US095:PBS Kids HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/3073
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", DISNEY JUNIOR SE
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/12045/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US141:Nickelodeon HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/30049
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", DISNEY XD SE
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/12046/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US789:Boomerang HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/64364
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", NICK JUNIOR SE
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/12057/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US799:Universal Kids HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/64374
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", NICKELODEON SE
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/12058/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US884:Disney + HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60230
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", NICKTOONS SE
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/12059/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", BOOMERANG SE
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/12097/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", CA023:Disney Channel HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/3046
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Nickelodeon HD DE
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/15182/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", CA024:Disney Junior HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/3045
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Majid Kids TV AE
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/15202/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", CA025:Disney XD HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/3044
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Cartoon Network HD DE
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/20002/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", CA096:Cartoon Network
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/30218
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Nick Jr. DE
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/20003/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", CA223:Nickelodeon
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/59196
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Cartoonito HD (Sky) DE
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/20042/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", 24/7 014:DISNEY MOVIES
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60928
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", DE Nick Jr. (Sky) HD
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/20043/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", 24/7 015:DISNEY SONGS
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60927
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", DE Cartoon Network (Sky) HD
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/20044/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", 24/7 066:TRANSFORMERS CARTOONS
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60876
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Nickelodeon HD
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/223/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", 24/7 068:X-MEN CARTOONS
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60874
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", СТС Kids HD
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/2001/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", FR152:NICKELODEON
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/28151
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", BCU Kids HD
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/11035/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", BCU Kids+ HD
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/11036/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", DE098:NICK KIDS
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/29186
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", BCU Kids 4K
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/17023/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", PT022:Disney Channel
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/3228
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", KLI Kids FHD
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/20047/index.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", PT023:Disney Junior
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/3227
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", BG073:NICKELODEON
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/30753
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", DK012:CARTOON NETWORK
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/31119
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", HU059:NICKELODEON
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/31292
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", NO010:DISNEY CHANNEL
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/31547
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", BR118:Boomerang FHD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/65673
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", BR011:Boomerang HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/2521
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", BR120:Cartoon Network FHD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/65675
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", BR013:Cartoon Network HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/2519
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", BR121:Cartoon Network SD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/65676
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", BR119:Boomerang SD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/65674
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", BR147:Disney Channel FHD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/65702
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", BR026:Disney HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/2506
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", BR148:Disney Channel SD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/65703
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", BR027:DISNEY JR HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/2505
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", BR028:Disney XD HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/2504
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", BR136:Discovery Kids FHD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/65691
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", BR021:Discovery Kids HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/2511
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", BR137:Discovery Kids SD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/65692
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", BR069:NAT GEO Kids HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/2463
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", BR211:Nat Geo Kids SD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/65766
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", BR072:Nickelodeon FHD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/2460
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", BR216:Nickelodeon SD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/65771
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", LA010:BOOMERANG
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/58047
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", LA020:DISCOVERY KIDS
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/58037
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", LA024:DISNEY CHANNEL
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/58033
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", LA025:DISNEY JR
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/58032
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", LA026:DISNEY XD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/58031
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", LA044:NICKELODEON
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/58013
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", LA068:STARZ KIDS & FAMILY
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/57989
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", LA096:CARTOON NETWORK
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/57961
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", ARG007:BOOMERANG
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/49745
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", ARG009:CARTOON NETWORK
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/49743
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", ARG024:DISNEY
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/49728
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", ARG025:DISNEY JUNIOR
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/49727
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", ARG026:DISNEY XD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/49726
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", ARG063:NICKELODEON
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/49689
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", ARG064:NICKELODEON JR
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/49688
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", MX019:Boomerang HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/51439
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", MX039:Cartoon Network HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/51419
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", MX050:Discovery Kids
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/51408
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", MX056:Disney Channel HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/51402
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", MX057:Disney Jr
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/51401
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", MX097:Nickelodeon
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/51361
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", VN008:BOOMERANG HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1864
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", IN042:CARTOON NETWORK
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1923
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", IN054:DISCOVERY KIDS
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1911
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", IN056:DISNEY
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1909
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", IN120:SONIC NICKELODEON
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/55294
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", IR053:GEM Kids
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/50042
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", MY089:Moonbug Kids
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71061
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", MY112:Cartoon Network
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71084
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", MY113:NICKELODEON HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71085
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", KOR003:EBS kids
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/51814
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", AU052:ABC Kids Sydney
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61114
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", AU056:ABC Kids Perth
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61118
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", AU060:ABC Kids Melbourne
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61122
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", AU065:ABC Kids Hobart
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61127
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", AU069:ABC Kids Darwin
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61131
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", AU074:ABC Kids Canberra
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61136
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", AU079:ABC Kids Brisbane
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61141
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", AU084:ABC Kids Adelaide
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61146
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", AU089:ABC Kids Perth
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61151
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", AU094:ABC Kids Hobart
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61156
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", AU098:ABC Kids Darwin
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61160
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", AU103:ABC Kids Canberra
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61165
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", AU108:ABC Kids Brisbane
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60805
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", IL040:DISNEY CHANNEL
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61795
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", IL049:YES KIDS MOVIES
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61813
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US735:Starz Kids & Family FHD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/29455
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US016:Cartoon Network HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/3152
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", US027:Disney JR HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/3141
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", ID038:NICKELODEON
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60344
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", ID042:DISNEY XD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60348
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", ID049:KIDS TV
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60462
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", INT002:Boomerang
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/51792
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", FR035:BOOMERANG FHD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/2831
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", FR072:CANAL+ KIDS
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/2794
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", FR101:DISNEY CHANNEL
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/28206
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", FR102:DISNEY JUNIOR HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/28205
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", FR103:DISNEY XD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/28204
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", FR104:DISNEY CHANNEL+1
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/28203
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", FR105:DISNEY CINEMA
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/28202
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", FR106:DISNEY CINEMAGIC
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/28201
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", FR153:NICKELODEON JR
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/28150
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", FR154:NICKELODEON TEEN
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/28149
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", FR261:Nickelodeon 4Teen
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/28048
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", FR301:Nickelodeon Junior
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/28008
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", IT005:CARTOON NETWORK
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/2767
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", IT006:CARTOONITO
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/2766
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", IT014:DISNEY JR
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/2758
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", IT167:CARTOONITO
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/28395
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", UK013:Boomerang
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/2944
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", UK019:Cartoon network
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/2938
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", UK020:Cartoonito
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/2937
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", UK034:Disney Channel
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/2923
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", UK035:Disney Junior UK
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/2922
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", UK036:Disney XD UK
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/2921
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", UK068:Sky Disney
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/2889
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", UK107:Nickelodeon
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/28952
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", UK129:SKY CINEMA DISNEY
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/28930
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", DE016:BOOMERANG
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/2667
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", DE019:CARTOON NETWORK
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/2664
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", DE032:DISNEY CHANNEL
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/2651
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", DE033:DISNEY CINEMAGIC
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/2650
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", DE034:DISNEY JUNIOR
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/2649
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", DE035:DISNEY XD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/2648
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", DE036:DISNEY PLUS FILM
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/2647
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", DE099:NICKELODEON
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/29185
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", ES057:DISNEY CHANNEL
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/2547
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", ES058:DISNEY JR
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/2546
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", ES059:DISNEY XD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/2545
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", ES180:NETFLIX KIDS
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/29212
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", ES181:NETFLIX KIDS 2
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/29211
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", ES187:NICKELODEON
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/52420
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", PT016:Cartoon Network
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/3234
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", PT046:Nickelodeon
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/3204
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", PT089:Nickelodeon
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/29401
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", PT149:SIC Kids
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/29341
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", AL023:BOOMERANG
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/30611
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", AL030:AL030:DISNEY JR
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/30604
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", AL167:TRING KIDS
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/30467
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", AL224:TRING KIDS
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/30410
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", BG034:CARTOON NETWORK
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/30792
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", BG044:DISNEY CHANNEL
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/30782
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", BG047:E KIDS
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/30779
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", BG100:BOOMERANG
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/30726
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", CZ017:BOOMERANG
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/30971
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", CZ024:DISNEY CHANNEL
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/30962
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", DK005:Boomerang HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/31126
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", DK017:DISNEY CHANNEL
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/31114
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", DK018:DISNEY JUNIOR
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/31113
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", DK019:DISNEY XD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/31112
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", DK031:NICKELODEON
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/31100
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", DK084:Cartoon Network
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/31047
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", GR053:NICKELODEON
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/31184
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", GR169:Nickelodeon HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/52053
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", HU008:Boomerang
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/31343
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", HU009:Cartoon Network
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/31342
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", HU024:DISNEY CHANNEL
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/31327
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", HU094:TV2 Kids
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/31257
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", NO001:CARTOON NETWORK
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/31556
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", NO037:NICKELODEON
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61028
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", RO015:BOOMERANG
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/31861
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", RO037:DISNEY CHANNEL
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/31839
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", RO038:DISNEY JR
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/31838
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", RO082:NICKELODEON
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/31794
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", PL014:Boomerang FHD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/33518
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", PL019:Nickelodeon
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/33513
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", PL021:Cartoon Network HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/33511
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", PL035:Disney Channel FHD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/33497
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", PL037:Disney XD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/33495
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", PL159:Cartoon Network HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/33373
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", PL169:Disney Junior
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/33363
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", YU117:Pink Kids
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/49209
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", YU134:Pink Super Kids
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/49192
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", SRB043:Pink Kids
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/49078
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", SRB056:Pink Super Kids
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/49065
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", SE015:DISNEY CHANNEL
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/51552
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", SE021:NICKELODEON
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/51546
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", SE043:BOOMERANG
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/51524
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", SE050:DISNEY XD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/51517
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", SE060:DISNEY JR
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/51507
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", RUS023:DA VINCI KIDS
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/52265
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", RUS026:DISNEY CHANNEL
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/52262
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", RUS049:KIDS
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/52239
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", FI007:Disney Channel
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/52969
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", FI008:Disney Junior
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/52968
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", TR057:CARTOON NETWORK
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/33012
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", TR068:DISNEY CHANNEL
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/33001
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", TR069:DISNEY JR
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/33000
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", TR173:NICKELODEON
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/32896
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", NL063:RTL Telekids
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/31468
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", NL076:Boomerang HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/31455
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", NL077:Cartoon Network HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/31454
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", NL085:Disney Channel
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/31446
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", NL086:Disney XD HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/31445
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", NL137:Nickelodeon HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/31394
+
+
+
+
+
 
 
 #######################
