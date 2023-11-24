@@ -6300,60 +6300,6 @@ https://1117141481.vnns.net/VTC14/chunks.m3u8
 #EXTVLCOPT:http-user-agent="Bear TV"
 https://1117141481.vnns.net/VTC16/chunks.m3u8
 
-
-CCTV CHINA  ###########
-################################################################################################################################################################################# 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="CCTV CHINA", ###CCTV CHINA###
-https://github.com/inaldie/inaldie/raw/main/LOGO.ts
-
-#######################  China  ################################
-
-
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="CCTV CHINA",CCTV-1 综合
-https://cntv.sbs/tv?auth=2310201855&id=cctv1
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="CCTV CHINA",CCTV-2 财经
-https://cntv.sbs/tv?auth=2310201855&id=cctv2
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="CCTV CHINA",CCTV-3 综艺
-https://cntv.sbs/tv?auth=2310201855&id=cctv3
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="CCTV CHINA",CCTV-4 中文国际
-https://cntv.sbs/tv?auth=2310201855&id=cctv4
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="CCTV CHINA",CCTV-5 体育
-https://cntv.sbs/tv?auth=2310201855&id=cctv5
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="CCTV CHINA",CCTV-5+ 体育赛事
-https://cntv.sbs/tv?auth=2310201855&id=cctv5p
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="CCTV CHINA",CCTV-6 电影
-https://cntv.sbs/tv?auth=2310201855&id=cctv6
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="CCTV CHINA",CCTV-7 国防军事
-https://cntv.sbs/tv?auth=2310201855&id=cctv7
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="CCTV CHINA",CCTV-8 电视剧
-https://cntv.sbs/tv?auth=2310201855&id=cctv8
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="CCTV CHINA",CCTV-9 纪录
-https://cntv.sbs/tv?auth=2310201855&id=cctv9
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="CCTV CHINA",CCTV-10 科教
-https://cntv.sbs/tv?auth=2310201855&id=cctv10
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="CCTV CHINA",CCTV-11 戏曲
-https://cntv.sbs/tv?auth=2310201855&id=cctv11
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="CCTV CHINA",CCTV-12 社会与法
-https://cntv.sbs/tv?auth=2310201855&id=cctv12
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="CCTV CHINA",CCTV-13 新闻
-https://cntv.sbs/tv?auth=2310201855&id=cctv13
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="CCTV CHINA",CCTV-14 少儿
-https://cntv.sbs/tv?auth=2310201855&id=cctv14
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="CCTV CHINA",CCTV-15 音乐
-https://cntv.sbs/tv?auth=2310201855&id=cctv15
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="CCTV CHINA",CCTV-16 奥林匹克
-https://cntv.sbs/tv?auth=2310201855&id=cctv16
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="CCTV CHINA",CCTV-16 4K
-https://cntv.sbs/tv?auth=2310201855&id=cctv164k
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="CCTV CHINA",CCTV-17 农业农村
-https://cntv.sbs/tv?auth=2310201855&id=cctv17
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="CCTV CHINA",CCTV-4K 超高清
-https://cntv.sbs/tv?auth=2310201855&id=cctv4
-
-
-
-
-
 #########################  JAPANESE   ########################
 
 #EXTINF:-1 group-title="JAPANESE" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G 
@@ -7163,7 +7109,70 @@ http://gg.gg/TAPMoviesPH
 #EXTINF:-1 tvg-logo="https://www.hklive.tv/png_logo/96.png" group-title="MOVIE ASIA",ViuTV Six🇭🇰
 http://gg.gg/ViuTVSixHK
 
+##########################
+BEIN ENTERTAIMENT  #######
+################################################################################################################################################################################## MOVIE MANCANEGARA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="BEIN ENTERTAIMENT", ###BEIN ENTERTAIMENT###
+https://github.com/inaldie/inaldie/raw/main/LOGO.ts
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="BEIN ENTERTAIMENT", BEIN MOVIES PREMIERE 1
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=862853&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="BEIN ENTERTAIMENT", BEIN MOVIES ACTION 2
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=862852&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="BEIN ENTERTAIMENT", BEIN MOVIES DRAMA 3
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=862851&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="BEIN ENTERTAIMENT", BEIN MOVIES FAMILY 4
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=862850&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="BEIN ENTERTAIMENT", BEIN SERIES 1
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=862849&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="BEIN ENTERTAIMENT", BEIN SERIES 2
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=862848&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="BEIN ENTERTAIMENT", BEIN DRAMA
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=862847&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="BEIN ENTERTAIMENT", BEIN FOOD NETWORK
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=862846&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="BEIN ENTERTAIMENT", BEIN GOUMET
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=862845&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="BEIN ENTERTAIMENT", BEIN FAFEET
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=862844&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="BEIN ENTERTAIMENT", BEIN FOX LIFE
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=862842&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="BEIN ENTERTAIMENT", BEIN FOX MOVIES
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=862841&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="BEIN ENTERTAIMENT", BEIN FOX ACTION
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=862840&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="BEIN ENTERTAIMENT", BEIN STAR WORLD
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=862838&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="BEIN ENTERTAIMENT", BEIN BBC EART
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=862837&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="BEIN ENTERTAIMENT", BEIN TRAVEL
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=862836&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="BEIN ENTERTAIMENT", BEIN ANIMAL PLANET
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=862835&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="BEIN ENTERTAIMENT", BEIN NATIONAL GEO
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=862834&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="BEIN ENTERTAIMENT", BEIN NATIONAL GEOWILD
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=862833&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="BEIN ENTERTAIMENT", BEIN HGTV
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=862832&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="BEIN ENTERTAIMENT", BEIN BABY
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=862831&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="BEIN ENTERTAIMENT", BEIN JEEM KIDS
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=862830&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="BEIN ENTERTAIMENT", BEIN BARAEM KIDS
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=862829&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="BEIN ENTERTAIMENT", BEIN DREAM WORK
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=862828&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="BEIN ENTERTAIMENT", BEIN GULLI ARABIC
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=862827&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="BEIN ENTERTAIMENT", BEIN BOOMERANG
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=862826&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="BEIN ENTERTAIMENT", BEIN JUNIOR KIDS
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=862825&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="BEIN ENTERTAIMENT", BEIN CARTOON NETWORK
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=862824&extension=ts&play_token=yK7Ppvy2jW
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="BEIN ENTERTAIMENT", BEIN DISCOVERY FAMILY
+http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=862823&extension=ts&play_token=yK7Ppvy2jW
 
 ##########################
 MOVIE MANCANAGARA  #######
