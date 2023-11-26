@@ -5623,564 +5623,1187 @@ https://nyanv-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
 https://nyanv-live-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yyhc1dd/TV1.png" group-title="ASEAN TV", TV1
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY044:Rania
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71022
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yyhc1dd/TV1.png" group-title="ASEAN TV", TV1 (FHD)
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY068:AOD 351 HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71041
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jk4xT5Y/TV2.png" group-title="ASEAN TV", TV2
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN011:HTV4 HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1861
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jk4xT5Y/TV2.png" group-title="ASEAN TV", TV2 (FHD)
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN012:PARAMOUNT CHANNEL VN HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1860
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wyQ5WsX/TV3.png" group-title="ASEAN TV", TV3 (Full HD)
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN013:HTVC DU LICH
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1859
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wyQ5WsX/TV3.png" group-title="ASEAN TV", TV3(HD)
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN014:HTVC GIA DINH
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1858
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wyQ5WsX/TV3.png" group-title="ASEAN TV", TV3(SD)
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN015:HTVC PHU NU
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1857
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8d4qB3r/6.png" group-title="ASEAN TV", TV6
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/203
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN016:HTVC THUAN VIET HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1856
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3CDW0mq/ntv7.png" group-title="ASEAN TV", NTV7
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN017:HTVC THUAN VIET SD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1855
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BKdBNyc/8tv.png" group-title="ASEAN TV", 8TV
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN018:KBS WORLD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1854
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PrdzrVH/tv9.png" group-title="ASEAN TV", TV9
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/10
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN019:NHK WORLD HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60364
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PrdzrVH/tv9.png" group-title="ASEAN TV", TV9(B)
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/11
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN020:DW HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60363
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3T4Twcg/TVS.png" group-title="ASEAN TV", TVS
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/214
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN021:ARIRANG
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60362
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ssqm5mj/okey.png" group-title="ASEAN TV", Okey
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/12
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN022:CHANNEL NEWSASIA
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60361
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sgf8zg9/dramasngt.png" group-title="ASEAN TV", Drama Sangat
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/13
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN023:FRANCE 24
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60360
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3cRLMZy/1684738476513.png" group-title="ASEAN TV", Dunia Sinema
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1083
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN024:TV5 MONDE
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60359
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/L87hNTb/1691020841612.png" group-title="ASEAN TV", Enjoy TV5
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1187
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN025:NATIONAL GEOGRAPHIC HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60358
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4Yk4xvz/awe.png" group-title="ASEAN TV", Awesome TV
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/387
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN026:DISCOVERY HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60356
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7bWBVPC/liu.png" group-title="ASEAN TV", Alhijrah
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/14
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN027:DISCOVERY ASIA HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60355
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3pLZ1gF/dfrh.png" group-title="ASEAN TV", Astro Bernama
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/15
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN028:ANIMAL PLANET HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60354
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dc0r0YG/awani.png" group-title="ASEAN TV", Astro Awani
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/16
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN029:TRAVEL LIVING HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60353
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dc0r0YG/awani.png" group-title="ASEAN TV", Astro Awani(B)
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/17
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN030:HTVC_PHIM_TRUYEN
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60352
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9TF3GH2/oasis.png" group-title="ASEAN TV", Astro Oasis
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/18
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN031:QUOC HOI HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60341
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1byf8wn/ceria.png" group-title="ASEAN TV", Astro Ceria
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/19
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN032:QUOC PHONG VN
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60340
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1byf8wn/ceria.png" group-title="ASEAN TV", Astro Ceria(B)
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/20
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN033:ANTV HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60339
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vBmrN6s/1695007683583.png" group-title="ASEAN TV", Astro Premier
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1279
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN034:TRUYEN HINH NHAN . HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60338
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/71gHj4x/prima.png" group-title="ASEAN TV", Astro Prima
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/21
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN035:AN GIANG
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60337
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/71gHj4x/prima.png" group-title="ASEAN TV", Astro Prima (SD)
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1244
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN036:HTVC gia đình
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60336
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hyDJ483/ria.png" group-title="ASEAN TV", Astro Ria
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/23
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN037:CA MAU HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60335
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hyDJ483/ria.png" group-title="ASEAN TV", Astro Ria (B)
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/224
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN038:CAN THO
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60334
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hyDJ483/ria.png" group-title="ASEAN TV", Astro Ria (C)
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/282
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN039:CAO BANG
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60332
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="ASEAN TV", Astro Warna (A)
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/297
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN040:DA NANG 1 HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60331
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="ASEAN TV", Astro Warna (C)
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/24
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN041:DA NANG 2 HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60330
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8Xb67V5/warna.png" group-title="ASEAN TV", Astro Warna(B)
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/25
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN042:DIEN BIEN
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60329
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YTtVttS/citra.png" group-title="ASEAN TV", Astro Citra
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/26
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN043:DONG NAI 1 HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60328
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YTtVttS/citra.png" group-title="ASEAN TV", Astro Citra(B)
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/27
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN044:DONG NAI 2 HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60327
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YbNWSYK/aura.png" group-title="ASEAN TV", Astro Aura
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/28
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN045:DONG THAP
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60326
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qb0vSRX/rania.png" group-title="ASEAN TV", Astro Rania
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/29
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN046:HA GIANG
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60325
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DLFXxsk/boo.png" group-title="ASEAN TV", Astro BOO (M)
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/248
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN047:Bình Định
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60324
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WvDtNK1/hm.png" group-title="ASEAN TV", NET.
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/41
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN048:HTVC phụ Nữ
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60323
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/42Q1zYD/cg.png" group-title="ASEAN TV", ANTV
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/42
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN049:HTVC thuần việt
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60322
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ccMVyW2/xsuj.png" group-title="ASEAN TV", INDOSIAR
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/36
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN050:LANG SON
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60321
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2v1fBK4/fhy.png" group-title="ASEAN TV", TRANS TV
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/34
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN051:LAO CAI
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60320
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9HXYCM1/ihyt.png" group-title="ASEAN TV", TRANS 7
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/35
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN052:NAM DINH
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60319
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hmLKdfX/xiy.png" group-title="ASEAN TV", SCTV
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/37
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN053:NGHE AN
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60318
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kVLz3ty/mnc.png" group-title="ASEAN TV", MNCTV
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/40
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN054:NINH BINH
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60317
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SXrk5h0/asrdrd.png" group-title="ASEAN TV", RCTI
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/38
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN055:NINH THUAN
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60316
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yRBwDV1/gtv.png" group-title="ASEAN TV", GTV
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/39
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN056:PHU THO HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60315
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQwqWFS/TVRI.png" group-title="ASEAN TV", TVRI
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/208
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN057:PHU YEN HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60314
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LN15XmS/R.png" group-title="ASEAN TV", RTV
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/210
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN058:QUANG BINH TV HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60313
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JF5Xnb3/hua.png" group-title="ASEAN TV", Hua Hee Tai
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/46
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN059:QUANG NGAI
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60312
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nf47yDP/quan.png" group-title="ASEAN TV", Quan Jia
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/47
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN060:QUANG NINH 1
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60311
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PmF1dwz/iq.png" group-title="ASEAN TV", IQiyi
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/48
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN061:QUANG NINH 3
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60310
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHr5H0c/aec.png" group-title="ASEAN TV", Astro AEC
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/43
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN062:QUANG TRI
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60309
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HtFTY5p/CCMB.png" group-title="ASEAN TV", Celestial Movies
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/49
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN063:SOC TRANG
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60308
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DWBbYKb/CCM.png" group-title="ASEAN TV", Celestial Classic Movies_A
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/50
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN064:THAI BINH
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60307
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6v0dDhD/vbs.png" group-title="ASEAN TV", HBO FHD
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/517
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN065:THAI NGUYEN HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60306
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6v0dDhD/vbs.png" group-title="ASEAN TV", HBO (M)
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/54
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN066:THANH HOA
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60305
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6v0dDhD/vbs.png" group-title="ASEAN TV", HBO (ID)
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/346
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN067:VINH PHUC
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60304
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vP3hkjH/hhit.png" group-title="ASEAN TV", HBO Hits
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/55
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN068:Hà Nam
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60303
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/F8P2mxK/cccc.png" group-title="ASEAN TV", HBO Family
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/56
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN069:Hà Nội 1
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60302
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gM7NfQ4/SS.png" group-title="ASEAN TV", HBO Signature
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/57
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN070:BOOMERANG HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60301
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7RkycsQ/SHOW2.png" group-title="ASEAN TV", SHOWCASE MOVIES
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/419
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN071:BABY FIRST HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60300
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CnCTbWF/1678072846613.png" group-title="ASEAN TV", Rock Action HD
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1045
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN072:VTC2
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60299
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/thSvUUd.png" group-title="ASEAN TV", Paramount Network
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/417
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN073:YEAH1 FAMILY VTC4 HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60298
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v4HHF9i.png" group-title="ASEAN TV", MyCinema
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/414
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN074:VTC5
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60297
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R7Iuxbd.png" group-title="ASEAN TV", MyCinema Asia
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/415
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN075:VTC6
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60296
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5AXoTOA.png" group-title="ASEAN TV", MyFamily Cinema
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/416
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN076:TODAYTV VTC7
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61761
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HGvLHCW/flix.png" group-title="ASEAN TV", &Flix HD
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/141
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN077:VTC8
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61762
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pzT2R3L/prive.png" group-title="ASEAN TV", &Prive HD
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/63
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN079:BAC LIEU HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61764
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0r0rNmL/star2.png" group-title="ASEAN TV", Star Movies (FHD)
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/220
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN080:BAC NINH HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61765
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TwQW9vw/star1.png" group-title="ASEAN TV", Star Movie Select
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/221
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN081:BINH DINH
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61766
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ymCPqwd/pix.png" group-title="ASEAN TV", SONY Pix (FHD)
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/223
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN082:BINH PHUOC 1
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61767
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2yN1dXR/mnx.png" group-title="ASEAN TV", MNX HD (FHD)
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/222
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN083:VTC1 HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61768
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tz61VMJ/CINE.png" group-title="ASEAN TV", Cinemax
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/65
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN084:BINH THUAN
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61769
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y8mYp3m/KM.png" group-title="ASEAN TV", Galaxy
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/66
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN085:HA TINH
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61770
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KDtzx9N/GALA.png" group-title="ASEAN TV", Galaxy Premium
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/67
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN086:HAU GIANG
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61771
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pvtZymR/HITSM.png" group-title="ASEAN TV", HITS Movies
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/68
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN087:HOA BINH
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61772
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GTwmZ6y/GD.png" group-title="ASEAN TV", CinemaWorld
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/69
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN088:HUNG YEN
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61773
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SsZmZyZ/THRILL.png" group-title="ASEAN TV", Thrill
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/70
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN089:KIEN GIANG
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61774
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2tLWNGj/IMC.png" group-title="ASEAN TV", IMC
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/71
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN090:LAM DONG
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61775
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dKCktbq/FLIK.png" group-title="ASEAN TV", Flik
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/72
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN091:SON LA
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61776
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/n8RTy91/MLML.png" group-title="ASEAN TV", Bioskop Indonesia
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/73
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN092:TAY NINH HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61777
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JnkYkJZ/KIX.png" group-title="ASEAN TV", KIX (M)
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/75
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN093:THAI BINH
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61778
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nC2W1KT/azx.png" group-title="ASEAN TV", AXN
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/76
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN094:Lâm Đồng
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61779
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NxYV4qj/sf.png" group-title="ASEAN TV", BBC Lifestyle
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/77
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN095:Lạng Sơn
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61780
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jfF9CGJ/hfgdgf.png" group-title="ASEAN TV", HGTV
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/78
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN096:Lào Cai
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61781
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GR4H1Tt/jjkj.png" group-title="ASEAN TV", Warner TV
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/79
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN097:Nghệ An
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61782
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dmdgGrw/tyeer.png" group-title="ASEAN TV", Lifetime
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/80
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN098:Ninh Thuận
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61783
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7jpK2DZ/khjk.png" group-title="ASEAN TV", Blue Ant Entertainment
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/81
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN099:Phú Thọ HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61784
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D771crF/HITS.png" group-title="ASEAN TV", HITS
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/86
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY024:HBO
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1711
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xMTGjYM/CRIME.png" group-title="ASEAN TV", Crime Investigation
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/87
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY025:foxsports
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1710
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jTmR3CN/FAS.png" group-title="ASEAN TV", Fashion TV
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/88
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY026:foxsports2
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1709
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p18DqB3/love.png" group-title="ASEAN TV", Love Nature
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/89
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY027:CGTN
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1708
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gMJG9Sy/bbbbb.png" group-title="ASEAN TV", BBC Earth
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/90
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY028:HBO Family
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1707
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CJjqgZB/dmax.png" group-title="ASEAN TV", DMAX
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/91
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY032:ARENA
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1703
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d5hDH0n/gki.png" group-title="ASEAN TV", History
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/92
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY033:PRIMA
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1702
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/84RvFKs/vvgfgh.png" group-title="ASEAN TV", Nat Geo Wild
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/95
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY039:Arena2
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1696
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TcyfXJg/cdcd.png" group-title="ASEAN TV", Animal Planet
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/96
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH051:DLTV 5
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61322
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1z4b36S/dg.png" group-title="ASEAN TV", Discovery Channel
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/97
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH052:DLTV 6
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61323
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yp9VS86/tytyt.png" group-title="ASEAN TV", Discovery Asia
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/98
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH053:DLTV 7
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61324
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7r4PJqy/bsd.png" group-title="ASEAN TV", AFC
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/100
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH054:DLTV 8
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61325
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZG7LvmZ/tlc.png" group-title="ASEAN TV", TLC
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/101
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH055:DLTV 9
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61326
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k8Xw5R5/ANIMAX.png" group-title="ASEAN TV", Animax
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/102
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH056:DLTV 10
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61327
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0KcgzHj/ANIPLUS.png" group-title="ASEAN TV", Aniplus
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/103
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH057:DLTV 11
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61328
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/x64s18m/GEM.png" group-title="ASEAN TV", Sony GEM TV
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/105
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH058:DLTV 12
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61329
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cTxMPTx/inews.png" group-title="ASEAN TV", iNews
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/209
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH059:DLTV 13
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61330
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VCsvKyP/wry.png" group-title="ASEAN TV", TVOne
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/106
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH060:DLTV 14
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61331
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QpDxmym/cgki.png" group-title="ASEAN TV", KOMPAS TV
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/107
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH061:DLTV 15
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61332
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d5QDk3h/mbu.png" group-title="ASEAN TV", METRO TV
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/108
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH062:News 1
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61333
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1Mm8bDd/sea.png" group-title="ASEAN TV", SEA Today
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/109
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH063:France 24
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61334
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/chQwMP9/bbc.png" group-title="ASEAN TV", BBC World News
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/110
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH064:MVTV
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61335
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/310w5wt/NHK.png" group-title="ASEAN TV", NHK World
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/111
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH068:Video to Home 9
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60378
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PTwNmc8/CNN.png" group-title="ASEAN TV", CNN International
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/112
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH069:Parliament
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60379
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/X2LRcJv/CNN.png" group-title="ASEAN TV", CNN Indonesia
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/113
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH099:DLTV 5
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60383
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8jd16F7/DW.png" group-title="ASEAN TV", DW
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/114
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH090:Esan TV
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60386
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/86LXN1S/BLOOMBERG.png" group-title="ASEAN TV", Bloomberg
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/115
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH091:4050
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60387
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/p4G4MW0/ASIA.png" group-title="ASEAN TV", Channel News Asia
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/116
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH092:Outdoor Channel
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60388
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Xt3FzCr/HKI.png" group-title="ASEAN TV", Al Quran Al Kareem TV
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/117
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH093:Topline
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60389
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/47V5Cgh/DGX.png" group-title="ASEAN TV", U Channel
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/118
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH094:Toonee
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60390
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fqypHb1/JD.png" group-title="ASEAN TV", Tawaf TV
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/119
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH095:DLTV 1
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60391
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tm1qTWJ/FGD.png" group-title="ASEAN TV", Cartoon Network (E)
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/123
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH096:DLTV 2
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60395
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tm1qTWJ/FGD.png" group-title="ASEAN TV", Cartoon Network (ID)
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/124
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH097:DLTV 3
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60396
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2hT5zbw/BXD.png" group-title="ASEAN TV", Dreamworks
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/125
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH098:DLTV 4
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60397
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Q8Vd5f8/JUD.png" group-title="ASEAN TV", Boomerang
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/126
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH067:Mangkorn
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60405
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fDQxnKx/KGH.png" group-title="ASEAN TV", Nickelodeon
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/127
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH065:Lunthung TV
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60413
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s24jWj5/ETU.png" group-title="ASEAN TV", Nick Jr
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/128
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH070:MV Lao
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60414
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cTqRtyw/1691448873525.png" group-title="ASEAN TV", Moonbug
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1195
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH073:TVD 1
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60417
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/G39hJds/UG.png" group-title="ASEAN TV", Horee
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/129
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH074:TVD Momo
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60418
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HHC6qY5/ha.png" group-title="ASEAN TV", My Kidz
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/131
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH078:Zee Nung
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60422
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RN3wYV1/YDD.png" group-title="ASEAN TV", Baby TV
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/182
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH079:AniPlus
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60423
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VvSVjqt/sr.png" group-title="ASEAN TV", BabyFirst
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/132
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH080:Cartoon Club
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60424
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/b6VfXKX/ONE.png" group-title="ASEAN TV", Sony One (M)
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/134
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH081:SONGTOPIA Livehouse by AIS PLAY
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60425
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zxZMRh1/TVN.png" group-title="ASEAN TV", tvN
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/135
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH082:ATTV
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60426
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/99hRDQH/TVNM.png" group-title="ASEAN TV", tvN Movies
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/136
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH083:Thai Thai Channel
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60427
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VmHKBHZ/ARIRANG.png" group-title="ASEAN TV", Arirang
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/137
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH084:Police TV
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60428
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xj5SPZj/KPLUS.png" group-title="ASEAN TV", K+
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/140
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH085:True Select
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60429
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Z68728P/1684670001833.png" group-title="ASEAN TV", ZEE Cinema (My)
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/143
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH086:ETV
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60430
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Bwb8UOO.png" group-title="ASEAN TV", BoxOffice Thangathirai
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/498
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH087:Dhamma Channel Wat Sanghathan
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60431
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6nckVgB/1692077025487.png" group-title="ASEAN TV", Astro Vellathirai
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1208
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH088:Dhamma TV
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60432
 
-#EXTINF:-1 tvg-logo="https://i.imgur.io/wzmYdjQ_d.webp?maxwidth=640&shape=thumb&fidelity=medium" group-title="ASEAN TV", Colors HD
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/421
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH089:Super Bunteung
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60433
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/X5t0PkR/1692076554398.png" group-title="ASEAN TV", Zee Tamil
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1205
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN078:BAC GIANG
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61763
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9vBBQzT/Vanavil.png" group-title="ASEAN TV", Astro Vaanavil
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/145
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN001:TRA VINH HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1871
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nnL6M6Z/ZEEB.png" group-title="ASEAN TV", ZEE Bioskop
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/142
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN002:VTV4 HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1870
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zVKhdjR/rtm.png" group-title="ASEAN TV", RTM Sports
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/146
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN003:KBS WORLD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1869
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVs9f7v/arena.png" group-title="ASEAN TV", Arena
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/147
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN004:NHK WORLD HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1868
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZVs9f7v/arena.png" group-title="ASEAN TV", Arena 2
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/420
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN005:ARIRANG
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1867
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nC1b79D/1677144431710.png" group-title="ASEAN TV", Arena Bola (Live Only)
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1043
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN006:DISCOVERY HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1866
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nC1b79D/1677144431710.png" group-title="ASEAN TV", Arena Bola 2 (Live Only)
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1044
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN007:DISCOVERY ASIA HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1865
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jTYPgJh/1679052247679.png" group-title="ASEAN TV", Arena Bola 3 (Live Only)
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1055
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN008:BOOMERANG HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1864
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C65N4rM/1679052282854.png" group-title="ASEAN TV", Arena Bola 4 (Live Only)
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1056
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN009:BABY FIRST HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1863
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4mPVnHy/1684377315197.png" group-title="ASEAN TV", NOW Sport 1
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1077
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", VN010:HOA BINH
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1862
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/711T35R/1684377390405.png" group-title="ASEAN TV", NOW Sport 2
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1078
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", PH001:Knowledge
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/50129
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BzXYn27/1684377425609.png" group-title="ASEAN TV", NOW Sport 3
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1079
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", PH002:ANC | HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/50128
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rH7KGqv/1684377457357.png" group-title="ASEAN TV", NOW Sport 4
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1080
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", PH003:CNN
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/50127
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/c1MZSvW/1684377518885.png" group-title="ASEAN TV", NOW Sport 5
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/1081
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", PH004:GMA LIFE | HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/50126
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1bYD50N/assp.png" group-title="ASEAN TV", ASSP_A
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/148
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", PH005:GMA NEWS
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/50125
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZgvRD0S/wrgdsfg.png" group-title="ASEAN TV", ASSP2_A
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/149
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", PH006:GMA PINOY | HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/50124
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ZgvRD0S/wrgdsfg.png" group-title="ASEAN TV", ASSP2_B
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/571
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", PH007:Teleradio
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/50123
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KLY1rvJ/BDR.png" group-title="ASEAN TV", ASSP3_A
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/232
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", PH008:ANIMAX
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/50122
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KLY1rvJ/BDR.png" group-title="ASEAN TV", ASSP3_B
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/572
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", PH009:NHK WORLD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/50121
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png" group-title="ASEAN TV", ASSP4_A
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/249
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", PH010:ARIRANG TV WORLD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/50120
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png" group-title="ASEAN TV", ASSP4_B
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/573
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", PH011:Cinema One
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/50119
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PM0qNz8/hdg.png" group-title="ASEAN TV", beIN Sports 1 ID
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/155
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", PH012:EGG
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/50118
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5vfCzNb/was.png" group-title="ASEAN TV", beIN Sports 2 ID
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/156
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", PH013:Kapamilya
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/50117
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bdC18Cx/zsfr.png" group-title="ASEAN TV", BeIN Sport (MY)
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/158
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", PH014:TFC
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/50116
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zbF5Nrk/1646542977757.png" group-title="ASEAN TV", BT Sport 1
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/550
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", PH015:Discovery
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/49969
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fF9ZKmh/1646543026579.png" group-title="ASEAN TV", BT Sport 2
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/549
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", PH016:Animal Planet
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/66820
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/47f0Fvt/etwq.png" group-title="ASEAN TV", Champions 1
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/157
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", PH017:EWTN
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/66821
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sJY8zst/usport.png" group-title="ASEAN TV", Usee Sport 1
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/241
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", PH018:Paramount
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/66822
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sJY8zst/usport.png" group-title="ASEAN TV", Usee Sport 2
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/242
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", PH019:Premier Sports
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/66823
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0spF5Ei.png" group-title="ASEAN TV", SPOTV (MY)
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/418
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", PH020:Rock
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/66824
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0spF5Ei.png" group-title="ASEAN TV", SPOTV (IDN)
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/952
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", PH021:TAP Movies
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/66825
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0spF5Ei.png" group-title="ASEAN TV", Spotv 2
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/565
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", PH022:TAP TV
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/66826
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kKbY94c/wwe.png" group-title="ASEAN TV", WWE
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/350
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", PH023:Tap Edge
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/66827
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZNgGVx/eu.png" group-title="ASEAN TV", Eurosport
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/328
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", PH024:Food Network
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/66828
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4ZNgGVx/eu.png" group-title="ASEAN TV", Eurosport 2
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/953
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY001:TV 1
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1734
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XbNF7Bq/rugby.png" group-title="ASEAN TV", Rugby TV
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/337
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY002:TV 2
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1733
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/J7Hs50x/vs.png" group-title="ASEAN TV", NBA TV
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/160
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY003:TV 3
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1732
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qRkkPwS/ewry.png" group-title="ASEAN TV", Fight Sport
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/161
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY004:NTV 7
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1731
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NN94bf1/ghg.png" group-title="ASEAN TV", MTV Live HD
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/206
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY005:TV 8
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1730
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Lp37NT5/fs.png" group-title="ASEAN TV", Channel V. Int
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/205
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY006:TV 9
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1729
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jfZWXXK/prambos.jpg" group-title="ASEAN TV", Prambors
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/207
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY007:QUAN JIA
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1728
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7Yq0Ygw/ikonser.jpg" group-title="ASEAN TV", i-Konser
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/204
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY008:SHUANG XING
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1727
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7S24MGc/adh.png" group-title="ASEAN TV", NBC Golf
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/159
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY009:Wah Lai Toi
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1726
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/H2vk3k7/1642736150726.png" group-title="ASEAN TV", O Channel
-http://foctv.xyz:25510/@azamcekman/Ti0NKDy655/512
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY010:HUA HEE DAI
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1725
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY011:AOD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1724
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY012:AEC
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1723
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY022:Super Sport 5
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1713
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY043:ASTRO ASSP4 HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/59217
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY042:ASTRO ASSP3 HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/59218
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY040:ASTRO ASSP HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/59220
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY041:ASTRO ASSP2 HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/59219
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY057:ASTRO Colors Tamil
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71035
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY056:ASTRO Star Vijay
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71034
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY054:ASTRO Zee Tamil
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71032
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY053:ASTRO Adithya
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71031
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY017:CELESTIAL
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1718
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY018:BERNAMA
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1717
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY020:Star Chinese Channel
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1715
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY021:XIAO TAI YANG
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1714
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY023:TVB CLASSIC
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1712
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY029:WARNA
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1706
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY030:RIA
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1705
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY031:AWANI
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1704
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY034:OASIS
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1701
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY082:Singapore Channel 8
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71054
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY035:Singapore Suria
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1700
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY036:Singapore Vasantham
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1699
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY037:WWE
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1698
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY038:BOO
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1697
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY042:Ria
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71020
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY043:Awesome TV
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71021
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY046:TV ALHIJRAH
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71024
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY047:aura
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71025
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY048:Astro Premier 1
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71026
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY049:KBSW
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71027
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY050:GO SHOP
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71028
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY051:Sun Music
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71029
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY052:TUTOR TV SK
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71030
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY055:Star Vijay Super
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71033
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY058:SUN TV HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71036
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY059:HBO Hits
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71037
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY060:iQIYI HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71038
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY061:GO SHOP 2
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71039
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY067:TVB JADE
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71040
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY069:CTI Asia
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71042
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY070:TVB E-NEWS
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71043
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY071:TVB XING HE HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71044
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY072:TVBS ASIA HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71045
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY073:CCM
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71046
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY075:CCTV4 HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71047
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY076:AOD 352 HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71048
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY077:AOD 353 HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71049
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY078:AOD 354 HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71050
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY079:AOD 355 HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71051
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY080:KBS World HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71052
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY081:ONE HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71053
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY083:TVN HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71055
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY084:Hits Movies HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71056
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY086:Cinemax HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71058
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY087:TVN Movies
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71059
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY088:OKEY TV
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71060
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY089:Moonbug Kids
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71061
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY091:AL JAZEERA HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71063
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY092:SKY NEWS HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71064
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY093:CNA HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71065
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY094:CNBC
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71066
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY095:Bloomberg TV
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71067
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY096:ABC AUSTRALIA
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71068
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY097:8TV
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71069
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY099:Discovery HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/71071
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY019:Kix HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1716
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH001:CH5 HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61275
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH002:NBT 2 HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61276
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH003:TPBS
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61277
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH004:ALTV4
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61278
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH005:TNN24
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61279
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH006:Workpoint TV
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61280
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH007:True 4 U
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61281
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH008:GMM25
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61282
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH009:CH 8
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61283
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH010:MONO
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61284
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH011:ONE 31 HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61285
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH012:Thairath TV HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61286
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH013:3 HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61287
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH015:AmarinTV HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61288
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH016:CH7 HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61289
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH017:PPTV HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61290
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH018:DLTV10
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61291
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH019:DLTV11
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61292
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH020:DLTV12
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61293
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH021:DLTV1
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61294
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH022:DLTV3
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61295
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH023:DLTV5
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61296
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH024:DLTV6
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61297
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH025:DLTV7
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61298
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH026:DLTV8
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61299
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH027:DLTV9
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61300
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH028:DLTV13
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61301
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH029:DLTV14
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61302
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH030:DLTV15
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61303
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH032:LunthungTV
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61304
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH033:MVTV
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61305
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH034:Esan TV
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61306
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH035:MediaTV
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61307
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH037:NHK
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61308
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH038:Channel News Asia
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61309
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH039:DW
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61310
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH040:France 24
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61311
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH041:Police TV
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61312
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH042:White Channel
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61313
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH043:True Shopping
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61314
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH044:TrueSelect
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61315
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH045:B0006
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61316
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH046:V0022
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61317
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH047:AIS Play Stadium 2
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61318
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH048:Ball Thai 2
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61319
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH049:Ball Thai 9
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61320
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", TH050:Ball Thai 11
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/61321
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY013:Super Sport 1
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1722
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY014:Super Sport 2
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1721
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY015:Super Sport 3
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1720
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", MY016:Super Sport 4
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/1719
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID001:BEIN SPORT 3 HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60464
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID002:ISLAM CHANNEL
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60409
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID003:CNBC
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60475
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID004:CNN
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60407
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID005:BERITA SATU WORLD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60408
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID006:BERITA SATU
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60476
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID007:TVKU
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60477
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID008:MNC SPORTS 3 HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60411
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID009:Movie Channels HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60410
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID010:MNC NEWS HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60285
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID011:MOVIE CHANNELS HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60286
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID012:RCTI HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60479
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID013:SOCCER CHANNEL HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60480
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID014:MNC SPORTS 2 HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60459
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID015:MNC SPORTS HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60357
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID016:GALAXY PREMIUM HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60374
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID017:GALAXY HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60375
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID018:ASIAN FOOD NETWORK HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60376
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID019:NICKJR HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60481
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID020:SPOTV 2 HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60482
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID021:SPOTV HD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60448
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID022:SEA CHANNEL
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60449
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID023:NHK WORLD JAPAN
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60450
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID024:ARIRANG KOREA
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60451
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID025:CELESTIAL MOVIES
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60471
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID026:SCM
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60472
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID027:FOX NEWS
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60483
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID028:HISTORY
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60473
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID029:NAT GEO WILD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60474
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID030:SONY ONE
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60458
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID031:ANIMAX
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60456
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID032:AXN
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60457
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID033:LIFETIME
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60466
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID034:NEWS ASIA CHANNEL
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60403
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID035:CRIME INVESTIGATION
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60404
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID036:FMN
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60465
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID037:NAT GEO
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60461
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID038:NICKELODEON
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60344
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID039:TV5 MONDE ASIA
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60351
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID040:BABY TV
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60349
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID041:FIGHT SPORTS
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60350
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID042:DISNEY XD
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60348
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID043:MIAOMI
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60347
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID044:CGTN
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60342
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID045:BANDUNG TV
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60343
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID046:TAWAF TV
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60346
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID047:LIFESTYLE FASHION
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60345
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID048:OK TV
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60484
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID049:KIDS TV
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60462
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID050:DW
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60463
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID051:FRANCE24
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60367
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID052:AL JAZEERA ENGLISH
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60454
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID053:HITS
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60455
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID054:MUSIC TV
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60439
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID055:BBC CBEEBIES
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60287
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID056:IDX
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60288
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID057:MNC INFOTAINMENT
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60276
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID058:LIFE
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60279
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID059:MUSLIM TV
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60277
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID060:MNC ENTERTAINMENT
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60278
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID061:VISION PRIME
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60280
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID062:MNC SHOP SMART
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60281
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID063:ZEE BIOSKOP
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60282
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID064:THRILL
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60283
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID065:ANTV
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60293
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID066:TVN MOVIES
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60290
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID067:INEWS
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60291
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID068:GTV
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60292
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", ID069:MNC SHOP TRENDY
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/60284
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", HK001:翡翠台
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/51877
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", HK002:互动新闻
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/51876
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", HK003:TVB J5
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/51875
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", HK004:TVB J2
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/51874
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", HK005:明珠台
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/51873
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", HK006:HKC新闻
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/51872
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", HK007:Viu TV
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/51871
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", HK008:TVB星河
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/51870
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", HK009:凤凰资讯
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/51869
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", HK010:凤凰香港
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/51868
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", HK011:凤凰卫视
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/51867
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", HK012:莲花卫视
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/51866
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", HK013:TVB星河（粤）
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/51865
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", HK014:HKC 18
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/51864
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", HK015:HKC新聞
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/51863
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", HK016:有线电影1台
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/51862
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", HK017:澳亚卫视
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/51861
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", HK018:RHK32
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/51860
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", HK019:翡翠台 備
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/51859
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", HK020:香港開電視
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/51858
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="ASEAN TV", HK021:香港開電視 備
+http://kmkus.wanicelife.com:8880/3ca05163n16/76tgs8vsv/51857
 
 
 
