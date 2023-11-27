@@ -71,14 +71,12 @@
 
 
 
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="#♦WELCOME MY PLAYLIST INALDIE♦#", WELCOME MY PLAYLIST
-https://github.com/inaldie/inaldie/raw/main/WELCOM.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="#♦WELCOME MY PLAYLIST INALDIE♦#", GRUP TELEGRAM https://t.me/IPTVcostum
-https://github.com/inaldie/inaldie/raw/main/LOGO.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/GridArt_20230723_141247589.png" group-title="#♦DONASI DONK ATAU OFF♦#", DONASI => https://saweria.co/Inaldie22
-https://github.com/inaldie/inaldie/raw/main/DONATE.ts
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="####♦GRUP TELEGRAM♦####", SELAMAT DATANG DI CHANNEL INALDIE
+https://github.com/Arrasyid22/inaldie/raw/main/WELCOM.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="####♦GRUP TELEGRAM♦####", JOINT TELEGRAM https://t.me/IPTVcostum
+https://github.com/Arrasyid22/inaldie/raw/main/LOGO.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="#####♦SUPPORT ADMIN♦#####", LINK SAWER https://saweria.co/Inaldie22
+https://github.com/Arrasyid22/inaldie/raw/main/DONATE.ts
 
 
 
