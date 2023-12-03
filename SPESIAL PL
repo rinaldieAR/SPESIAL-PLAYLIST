@@ -9480,7 +9480,26 @@ http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=30512&extens
 http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=30506&extension=ts&play_token=WRR4SMsgMG
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxp_kwfyOC02M3k-sJWjpw7zCLYfqIok5y-g&usqp=CAU" group-title="SKY GRUP", SKY CINEMA SELECT
 http://pal.alphatx.me:80/play/live.php?mac=00:1a:79:00:0c:6c&stream=949137&extension=ts&play_token=qZD8xDrFA8
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN9go07wsdgqAR637YrqhDQumD91iJcFA7_Q&usqp=CAU" group-title="SKY GRUP", SKY SPORT 1 NZ
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303053_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN9go07wsdgqAR637YrqhDQumD91iJcFA7_Q&usqp=CAU" group-title="SKY GRUP", SKY SPORT 2 NZ
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303054_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN9go07wsdgqAR637YrqhDQumD91iJcFA7_Q&usqp=CAU" group-title="SKY GRUP", SKY SPORT 3 NZ
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303055_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN9go07wsdgqAR637YrqhDQumD91iJcFA7_Q&usqp=CAU" group-title="SKY GRUP", SKY SPORT 4 NZ
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303056_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN9go07wsdgqAR637YrqhDQumD91iJcFA7_Q&usqp=CAU" group-title="SKY GRUP", SKY SPORT 5 NZ
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303057_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN9go07wsdgqAR637YrqhDQumD91iJcFA7_Q&usqp=CAU" group-title="SKY GRUP", SKY SPORT 6 NZ
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303058_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN9go07wsdgqAR637YrqhDQumD91iJcFA7_Q&usqp=CAU" group-title="SKY GRUP", SKY SPORT 7 NZ
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303059_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN9go07wsdgqAR637YrqhDQumD91iJcFA7_Q&usqp=CAU" group-title="SKY GRUP", SKY SPORT 8 NZ
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303060_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN9go07wsdgqAR637YrqhDQumD91iJcFA7_Q&usqp=CAU" group-title="SKY GRUP", SKY SPORT 9 NZ
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303061_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN9go07wsdgqAR637YrqhDQumD91iJcFA7_Q&usqp=CAU" group-title="SKY GRUP", SKY SPORT SELECT NZ
+http://live.watsits.art/play/live.php?mac=00:1A:79:18:07:A4&stream=303062_&extension=ts
 
 
 #######################
@@ -11174,37 +11193,6 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:AF:AD:53&stream=1350756_&ext
 
 #EXTINF:-1 tvg-logo="________" group-title="EROPA SPORT 2", FOX SPORT SOCCER
 http://exchange.jinbox.nl:80/play/live.php?mac=00:1a:79:59:53:0f&stream=19942_&extension=ts&play_token=W0JcMWGscf
-
-
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SKY SPORT 1 NZ
-http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=242895_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SKY SPORT 2 NZ
-http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=242894_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SKY SPORT 3 NZ
-http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=242893_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SKY SPORT 4 NZ
-http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=242892_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SKY SPORT 5 NZ
-http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=242891_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SKY SPORT 6 NZ
-http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=242890_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SKY SPORT 7 NZ
-http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=242889_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SKY SPORT 8 NZ
-http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=242888_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SKY SPORT 9 NZ
-http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=242887_&extension=ts
-
-#EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", SKY SPORT SELECT NZ
-http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=242886_&extension=ts
 
 #EXTINF:-1 tvg-logo="______" group-title="EROPA SPORT 2", CANAL+ PL
 http://193.107.202.221:81/play/live.php?mac=00:1A:79:AB:62:70&stream=1116687_&extension=ts
