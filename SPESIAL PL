@@ -15049,7 +15049,7 @@ http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=65112_&extens
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT WORLD 2", ARENA SPORTS 1 RS
 http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=534_&extension=ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT WORLD 2, ARENA SPORTS 2 RS
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT WORLD 2", ARENA SPORTS 2 RS
 http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=535_&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT WORLD 2", ARENA SPORTS 3 RS
 http://dragoniptv.de:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=536_&extension=ts
