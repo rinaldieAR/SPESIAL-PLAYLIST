@@ -6651,6 +6651,9 @@ https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsport6.m3u8
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/637-dbg-e.png" group-title="SPORT ASIA", NOW SPORT 7
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsport7.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_-f_nmgV2js/maxresdefault.jpg" group-title="SPORT ASIA", HUB SPORT PREMIERE UHD
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/hubsportUHD.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logosfake/images/b/b1/HubSports_1.png" group-title="SPORT ASIA", HUB SPORT 1
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/hubsport1.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/m85hz61655810471.png" group-title="SPORT ASIA", HUB SPORT 2
