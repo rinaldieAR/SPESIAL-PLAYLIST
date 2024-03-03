@@ -56,7 +56,6 @@ http://mohdtv.com:8880/ALLChannels48B02DEF70F4/33278896/33026
 
 #EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/02/LaLiga-logo.png" group-title="##🇪🇦LIGA SPANYOL🇪🇦##", LIVE 1
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/laliga1.m3u8
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1350747&extension=ts
 #EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/02/LaLiga-logo.png" group-title="##🇪🇦LIGA SPANYOL🇪🇦##", LIVE 2
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/laliga2.m3u8
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1936&extension=ts
@@ -112,76 +111,6 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1021585&exte
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1021091&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr-ahDglWGwDhq6Uww98Spk_NoepUyOmX0kViLFP9V8LDGviceV4E5STIg&s=10" group-title="##🇩🇪LIGA JERMAN🇩🇪##", LIVE 3
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1469411&extension=ts
-
-
-#EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2023/05/WWC_Hosts_16x9_HD_wOSlogo-e1683264280900.png" group-title="##🇦🇺OPTUS LIVE🇦🇺##", OPTUS SPORT 1
-http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=333576_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2023/05/WWC_Hosts_16x9_HD_wOSlogo-e1683264280900.png" group-title="##🇦🇺OPTUS LIVE🇦🇺##", OPTUS SPORT 2
-http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=333575_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2023/05/WWC_Hosts_16x9_HD_wOSlogo-e1683264280900.png" group-title="##🇦🇺OPTUS LIVE🇦🇺##", OPTUS SPORT 3
-http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=333574_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2023/05/WWC_Hosts_16x9_HD_wOSlogo-e1683264280900.png" group-title="##🇦🇺OPTUS LIVE🇦🇺##", OPTUS SPORT 4
-http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=333573_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2023/05/WWC_Hosts_16x9_HD_wOSlogo-e1683264280900.png" group-title="##🇦🇺OPTUS LIVE🇦🇺##", OPTUS SPORT 5
-http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=333572_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2023/05/WWC_Hosts_16x9_HD_wOSlogo-e1683264280900.png" group-title="##🇦🇺OPTUS LIVE🇦🇺##", OPTUS SPORT 6
-http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=333571_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2023/05/WWC_Hosts_16x9_HD_wOSlogo-e1683264280900.png" group-title="##🇦🇺OPTUS LIVE🇦🇺##", OPTUS SPORT 7
-http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=333570_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2023/05/WWC_Hosts_16x9_HD_wOSlogo-e1683264280900.png" group-title="##🇦🇺OPTUS LIVE🇦🇺##", OPTUS SPORT 8
-http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=333569_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2023/05/WWC_Hosts_16x9_HD_wOSlogo-e1683264280900.png" group-title="##🇦🇺OPTUS LIVE🇦🇺##", OPTUS SPORT 9
-http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=333568_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2023/05/WWC_Hosts_16x9_HD_wOSlogo-e1683264280900.png" group-title="##🇦🇺OPTUS LIVE🇦🇺##", OPTUS SPORT 10
-http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=333567_&extension=ts
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrjm8k3T-ku6xAR7pe5vw3HVhEGTrbVcG5JA&usqp=CAU" group-title="##🇦🇺OPTUS LIVE🇦🇺##", OPTUS 1
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519251_&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrjm8k3T-ku6xAR7pe5vw3HVhEGTrbVcG5JA&usqp=CAU" group-title="##🇦🇺OPTUS LIVE🇦🇺##", OPTUS 2
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519252_&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrjm8k3T-ku6xAR7pe5vw3HVhEGTrbVcG5JA&usqp=CAU" group-title="##🇦🇺OPTUS LIVE🇦🇺##", OPTUS 3
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519253_&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrjm8k3T-ku6xAR7pe5vw3HVhEGTrbVcG5JA&usqp=CAU" group-title="##🇦🇺OPTUS LIVE🇦🇺##", OPTUS 4
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519254_&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrjm8k3T-ku6xAR7pe5vw3HVhEGTrbVcG5JA&usqp=CAU" group-title="##🇦🇺OPTUS LIVE🇦🇺##", OPTUS 5
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519255_&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrjm8k3T-ku6xAR7pe5vw3HVhEGTrbVcG5JA&usqp=CAU" group-title="##🇦🇺OPTUS LIVE🇦🇺##", OPTUS 6
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519256_&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrjm8k3T-ku6xAR7pe5vw3HVhEGTrbVcG5JA&usqp=CAU" group-title="##🇦🇺OPTUS LIVE🇦🇺##", OPTUS 7
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519257_&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrjm8k3T-ku6xAR7pe5vw3HVhEGTrbVcG5JA&usqp=CAU" group-title="##🇦🇺OPTUS LIVE🇦🇺##", OPTUS 8
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519258_&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrjm8k3T-ku6xAR7pe5vw3HVhEGTrbVcG5JA&usqp=CAU" group-title="##🇦🇺OPTUS LIVE🇦🇺##", OPTUS 9
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519259_&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrjm8k3T-ku6xAR7pe5vw3HVhEGTrbVcG5JA&usqp=CAU" group-title="##🇦🇺OPTUS LIVE🇦🇺##", OPTUS 10
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1519260_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://static.sport.optus.com.au/images/Optus_Sport_OG_Image_nov_2023.jpg" group-title="##🇦🇺OPTUS LIVE🇦🇺##", LIVE OPTUS 1
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519251&extension=ts
-#EXTINF:-1 tvg-logo="https://static.sport.optus.com.au/images/Optus_Sport_OG_Image_nov_2023.jpg" group-title="##🇦🇺OPTUS LIVE🇦🇺##", LIVE OPTUS 2
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519252&extension=ts
-#EXTINF:-1 tvg-logo="https://static.sport.optus.com.au/images/Optus_Sport_OG_Image_nov_2023.jpg" group-title="##🇦🇺OPTUS LIVE🇦🇺##", LIVE OPTUS 3
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519253&extension=ts
-#EXTINF:-1 tvg-logo="https://static.sport.optus.com.au/images/Optus_Sport_OG_Image_nov_2023.jpg" group-title="##🇦🇺OPTUS LIVE🇦🇺##", LIVE OPTUS 4
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519254&extension=ts
-#EXTINF:-1 tvg-logo="https://static.sport.optus.com.au/images/Optus_Sport_OG_Image_nov_2023.jpg" group-title="##🇦🇺OPTUS LIVE🇦🇺##", LIVE OPTUS 5
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519255&extension=ts
-#EXTINF:-1 tvg-logo="https://static.sport.optus.com.au/images/Optus_Sport_OG_Image_nov_2023.jpg" group-title="##🇦🇺OPTUS LIVE🇦🇺##", LIVE OPTUS 6
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519256&extension=ts
-#EXTINF:-1 tvg-logo="https://static.sport.optus.com.au/images/Optus_Sport_OG_Image_nov_2023.jpg" group-title="##🇦🇺OPTUS LIVE🇦🇺##", LIVE OPTUS 7
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519257&extension=ts
-#EXTINF:-1 tvg-logo="https://static.sport.optus.com.au/images/Optus_Sport_OG_Image_nov_2023.jpg" group-title="##🇦🇺OPTUS LIVE🇦🇺##", LIVE OPTUS 8
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519258&extension=ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="##🇸🇦SSC LIVE🇸🇦##", SSC SPORT 1
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1022746&extension=ts
@@ -6766,6 +6695,69 @@ https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/beinsportAU2.m3u
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/beinsportAU3.m3u8
 
 
+
+#EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2023/05/WWC_Hosts_16x9_HD_wOSlogo-e1683264280900.png" group-title="SPORT OPTUS🇦🇺", OPTUS SPORT 1
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/optus1.m3u8
+#EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2023/05/WWC_Hosts_16x9_HD_wOSlogo-e1683264280900.png" group-title="SPORT OPTUS🇦🇺", OPTUS SPORT 2
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/optus2.m3u8
+#EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2023/05/WWC_Hosts_16x9_HD_wOSlogo-e1683264280900.png" group-title="SPORT OPTUS🇦🇺", OPTUS SPORT 3
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/optus3.m3u8
+#EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2023/05/WWC_Hosts_16x9_HD_wOSlogo-e1683264280900.png" group-title="SPORT OPTUS🇦🇺", OPTUS SPORT 4
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/optus4.m3u8
+#EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2023/05/WWC_Hosts_16x9_HD_wOSlogo-e1683264280900.png" group-title="SPORT OPTUS🇦🇺", OPTUS SPORT 5
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/optus5.m3u8
+#EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2023/05/WWC_Hosts_16x9_HD_wOSlogo-e1683264280900.png" group-title="SPORT OPTUS🇦🇺", OPTUS SPORT 6
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/optus6.m3u8
+#EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2023/05/WWC_Hosts_16x9_HD_wOSlogo-e1683264280900.png" group-title="SPORT OPTUS🇦🇺", OPTUS SPORT 7
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/optus7.m3u8
+#EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2023/05/WWC_Hosts_16x9_HD_wOSlogo-e1683264280900.png" group-title="SPORT OPTUS🇦🇺", OPTUS SPORT 8
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/optus8.m3u8
+#EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2023/05/WWC_Hosts_16x9_HD_wOSlogo-e1683264280900.png" group-title="SPORT OPTUS🇦🇺", OPTUS SPORT 9
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/optus9.m3u8
+#EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2023/05/WWC_Hosts_16x9_HD_wOSlogo-e1683264280900.png" group-title="SPORT OPTUS🇦🇺", OPTUS SPORT 10
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/optus10.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrjm8k3T-ku6xAR7pe5vw3HVhEGTrbVcG5JA&usqp=CAU" group-title="SPORT OPTUS🇦🇺", OPTUS 1a
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/optus1a.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrjm8k3T-ku6xAR7pe5vw3HVhEGTrbVcG5JA&usqp=CAU" group-title="SPORT OPTUS🇦🇺", OPTUS 2a
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/optus2a.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrjm8k3T-ku6xAR7pe5vw3HVhEGTrbVcG5JA&usqp=CAU" group-title="SPORT OPTUS🇦🇺", OPTUS 3a
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/optus3a.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrjm8k3T-ku6xAR7pe5vw3HVhEGTrbVcG5JA&usqp=CAU" group-title="SPORT OPTUS🇦🇺", OPTUS 4a
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/optus4a.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrjm8k3T-ku6xAR7pe5vw3HVhEGTrbVcG5JA&usqp=CAU" group-title="SPORT OPTUS🇦🇺", OPTUS 5a
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/optus5a.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrjm8k3T-ku6xAR7pe5vw3HVhEGTrbVcG5JA&usqp=CAU" group-title="SPORT OPTUS🇦🇺", OPTUS 6a
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/optus6a.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrjm8k3T-ku6xAR7pe5vw3HVhEGTrbVcG5JA&usqp=CAU" group-title="SPORT OPTUS🇦🇺", OPTUS 7a
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/optus7a.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrjm8k3T-ku6xAR7pe5vw3HVhEGTrbVcG5JA&usqp=CAU" group-title="SPORT OPTUS🇦🇺", OPTUS 8a
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/optus8a.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrjm8k3T-ku6xAR7pe5vw3HVhEGTrbVcG5JA&usqp=CAU" group-title="SPORT OPTUS🇦🇺", OPTUS 9a
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/optus9a.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrjm8k3T-ku6xAR7pe5vw3HVhEGTrbVcG5JA&usqp=CAU" group-title="SPORT OPTUS🇦🇺", OPTUS 10a
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/optus10a.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.sport.optus.com.au/images/Optus_Sport_OG_Image_nov_2023.jpg" group-title="SPORT OPTUS🇦🇺", OPTUS 1 (Event Only)
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519251&extension=ts
+#EXTINF:-1 tvg-logo="https://static.sport.optus.com.au/images/Optus_Sport_OG_Image_nov_2023.jpg" group-title="SPORT OPTUS🇦🇺", OPTUS 2 (Event Only)
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519252&extension=ts
+#EXTINF:-1 tvg-logo="https://static.sport.optus.com.au/images/Optus_Sport_OG_Image_nov_2023.jpg" group-title="SPORT OPTUS🇦🇺", OPTUS 3 (Event Only)
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519253&extension=ts
+#EXTINF:-1 tvg-logo="https://static.sport.optus.com.au/images/Optus_Sport_OG_Image_nov_2023.jpg" group-title="SPORT OPTUS🇦🇺", OPTUS 4 (Event Only)
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519254&extension=ts
+#EXTINF:-1 tvg-logo="https://static.sport.optus.com.au/images/Optus_Sport_OG_Image_nov_2023.jpg" group-title="SPORT OPTUS🇦🇺", OPTUS 5 (Event Only)
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519255&extension=ts
+#EXTINF:-1 tvg-logo="https://static.sport.optus.com.au/images/Optus_Sport_OG_Image_nov_2023.jpg" group-title="SPORT OPTUS🇦🇺", OPTUS 6 (Event Only)
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519256&extension=ts
+#EXTINF:-1 tvg-logo="https://static.sport.optus.com.au/images/Optus_Sport_OG_Image_nov_2023.jpg" group-title="SPORT OPTUS🇦🇺", OPTUS 7 (Event Only)
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519257&extension=ts
+#EXTINF:-1 tvg-logo="https://static.sport.optus.com.au/images/Optus_Sport_OG_Image_nov_2023.jpg" group-title="SPORT OPTUS🇦🇺", OPTUS 8 (Event Only)
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519258&extension=ts
+#EXTINF:-1 tvg-logo="https://static.sport.optus.com.au/images/Optus_Sport_OG_Image_nov_2023.jpg" group-title="SPORT OPTUS🇦🇺", OPTUS 9 (Event Only)
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519259&extension=ts
+#EXTINF:-1 tvg-logo="https://static.sport.optus.com.au/images/Optus_Sport_OG_Image_nov_2023.jpg" group-title="SPORT OPTUS🇦🇺", OPTUS 10 (Event Only)
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519260&extension=ts
 
 
 ====================================== SPORT DUNIA ================================================
