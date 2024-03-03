@@ -6636,7 +6636,7 @@ https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsportEPL3.m3u
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsportEPL4.m3u8
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/620_e.png" group-title="SPORT ASIA", NOW SPORT 5 PREMIER LEAGUE 
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsportEPL5.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-now-sports-premier-league-1-1982.png" group-title="SPORT ASIA", NOW SPORT 1
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_425_305" group-title="SPORT ASIA", NOW SPORT 1
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsport1.m3u8
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/632-dbg-e.png" group-title="SPORT ASIA", NOW SPORT 2
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsport2.m3u8
@@ -6651,6 +6651,39 @@ https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsport6.m3u8
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/637-dbg-e.png" group-title="SPORT ASIA", NOW SPORT 7
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsport7.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logosfake/images/b/b1/HubSports_1.png" group-title="SPORT ASIA", HUB SPORT 1
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/hubsport1.m3u8
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/m85hz61655810471.png" group-title="SPORT ASIA", HUB SPORT 2
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/hubsport2.m3u8
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/tmpwbb1655810489.png" group-title="SPORT ASIA", HUB SPORT 3
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/hubport3.m3u8
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png" group-title="SPORT ASIA", HUB SPORT PREMIERE LEAGUE 1
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/hubsportEPL1.m3u8
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="SPORT ASIA", HUB SPORT PREMIERE LEAGUE 2
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/hubsportEPL2.m3u8
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/znzwou1659622086.png" group-title="SPORT ASIA", HUB SPORT PREMIERE LEAGUE 3
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/hubsportEPL3.m3u8
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/emwu7x1659622075.png" group-title="SPORT ASIA", HUB SPORT PREMIERE LEAGUE 4
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/hubsportEPL4.m3u8
+#EXTINF:-1 tvg-logo="https://icdb.tv/images/f0a89ced41a91f16764275894d80a10f.jpg" group-title="SPORT ASIA", HUB SPORT PREMIERE LEAGUE 5
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/hubsportEPL5.m3u8
+#EXTINF:-1 tvg-logo="https://icdb.tv/images/d5110e36b95be6e4acf3d82973f24745.jpg" group-title="SPORT ASIA", HUB SPORT PREMIERE LEAGUE 6
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/hubsport6.m3u8
+#EXTINF:-1 tvg-logo="https://icdb.tv/images/610bd87d7f12fbb4b03fcd8640ba0779.jpg" group-title="SPORT ASIA", HUB SPORT PREMIERE LEAGUE 7
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/hubsportEPL7.m3u8
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png" group-title="SPORT ASIA", HUB SPORT PREMIERE LEAGUE 8
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/hubsportEPL8.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ten-1-hd-india.png" group-title="SPORT ASIA", SONY TEN SPORT 1
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/sonyten1.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sony-ten-2-hd.png" group-title="SPORT ASIA", SONY TEN SPORT 2
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/sonyten2.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sony-ten-3-hd.png" group-title="SPORT ASIA", SONY TEN SPORT 3
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/sonyten3.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Sony_Sports_Ten_4.png" group-title="SPORT ASIA", SONY TEN SPORT 4
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/sonyten4.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sony-ten-5-hd.png" group-title="SPORT ASIA", SONY TEN SPORT 5
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/sonyten5.m3u8
 
 
 ====================================== SPORT DUNIA ================================================
