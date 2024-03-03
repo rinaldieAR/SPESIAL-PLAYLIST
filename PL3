@@ -6,10 +6,6 @@ https://github.com/Arrasyid22/inaldie/raw/main/LOGO.ts
 https://github.com/Arrasyid22/inaldie/raw/main/DONATE.ts
 
 
-
-
-
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOtyHyx63MgN6OAtAUZnUpAF20q-jmNRT1KA&usqp=CAU" group-title="##🏆LIGA CHAMPIONS UEFA🏆##", LIVE 1
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=720131&extension=m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOtyHyx63MgN6OAtAUZnUpAF20q-jmNRT1KA&usqp=CAU" group-title="##🏆LIGA CHAMPIONS UEFA🏆##", LIVE 2
@@ -6621,6 +6617,44 @@ https://cdn09jtedge.indihometv.com/dvr/139/indikids/manifest.mpd
 https://cdn09jtedge.indihometv.com/dvr/139/rrinet/manifest.mpd
 
 
+#################################################################################################################
+SPORT ASIA
+#################################################################################################################
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/611_e.png" group-title="SPORT ASIA", NOW SPORT 4K 1
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsport4k1.m3u8
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/612_e.png" group-title="SPORT ASIA", NOW SPORT 4K 2
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsport4k2.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", NOW SPORT 4K 3
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsport4k3.m3u8
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/621-dbg-e.png" group-title="SPORT ASIA", NOW SPORT 1 PREMIER LEAGUE 
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsportEPL1.m3u8
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/622_e.png" group-title="SPORT ASIA", NOW SPORT 2 PREMIER LEAGUE 
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsportEPL2.m3u8
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-now-sports-premier-league-3-1984.png" group-title="SPORT ASIA", NOW SPORT 3 PREMIER LEAGUE 
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsportEPL3.m3u8
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-now-sports-premier-league-4-1985.png" group-title="SPORT ASIA", NOW SPORT 4 PREMIER LEAGUE 
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsportEPL4.m3u8
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/620_e.png" group-title="SPORT ASIA", NOW SPORT 5 PREMIER LEAGUE 
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsportEPL5.m3u8
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/631-wbg-e.png" group-title="SPORT ASIA", NOW SPORT 1
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsport1.m3u8
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/632-dbg-e.png" group-title="SPORT ASIA", NOW SPORT 2
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsport2.m3u8
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/633_e.png" group-title="SPORT ASIA", NOW SPORT 3
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsport3.m3u8
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/634_e.png" group-title="SPORT ASIA", NOW SPORT 4
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsport4.m3u8
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/635_e.png" group-title="SPORT ASIA", NOW SPORT 5
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsport5.m3u8
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/636_e.png" group-title="SPORT ASIA", NOW SPORT 6
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsport6.m3u8
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/637-dbg-e.png" group-title="SPORT ASIA", NOW SPORT 7
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsport7.m3u8
+
+
+
+
+
 ====================================== SPORT DUNIA ================================================
 
 #EXTINF:-1 tvg-id="ArenaSport1Serbia.rs" tvg-logo="https://static.klix.ba/media/images/vijesti/221222062.jpg" group-title="SPORT DUNIA MPD", ARENA SPORT 1
@@ -12501,37 +12535,6 @@ http://448423666286790652.0222ofd.xyz:80/play/YACCO5/XYZ999TTYY33/790652.ts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT DUNIA 3", |CO| WIN SPORTS FHD
 http://448423666286790653.0222ofd.xyz:80/play/YACCO5/XYZ999TTYY33/790653.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT NOW HK", NOW SPORT 4K 1
-https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsport4k1.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT NOW HK", NOW SPORT 4K 2
-https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsport4k2.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT NOW HK", NOW SPORT 4K 3
-https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsport4k3.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT NOW HK", NOW SPORT 1 PREMIER LEAGUE 
-https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsportEPL1.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT NOW HK", NOW SPORT 2 PREMIER LEAGUE 
-https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsportEPL2.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT NOW HK", NOW SPORT 3 PREMIER LEAGUE 
-https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsportEPL3.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT NOW HK", NOW SPORT 4 PREMIER LEAGUE 
-https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsportEPL4.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT NOW HK", NOW SPORT 5 PREMIER LEAGUE 
-https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsportEPL5.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT NOW HK", NOW SPORT 1
-https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsport1.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT NOW HK", NOW SPORT 2
-https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsport2.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT NOW HK", NOW SPORT 3
-https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsport3.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT NOW HK", NOW SPORT 4
-https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsport4.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT NOW HK", NOW SPORT 5
-https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsport5.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT NOW HK", NOW SPORT 6
-https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsport6.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT NOW HK", NOW SPORT 7
-https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsport7.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SKY", SKY SPORT F1
