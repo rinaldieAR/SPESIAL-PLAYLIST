@@ -1,11 +1,12 @@
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="####♦GRUP TELEGRAM♦####", SELAMAT DATANG DI CHANNEL INALDIE
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="#####♦SUPPORT ADMIN♦#####", SELAMAT DATANG DI CHANNEL INALDIE
 https://github.com/Arrasyid22/inaldie/raw/main/WELCOM.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="####♦GRUP TELEGRAM♦####", JOINT TELEGRAM https://t.me/IPTVcostum
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="#####♦SUPPORT ADMIN♦#####", JOINT TELEGRAM https://t.me/IPTVcostum
 https://github.com/Arrasyid22/inaldie/raw/main/LOGO.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="#####♦SUPPORT ADMIN♦#####", LINK SAWER https://saweria.co/Inaldie22
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="#####♦SUPPORT ADMIN♦#####", LINK SAWER https://saweria.co/Inaldie22
 https://github.com/Arrasyid22/inaldie/raw/main/DONATE.ts
 
 
+#EXTINF:-1 group-logo="https://statik.tempo.co/data/2021/09/22/id_1052908/1052908_720.jpg" group-title="##🏆LIGA CHAMPIONS UEFA🏆##"
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOtyHyx63MgN6OAtAUZnUpAF20q-jmNRT1KA&usqp=CAU" group-title="##🏆LIGA CHAMPIONS UEFA🏆##", LIVE 1
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=720131&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOtyHyx63MgN6OAtAUZnUpAF20q-jmNRT1KA&usqp=CAU" group-title="##🏆LIGA CHAMPIONS UEFA🏆##", LIVE 2
@@ -24,6 +25,7 @@ http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=3612
 http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=304396_&extension=ts
 
 
+#EXTINF:-1 group-logo="https://assets.pikiran-rakyat.com/crop/352x34:3189x1852/x/photo/2022/02/24/1331208461.jpg" group-title="##🇬🇧LIGA INGGRIS🇬🇧##"
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", LIVE 1
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/PLlive1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", LIVE 2
@@ -43,11 +45,11 @@ https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/PLlive8.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", LIVE 9
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/PLlive9.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", LIVE 10
-http://mohdtv.com:8880/ALLChannels48B02DEF70F4/33278896/46255
+https://raw.githubusercontent.com/Arrasyid22/inaldie/main/Live%20EPL.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", LIVE 11
 http://mohdtv.com:8880/ALLChannels48B02DEF70F4/33278896/33026
 
-
+#EXTINF:-1 group-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/LaLiga.png" group-title="##🇪🇦LIGA SPANYOL🇪🇦##"
 #EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/02/LaLiga-logo.png" group-title="##🇪🇦LIGA SPANYOL🇪🇦##", LIVE 1
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/laliga1.m3u8
 #EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/02/LaLiga-logo.png" group-title="##🇪🇦LIGA SPANYOL🇪🇦##", LIVE 2
@@ -69,6 +71,8 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=2593&extensi
 #EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/02/LaLiga-logo.png" group-title="##🇪🇦LIGA SPANYOL🇪🇦##", LIVE 10
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1497552&extension=ts
 
+
+#EXTINF:-1 group-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/750x500/photo/2020/12/14/3409161941.jpg" group-title="##🇮🇹LIGA ITALIA🇮🇹##"
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU" group-title="##🇮🇹LIGA ITALIA🇮🇹##", LIVE 1
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/seria1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU" group-title="##🇮🇹LIGA ITALIA🇮🇹##", LIVE 2
@@ -95,6 +99,7 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1021090&exte
 http://mohdtv.com:8880/ALLChannels48B02DEF70F4/33278896/2659
 
 
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/id/thumb/0/0c/Bundesliga_Logo_%282017%29.svg/1200px-Bundesliga_Logo_%282017%29.svg.png" group-title="##🇩🇪LIGA JERMAN🇩🇪##"
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr-ahDglWGwDhq6Uww98Spk_NoepUyOmX0kViLFP9V8LDGviceV4E5STIg&s=10" group-title="##🇩🇪LIGA JERMAN🇩🇪##", LIVE 1
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1021585&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr-ahDglWGwDhq6Uww98Spk_NoepUyOmX0kViLFP9V8LDGviceV4E5STIg&s=10" group-title="##🇩🇪LIGA JERMAN🇩🇪##", LIVE 2
@@ -102,20 +107,6 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1021091&exte
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr-ahDglWGwDhq6Uww98Spk_NoepUyOmX0kViLFP9V8LDGviceV4E5STIg&s=10" group-title="##🇩🇪LIGA JERMAN🇩🇪##", LIVE 3
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1469411&extension=ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="##🇸🇦SSC LIVE🇸🇦##", SSC SPORT 1
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1022746&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="##🇸🇦SSC LIVE🇸🇦##", SSC SPORT 2
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1022747&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="##🇸🇦SSC LIVE🇸🇦##", SSC SPORT 3
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1022684&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="##🇸🇦SSC LIVE🇸🇦##", SSC SPORT 4
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1022748&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="##🇸🇦SSC LIVE🇸🇦##", SSC SPORT 5
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1022749&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="##🇸🇦SSC LIVE🇸🇦##", SSC SPORT 6
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1022750&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="##🇸🇦SSC LIVE🇸🇦##", SSC SPORT 7
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1022751&extension=ts
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="EMTEK GRUP", INDOSIAR 1
@@ -2881,9 +2872,10 @@ http://37.49.225.197:8080/F31068/8fd17683/157584
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ffe9e8c7ffa0c48eccb971c397c8e0de.png" group-title="INDONESIA PREMIUM 2", ID: ZooMoo
 http://37.49.225.197:8080/F31068/8fd17683/264751
 
-<====================== Indonesia Channel ======================>
 
-
+#################################################################################################################
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT8HhX9MPIWfBO3ei6DxFPetKGunE_zvxrYw&usqp=CAU" group-title="NASIONAL"
+#################################################################################################################
 #EXTGRP:NASIONAL
 #EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/RCTI.jpg",RCTI (R+)
 #EXTVLCOPT:http-user-agent=android-R+
@@ -4156,7 +4148,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
 
 
 
-
 #EXTINF:-1 group-logo="https://bukaolshop.s3-id-jkt-1.kilatstorage.id/73898/788713232d.jpg",
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/hjCy6rzJ/TVRI.png" group-title="TRANSVISION",TVRI
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -5061,6 +5052,9 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc90ac
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060b4163a40be/manifest.mpd
 
 
+#################################################################################################################
+#EXTINF:-1 group-logo="https://pbs.twimg.com/profile_images/1691997810202398720/l6mObbWa_400x400.jpg" group-title="FIRSTMEDIA"
+#################################################################################################################
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="FIRSTMEDIA", GTV
 http://line.atlaspro4k.me:80/play/live.php?mac=00:1A:79:E2:3F:6B&stream=704412&extension=ts&play_token=pv72xH67y8
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="FIRSTMEDIA", MNCTV
@@ -5280,145 +5274,150 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(85534711-b312-4e
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsi2KG8tzB5mY6fTNUYFk8JBDruu1nGo1fbA&usqp=CAU" group-title="FIRSTMEDIA", Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_oxygentv.png" group-title="OXYGEN 2", OXYGEN.ID
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=oxygentv
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/93a0add4ed871fcabfd7.jpg" group-title="OXYGEN 2", IDX CHANNEL 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=idx 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_nettv.png" group-title="OXYGEN 2", NET TV 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=nettv-hd 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_metrotv.png" group-title="OXYGEN 2", METRO TV
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=metrotv
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_kompastv.png" group-title="OXYGEN 2", KOMPAS TV 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=kompastv 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_tvri.png" group-title="OXYGEN 2", TVRI NASIONAL
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=tvri 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_sctv.png" group-title="OXYGEN 2", SCTV 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=sctv 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_trans7.png" group-title="OXYGEN 2", TRANS 7
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=trans7 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_transtv.png" group-title="OXYGEN 2", TRANS TV 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=transtv 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_indosiar.png" group-title="OXYGEN 2", INDOSIAR 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=indosiar
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_antv.png" group-title="OXYGEN 2", ANTV 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=antv 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_tvone.png" group-title="OXYGEN 2", TV ONE https://1nut.cobak.workers.dev/play0x9.m3u8?id=tvone 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_rtv.png" group-title="OXYGEN 2", RTV 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=rtv 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_jaktv.png" group-title="OXYGEN 2", JAK TV
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=jaktv 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/95f4745784313c1ab222.png" group-title="OXYGEN 2", MOJI TV
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=moji 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_daaitv.png" group-title="OXYGEN 2", DAAI INDONESIA
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=daaitv 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/b00977f498ea7ad4aa26.jpeg" group-title="OXYGEN 2", BTV 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=btv 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_ntv.png" group-title="OXYGEN 2", NUSANTARA TV 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=nusantaratv 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/7b3b11534b9ac313e5be.png" group-title="OXYGEN 2", VIVA TELEVISI 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=vtv 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_jitv" group-title="OXYGEN 2", JITV 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=jitv 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_ktv.png" group-title="OXYGEN 2", KTV 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=ktv 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/64a420f0f62df497206a.png" group-title="OXYGEN 2", JPM
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=jpm 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_nhk.png" group-title="OXYGEN 2", NHK WORLD (HD) 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=nhkworld 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_phoenixhk.png" group-title="OXYGEN 2", PHOENIX HK
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=phoenixhongkong 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_dw.png" group-title="OXYGEN 2", DW TV ASIA 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=dwenglish
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_france24.png" group-title="OXYGEN 2", FRANCE 24 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=france24
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_arirang.png" group-title="OXYGEN 2", ARIRANG WORLD 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=arirangworld
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_CCTV.png" group-title="OXYGEN 2", CCTV 4
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=cctv4asia 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_voa.png" group-title="OXYGEN 2", VOA 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=voa
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_cetv1.png" group-title="OXYGEN 2", CETV 1 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=cetv1 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_cgtndoc.png" group-title="OXYGEN 2", CGTN DOCUMENTARY 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=cgtndocumentary 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_tv5monde.png" group-title="OXYGEN 2", TV5 MONDE
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=tv5monde 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_nippontv.png" group-title="OXYGEN 2", NIPPON TV 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=nihontv 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/9c10edc898148799639f.png" group-title="OXYGEN 2", KBS KOREA 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=kbs-korea 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_salamtv.png" group-title="OXYGEN 2", SALAM TV
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=salamtv 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_rodja.png" group-title="OXYGEN 2", RODJA TV
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=rodjatv 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_uchannel.png" group-title="OXYGEN 2", U CHANNEL 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=uchannel 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_tawaftv.png" group-title="OXYGEN 2", TAWAF TV 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=tawaftv 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_qurantv.png" group-title="OXYGEN 2", QURAN TV 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=qurantv 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_inews.png" group-title="OXYGEN 2", INEWS TV 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=inews 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_aljazeera.png" group-title="OXYGEN 2", AL JAZEERA 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=aljazeera 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_trt.png" group-title="OXYGEN 2", TRT WORLD 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=trtworld 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_phoenixchinese.png" group-title="OXYGEN 2", PHOENIX CHINESE 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=phoenixchinese 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_cna.png" group-title="OXYGEN 2", CHANNEL NEWS ASIA 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=channelnewsasia 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_euronews.png" group-title="OXYGEN 2", EURONEWS 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=euronewsasia 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_cgtn.png" group-title="OXYGEN 2", CGTN 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=cgtn 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/9c8b3b8177e3fb267a74.png" group-title="OXYGEN 2", TVBS 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=tvbnews 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_bloomberg.png" group-title="OXYGEN 2", BLOOMBERG 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=bloomberg 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_cnbcint.png" group-title="OXYGEN 2", CNBC 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=cnbc 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_b4umovies.png" group-title="OXYGEN 2", B4U MOVIES 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=b4umovieindia 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_xingkong.png" group-title="OXYGEN 2", XING KONG CHINA 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=xingkong 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_lotusmacau.png" group-title="OXYGEN 2", LOTUS MACAU 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=lotusmacau 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/994ca4439869fb20cfc6.png" group-title="OXYGEN 2", LTN FAMILY 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=ltn-family 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/ca22c587c19948f1567e.png" group-title="OXYGEN 2", FILMAX 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=filmax 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_fashiontv.png" group-title="OXYGEN 2", FASHION TV 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=fashiontv 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_channelv.png" group-title="OXYGEN 2", CHANNEL V CHINA 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=vchina 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_b4u.png" group-title="OXYGEN 2", B4U MUSIC 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=b4umusicindia 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/79e2dab75c3bfcea933c.png" group-title="OXYGEN 2", INSIGHT TV 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=insight 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_toonmax.png" group-title="OXYGEN 2", TOONMAX 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=toonmax 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_spacetoon.png" group-title="OXYGEN 2", SPACETOON 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=spacetoon 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_ebskids.png" group-title="OXYGEN 2", EBS KIDS 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=ebskids 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_mentari.png" group-title="OXYGEN 2", MENTARI TV 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=mentaritv 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_kidszone.png" group-title="OXYGEN 2", KIDS ZONE PLUS
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=kidszoneplus
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/b12d9de0667a6dbcff5f.png" group-title="OXYGEN 2", POP TV 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=pop 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/f48a09f215f6bc907aaa.png" group-title="OXYGEN 2", PLANET FUN 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=planetfun 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_tvrisport.png" group-title="OXYGEN 2", TVRI SPORT 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=tvrisport 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_dubaisport3.png" group-title="OXYGEN 2", DUBAI SPORTS 3 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=dubaisport3 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_redbull.png" group-title="OXYGEN 2", RED BULL TV 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=redbulltv 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/c01f7cb2fad4cfbcf0a7.png" group-title="OXYGEN 2", EDGE SPORT 
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=edgesport
 
+#################################################################################################################
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9NS1-3NJc-GrQUUw1teJ9fGOaAkkRv0TTew&usqp=CAU" group-title="OXYGEN"
+#################################################################################################################
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_oxygentv.png" group-title="OXYGEN", OXYGEN.ID
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=oxygentv
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/93a0add4ed871fcabfd7.jpg" group-title="OXYGEN", IDX CHANNEL 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=idx 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_nettv.png" group-title="OXYGEN", NET TV 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=nettv-hd 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_metrotv.png" group-title="OXYGEN", METRO TV
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=metrotv
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_kompastv.png" group-title="OXYGEN", KOMPAS TV 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=kompastv 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_tvri.png" group-title="OXYGEN", TVRI NASIONAL
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=tvri 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_sctv.png" group-title="OXYGEN", SCTV 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=sctv 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_trans7.png" group-title="OXYGEN", TRANS 7
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=trans7 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_transtv.png" group-title="OXYGEN", TRANS TV 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=transtv 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_indosiar.png" group-title="OXYGEN", INDOSIAR 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=indosiar
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_antv.png" group-title="OXYGEN", ANTV 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=antv 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_tvone.png" group-title="OXYGEN", TV ONE https://oxygen.pencarijanda.workers.dev/play.m3u8?id=tvone 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_rtv.png" group-title="OXYGEN", RTV 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=rtv 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_jaktv.png" group-title="OXYGEN", JAK TV
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=jaktv 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/95f4745784313c1ab222.png" group-title="OXYGEN", MOJI TV
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=moji 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_daaitv.png" group-title="OXYGEN", DAAI INDONESIA
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=daaitv 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/b00977f498ea7ad4aa26.jpeg" group-title="OXYGEN", BTV 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=btv 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_ntv.png" group-title="OXYGEN", NUSANTARA TV 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=nusantaratv 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/7b3b11534b9ac313e5be.png" group-title="OXYGEN", VIVA TELEVISI 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=vtv 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_jitv" group-title="OXYGEN", JITV 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=jitv 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_ktv.png" group-title="OXYGEN", KTV 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=ktv 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/64a420f0f62df497206a.png" group-title="OXYGEN", JPM
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=jpm 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_nhk.png" group-title="OXYGEN", NHK WORLD (HD) 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=nhkworld 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_phoenixhk.png" group-title="OXYGEN", PHOENIX HK
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=phoenixhongkong 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_dw.png" group-title="OXYGEN", DW TV ASIA 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=dwenglish
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_france24.png" group-title="OXYGEN", FRANCE 24 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=france24
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_arirang.png" group-title="OXYGEN", ARIRANG WORLD 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=arirangworld
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_CCTV.png" group-title="OXYGEN", CCTV 4
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=cctv4asia 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_voa.png" group-title="OXYGEN", VOA 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=voa
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_cetv1.png" group-title="OXYGEN", CETV 1 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=cetv1 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_cgtndoc.png" group-title="OXYGEN", CGTN DOCUMENTARY 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=cgtndocumentary 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_tv5monde.png" group-title="OXYGEN", TV5 MONDE
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=tv5monde 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_nippontv.png" group-title="OXYGEN", NIPPON TV 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=nihontv 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/9c10edc898148799639f.png" group-title="OXYGEN", KBS KOREA 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=kbs-korea 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_salamtv.png" group-title="OXYGEN", SALAM TV
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=salamtv 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_rodja.png" group-title="OXYGEN", RODJA TV
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=rodjatv 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_uchannel.png" group-title="OXYGEN", U CHANNEL 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=uchannel 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_tawaftv.png" group-title="OXYGEN", TAWAF TV 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=tawaftv 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_qurantv.png" group-title="OXYGEN", QURAN TV 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=qurantv 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_inews.png" group-title="OXYGEN", INEWS TV 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=inews 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_aljazeera.png" group-title="OXYGEN", AL JAZEERA 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=aljazeera 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_trt.png" group-title="OXYGEN", TRT WORLD 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=trtworld 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_phoenixchinese.png" group-title="OXYGEN", PHOENIX CHINESE 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=phoenixchinese 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_cna.png" group-title="OXYGEN", CHANNEL NEWS ASIA 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=channelnewsasia 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_euronews.png" group-title="OXYGEN", EURONEWS 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=euronewsasia 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_cgtn.png" group-title="OXYGEN", CGTN 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=cgtn 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/9c8b3b8177e3fb267a74.png" group-title="OXYGEN", TVBS 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=tvbnews 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_bloomberg.png" group-title="OXYGEN", BLOOMBERG 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=bloomberg 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_cnbcint.png" group-title="OXYGEN", CNBC 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=cnbc 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_b4umovies.png" group-title="OXYGEN", B4U MOVIES 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=b4umovieindia 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_xingkong.png" group-title="OXYGEN", XING KONG CHINA 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=xingkong 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_lotusmacau.png" group-title="OXYGEN", LOTUS MACAU 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=lotusmacau 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/994ca4439869fb20cfc6.png" group-title="OXYGEN", LTN FAMILY 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=ltn-family 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/ca22c587c19948f1567e.png" group-title="OXYGEN", FILMAX 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=filmax 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_fashiontv.png" group-title="OXYGEN", FASHION TV 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=fashiontv 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_channelv.png" group-title="OXYGEN", CHANNEL V CHINA 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=vchina 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_b4u.png" group-title="OXYGEN", B4U MUSIC 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=b4umusicindia 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/79e2dab75c3bfcea933c.png" group-title="OXYGEN", INSIGHT TV 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=insight 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_toonmax.png" group-title="OXYGEN", TOONMAX 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=toonmax 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_spacetoon.png" group-title="OXYGEN", SPACETOON 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=spacetoon 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_ebskids.png" group-title="OXYGEN", EBS KIDS 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=ebskids 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_mentari.png" group-title="OXYGEN", MENTARI TV 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=mentaritv 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_kidszone.png" group-title="OXYGEN", KIDS ZONE PLUS
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=kidszoneplus
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/b12d9de0667a6dbcff5f.png" group-title="OXYGEN", POP TV 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=pop 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/f48a09f215f6bc907aaa.png" group-title="OXYGEN", PLANET FUN 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=planetfun 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_tvrisport.png" group-title="OXYGEN", TVRI SPORT 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=tvrisport 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_dubaisport3.png" group-title="OXYGEN", DUBAI SPORTS 3 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=dubaisport3 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_redbull.png" group-title="OXYGEN", RED BULL TV 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=redbulltv 
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/c01f7cb2fad4cfbcf0a7.png" group-title="OXYGEN", EDGE SPORT 
+https://oxygen.pencarijanda.workers.dev/play.m3u8?id=edgesport
 
+#################################################################################################################
+#EXTINF:-1 group-logo="https://images.bisnis.com/posts/2020/04/02/1221683/vidio1.jpg" group-title="VIDOVIL"
 #EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/XBqGTlMWJaY48osD8s4I1ZJPngA=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/204/4e9f5c.png", SCTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -6531,6 +6530,7 @@ https://cdn09jtedge.indihometv.com/dvr/139/rrinet/manifest.mpd
 
 
 #################################################################################################################
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳"
 SPORT ASIA
 #################################################################################################################
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", ASTRO SUPERSPORT 1 UHD
@@ -6642,9 +6642,10 @@ https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-id="unifi Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/UnifiSports2023.png" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", UNIFI SPORTS HD
 https://unifi-live02.secureswiftcontent.com/UnifiHD/live11.mpd
+
 #################################################################################################################
-SPORT NEWZELAND
 #################################################################################################################
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT AUSTRALIA🇭🇲"
 #EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_1_logo_stack_rgb.png" group-title="SPORT AUSTRALIA🇭🇲", SKY SPORT 1 
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/skysportNZ1.m3u8
 #EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_2_logo_stack_rgb.png" group-title="SPORT AUSTRALIA🇭🇲", SKY SPORT 2
@@ -6691,6 +6692,27 @@ https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/beinsportAU2.m3u
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/BeIN_SPORTS_Australia_logo_2017.jpg" group-title="SPORT AUSTRALIA🇭🇲", BEIN SPORT 3
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/beinsportAU3.m3u8
 
+
+#################################################################################################################
+#EXTINF:-1 group-logo="https://cdn.pixabay.com/photo/2013/07/13/14/17/saudi-arabia-162413_1280.png" group-title="SPORT ARAB🇸🇦"
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="SPORT ARAB🇸🇦", SSC SPORT 1
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/ssc1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="SPORT ARAB🇸🇦", SSC SPORT 2
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/ssc2.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="SPORT ARAB🇸🇦", SSC SPORT 3
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/ssc3.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="SPORT ARAB🇸🇦", SSC SPORT 4
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/ssc4.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="SPORT ARAB🇸🇦", SSC SPORT 5
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/ssc5.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="SPORT ARAB🇸🇦", SSC SPORT EXTRA 1
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/ssc6.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="SPORT ARAB🇸🇦", SSC SPORT EXTRA 2
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/ssc7.m3u8
+
+#################################################################################################################
+#EXTINF:-1 group-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="SPORT OPTUS🇦🇺"
+#################################################################################################################
 #EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2023/05/WWC_Hosts_16x9_HD_wOSlogo-e1683264280900.png" group-title="SPORT OPTUS🇦🇺", OPTUS SPORT 1
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/optus1.m3u8
 #EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2023/05/WWC_Hosts_16x9_HD_wOSlogo-e1683264280900.png" group-title="SPORT OPTUS🇦🇺", OPTUS SPORT 2
@@ -19631,6 +19653,6 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/62038b3ed9405210749
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63426f3ed940521074b740d4_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
 #EXTINF:-1 
-#EXTM3U billed-msg="❤TIDAK UNTUK DIJUAL https://t.me/IPTVcostum ❤️"
+#EXTM3U billed-msg="❤JANGAN DISEBARLUASKAN & DIJUAL https://t.me/IPTVcostum ❤️"
 
 
