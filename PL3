@@ -6624,11 +6624,11 @@ SPORT ASIA
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsport4k1.m3u8
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/612_e.png" group-title="SPORT ASIA", NOW SPORT 4K 2
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsport4k2.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT ASIA", NOW SPORT 4K 3
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/611_e.png" group-title="SPORT ASIA", NOW SPORT 4K 3
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsport4k3.m3u8
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/621-dbg-e.png" group-title="SPORT ASIA", NOW SPORT 1 PREMIER LEAGUE 
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-now-sports-premier-league-1-1982.png" group-title="SPORT ASIA", NOW SPORT 1 PREMIER LEAGUE 
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsportEPL1.m3u8
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/622_e.png" group-title="SPORT ASIA", NOW SPORT 2 PREMIER LEAGUE 
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-now-sports-premier-league-2-1983.png" group-title="SPORT ASIA", NOW SPORT 2 PREMIER LEAGUE 
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsportEPL2.m3u8
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-now-sports-premier-league-3-1984.png" group-title="SPORT ASIA", NOW SPORT 3 PREMIER LEAGUE 
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsportEPL3.m3u8
@@ -6636,7 +6636,7 @@ https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsportEPL3.m3u
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsportEPL4.m3u8
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/620_e.png" group-title="SPORT ASIA", NOW SPORT 5 PREMIER LEAGUE 
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsportEPL5.m3u8
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/631-wbg-e.png" group-title="SPORT ASIA", NOW SPORT 1
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-now-sports-premier-league-1-1982.png" group-title="SPORT ASIA", NOW SPORT 1
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsport1.m3u8
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/632-dbg-e.png" group-title="SPORT ASIA", NOW SPORT 2
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsport2.m3u8
@@ -6650,8 +6650,6 @@ https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsport5.m3u8
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsport6.m3u8
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/637-dbg-e.png" group-title="SPORT ASIA", NOW SPORT 7
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsport7.m3u8
-
-
 
 
 
