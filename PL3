@@ -6739,8 +6739,10 @@ https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/skysportNZ9.m3u8
 #EXTINF:-1 tvg-logo="https://static.sky.co.nz/support/img/Help_Site/ext_articles_img/Channels/050.jpg" group-title="SPORT NEWZELAND", SKY SPORT SELECT
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/skysportNZselect.m3u8
 
-
-EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Fs1AU_HD.png" group-title="SPORT AUSTRALIA", FOX SPORT 501
+#################################################################################################################
+SPORT AUSTRALIA
+#################################################################################################################
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Fs1AU_HD.png" group-title="SPORT AUSTRALIA", FOX SPORT 501
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/foxsport501.m3u8
 #EXTINF:-1 tvg-logo="https://ia803407.us.archive.org/29/items/502_20210317/502.gif" group-title="SPORT AUSTRALIA", FOX SPORT 502
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/foxsport502.m3u8
