@@ -3727,7 +3727,6 @@ https://i.mjh.nz/PlutoTV/5f1aa9bcd8160700076d45d1-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5f1aab1d29b39600073e243f" tvg-id="5f1aab1d29b39600073e243f" tvg-logo="https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/colorLogoPNG.png" tvg-chno="904" group-title="CARTOON" , Pluto TV Kids
 https://i.mjh.nz/PlutoTV/5f1aab1d29b39600073e243f-alt.m3u8
 
-
 #EXTINF:-1 channel-id="pluto-609e7e423e9173000706a681" tvg-id="609e7e423e9173000706a681" tvg-logo="https://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG.png" tvg-chno="907" group-title="CARTOON" , Pluto TV Toons Clásico
 https://i.mjh.nz/PlutoTV/609e7e423e9173000706a681-alt.m3u8
 
@@ -6613,6 +6612,28 @@ https://cdn09jtedge.indihometv.com/dvr/139/rrinet/manifest.mpd
 #################################################################################################################
 SPORT ASIA
 #################################################################################################################
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT ASIA", ASTRO SUPERSPORT 1 UHD
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/astrosportUHD.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT ASIA", ASTRO SUPERSPORT 1
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/astrosport1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT ASIA", ASTRO SUPERSPORT 2
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/astrosport2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT ASIA", ASTRO SUPERSPORT 3
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/astrosport3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT ASIA", ASTRO SUPERSPORT 4
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/astrosport4.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="SPORT ASIA", ASTRO CRICKET
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/astrosportcricket.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="SPORT ASIA", ASTRO ARENA
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/astroarena1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="SPORT ASIA", ASTRO ARENA 2
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/astroarena2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="SPORT ASIA", W+ SPORT
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/astroWsport.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/611_e.png" group-title="SPORT ASIA", NOW SPORT 4K 1
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsport4k1.m3u8
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/612_e.png" group-title="SPORT ASIA", NOW SPORT 4K 2
@@ -6691,8 +6712,6 @@ https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
 https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-5-in.png" group-title="SPORT ASIA", Sony Ten Sport 5 HD
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
-
-
 #EXTINF:-1 tvg-id="unifi Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/UnifiSports2023.png" group-title="SPORT ASIA", UNIFI SPORTS
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-id="unifi Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/UnifiSports2023.png" group-title="SPORT ASIA", UNIFI SPORTS HD
@@ -12659,8 +12678,6 @@ http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=3025
 http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=302498_&extension=m3u8
 
 
-
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SKY NZ", SKY SPORT 1 
 http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=303053_&extension=m3u8
 
@@ -12684,89 +12701,34 @@ http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=3030
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SKY NZ", SKY SPORT 8 PREMIER LEAGUE
 http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=303060_&extension=m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SKY NZ", SKY SPORT 9
 http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=303061_&extension=m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SKY NZ", SKY SPORT SELECT
 http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=303062_&extension=m3u8
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT AU", FOX SPORT 501
+EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT AU", FOX SPORT 501
 http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=359027_&extension=m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT AU", FOX SPORT 502
 http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=359026_&extension=m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT AU", FOX SPORT 503
 http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=359025_&extension=m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT AU", FOX SPORT 504
 http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=359024_&extension=m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT AU", FOX SPORT 505
 http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=359023_&extension=m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT AU", FOX SPORT 506
 http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=359022_&extension=m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT AU", FOX SPORT 507
 http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=359021_&extension=m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT AU", FOX SPORT 508
 http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=359020_&extension=m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT AU", BEIN SPORT 1
 http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=359019_&extension=m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT AU", BEIN SPORT 2
 http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=359018_&extension=m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT AU", BEIN SPORT 3
 http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=359017_&extension=m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO SPORT", ASTRO SUPERSPORT 1 UHD
-http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554729_&extension=m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO SPORT", ASTRO SUPERSPORT 1
-http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554728_&extension=m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO SPORT", ASTRO SUPERSPORT 2
-http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554735_&extension=m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO SPORT", ASTRO SUPERSPORT 3
-http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554734_&extension=m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO SPORT", ASTRO SUPERSPORT 4
-http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554733_&extension=m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="ASTRO SPORT", ASTRO CRICKET
-http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554731_&extension=m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="ASTRO SPORT", ASTRO ARENA
-http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554737_&extension=m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="ASTRO SPORT", ASTRO ARENA 2
-http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554736_&extension=m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="ASTRO SPORT", W+ SPORT
-http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554732_&extension=m3u8
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC0psdFjAESPBb1tRguBfowQikq8yVW6Zlfg&usqp=CAU" group-title="HUB SPORT", HUB PREMIER 1
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1350557_&extension=m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC0psdFjAESPBb1tRguBfowQikq8yVW6Zlfg&usqp=CAU" group-title="HUB SPORT", HUB PREMIER 2
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1350558_&extension=m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC0psdFjAESPBb1tRguBfowQikq8yVW6Zlfg&usqp=CAU" group-title="HUB SPORT", HUB PREMIER 2 UHD
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1350568_&extension=m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC0psdFjAESPBb1tRguBfowQikq8yVW6Zlfg&usqp=CAU" group-title="HUB SPORT", HUB PREMIER 3
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1350559_&extension=m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC0psdFjAESPBb1tRguBfowQikq8yVW6Zlfg&usqp=CAU" group-title="HUB SPORT", HUB PREMIER 4
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1350560_&extension=m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC0psdFjAESPBb1tRguBfowQikq8yVW6Zlfg&usqp=CAU" group-title="HUB SPORT", HUB PREMIER 5
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1350561_&extension=m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC0psdFjAESPBb1tRguBfowQikq8yVW6Zlfg&usqp=CAU" group-title="HUB SPORT", HUB PREMIER 6
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1350562_&extension=m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC0psdFjAESPBb1tRguBfowQikq8yVW6Zlfg&usqp=CAU" group-title="HUB SPORT", HUB PREMIER 7
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1350563_&extension=m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC0psdFjAESPBb1tRguBfowQikq8yVW6Zlfg&usqp=CAU" group-title="HUB SPORT", HUB PREMIER 8
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:46:6B:43&stream=1350564_&extension=m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="BEIN ASIA",BeIN Sports 1 AIS
