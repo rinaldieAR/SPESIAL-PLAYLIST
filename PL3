@@ -3875,13 +3875,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 
-#EXTINF:-1 tvg-id="unifi Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/UnifiSports2023.png" group-title="SPORT LOKAL", UNIFI SPORTS
-https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
-
-#EXTINF:-1 tvg-id="unifi Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/UnifiSports2023.png" group-title="SPORT LOKAL", UNIFI SPORTS BK
-https://unifi-live02.secureswiftcontent.com/UnifiHD/live11.mpd
-
-
 ################################################################################
 ##################################NEWS##########################################
 ################################################################################
@@ -6684,9 +6677,15 @@ https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/sonyten2.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sony-ten-3-hd.png" group-title="SPORT ASIA", SONY TEN SPORT 3
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/sonyten3.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Sony_Sports_Ten_4.png" group-title="SPORT ASIA", SONY TEN SPORT 4
-https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/sonyten4.m3u8
+https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sony-ten-5-hd.png" group-title="SPORT ASIA", SONY TEN SPORT 5
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/sonyten5.m3u8
+
+#EXTINF:-1 tvg-id="unifi Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/UnifiSports2023.png" group-title="SPORT ASIA", UNIFI SPORTS
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
+#EXTINF:-1 tvg-id="unifi Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/UnifiSports2023.png" group-title="SPORT ASIA", UNIFI SPORTS HD
+https://unifi-live02.secureswiftcontent.com/UnifiHD/live11.mpd
+
 
 
 ====================================== SPORT DUNIA ================================================
