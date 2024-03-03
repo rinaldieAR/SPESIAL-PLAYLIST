@@ -3460,6 +3460,8 @@ https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Astro_Ria.png" group-title="ENTERTAINMENT", ASTRO RIA
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/astroria.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO1mmXeg-mRlAa3wkPfdWJO2UyvszHDbfmAgw_-QKuGQ&s" group-title="ENTERTAINMENT", ASTRO AURA
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/astroaura.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQuQIpOCDJ2430giqP61GIRCN4RmUZHo_ftodl3H7m_aHnJUpmmCGatEeNeWyxlGERKQ&usqp=CAU" group-title="ENTERTAINMENT", CITRA DANGDUT
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch377%29/index.m3u8
