@@ -43,14 +43,8 @@ https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/PLlive8.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", LIVE 9
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/PLlive9.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", LIVE 10
-https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/optus1.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", LIVE 11
-https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/optus2.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", LIVE 12
-https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/optus3.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", LIVE 13
 http://mohdtv.com:8880/ALLChannels48B02DEF70F4/33278896/46255
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", LIVE 14
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", LIVE 11
 http://mohdtv.com:8880/ALLChannels48B02DEF70F4/33278896/33026
 
 
@@ -58,11 +52,8 @@ http://mohdtv.com:8880/ALLChannels48B02DEF70F4/33278896/33026
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/laliga1.m3u8
 #EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/02/LaLiga-logo.png" group-title="##🇪🇦LIGA SPANYOL🇪🇦##", LIVE 2
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/laliga2.m3u8
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1936&extension=ts
 #EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/02/LaLiga-logo.png" group-title="##🇪🇦LIGA SPANYOL🇪🇦##", LIVE 3
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/laliga3.m3u8
-
-http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=353632_&extension=ts
 #EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/02/LaLiga-logo.png" group-title="##🇪🇦LIGA SPANYOL🇪🇦##", LIVE 4
 http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=353643_&extension=ts
 #EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/02/LaLiga-logo.png" group-title="##🇪🇦LIGA SPANYOL🇪🇦##", LIVE 5
@@ -80,7 +71,6 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1497552&exte
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU" group-title="##🇮🇹LIGA ITALIA🇮🇹##", LIVE 1
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/seria1.m3u8
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1930&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU" group-title="##🇮🇹LIGA ITALIA🇮🇹##", LIVE 2
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1021551&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU" group-title="##🇮🇹LIGA ITALIA🇮🇹##", LIVE 3
@@ -6541,160 +6531,154 @@ https://cdn09jtedge.indihometv.com/dvr/139/rrinet/manifest.mpd
 #################################################################################################################
 SPORT ASIA
 #################################################################################################################
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT ASIA", ASTRO SUPERSPORT 1 UHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", ASTRO SUPERSPORT 1 UHD
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/astrosportUHD.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT ASIA", ASTRO SUPERSPORT 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", ASTRO SUPERSPORT 1
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/astrosport1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT ASIA", ASTRO SUPERSPORT 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", ASTRO SUPERSPORT 2
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/astrosport2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT ASIA", ASTRO SUPERSPORT 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", ASTRO SUPERSPORT 3
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/astrosport3.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT ASIA", ASTRO SUPERSPORT 4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", ASTRO SUPERSPORT 4
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/astrosport4.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="SPORT ASIA", ASTRO CRICKET
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", ASTRO CRICKET
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/astrosportcricket.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="SPORT ASIA", ASTRO ARENA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", ASTRO ARENA
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/astroarena1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="SPORT ASIA", ASTRO ARENA 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", ASTRO ARENA 2
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/astroarena2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="SPORT ASIA", W+ SPORT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/72/Astro_Arena.png" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", W+ SPORT
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/astroWsport.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/611_e.png" group-title="SPORT ASIA", NOW SPORT 4K 1
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/611_e.png" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", NOW SPORT 4K 1
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsport4k1.m3u8
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/612_e.png" group-title="SPORT ASIA", NOW SPORT 4K 2
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/612_e.png" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", NOW SPORT 4K 2
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsport4k2.m3u8
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/611_e.png" group-title="SPORT ASIA", NOW SPORT 4K 3
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/611_e.png" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", NOW SPORT 4K 3
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsport4k3.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-now-sports-premier-league-1-1982.png" group-title="SPORT ASIA", NOW SPORT 1 PREMIER LEAGUE 
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-now-sports-premier-league-1-1982.png" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", NOW SPORT 1 PREMIER LEAGUE 
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsportEPL1.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-now-sports-premier-league-2-1983.png" group-title="SPORT ASIA", NOW SPORT 2 PREMIER LEAGUE 
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-now-sports-premier-league-2-1983.png" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", NOW SPORT 2 PREMIER LEAGUE 
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsportEPL2.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-now-sports-premier-league-3-1984.png" group-title="SPORT ASIA", NOW SPORT 3 PREMIER LEAGUE 
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-now-sports-premier-league-3-1984.png" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", NOW SPORT 3 PREMIER LEAGUE 
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsportEPL3.m3u8
-#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-now-sports-premier-league-4-1985.png" group-title="SPORT ASIA", NOW SPORT 4 PREMIER LEAGUE 
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-now-sports-premier-league-4-1985.png" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", NOW SPORT 4 PREMIER LEAGUE 
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsportEPL4.m3u8
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/620_e.png" group-title="SPORT ASIA", NOW SPORT 5 PREMIER LEAGUE 
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/620_e.png" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", NOW SPORT 5 PREMIER LEAGUE 
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsportEPL5.m3u8
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_425_305" group-title="SPORT ASIA", NOW SPORT 1
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch631_425_305" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", NOW SPORT 1
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsport1.m3u8
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/632-dbg-e.png" group-title="SPORT ASIA", NOW SPORT 2
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/632-dbg-e.png" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", NOW SPORT 2
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsport2.m3u8
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/633_e.png" group-title="SPORT ASIA", NOW SPORT 3
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/633_e.png" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", NOW SPORT 3
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsport3.m3u8
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/634_e.png" group-title="SPORT ASIA", NOW SPORT 4
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/634_e.png" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", NOW SPORT 4
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsport4.m3u8
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/635_e.png" group-title="SPORT ASIA", NOW SPORT 5
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/635_e.png" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", NOW SPORT 5
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsport5.m3u8
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/636_e.png" group-title="SPORT ASIA", NOW SPORT 6
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/s-logo/636_e.png" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", NOW SPORT 6
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsport6.m3u8
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/637-dbg-e.png" group-title="SPORT ASIA", NOW SPORT 7
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/637-dbg-e.png" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", NOW SPORT 7
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/nowsport7.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_-f_nmgV2js/maxresdefault.jpg" group-title="SPORT ASIA", HUB SPORT PREMIERE UHD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_-f_nmgV2js/maxresdefault.jpg" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", HUB SPORT PREMIERE UHD
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/hubsportUHD.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logosfake/images/b/b1/HubSports_1.png" group-title="SPORT ASIA", HUB SPORT 1
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logosfake/images/b/b1/HubSports_1.png" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", HUB SPORT 1
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/hubsport1.m3u8
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/m85hz61655810471.png" group-title="SPORT ASIA", HUB SPORT 2
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/m85hz61655810471.png" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", HUB SPORT 2
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/hubsport2.m3u8
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/tmpwbb1655810489.png" group-title="SPORT ASIA", HUB SPORT 3
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/tmpwbb1655810489.png" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", HUB SPORT 3
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/hubsport3.m3u8
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png" group-title="SPORT ASIA", HUB SPORT PREMIERE LEAGUE 1
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", HUB SPORT PREMIERE LEAGUE 1
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/hubsportEPL1.m3u8
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="SPORT ASIA", HUB SPORT PREMIERE LEAGUE 2
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", HUB SPORT PREMIERE LEAGUE 2
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/hubsportEPL2.m3u8
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/znzwou1659622086.png" group-title="SPORT ASIA", HUB SPORT PREMIERE LEAGUE 3
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/znzwou1659622086.png" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", HUB SPORT PREMIERE LEAGUE 3
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/hubsportEPL3.m3u8
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/emwu7x1659622075.png" group-title="SPORT ASIA", HUB SPORT PREMIERE LEAGUE 4
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/emwu7x1659622075.png" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", HUB SPORT PREMIERE LEAGUE 4
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/hubsportEPL4.m3u8
-#EXTINF:-1 tvg-logo="https://icdb.tv/images/f0a89ced41a91f16764275894d80a10f.jpg" group-title="SPORT ASIA", HUB SPORT PREMIERE LEAGUE 5
+#EXTINF:-1 tvg-logo="https://icdb.tv/images/f0a89ced41a91f16764275894d80a10f.jpg" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", HUB SPORT PREMIERE LEAGUE 5
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/hubsportEPL5.m3u8
-#EXTINF:-1 tvg-logo="https://icdb.tv/images/d5110e36b95be6e4acf3d82973f24745.jpg" group-title="SPORT ASIA", HUB SPORT PREMIERE LEAGUE 6
+#EXTINF:-1 tvg-logo="https://icdb.tv/images/d5110e36b95be6e4acf3d82973f24745.jpg" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", HUB SPORT PREMIERE LEAGUE 6
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/hubsportEPL6.m3u8
-#EXTINF:-1 tvg-logo="https://icdb.tv/images/610bd87d7f12fbb4b03fcd8640ba0779.jpg" group-title="SPORT ASIA", HUB SPORT PREMIERE LEAGUE 7
+#EXTINF:-1 tvg-logo="https://icdb.tv/images/610bd87d7f12fbb4b03fcd8640ba0779.jpg" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", HUB SPORT PREMIERE LEAGUE 7
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/hubsportEPL7.m3u8
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png" group-title="SPORT ASIA", HUB SPORT PREMIERE LEAGUE 8
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", HUB SPORT PREMIERE LEAGUE 8
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/hubsportEPL8.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ten-1-hd-india.png" group-title="SPORT ASIA", SONY TEN SPORT 1
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/ten-1-hd-india.png" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", SONY TEN SPORT 1
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/sonyten1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sony-ten-2-hd.png" group-title="SPORT ASIA", SONY TEN SPORT 2
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sony-ten-2-hd.png" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", SONY TEN SPORT 2
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/sonyten2.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sony-ten-3-hd.png" group-title="SPORT ASIA", SONY TEN SPORT 3
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sony-ten-3-hd.png" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", SONY TEN SPORT 3
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/sonyten3.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Sony_Sports_Ten_4.png" group-title="SPORT ASIA", SONY TEN SPORT 4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Sony_Sports_Ten_4.png" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", SONY TEN SPORT 4
 https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sony-ten-5-hd.png" group-title="SPORT ASIA", SONY TEN SPORT 5
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sony-ten-5-hd.png" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", SONY TEN SPORT 5
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/sonyten5.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-1-in.png" group-title="SPORT ASIA", Sony Ten Sport 1 HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-1-in.png" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", Sony Ten Sport 1 HD
 https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-2-in.png" group-title="SPORT ASIA", Sony Ten Sport 2 HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-2-in.png" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", Sony Ten Sport 2 HD
 https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-3-in.png" group-title="SPORT ASIA", Sony Ten Sport 3 HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-3-in.png" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", Sony Ten Sport 3 HD
 https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-4-in.png" group-title="SPORT ASIA", Sony Ten Sport 4 HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-4-in.png" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", Sony Ten Sport 4 HD
 https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-5-in.png" group-title="SPORT ASIA", Sony Ten Sport 5 HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-5-in.png" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", Sony Ten Sport 5 HD
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
-#EXTINF:-1 tvg-id="unifi Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/UnifiSports2023.png" group-title="SPORT ASIA", UNIFI SPORTS
+#EXTINF:-1 tvg-id="unifi Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/UnifiSports2023.png" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", UNIFI SPORTS
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
-#EXTINF:-1 tvg-id="unifi Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/UnifiSports2023.png" group-title="SPORT ASIA", UNIFI SPORTS HD
+#EXTINF:-1 tvg-id="unifi Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/UnifiSports2023.png" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", UNIFI SPORTS HD
 https://unifi-live02.secureswiftcontent.com/UnifiHD/live11.mpd
-
 #################################################################################################################
 SPORT NEWZELAND
 #################################################################################################################
-#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_1_logo_stack_rgb.png" group-title="SPORT NEWZELAND", SKY SPORT 1 
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_1_logo_stack_rgb.png" group-title="SPORT AUSTRALIA🇭🇲", SKY SPORT 1 
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/skysportNZ1.m3u8
-#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_2_logo_stack_rgb.png" group-title="SPORT NEWZELAND", SKY SPORT 2
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_2_logo_stack_rgb.png" group-title="SPORT AUSTRALIA🇭🇲", SKY SPORT 2
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/skysportNZ2.m3u8
-#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_3_logo_stack_rgb.png" group-title="SPORT NEWZELAND", SKY SPORT 3
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_3_logo_stack_rgb.png" group-title="SPORT AUSTRALIA🇭🇲", SKY SPORT 3
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/skysportNZ3.m3u8
-#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_4_logo_stack_rgb.png" group-title="SPORT NEWZELAND", SKY SPORT 4
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_4_logo_stack_rgb.png" group-title="SPORT AUSTRALIA🇭🇲", SKY SPORT 4
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/skysportNZ4.m3u8
-#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_5_logo_stack_rgb.png" group-title="SPORT NEWZELAND", SKY SPORT 5
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_5_logo_stack_rgb.png" group-title="SPORT AUSTRALIA🇭🇲", SKY SPORT 5
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/skysportNZ5.m3u8
-#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_6_logo_stack_rgb.png" group-title="SPORT NEWZELAND", SKY SPORT 6
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_6_logo_stack_rgb.png" group-title="SPORT AUSTRALIA🇭🇲", SKY SPORT 6
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/skysportNZ6.m3u8
-#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_7_logo_stack_rgb.png" group-title="SPORT NEWZELAND", SKY SPORT 7
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_7_logo_stack_rgb.png" group-title="SPORT AUSTRALIA🇭🇲", SKY SPORT 7
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/skysportNZ7.m3u8
-#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/Sky_Sport_Premier_League_Channel_Logo.png" group-title="SPORT NEWZELAND", SKY SPORT 8 PREMIER LEAGUE
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/Sky_Sport_Premier_League_Channel_Logo.png" group-title="SPORT AUSTRALIA🇭🇲", SKY SPORT 8 PREMIER LEAGUE
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/skysportNZ8.m3u8
-#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_9_logo_stack_rgb.png" group-title="SPORT NEWZELAND", SKY SPORT 9
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_9_logo_stack_rgb.png" group-title="SPORT AUSTRALIA🇭🇲", SKY SPORT 9
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/skysportNZ9.m3u8
-#EXTINF:-1 tvg-logo="https://static.sky.co.nz/support/img/Help_Site/ext_articles_img/Channels/050.jpg" group-title="SPORT NEWZELAND", SKY SPORT SELECT
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/support/img/Help_Site/ext_articles_img/Channels/050.jpg" group-title="SPORT AUSTRALIA🇭🇲", SKY SPORT SELECT
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/skysportNZselect.m3u8
-
 #################################################################################################################
 SPORT AUSTRALIA
 #################################################################################################################
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Fs1AU_HD.png" group-title="SPORT AUSTRALIA", FOX SPORT 501
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Fs1AU_HD.png" group-title="SPORT AUSTRALIA🇭🇲", FOX SPORT 501
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/foxsport501.m3u8
-#EXTINF:-1 tvg-logo="https://ia803407.us.archive.org/29/items/502_20210317/502.gif" group-title="SPORT AUSTRALIA", FOX SPORT 502
+#EXTINF:-1 tvg-logo="https://ia803407.us.archive.org/29/items/502_20210317/502.gif" group-title="SPORT AUSTRALIA🇭🇲", FOX SPORT 502
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/foxsport502.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0c/Fs3AU_HD.png" group-title="SPORT AUSTRALIA", FOX SPORT 503
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0c/Fs3AU_HD.png" group-title="SPORT AUSTRALIA🇭🇲", FOX SPORT 503
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/foxsport503.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Footy_logo_%282015%29.svg/640px-Fox_Footy_logo_%282015%29.svg.png" group-title="SPORT AUSTRALIA", FOX SPORT 504
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Footy_logo_%282015%29.svg/640px-Fox_Footy_logo_%282015%29.svg.png" group-title="SPORT AUSTRALIA🇭🇲", FOX SPORT 504
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/foxsport504.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/FoxSports505_HD.png" group-title="SPORT AUSTRALIA", FOX SPORT 505
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/FoxSports505_HD.png" group-title="SPORT AUSTRALIA🇭🇲", FOX SPORT 505
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/foxsport505.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/SPE_290x170.png" group-title="SPORT AUSTRALIA", FOX SPORT 506
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/SPE_290x170.png" group-title="SPORT AUSTRALIA🇭🇲", FOX SPORT 506
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/foxsport506.m3u8
-#EXTINF:-1 tvg-logo="https://icdb.tv/images/3f7c952ca7c01ee0173f4f4713a7d0cc.jpg" group-title="SPORT AUSTRALIA", FOX SPORT 507
+#EXTINF:-1 tvg-logo="https://icdb.tv/images/3f7c952ca7c01ee0173f4f4713a7d0cc.jpg" group-title="SPORT AUSTRALIA🇭🇲", FOX SPORT 507
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/foxsport507.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1200px-Fox_Sports_logo1.svg.png" group-title="SPORT AUSTRALIA", FOX SPORT 508
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1200px-Fox_Sports_logo1.svg.png" group-title="SPORT AUSTRALIA🇭🇲", FOX SPORT 508
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/foxsport508.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/BeIN_SPORTS_Australia_logo_2017.jpg" group-title="SPORT AUSTRALIA", BEIN SPORT 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/BeIN_SPORTS_Australia_logo_2017.jpg" group-title="SPORT AUSTRALIA🇭🇲", BEIN SPORT 1
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/beinsportAU1.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/BeIN_SPORTS_Australia_logo_2017.jpg" group-title="SPORT AUSTRALIA", BEIN SPORT 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/BeIN_SPORTS_Australia_logo_2017.jpg" group-title="SPORT AUSTRALIA🇭🇲", BEIN SPORT 2
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/beinsportAU2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/BeIN_SPORTS_Australia_logo_2017.jpg" group-title="SPORT AUSTRALIA", BEIN SPORT 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/BeIN_SPORTS_Australia_logo_2017.jpg" group-title="SPORT AUSTRALIA🇭🇲", BEIN SPORT 3
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/beinsportAU3.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://mumbrella.com.au/wp-content/uploads/2023/05/WWC_Hosts_16x9_HD_wOSlogo-e1683264280900.png" group-title="SPORT OPTUS🇦🇺", OPTUS SPORT 1
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/optus1.m3u8
