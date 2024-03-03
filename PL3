@@ -6612,8 +6612,6 @@ https://cdn09jtedge.indihometv.com/dvr/139/rrinet/manifest.mpd
 #################################################################################################################
 SPORT ASIA
 #################################################################################################################
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT ASIA", ASTRO SUPERSPORT 1 UHD
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/astrosportUHD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT ASIA", ASTRO SUPERSPORT 1
@@ -6716,6 +6714,55 @@ https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-id="unifi Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/UnifiSports2023.png" group-title="SPORT ASIA", UNIFI SPORTS HD
 https://unifi-live02.secureswiftcontent.com/UnifiHD/live11.mpd
+
+#################################################################################################################
+SPORT NEWZELAND
+#################################################################################################################
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_1_logo_stack_rgb.png" group-title="SPORT NEWZELAND", SKY SPORT 1 
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/skysportNZ1.m3u8
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_2_logo_stack_rgb.png" group-title="SPORT NEWZELAND", SKY SPORT 2
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/skysportNZ2.m3u8
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_3_logo_stack_rgb.png" group-title="SPORT NEWZELAND", SKY SPORT 3
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/skysportNZ3.m3u8
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_4_logo_stack_rgb.png" group-title="SPORT NEWZELAND", SKY SPORT 4
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/skysportNZ4.m3u8
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_5_logo_stack_rgb.png" group-title="SPORT NEWZELAND", SKY SPORT 5
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/skysportNZ5.m3u8
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_6_logo_stack_rgb.png" group-title="SPORT NEWZELAND", SKY SPORT 6
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/skysportNZ6.m3u8
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_7_logo_stack_rgb.png" group-title="SPORT NEWZELAND", SKY SPORT 7
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/skysportNZ7.m3u8
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/Sky_Sport_Premier_League_Channel_Logo.png" group-title="SPORT NEWZELAND", SKY SPORT 8 PREMIER LEAGUE
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/skysportNZ8.m3u8
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_9_logo_stack_rgb.png" group-title="SPORT NEWZELAND", SKY SPORT 9
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/skysportNZ9.m3u8
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/support/img/Help_Site/ext_articles_img/Channels/050.jpg" group-title="SPORT NEWZELAND", SKY SPORT SELECT
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/skysportNZselect.m3u8
+
+
+EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Fs1AU_HD.png" group-title="SPORT AUSTRALIA", FOX SPORT 501
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/foxsport501.m3u8
+#EXTINF:-1 tvg-logo="https://ia803407.us.archive.org/29/items/502_20210317/502.gif" group-title="SPORT AUSTRALIA", FOX SPORT 502
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/foxsport502.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0c/Fs3AU_HD.png" group-title="SPORT AUSTRALIA", FOX SPORT 503
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/foxsport503.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Footy_logo_%282015%29.svg/640px-Fox_Footy_logo_%282015%29.svg.png" group-title="SPORT AUSTRALIA", FOX SPORT 504
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/foxsport504.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/FoxSports505_HD.png" group-title="SPORT AUSTRALIA", FOX SPORT 505
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/foxsport505.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/SPE_290x170.png" group-title="SPORT AUSTRALIA", FOX SPORT 506
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/foxsport506.m3u8
+#EXTINF:-1 tvg-logo="https://icdb.tv/images/3f7c952ca7c01ee0173f4f4713a7d0cc.jpg" group-title="SPORT AUSTRALIA", FOX SPORT 507
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/foxsport507.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1200px-Fox_Sports_logo1.svg.png" group-title="SPORT AUSTRALIA", FOX SPORT 508
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/foxsport508.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/BeIN_SPORTS_Australia_logo_2017.jpg" group-title="SPORT AUSTRALIA", BEIN SPORT 1
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/beinsportAU1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/BeIN_SPORTS_Australia_logo_2017.jpg" group-title="SPORT AUSTRALIA", BEIN SPORT 2
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/beinsportAU2.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/BeIN_SPORTS_Australia_logo_2017.jpg" group-title="SPORT AUSTRALIA", BEIN SPORT 3
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/beinsportAU3.m3u8
+
 
 
 
@@ -12677,58 +12724,6 @@ http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=3025
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SUPERSPORT", SUPERSPORT BLITZ
 http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=302498_&extension=m3u8
 
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SKY NZ", SKY SPORT 1 
-http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=303053_&extension=m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SKY NZ", SKY SPORT 2
-http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=303054_&extension=m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SKY NZ", SKY SPORT 3
-http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=303055_&extension=m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SKY NZ", SKY SPORT 4
-http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=303056_&extension=m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SKY NZ", SKY SPORT 5
-http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=303057_&extension=m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SKY NZ", SKY SPORT 6
-http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=303058_&extension=m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SKY NZ", SKY SPORT 7
-http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=303059_&extension=m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SKY NZ", SKY SPORT 8 PREMIER LEAGUE
-http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=303060_&extension=m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SKY NZ", SKY SPORT 9
-http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=303061_&extension=m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT SKY NZ", SKY SPORT SELECT
-http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=303062_&extension=m3u8
-
-
-EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT AU", FOX SPORT 501
-http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=359027_&extension=m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT AU", FOX SPORT 502
-http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=359026_&extension=m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT AU", FOX SPORT 503
-http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=359025_&extension=m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT AU", FOX SPORT 504
-http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=359024_&extension=m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT AU", FOX SPORT 505
-http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=359023_&extension=m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT AU", FOX SPORT 506
-http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=359022_&extension=m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT AU", FOX SPORT 507
-http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=359021_&extension=m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT AU", FOX SPORT 508
-http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=359020_&extension=m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT AU", BEIN SPORT 1
-http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=359019_&extension=m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT AU", BEIN SPORT 2
-http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=359018_&extension=m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT AU", BEIN SPORT 3
-http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=359017_&extension=m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hgVx5GL/Bein-1.png" group-title="BEIN ASIA",BeIN Sports 1 AIS
