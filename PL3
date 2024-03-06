@@ -6,8 +6,12 @@ https://github.com/Arrasyid22/inaldie/raw/main/LOGO.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="#####♦SUPPORT ADMIN♦#####", LINK SAWER https://saweria.co/Inaldie22
 https://github.com/Arrasyid22/inaldie/raw/main/DONATE.ts
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOtyHyx63MgN6OAtAUZnUpAF20q-jmNRT1KA&usqp=CAU" group-title="##TEST##", TEST 1
+#EXTINF:-1 tvg-logo="______" group-title="##TEST##", FOZ SPORT AU 501
 https://raw.githubusercontent.com/Arrasyid22/NEGARA/main/foxsportAU1.m3u8
+#EXTINF:-1 tvg-logo="______" group-title="##TEST##", FOZ SPORT AU 502
+https://raw.githubusercontent.com/Arrasyid22/NEGARA/main/foxsportAU2.m3u8
+#EXTINF:-1 tvg-logo="______" group-title="##TEST##", FOZ SPORT AU 504
+https://raw.githubusercontent.com/Arrasyid22/NEGARA/main/foxsportAU4.m3u8
 
 
 
