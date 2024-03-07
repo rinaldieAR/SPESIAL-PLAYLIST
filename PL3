@@ -6412,8 +6412,17 @@ https://raw.githubusercontent.com/Arrasyid22/NEGARA/main/foxsoccer.m3u8
 https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/espnUS1.m3u8
 #EXTINF:-1 tvg-logo="______" group-title="SPORT LATIN", ESPN US 2
 https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/espnUS2.m3u8
-#EXTINF:-1 tvg-logo="______" group-title="SPORT LATIN", FOX SPORT 1 MX
+#EXTINF:-1 tvg-logo="______" group-title="SPORT LATIN", FOX SPORT MX 1
 https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/foxsportMX1.m3u8
+#EXTINF:-1 tvg-logo="______" group-title="SPORT LATIN", FOX SPORT MX 2
+https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/foxsportMX2.m3u8
+#EXTINF:-1 tvg-logo="______" group-title="SPORT LATIN", FOX SPORT MX 3
+https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/foxsportMX3.m3u8
+#EXTINF:-1 tvg-logo="______" group-title="SPORT LATIN", TUDN ZONA SPORT MX
+https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/foxsportMX3.m3u8
+#EXTINF:-1 tvg-logo="______" group-title="SPORT LATIN", BEIN SPORT N LT
+https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/beinsportUS.m3u8
+
 
 #################################################################################################################
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag-map_of_Australia.svg/2195px-Flag-map_of_Australia.svg.png" group-title="SPORT AUSTRALIA🇭🇲"
