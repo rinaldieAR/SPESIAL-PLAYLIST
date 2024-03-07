@@ -6402,6 +6402,18 @@ https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/voosport2.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT EROPA", VOO SPORT 3
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/voosport3.m3u8
 
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT LATIN", FOX SPORT US 1
+https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/foxsportUS1.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT LATIN", FOX SPORT US 2
+https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/foxsportUS2.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT LATIN", ESPN US 1
+https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/espnUS1.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT LATIN", ESPN US 2
+https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/espnUS2.m3u8
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT LATIN", FOX SPORT 1 MX
+https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/foxsportMX1.m3u8
+
 #################################################################################################################
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag-map_of_Australia.svg/2195px-Flag-map_of_Australia.svg.png" group-title="SPORT AUSTRALIA🇭🇲"
 #################################################################################################################
