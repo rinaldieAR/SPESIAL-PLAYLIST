@@ -7117,6 +7117,47 @@ https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/espnBR4.m3u8
 https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/espnBR5.m3u8
 
 
+#EXTINF:-1 tvg-logo="______" group-title="SPORT AFRICA", CANAL+ SPORT 1
+https://raw.githubusercontent.com/Arrasyid22/sportafrica/main/canalAF1.m3u8
+#EXTINF:-1 tvg-logo="______" group-title="SPORT AFRICA", CANAL+ SPORT 2
+https://raw.githubusercontent.com/Arrasyid22/sportafrica/main/canalAF2.m3u8
+#EXTINF:-1 tvg-logo="______" group-title="SPORT AFRICA", CANAL+ SPORT 3
+https://raw.githubusercontent.com/Arrasyid22/sportafrica/main/canalAF3.m3u8
+#EXTINF:-1 tvg-logo="______" group-title="SPORT AFRICA", CANAL+ SPORT 4
+https://raw.githubusercontent.com/Arrasyid22/sportafrica/main/canalAF4.m3u8
+#EXTINF:-1 tvg-logo="______" group-title="SPORT AFRICA", CANAL+ SPORT 5
+https://raw.githubusercontent.com/Arrasyid22/sportafrica/main/canalAF5.m3u8
+#EXTINF:-1 tvg-logo="______" group-title="SPORT AFRICA", SUPERSPORTS ACTION
+https://raw.githubusercontent.com/Arrasyid22/sportafrica/main/ssaction.m3u8
+#EXTINF:-1 tvg-logo="______" group-title="SPORT AFRICA", SUPERSPORTS CRICKET
+https://raw.githubusercontent.com/Arrasyid22/sportafrica/main/sscricket.m3u8
+#EXTINF:-1 tvg-logo="______" group-title="SPORT AFRICA", SUPERSPORTS FOOTBALL
+https://raw.githubusercontent.com/Arrasyid22/sportafrica/main/ssfootball.m3u8
+#EXTINF:-1 tvg-logo="______" group-title="SPORT AFRICA", SUPERSPORTS GOLF
+https://raw.githubusercontent.com/Arrasyid22/sportafrica/main/ssgolf.m3u8
+#EXTINF:-1 tvg-logo="______" group-title="SPORT AFRICA", SUPERSPORTS GRANDSTAND
+https://raw.githubusercontent.com/Arrasyid22/sportafrica/main/ssgrandstand.m3u8
+#EXTINF:-1 tvg-logo="______" group-title="SPORT AFRICA", SUPERSPORTS LA LIGA 
+https://raw.githubusercontent.com/Arrasyid22/sportafrica/main/sslaliga.m3u8
+#EXTINF:-1 tvg-logo="______" group-title="SPORT AFRICA", SUPERSPORTS MAXIMO 1
+https://raw.githubusercontent.com/Arrasyid22/sportafrica/main/ssmaximo.m3u8
+#EXTINF:-1 tvg-logo="______" group-title="SPORT AFRICA", SUPERSPORTS MOTORSPORT
+https://raw.githubusercontent.com/Arrasyid22/sportafrica/main/ssmotoraport.m3u8
+#EXTINF:-1 tvg-logo="______" group-title="SPORT AFRICA", SUPERSPORTS PREMIER LEAGUE 
+https://raw.githubusercontent.com/Arrasyid22/sportafrica/main/sspremierleague.m3u8
+#EXTINF:-1 tvg-logo="______" group-title="SPORT AFRICA", SUPERSPORTS PSL
+https://raw.githubusercontent.com/Arrasyid22/sportafrica/main/sspsl.m3u8
+#EXTINF:-1 tvg-logo="______" group-title="SPORT AFRICA", SUPERSPORTS RUGBY
+https://raw.githubusercontent.com/Arrasyid22/sportafrica/main/ssrugby.m3u8
+#EXTINF:-1 tvg-logo="______" group-title="SPORT AFRICA", SUPERSPORTS VARIETY 1
+https://raw.githubusercontent.com/Arrasyid22/sportafrica/main/ssvariety1.m3u8
+#EXTINF:-1 tvg-logo="______" group-title="SPORT AFRICA", SUPERSPORTS VARIETY 2
+https://raw.githubusercontent.com/Arrasyid22/sportafrica/main/ssvariety2.m3u8
+#EXTINF:-1 tvg-logo="______" group-title="SPORT AFRICA", SUPERSPORTS VARIETY 3
+https://raw.githubusercontent.com/Arrasyid22/sportafrica/main/ssvariety3.m3u8
+#EXTINF:-1 tvg-logo="______" group-title="SPORT AFRICA", SUPERSPORTS VARIETY 4
+https://raw.githubusercontent.com/Arrasyid22/sportafrica/main/ssvariety4.m3u8
+
 
 #################################################################################################################
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag-map_of_Australia.svg/2195px-Flag-map_of_Australia.svg.png" group-title="SPORT AUSTRALIA🇭🇲"
