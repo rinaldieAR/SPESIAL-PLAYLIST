@@ -7075,14 +7075,18 @@ https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/foxsportAR1.m3u8
 https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/foxsportAR1.m3u8
 #EXTINF:-1 tvg-logo="______" group-title="SPORT LATIN", FOX SPORT AR 3
 https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/foxsportAR1.m3u8
-#EXTINF:-1 tvg-logo="______" group-title="SPORT LATIN", ESPN PREMIUM AR
-https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/espnpremium.m3u8
 #EXTINF:-1 tvg-logo="______" group-title="SPORT LATIN", SPORTV BR 1
 https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/sporttvBR1.m3u8
 #EXTINF:-1 tvg-logo="______" group-title="SPORT LATIN", SPORTV BR 2
 https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/sporttvBR2.m3u8
 #EXTINF:-1 tvg-logo="______" group-title="SPORT LATIN", SPORTV BR 3
 https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/sporttvBR3.m3u8
+#EXTINF:-1 tvg-logo="______" group-title="SPORT LATIN", ESPN PREMIUM AR
+https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/espnpremium.m3u8
+#EXTINF:-1 tvg-logo="______" group-title="SPORT LATIN", ESPN BR 4
+https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/espnBR4.m3u8
+#EXTINF:-1 tvg-logo="______" group-title="SPORT LATIN", ESPN BR 5
+https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/espnBR5.m3u8
 
 
 
