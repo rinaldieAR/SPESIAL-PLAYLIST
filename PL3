@@ -16,8 +16,6 @@ https://raw.githubusercontent.com/Arrasyid22/NEGARA/main/foxsportAU4.m3u8
 https://raw.githubusercontent.com/Arrasyid22/NEGARA/main/optus1.m3u8
 #EXTINF:-1 tvg-logo="______" group-title="##TEST##", OPTUS SPORT 2
 https://raw.githubusercontent.com/Arrasyid22/NEGARA/main/optus1.m3u8
-#EXTINF:-1 tvg-logo="______" group-title="##TEST##", FOX SOCCER PLUS
-https://raw.githubusercontent.com/Arrasyid22/NEGARA/main/foxsoccer.m3u8
 
 
 
@@ -6403,15 +6401,18 @@ https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/voosport2.m3u8
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/voosport3.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT LATIN", FOX SPORT US 1
+#EXTINF:-1 tvg-logo="______" group-title="SPORT LATIN", FOX SPORT US 1
 https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/foxsportUS1.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT LATIN", FOX SPORT US 2
+#EXTINF:-1 tvg-logo="______" group-title="SPORT LATIN", FOX SPORT US 2
 https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/foxsportUS2.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT LATIN", ESPN US 1
+#EXTINF:-1 tvg-logo="______" group-title="SPORT LATIN", FOX SOCCER PLUS
+https://raw.githubusercontent.com/Arrasyid22/NEGARA/main/foxsoccer.m3u8
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT LATIN", ESPN US 1
 https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/espnUS1.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT LATIN", ESPN US 2
+#EXTINF:-1 tvg-logo="______" group-title="SPORT LATIN", ESPN US 2
 https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/espnUS2.m3u8
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT LATIN", FOX SPORT 1 MX
+#EXTINF:-1 tvg-logo="______" group-title="SPORT LATIN", FOX SPORT 1 MX
 https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/foxsportMX1.m3u8
 
 #################################################################################################################
