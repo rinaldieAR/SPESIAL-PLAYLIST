@@ -5246,18 +5246,20 @@ https://nyanv-live-cdn.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
 #################################################################################################################
 #EXTINF:-1 group-logo="https://pbs.twimg.com/profile_images/1691997810202398720/l6mObbWa_400x400.jpg" group-title="FIRSTMEDIA"
 #################################################################################################################
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="FIRSTMEDIA", GTV
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/951/49951-SNAPSHOT-m.png" group-title="FIRSTMEDIA", GTV
 https://raw.githubusercontent.com/Arrasyid22/vision-/main/gtv.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="FIRSTMEDIA", MNCTV
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/949/49949-SNAPSHOT-m.png" group-title="FIRSTMEDIA", MNCTV
 https://raw.githubusercontent.com/Arrasyid22/vision-/main/mnctv.m3u8
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="FIRSTMEDIA", RCTI
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/946/49946-SNAPSHOT-m.png" group-title="FIRSTMEDIA", RCTI
 https://raw.githubusercontent.com/Arrasyid22/vision-/main/rcti.m3u8
-#EXTINF:-1 group-logo="https://cdns.klimg.com/merdeka.com/i/w/news/2014/03/04/330928/540x270/first-media-rilis-tv-anywhere-untuk-mobile.jpg",
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/TRANS.png" group-title="FIRSTMEDIA", TRANSTV HD
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch396%29/index.m3u8
+https://raw.githubusercontent.com/Arrasyid22/vision-/main/transtv.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch396%29/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/TRANS%207.png" group-title="FIRSTMEDIA", TRANS7 HD
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch397%29/index.m3u8
+https://raw.githubusercontent.com/Arrasyid22/vision-/main/trans7.m3u8
+#http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch397%29/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/ANTV.png" group-title="FIRSTMEDIA", ANTV HD
+https://raw.githubusercontent.com/Arrasyid22/vision-/main/antv.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch390%29/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/LOGO-CHANEL/main/KOMPAS.png" group-title="FIRSTMEDIA", KOMPASTV HD
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch410%29/index.m3u8
