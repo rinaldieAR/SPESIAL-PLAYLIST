@@ -16,8 +16,22 @@ https://raw.githubusercontent.com/Arrasyid22/NEGARA/main/foxsportAU4.m3u8
 https://raw.githubusercontent.com/Arrasyid22/NEGARA/main/optus1.m3u8
 #EXTINF:-1 tvg-logo="______" group-title="##TEST##", OPTUS SPORT 2
 https://raw.githubusercontent.com/Arrasyid22/NEGARA/main/optus1.m3u8
-
-
+#EXTINF:-1 tvg-logo="______" group-title="##TEST##", ARENA SPORT PREMIUM 1
+https://raw.githubusercontent.com/Arrasyid22/sporteropa/main/arenasportpremium1.m3u8
+#EXTINF:-1 tvg-logo="______" group-title="##TEST##", ARENA SPORT PREMIUM 2
+https://raw.githubusercontent.com/Arrasyid22/sporteropa/main/arenasportpremium2.m3u8
+#EXTINF:-1 tvg-logo="______" group-title="##TEST##", ARENA SPORT PREMIUM 3
+https://raw.githubusercontent.com/Arrasyid22/sporteropa/main/arenasportpremium3.m3u8
+#EXTINF:-1 tvg-logo="______" group-title="##TEST##", SPORT KLUB HR 1
+https://raw.githubusercontent.com/Arrasyid22/sporteropa/main/sportklubHR1.m3u8
+#EXTINF:-1 tvg-logo="______" group-title="##TEST##", SPORT KLUB HR 2
+https://raw.githubusercontent.com/Arrasyid22/sporteropa/main/sportklubHR2.m3u8
+#EXTINF:-1 tvg-logo="______" group-title="##TEST##", SPORT KLUB HR 3
+https://raw.githubusercontent.com/Arrasyid22/sporteropa/main/sportklubHR3.m3u8
+#EXTINF:-1 tvg-logo="______" group-title="##TEST##", SPORT KLUB HR 4
+https://raw.githubusercontent.com/Arrasyid22/sporteropa/main/sportklubHR4.m3u8
+#EXTINF:-1 tvg-logo="______" group-title="##TEST##", SPORT KLUB HR 5
+https://raw.githubusercontent.com/Arrasyid22/sporteropa/main/sportklubHR5.m3u8
 
 
 
