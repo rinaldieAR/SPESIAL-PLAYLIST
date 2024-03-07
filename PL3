@@ -7048,14 +7048,12 @@ https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/voosport2.m3u8
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SPORT EROPA", VOO SPORT 3
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/voosport3.m3u8
 
-
 #EXTINF:-1 tvg-logo="______" group-title="SPORT LATIN", FOX SPORT US 1
 https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/foxsportUS1.m3u8
 #EXTINF:-1 tvg-logo="______" group-title="SPORT LATIN", FOX SPORT US 2
 https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/foxsportUS2.m3u8
 #EXTINF:-1 tvg-logo="______" group-title="SPORT LATIN", FOX SOCCER PLUS
 https://raw.githubusercontent.com/Arrasyid22/NEGARA/main/foxsoccer.m3u8
-
 #EXTINF:-1 tvg-logo="______" group-title="SPORT LATIN", ESPN US 1
 https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/espnUS1.m3u8
 #EXTINF:-1 tvg-logo="______" group-title="SPORT LATIN", ESPN US 2
@@ -7067,9 +7065,25 @@ https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/foxsportMX2.m3u8
 #EXTINF:-1 tvg-logo="______" group-title="SPORT LATIN", FOX SPORT MX 3
 https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/foxsportMX3.m3u8
 #EXTINF:-1 tvg-logo="______" group-title="SPORT LATIN", TUDN ZONA SPORT MX
-https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/foxsportMX3.m3u8
+https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/tudnMX.m3u8
 #EXTINF:-1 tvg-logo="______" group-title="SPORT LATIN", BEIN SPORT N LT
 https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/beinsportUS.m3u8
+
+#EXTINF:-1 tvg-logo="______" group-title="SPORT LATIN", FOX SPORT AR 1
+https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/foxsportAR1.m3u8
+#EXTINF:-1 tvg-logo="______" group-title="SPORT LATIN", FOX SPORT AR 2
+https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/foxsportAR1.m3u8
+#EXTINF:-1 tvg-logo="______" group-title="SPORT LATIN", FOX SPORT AR 3
+https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/foxsportAR1.m3u8
+#EXTINF:-1 tvg-logo="______" group-title="SPORT LATIN", ESPN PREMIUM AR
+https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/espnpremium.m3u8
+#EXTINF:-1 tvg-logo="______" group-title="SPORT LATIN", SPORTV BR 1
+https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/sporttvBR1.m3u8
+#EXTINF:-1 tvg-logo="______" group-title="SPORT LATIN", SPORTV BR 2
+https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/sporttvBR2.m3u8
+#EXTINF:-1 tvg-logo="______" group-title="SPORT LATIN", SPORTV BR 3
+https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/sporttvBR3.m3u8
+
 
 
 #################################################################################################################
