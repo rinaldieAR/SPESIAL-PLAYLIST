@@ -7,6 +7,7 @@ https://github.com/Arrasyid22/inaldie/raw/main/LOGO.ts
 https://github.com/Arrasyid22/inaldie/raw/main/DONATE.ts
 
 
+
 #EXTINF:-1 group-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="##🇮🇩BRI LIGA 1🇮🇩##"
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="##🇮🇩BRI LIGA 1🇮🇩##", LIVE 1
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/162138
@@ -2755,24 +2756,22 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="NASIONAL",INDOSIAR DIGI1
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/ligabri1.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="NASIONAL", SCTV DIGI1
+https://raw.githubusercontent.com/Arrasyid22/vision-/main/sctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="NASIONAL", SCTV DENS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="NASIONAL", MOJI DIGI1
+https://raw.githubusercontent.com/Arrasyid22/vision-/main/moji.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="NASIONAL", MOJI DENS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://thumb.viva.id/intipseleb/665x374/2023/10/06/651f4364392df-vtv.jpg" group-title="NASIONAL",VTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-https://1nut.cobak.workers.dev/play0x9.m3u8?id=vtv
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSxGawAGIYu_BCrUhHD8CwLkgJEAsPV8auBLYrhzdR4dFtgGAMl" group-title="NASIONAL",MOJI (Indi)
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
-
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -2900,53 +2899,57 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch45%29/index.
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Oxygen_TV_%282017_Logo%29.png" group-title="NASIONAL",Oxygen TV
 https://cdn3-reg2.mm.oxygen.id/hls/oxygentv-web/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://thumb.viva.id/intipseleb/665x374/2023/10/06/651f4364392df-vtv.jpg" group-title="NASIONAL",VTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/vtv.m3u8
+
 
 ################################################################################
 MOVIE PREMIUM
 ################################################################################
 
-#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/476/791/png-clipart-hbo-now-hbo-go-television-hbo-latino-others-text-logo.png" group-title="MOVIE", HBO CUB
+#EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/476/791/png-clipart-hbo-now-hbo-go-television-hbo-latino-others-text-logo.png" group-title="MOVIE", HBO (CUB)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-cubmu.mystream.workers.dev
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="MOVIE", HBO Hits CUB
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="MOVIE", HBO Hits (CUB)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-cubmu.mystream.workers.dev
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="MOVIE", HBO Family CUB
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="MOVIE", HBO Family (CUB)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-cubmu.mystream.workers.dev
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="MOVIE", HBO Signature CUB
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="MOVIE", HBO Signature (CUB)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-cubmu.mystream.workers.dev
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="MOVIE", Cinemax CUB
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="MOVIE", Cinemax (CUB)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://drm-cubmu.mystream.workers.dev
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.openwindow040.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
@@ -2974,7 +2977,6 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380
 #KODIPROP:inputstream.adaptive.license_key=97b88ab09bfd344d9b98fe27cdea9ec8:428c1b5aad09c10629f28bf1e3d10f03
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
 
-
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="MOVIE", Cinemax X
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/hbocinemax.m3u8
 #EXTINF:0 tvg-logo="https://e7.pngegg.com/pngimages/476/791/png-clipart-hbo-now-hbo-go-television-hbo-latino-others-text-logo.png" group-title="MOVIE", HBO X
@@ -2987,11 +2989,17 @@ https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/hbohits.m3u8
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/hbosignature.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/c/c5/Citra_Muslim_Scm.jpeg" group-title="MOVIE", CITRA MUSLIM
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch334%29/index.m3u8
+https://raw.githubusercontent.com/Arrasyid22/vision-/main/citramuslim.m3u8
 #EXTINF:-1 tvg-logo="https://about.vidio.com/wp-content/uploads/2019/09/Mobile.png" group-title="MOVIE", CITRA BIOSKOP
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch376%29/index.m3u8
+https://raw.githubusercontent.com/Arrasyid22/vision-/main/citrabioskop.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkRzMDesNHQet8NAA_509dT1ZIncmrUTkicwEi19d2peVyCpn41U_ftluvv4zMJhksnzU&usqp=CAU" group-title="MOVIE", CITRA DRAMA
-http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch378%29/index.m3u8
+https://raw.githubusercontent.com/Arrasyid22/vision-/main/citradrama.m3u8
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png", Bioskop Indonesia X
+https://raw.githubusercontent.com/Arrasyid22/vision-/main/bioskopindonesia.m3u8
+
+#EXTINF:-1 group-title="MOVIE" tvg-logo="https://images.indihometv.com/tvposter/flik.png", Flik X
+https://raw.githubusercontent.com/Arrasyid22/vision-/main/flix.m3u8
 
 #EXTINF:-1 group-title="MOVIE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png", Bioskop Indonesia
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -6128,147 +6136,155 @@ http://210.210.155.37/x6bnqe/s/s28/index.m3u8
 http://210.210.155.37/x6bnqe/s/s27/index.m3u8
 
 
-
 #################################################################################################################
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9NS1-3NJc-GrQUUw1teJ9fGOaAkkRv0TTew&usqp=CAU" group-title="OXYGEN"
 #################################################################################################################
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_oxygentv.png" group-title="OXYGEN", OXYGEN.ID
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=oxygentv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/oxygentv.m3u8
+
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/93a0add4ed871fcabfd7.jpg" group-title="OXYGEN", IDX CHANNEL 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=idx 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/idx.m3u8
+
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_nettv.png" group-title="OXYGEN", NET TV 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=nettv-hd 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/nettv-hd.m3u8
+
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_metrotv.png" group-title="OXYGEN", METRO TV
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=metrotv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/metrotv.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_kompastv.png" group-title="OXYGEN", KOMPAS TV 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=kompastv 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/kompastv.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_tvri.png" group-title="OXYGEN", TVRI NASIONAL
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=tvri 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/tvri.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_sctv.png" group-title="OXYGEN", SCTV 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=sctv 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/sctv.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_trans7.png" group-title="OXYGEN", TRANS 7
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=trans7 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/trans7.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_transtv.png" group-title="OXYGEN", TRANS TV 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=transtv 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/transtv.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_indosiar.png" group-title="OXYGEN", INDOSIAR 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=indosiar
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/indosiar.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_antv.png" group-title="OXYGEN", ANTV 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=antv 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_tvone.png" group-title="OXYGEN", TV ONE https://oxygen.pencarijanda.workers.dev/play.m3u8?id=tvone 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/antv.m3u8
+#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_tvone.png" group-title="OXYGEN", TV ONE
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/tvone.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_rtv.png" group-title="OXYGEN", RTV 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=rtv 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/rtv.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_jaktv.png" group-title="OXYGEN", JAK TV
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=jaktv 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/jaktv.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/95f4745784313c1ab222.png" group-title="OXYGEN", MOJI TV
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=moji 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/moji.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_daaitv.png" group-title="OXYGEN", DAAI INDONESIA
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=daaitv 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/daaitv.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/b00977f498ea7ad4aa26.jpeg" group-title="OXYGEN", BTV 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=btv 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/btv.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_ntv.png" group-title="OXYGEN", NUSANTARA TV 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=nusantaratv 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/nusantaratv .m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/7b3b11534b9ac313e5be.png" group-title="OXYGEN", VIVA TELEVISI 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=vtv 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/vtv.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_jitv" group-title="OXYGEN", JITV 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=jitv 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/jitv.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_ktv.png" group-title="OXYGEN", KTV 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=ktv 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/ktv.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/64a420f0f62df497206a.png" group-title="OXYGEN", JPM
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=jpm 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/jpm.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_nhk.png" group-title="OXYGEN", NHK WORLD (HD) 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=nhkworld 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/nhkworld.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_phoenixhk.png" group-title="OXYGEN", PHOENIX HK
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=phoenixhongkong 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/phoenixhongkong.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_dw.png" group-title="OXYGEN", DW TV ASIA 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=dwenglish
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/dwenglish.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_france24.png" group-title="OXYGEN", FRANCE 24 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=france24
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/france24.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_arirang.png" group-title="OXYGEN", ARIRANG WORLD 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=arirangworld
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/arirangworld.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_CCTV.png" group-title="OXYGEN", CCTV 4
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=cctv4asia 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/cctv4asia.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_voa.png" group-title="OXYGEN", VOA 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=voa
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/voa.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_cetv1.png" group-title="OXYGEN", CETV 1 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=cetv1 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/cetv1.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_cgtndoc.png" group-title="OXYGEN", CGTN DOCUMENTARY 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=cgtndocumentary 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/cgtndocumentary.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_tv5monde.png" group-title="OXYGEN", TV5 MONDE
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=tv5monde 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/tv5monde.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_nippontv.png" group-title="OXYGEN", NIPPON TV 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=nihontv 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/nihontv.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/9c10edc898148799639f.png" group-title="OXYGEN", KBS KOREA 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=kbs-korea 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/kbs-korea.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_salamtv.png" group-title="OXYGEN", SALAM TV
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=salamtv 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/salamtv.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_rodja.png" group-title="OXYGEN", RODJA TV
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=rodjatv 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/rodjatv.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_uchannel.png" group-title="OXYGEN", U CHANNEL 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=uchannel 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/uchannel.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_tawaftv.png" group-title="OXYGEN", TAWAF TV 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=tawaftv 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/tawaftv.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_qurantv.png" group-title="OXYGEN", QURAN TV 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=qurantv 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/qurantv.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_inews.png" group-title="OXYGEN", INEWS TV 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=inews 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/inews.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_aljazeera.png" group-title="OXYGEN", AL JAZEERA 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=aljazeera 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/aljazeera.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_trt.png" group-title="OXYGEN", TRT WORLD 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=trtworld 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/trtworld.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_phoenixchinese.png" group-title="OXYGEN", PHOENIX CHINESE 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=phoenixchinese 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/phoenixchinese.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_cna.png" group-title="OXYGEN", CHANNEL NEWS ASIA 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=channelnewsasia 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/channelnewsasia.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_euronews.png" group-title="OXYGEN", EURONEWS 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=euronewsasia 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/euronewsasia.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_cgtn.png" group-title="OXYGEN", CGTN 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=cgtn 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/cgtn.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/9c8b3b8177e3fb267a74.png" group-title="OXYGEN", TVBS 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=tvbnews 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/tvbnews.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_bloomberg.png" group-title="OXYGEN", BLOOMBERG 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=bloomberg 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/bloomberg.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_cnbcint.png" group-title="OXYGEN", CNBC 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=cnbc 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/cnbc.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_b4umovies.png" group-title="OXYGEN", B4U MOVIES 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=b4umovieindia 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/b4umovieindia.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_xingkong.png" group-title="OXYGEN", XING KONG CHINA 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=xingkong 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/xingkong.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_lotusmacau.png" group-title="OXYGEN", LOTUS MACAU 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=lotusmacau 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/lotusmacau.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/994ca4439869fb20cfc6.png" group-title="OXYGEN", LTN FAMILY 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=ltn-family 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/ltn-family.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/ca22c587c19948f1567e.png" group-title="OXYGEN", FILMAX 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=filmax 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/filmax.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_fashiontv.png" group-title="OXYGEN", FASHION TV 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=fashiontv 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/fashiontv.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_channelv.png" group-title="OXYGEN", CHANNEL V CHINA 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=vchina 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/vchina.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_b4u.png" group-title="OXYGEN", B4U MUSIC 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=b4umusicindia 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/b4umusicindia.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/79e2dab75c3bfcea933c.png" group-title="OXYGEN", INSIGHT TV 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=insight 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/insight.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_toonmax.png" group-title="OXYGEN", TOONMAX 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=toonmax 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/toonmax.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_spacetoon.png" group-title="OXYGEN", SPACETOON 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=spacetoon 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/spacetoon.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_ebskids.png" group-title="OXYGEN", EBS KIDS 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=ebskids 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/ebskids.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_mentari.png" group-title="OXYGEN", MENTARI TV 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=mentaritv 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/mentaritv.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_kidszone.png" group-title="OXYGEN", KIDS ZONE PLUS
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=kidszoneplus
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/kidszoneplus.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/b12d9de0667a6dbcff5f.png" group-title="OXYGEN", POP TV 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=pop 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/pop.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/f48a09f215f6bc907aaa.png" group-title="OXYGEN", PLANET FUN 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=planetfun 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/planetfun.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_tvrisport.png" group-title="OXYGEN", TVRI SPORT 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=tvrisport 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/tvrisport.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_dubaisport3.png" group-title="OXYGEN", DUBAI SPORTS 3 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=dubaisport3 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/dubaisport3.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_redbull.png" group-title="OXYGEN", RED BULL TV 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=redbulltv 
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/redbulltv.m3u8
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/c01f7cb2fad4cfbcf0a7.png" group-title="OXYGEN", EDGE SPORT 
-https://oxygen.pencarijanda.workers.dev/play.m3u8?id=edgesport
+https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/edgesport.m3u8
+
 
 #################################################################################################################
 #EXTINF:-1 group-logo="https://images.bisnis.com/posts/2020/04/02/1221683/vidio1.jpg" group-title="VIDOVIL"
@@ -7709,6 +7725,20 @@ https://sport.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8|Referer=ht
 #EXTINF:-1 group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/293236c0-7374-11ec-b576-afbb0a1303ef_webp_original.png",True Sports 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/79.0.3945.116 Mobile Safari/537.36
 https://sport.livedoomovies.com:4432/02_2sporthd4_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r\u003dajax
+
+#EXTINF:-1 tvg-logo="https://ia801604.us.archive.org/28/items/sbs-sports-logo-2018/SBS_Sports_logo_2018.png" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", SBS SPORT  
+http://176868.cloud/acff8aaa96f54dad248968b413d29c44/a2142e9e39fcb740164dc9a0e031727e/4aedb74052b45637fee91842fd47f2c0/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/kbsn-sports.jpg" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", KBS SPORT
+http://176868.cloud/49ab9111abe9431dfc140e9e6cdc0fdd/a2142e9e39fcb740164dc9a0e031727e/6a82114ce7174e8d7edc97ef1e740731/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://spnimage.edaily.co.kr/images/photo/files/NP/S/2022/04/PS22041900009.jpg" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", TVN SPORT
+http://176868.cloud/7dbcb5c59a91a173b63695c394569ed6/a2142e9e39fcb740164dc9a0e031727e/b0bb263e899a8bddc94b6f841d2d1642/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/Mbcsports_logo2.svg" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", MBC SPORT+
+http://176868.cloud/57377330209a99f248d615f722f261de/a2142e9e39fcb740164dc9a0e031727e/bf54520ec53d9041546277bdd68fa813/index.m3u8
 
 
 #################################################################################################################
