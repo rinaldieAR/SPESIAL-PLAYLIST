@@ -196,6 +196,17 @@ http://iptvtree.net:8080/c4596f70/c3848d92/221948
 http://iptvtree.net:8080/c4596f70/c3848d92/197964
 
 
+#EXTINF:-1 tvg-id="HBO HD" tvg-url="" tvg-logo="https://e7.pngegg.com/pngimages/476/791/png-clipart-hbo-now-hbo-go-television-hbo-latino-others-text-logo.png" group-title="HBO ID",HBO X
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/2.m3u8
+#EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO ID",HBO Hits X
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/3.m3u8
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="HBO ID",HBO Family X
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/5.m3u8
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="HBO ID",HBO Signature X
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/4.m3u8
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO ID",Cinemax X
+http://103.127.209.247:8080/live/247@v2newG1/9OKqDp3L9S/6.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa26_vPZ8WXonfR6KRH8VoMtnsQD501-ri3k73VoiTf1hr8RHMPXduwoQ&s=10" group-title="ETV BIOSKOP", ETV BIOSKOP 1 X
 https://raw.githubusercontent.com/Arrasyid22/moviepremium/main/etvbioskop1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa26_vPZ8WXonfR6KRH8VoMtnsQD501-ri3k73VoiTf1hr8RHMPXduwoQ&s=10" group-title="ETV BIOSKOP", ETV BIOSKOP 2 X
