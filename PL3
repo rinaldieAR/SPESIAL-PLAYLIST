@@ -17588,6 +17588,1550 @@ https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/62038b3ed9405210749
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"rOjEp/rhGUgVrTb1hHvoXA","kid":"/dEg8ce598a5m2Ym3cH9FA"}],"type":"temporary"}
 https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/63426f3ed940521074b740d4_hbovodhd/dash0/MYS_DOLBY_index.mpd
 
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/4309ad981b5abbfa294a07c9352886b9.png" group-title="USA Channels", A Wealth of Entertainment
+http://vp-txpro.com:80/live/Bb58/Wddrf/51950.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/fa9c10cfc50b986d0801df525cc11d5f.png" group-title="USA Channels", A&E
+http://vp-txpro.com:80/live/Bb58/Wddrf/51951.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/a333619be2bfd7ea224a5e28167bcd94.png" group-title="USA Channels", ABC
+http://vp-txpro.com:80/live/Bb58/Wddrf/51952.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/3581e541cecd1ac13f7c0a080ae251f6.png" group-title="USA Channels", ABC News
+http://vp-txpro.com:80/live/Bb58/Wddrf/51953.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/da80bb6e58a531442156ad4592945fe1.png" group-title="USA Channels", ACC Network
+http://vp-txpro.com:80/live/Bb58/Wddrf/51954.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/76d8f07be2cc684bc821c894f919e4c3.png" group-title="USA Channels", Altitude Sports
+http://vp-txpro.com:80/live/Bb58/Wddrf/51955.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/a18341af60c76141dd311f9cf22664bd.png" group-title="USA Channels", AMC
+http://vp-txpro.com:80/live/Bb58/Wddrf/51956.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/1d47b108b8eb1ebefc3b89e1ce4f8060.png" group-title="USA Channels", AMC +
+http://vp-txpro.com:80/live/Bb58/Wddrf/51957.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/3825a711d5c7ff0f73cf9fe22bd71150.png" group-title="USA Channels", American Heroes Channel
+http://vp-txpro.com:80/live/Bb58/Wddrf/51958.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/6461f4d34d9f040cd6978efd612d5991.png" group-title="USA Channels", Animal Planet
+http://vp-txpro.com:80/live/Bb58/Wddrf/51959.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/5171cd5e2c1ceb7ac07a1dc914d73e7f.png" group-title="USA Channels", Antenna TV
+http://vp-txpro.com:80/live/Bb58/Wddrf/51960.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/0acd8ab922976c25d199d9de8aa02dcf.png" group-title="USA Channels", Aspire
+http://vp-txpro.com:80/live/Bb58/Wddrf/51961.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/694852334a902ef72e362e41588e221f.jpg" group-title="USA Channels", AT&T Sportsnet Pittsburgh
+http://vp-txpro.com:80/live/Bb58/Wddrf/51962.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/694852334a902ef72e362e41588e221f.jpg" group-title="USA Channels", AT&T SportsNet Rocky Mountain
+http://vp-txpro.com:80/live/Bb58/Wddrf/51963.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/694852334a902ef72e362e41588e221f.jpg" group-title="USA Channels", AT&T Sportsnet South West
+http://vp-txpro.com:80/live/Bb58/Wddrf/51964.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/15fc8c235b84dd17397850557c1256cf.png" group-title="USA Channels", AXS TV
+http://vp-txpro.com:80/live/Bb58/Wddrf/51965.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/f209f651fe3959e8adcde459bf3ec826.png" group-title="USA Channels", Bally Sports - Arizona
+http://vp-txpro.com:80/live/Bb58/Wddrf/51966.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/f209f651fe3959e8adcde459bf3ec826.png" group-title="USA Channels", Bally Sports - Detroit
+http://vp-txpro.com:80/live/Bb58/Wddrf/51967.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/0f9689b74ba2e783f6685d27c446a5df.png" group-title="USA Channels", Bally Sports - Florida
+http://vp-txpro.com:80/live/Bb58/Wddrf/51968.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/f209f651fe3959e8adcde459bf3ec826.png" group-title="USA Channels", Bally Sports - Great Lakes
+http://vp-txpro.com:80/live/Bb58/Wddrf/51969.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/f209f651fe3959e8adcde459bf3ec826.png" group-title="USA Channels", Bally Sports - Indiana
+http://vp-txpro.com:80/live/Bb58/Wddrf/51970.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/b108976ebd0762e6dd625c49fcec46b6.png" group-title="USA Channels", Bally Sports - Kansas City
+http://vp-txpro.com:80/live/Bb58/Wddrf/51971.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/f209f651fe3959e8adcde459bf3ec826.png" group-title="USA Channels", Bally Sports - Midwest
+http://vp-txpro.com:80/live/Bb58/Wddrf/51972.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/f209f651fe3959e8adcde459bf3ec826.png" group-title="USA Channels", Bally Sports - New Orleans
+http://vp-txpro.com:80/live/Bb58/Wddrf/51973.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/f209f651fe3959e8adcde459bf3ec826.png" group-title="USA Channels", Bally Sports - North
+http://vp-txpro.com:80/live/Bb58/Wddrf/51974.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/efc3373f0950ed823f33d9c62295dfce.png" group-title="USA Channels", Bally Sports - Ohio
+http://vp-txpro.com:80/live/Bb58/Wddrf/51975.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/f209f651fe3959e8adcde459bf3ec826.png" group-title="USA Channels", Bally Sports - Oklahoma
+http://vp-txpro.com:80/live/Bb58/Wddrf/51976.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/f209f651fe3959e8adcde459bf3ec826.png" group-title="USA Channels", Bally Sports - San Diego
+http://vp-txpro.com:80/live/Bb58/Wddrf/51977.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/f209f651fe3959e8adcde459bf3ec826.png" group-title="USA Channels", Bally Sports - SoCal
+http://vp-txpro.com:80/live/Bb58/Wddrf/51978.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/444e94fd8052fe28b2e26150ebf8059d.png" group-title="USA Channels", Bally Sports - South
+http://vp-txpro.com:80/live/Bb58/Wddrf/51979.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/f209f651fe3959e8adcde459bf3ec826.png" group-title="USA Channels", Bally Sports - Southeast
+http://vp-txpro.com:80/live/Bb58/Wddrf/51980.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/f209f651fe3959e8adcde459bf3ec826.png" group-title="USA Channels", Bally Sports - Southwest
+http://vp-txpro.com:80/live/Bb58/Wddrf/51981.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/f209f651fe3959e8adcde459bf3ec826.png" group-title="USA Channels", Bally Sports - Sun
+http://vp-txpro.com:80/live/Bb58/Wddrf/51982.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/f209f651fe3959e8adcde459bf3ec826.png" group-title="USA Channels", Bally Sports - Sun South
+http://vp-txpro.com:80/live/Bb58/Wddrf/51983.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/f209f651fe3959e8adcde459bf3ec826.png" group-title="USA Channels", Bally Sports - West
+http://vp-txpro.com:80/live/Bb58/Wddrf/51984.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/f209f651fe3959e8adcde459bf3ec826.png" group-title="USA Channels", Bally Sports - Wisconsin
+http://vp-txpro.com:80/live/Bb58/Wddrf/51985.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/19bfa2b045a1906e0077ad79b9597672.png" group-title="USA Channels", BBC America
+http://vp-txpro.com:80/live/Bb58/Wddrf/51986.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/668c0b683b0388df40de032e7789a816.png" group-title="USA Channels", beIN La Liga
+http://vp-txpro.com:80/live/Bb58/Wddrf/51987.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/912283c18c385ceee53305f08649e1db.png" group-title="USA Channels", beIN Sports
+http://vp-txpro.com:80/live/Bb58/Wddrf/51988.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/2d33fc2cdbc38d20af2cb9a72004c938.png" group-title="USA Channels", beIN Sports N
+http://vp-txpro.com:80/live/Bb58/Wddrf/51989.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/6b19a05c497d8f828bce1ba6fb262149.png" group-title="USA Channels", BET
+http://vp-txpro.com:80/live/Bb58/Wddrf/51990.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/290ffa2fc13c6c23128b283eb29b5bd2.png" group-title="USA Channels", BET Her
+http://vp-txpro.com:80/live/Bb58/Wddrf/51991.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/e897aea6400e6c8acfd24b5e991881e9.png" group-title="USA Channels", BET Jams
+http://vp-txpro.com:80/live/Bb58/Wddrf/51992.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/8761e226eb0ab0b3a9c705701cd55267.png" group-title="USA Channels", BET Soul
+http://vp-txpro.com:80/live/Bb58/Wddrf/51993.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/d8f0df75c5b6334c1956d18a3958f804.png" group-title="USA Channels", Big Ten Network
+http://vp-txpro.com:80/live/Bb58/Wddrf/51994.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/ec98eeacdf7fc3cd4c595760e8e6a7a3.png" group-title="USA Channels", Billiard TV
+http://vp-txpro.com:80/live/Bb58/Wddrf/51995.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/d81d054ced8655cb821d0c0dea830751.png" group-title="USA Channels", Bloomberg
+http://vp-txpro.com:80/live/Bb58/Wddrf/51996.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/9df2faa9df427636798594285ffeaff1.png" group-title="USA Channels", Boomerang
+http://vp-txpro.com:80/live/Bb58/Wddrf/51997.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/f6c2c15b078edb123b4b1326a2d4a257.png" group-title="USA Channels", Bounce TV
+http://vp-txpro.com:80/live/Bb58/Wddrf/51998.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/c067dc82d684967edfdee1a8990ae0e2.png" group-title="USA Channels", Bravo
+http://vp-txpro.com:80/live/Bb58/Wddrf/51999.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/4d7f65ec5db4aa19a95683a8aabc65bc.png" group-title="USA Channels", Buzzr
+http://vp-txpro.com:80/live/Bb58/Wddrf/52000.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/27d13b2e57a9542176b0dfa2d43ec0ef.png" group-title="USA Channels", C-Span
+http://vp-txpro.com:80/live/Bb58/Wddrf/52001.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/37a8047223acd7bd80a30cf90680148e.png" group-title="USA Channels", C-Span 2
+http://vp-txpro.com:80/live/Bb58/Wddrf/52002.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/89fd09b8148f9e3bbe0944e7ad13c8aa.png" group-title="USA Channels", C-Span 3
+http://vp-txpro.com:80/live/Bb58/Wddrf/52003.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/eafc0ac67ab9886a77d479b290325550.png" group-title="USA Channels", Cartoon Network
+http://vp-txpro.com:80/live/Bb58/Wddrf/52004.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/1c826f0b5370cb37a96c68e092919082.png" group-title="USA Channels", CBS
+http://vp-txpro.com:80/live/Bb58/Wddrf/52005.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/958fbfa2ad3b0a4ef5643f52b297ab0a.png" group-title="USA Channels", Cheddar News
+http://vp-txpro.com:80/live/Bb58/Wddrf/52007.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/06ced624b8ad29cb995e5e05714e22a7.png" group-title="USA Channels", Cinemax
+http://vp-txpro.com:80/live/Bb58/Wddrf/52008.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/3a21203ec1b56d682c365e60e37d3e83.png" group-title="USA Channels", Cinemax 5 StarMAX
+http://vp-txpro.com:80/live/Bb58/Wddrf/52009.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/f011ab60fc8b042ba6abb2898709afc8.png" group-title="USA Channels", Cinemax Actionmax
+http://vp-txpro.com:80/live/Bb58/Wddrf/52010.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/0a103ff81f9308b7a975212c8085ece0.png" group-title="USA Channels", Cinemax Moremax
+http://vp-txpro.com:80/live/Bb58/Wddrf/52011.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/97917916227ba816e12d37a819394923.png" group-title="USA Channels", Cinemax Moviemax
+http://vp-txpro.com:80/live/Bb58/Wddrf/52012.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/6e5c359a0d4e352d85da41c642fb08a5.png" group-title="USA Channels", Cinemax Outermax
+http://vp-txpro.com:80/live/Bb58/Wddrf/52013.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/b1e75a7231ffff6cbeabe1d730a332b4.png" group-title="USA Channels", Cinemax Thrillermax
+http://vp-txpro.com:80/live/Bb58/Wddrf/52014.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/6dbb7610d5fdd51c84a63f495eb43828.png" group-title="USA Channels", CMT
+http://vp-txpro.com:80/live/Bb58/Wddrf/52015.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/fcd30b2ea5bfaeb8a0297cd237235e3d.png" group-title="USA Channels", CNBC
+http://vp-txpro.com:80/live/Bb58/Wddrf/52016.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/cnn-logo-original-png-0.png" group-title="USA Channels", CNN
+http://vp-txpro.com:80/live/Bb58/Wddrf/52017.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/d6619b615db75ff29377a46233867ca8.png" group-title="USA Channels", Comedy Central
+http://vp-txpro.com:80/live/Bb58/Wddrf/52018.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/9ff39cc2855eedf208d8ad20fbf4c041.png" group-title="USA Channels", Comet
+http://vp-txpro.com:80/live/Bb58/Wddrf/52019.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/effe9b0dc5ca40c9425e469afff64917.png" group-title="USA Channels", Court TV
+http://vp-txpro.com:80/live/Bb58/Wddrf/52020.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/71a7c90d88f9ecaaf4d03f2e5275af6b.png" group-title="USA Channels", COZI TV
+http://vp-txpro.com:80/live/Bb58/Wddrf/52021.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/18a47bc3daeb6f70bfa8300dc9457770.png" group-title="USA Channels", Destination America
+http://vp-txpro.com:80/live/Bb58/Wddrf/52022.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/7974413b4027739c27d9363df168ce40.png" group-title="USA Channels", Discovery Channel
+http://vp-txpro.com:80/live/Bb58/Wddrf/52023.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/32867c7d116d42d34b72ebf180a2393f.png" group-title="USA Channels", Discovery Family
+http://vp-txpro.com:80/live/Bb58/Wddrf/52024.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/29f375cf52dd584af83eca382f425d9a.png" group-title="USA Channels", Discovery Life
+http://vp-txpro.com:80/live/Bb58/Wddrf/52025.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/05e5c8a11614f1bd56d570eec84ece80.png" group-title="USA Channels", Discovery Science
+http://vp-txpro.com:80/live/Bb58/Wddrf/52026.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/163c7eb61cfd07bf4732678ac9925c53.png" group-title="USA Channels", Disney Channel
+http://vp-txpro.com:80/live/Bb58/Wddrf/52027.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/568f34da90c1406e1f5d6c4d888306fc.png" group-title="USA Channels", Disney Jr.
+http://vp-txpro.com:80/live/Bb58/Wddrf/52028.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/4a3982985004dd5a584d8bb388aebdfd.png" group-title="USA Channels", Disney XD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52029.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/7d7c1fbd5ee9d21d35bc4544876dc1d0.png" group-title="USA Channels", E! Entertainment
+http://vp-txpro.com:80/live/Bb58/Wddrf/52030.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/5e21c61798eebee1c33a8f20e9d5bcb3.png" group-title="USA Channels", Eleven Sports
+http://vp-txpro.com:80/live/Bb58/Wddrf/52031.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/18a46b4637340b0dd86320f155208331.png" group-title="USA Channels", EPIX
+http://vp-txpro.com:80/live/Bb58/Wddrf/52032.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/01a9c995468fdad2ff4297c93dd6e74a.png" group-title="USA Channels", EPIX 2
+http://vp-txpro.com:80/live/Bb58/Wddrf/52033.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/9ba5d94e66dfaed600df5eb47f9a753e.png" group-title="USA Channels", EPIX Drive In
+http://vp-txpro.com:80/live/Bb58/Wddrf/52034.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/abdcde261f47c7cfb4921a9f9184d9f8.png" group-title="USA Channels", EPIX Hits
+http://vp-txpro.com:80/live/Bb58/Wddrf/52035.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/250124906e29f14ae64a4748f4ae406c.png" group-title="USA Channels", ESPN
+http://vp-txpro.com:80/live/Bb58/Wddrf/52036.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/20e3fe5cae10afded8804ef34f554105.png" group-title="USA Channels", ESPN 2
+http://vp-txpro.com:80/live/Bb58/Wddrf/52037.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/199a6c60794f20cd18fa68fa9db283e4.png" group-title="USA Channels", ESPN News
+http://vp-txpro.com:80/live/Bb58/Wddrf/52038.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/3467696ce5de8e37f9d68b1c49f21278.png" group-title="USA Channels", ESPN U
+http://vp-txpro.com:80/live/Bb58/Wddrf/52039.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/73ab247a80ac6bb7f3893393980fd960.png" group-title="USA Channels", Fight Network
+http://vp-txpro.com:80/live/Bb58/Wddrf/52040.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/44094285368231d619bfad419064f0d8.png" group-title="USA Channels", Food Network
+http://vp-txpro.com:80/live/Bb58/Wddrf/52041.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/e9f59cb3130e4c41f3df8f2343cb155b.png" group-title="USA Channels", Fox
+http://vp-txpro.com:80/live/Bb58/Wddrf/52042.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/0f23cf2abff2ae8653b4c15053fa5a78.png" group-title="USA Channels", Fox Business
+http://vp-txpro.com:80/live/Bb58/Wddrf/52043.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/d51ee430b5db7a6816189803c139f41e.png" group-title="USA Channels", Fox Deportes
+http://vp-txpro.com:80/live/Bb58/Wddrf/52044.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/72150053795bd8c22d997fb123159ea7.png" group-title="USA Channels", Fox Life
+http://vp-txpro.com:80/live/Bb58/Wddrf/52045.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/a7ea71c1fe88298663d7564c51302694.png" group-title="USA Channels", Fox News
+http://vp-txpro.com:80/live/Bb58/Wddrf/52046.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/9641dc9b783ec2b59175d87b4bb90427.png" group-title="USA Channels", Fox Soccer Plus
+http://vp-txpro.com:80/live/Bb58/Wddrf/52047.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/2987db3537ed7b037e1263e3f2d4a2b1.png" group-title="USA Channels", Freeform
+http://vp-txpro.com:80/live/Bb58/Wddrf/52048.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/24a41e21a41d8161f8004bc40ed33d75.png" group-title="USA Channels", FS1
+http://vp-txpro.com:80/live/Bb58/Wddrf/52049.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/70d7bfbc69a77600e7240ab09365b87d.png" group-title="USA Channels", FS2
+http://vp-txpro.com:80/live/Bb58/Wddrf/52050.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/4394660a2bf3aa0f8592b94e5cf60653.png" group-title="USA Channels", Fuse
+http://vp-txpro.com:80/live/Bb58/Wddrf/52052.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/793e1707e12e7f4b6b0ade425b713ceb.png" group-title="USA Channels", FX
+http://vp-txpro.com:80/live/Bb58/Wddrf/52053.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/442e0587bdb668304da42c59bf09226e.png" group-title="USA Channels", FXM
+http://vp-txpro.com:80/live/Bb58/Wddrf/52054.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/64963dae5268e5cb61a0cd6e5d93f21f.png" group-title="USA Channels", FXX
+http://vp-txpro.com:80/live/Bb58/Wddrf/52055.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/3f7ef5138876bf4ceb6b47904713a962.png" group-title="USA Channels", FYI
+http://vp-txpro.com:80/live/Bb58/Wddrf/52056.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/610901dbe069f071352d14316ecde62e.png" group-title="USA Channels", getTV
+http://vp-txpro.com:80/live/Bb58/Wddrf/52057.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/e55cd26ccb7b2b7976a2e7e7d944509e.png" group-title="USA Channels", GINX ESports
+http://vp-txpro.com:80/live/Bb58/Wddrf/52058.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/88a67ad775b9738cb9a2d87222874589.png" group-title="USA Channels", Golf Channel
+http://vp-txpro.com:80/live/Bb58/Wddrf/52059.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/26950bb7579113c1d37470f264523eb6.png" group-title="USA Channels", Great American Country
+http://vp-txpro.com:80/live/Bb58/Wddrf/52060.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/b3db62bc7c0d8a5bb55123a4e24a1ba2.png" group-title="USA Channels", Grit
+http://vp-txpro.com:80/live/Bb58/Wddrf/52061.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/31507d9bff8fbd1f19a898da19a3f629.png" group-title="USA Channels", Game Show Network
+http://vp-txpro.com:80/live/Bb58/Wddrf/52062.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/dc44d37c191e8bf7adaff3f33b3bf9e8.png" group-title="USA Channels", H2
+http://vp-txpro.com:80/live/Bb58/Wddrf/52063.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/45b71017631758d009e9243e0017582d.png" group-title="USA Channels", Hallmark
+http://vp-txpro.com:80/live/Bb58/Wddrf/52064.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/f2c1b0b25d97d2e620dd0843e6010eb2.png" group-title="USA Channels", Hallmark Drama
+http://vp-txpro.com:80/live/Bb58/Wddrf/52065.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/bccf49a4348b05b97018cdd939618666.png" group-title="USA Channels", Hallmark Movies & Mysteries
+http://vp-txpro.com:80/live/Bb58/Wddrf/52066.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/9fbff610b3c6b2b1568c2a70febc7806.png" group-title="USA Channels", HBO
+http://vp-txpro.com:80/live/Bb58/Wddrf/52067.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/4932d43ad2bafdf341082fb106c88e3d.png" group-title="USA Channels", HBO 2
+http://vp-txpro.com:80/live/Bb58/Wddrf/52068.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/d05c624c410c2afcfabd5dbf07be5093.png" group-title="USA Channels", HBO Comedy
+http://vp-txpro.com:80/live/Bb58/Wddrf/52069.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/3de67ed5e29690f587e68c87653e7262.png" group-title="USA Channels", HBO Family
+http://vp-txpro.com:80/live/Bb58/Wddrf/52070.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/8c3f5282eb6e5c8596884fba5fce0b97.png" group-title="USA Channels", HBO Signature
+http://vp-txpro.com:80/live/Bb58/Wddrf/52071.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/6c622ce6ec04bb51f66264aba6e0edfd.png" group-title="USA Channels", HBO Zone
+http://vp-txpro.com:80/live/Bb58/Wddrf/52072.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/5f4aa79c3af6deebb381618f0d6695bc.png" group-title="USA Channels", Heroes & Icons
+http://vp-txpro.com:80/live/Bb58/Wddrf/52073.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/48d029c82f3354831f0d7aa8bd42a141.png" group-title="USA Channels", HGTV
+http://vp-txpro.com:80/live/Bb58/Wddrf/52074.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/ded5e060d8dab8d4317c3568834c94cf.png" group-title="USA Channels", History Channel
+http://vp-txpro.com:80/live/Bb58/Wddrf/52075.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/8e94ea3205bddd05a50045e139c24bc7.png" group-title="USA Channels", HLN
+http://vp-txpro.com:80/live/Bb58/Wddrf/52076.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/49ee34e22c43fd2fcb11145d803f19dc.png" group-title="USA Channels", HSN
+http://vp-txpro.com:80/live/Bb58/Wddrf/52077.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/5f23a4b537fbcfdf9fbf6bca402a0d9f.png" group-title="USA Channels", HSN 2
+http://vp-txpro.com:80/live/Bb58/Wddrf/52078.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/1d5cc9674105cccb24be08e006356530.png" group-title="USA Channels", IFC
+http://vp-txpro.com:80/live/Bb58/Wddrf/52079.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/7f831e9f0dda02ed12da3d10a36a5779.png" group-title="USA Channels", Info Wars
+http://vp-txpro.com:80/live/Bb58/Wddrf/52080.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/ded42ae9e397d10331fae26928f119b3.png" group-title="USA Channels", Insp
+http://vp-txpro.com:80/live/Bb58/Wddrf/52081.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/2ec4bfadafee2a99409d887888331526.png" group-title="USA Channels", Investigation Discovery
+http://vp-txpro.com:80/live/Bb58/Wddrf/52082.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/a988aef6455a0fd4543872da17b2b966.png" group-title="USA Channels", ION
+http://vp-txpro.com:80/live/Bb58/Wddrf/52083.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/ee7c066d406ec18cd0ba0d5ec747423b.png" group-title="USA Channels", Laff
+http://vp-txpro.com:80/live/Bb58/Wddrf/52084.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/463f0a4ebba562679857298109400d5c.png" group-title="USA Channels", Lifetime
+http://vp-txpro.com:80/live/Bb58/Wddrf/52085.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/8ec4500770a826276c9eb0b815b635ac.png" group-title="USA Channels", Lifetime Movies Network
+http://vp-txpro.com:80/live/Bb58/Wddrf/52086.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/ec0d1f66d45000d5b627fcccbdf1ac37.png" group-title="USA Channels", Logo
+http://vp-txpro.com:80/live/Bb58/Wddrf/52087.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/6ebc1a5b4c34b3b4f9c0f966952bc6b3.png" group-title="USA Channels", Magnolia Network
+http://vp-txpro.com:80/live/Bb58/Wddrf/52088.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/3624afeeb98a6935662582d1157d1dbe.png" group-title="USA Channels", Marquee Sports Network
+http://vp-txpro.com:80/live/Bb58/Wddrf/52089.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/7c2a6e3ce3503bed081fe73a2af76df2.png" group-title="USA Channels", MASN
+http://vp-txpro.com:80/live/Bb58/Wddrf/52090.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/30aa7406866dacb227f180b133f0b184.png" group-title="USA Channels", MASN 2
+http://vp-txpro.com:80/live/Bb58/Wddrf/52091.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/e0f3fa1f8748861ca2b7e11517fe8d7a.png" group-title="USA Channels", MavTV
+http://vp-txpro.com:80/live/Bb58/Wddrf/52092.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/36d271261f64893ffc0f5ba87932f239.png" group-title="USA Channels", Me TV
+http://vp-txpro.com:80/live/Bb58/Wddrf/52093.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/485a683a685fce8f4ac08a689391f5bd.png" group-title="USA Channels", MLB Network
+http://vp-txpro.com:80/live/Bb58/Wddrf/52094.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/6becea7746dd92f7ed654f1f2f1f0f1a.png" group-title="USA Channels", Motor Trend
+http://vp-txpro.com:80/live/Bb58/Wddrf/52095.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/07f222d82588811f15ae964cff14f8c5.png" group-title="USA Channels", MSG
+http://vp-txpro.com:80/live/Bb58/Wddrf/52096.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/3fd03405dc5b78c54dc820d1198d82ac.png" group-title="USA Channels", MSG 2
+http://vp-txpro.com:80/live/Bb58/Wddrf/52097.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/a6af335648078ea6b63774c96acfef6c.png" group-title="USA Channels", MSGSN
+http://vp-txpro.com:80/live/Bb58/Wddrf/52098.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/05cccca16b790f6880e8f7c005b69692.png" group-title="USA Channels", MSGSN2
+http://vp-txpro.com:80/live/Bb58/Wddrf/52099.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/8fef7e03c6018618579ed09d293fe11c.png" group-title="USA Channels", MSNBC
+http://vp-txpro.com:80/live/Bb58/Wddrf/52100.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/4e7c475e769f95b81543585b970b21ea.png" group-title="USA Channels", MTV
+http://vp-txpro.com:80/live/Bb58/Wddrf/52101.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/1c3514753975aa18f07b7b0dc6bd8394.png" group-title="USA Channels", MTV 2
+http://vp-txpro.com:80/live/Bb58/Wddrf/52102.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/734a8b27f9fe86673deb48375a6acf35.png" group-title="USA Channels", MTV Classic
+http://vp-txpro.com:80/live/Bb58/Wddrf/52103.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/9eee7441a58f328c7477bf4a5c081c08.png" group-title="USA Channels", MTV Live
+http://vp-txpro.com:80/live/Bb58/Wddrf/52104.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/e5745aab7ca8761f907a4065584d4887.png" group-title="USA Channels", MTV U
+http://vp-txpro.com:80/live/Bb58/Wddrf/52105.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/16c21c0f9f47dae2c984d8276a66a04d.png" group-title="USA Channels", Music Choice - 80's
+http://vp-txpro.com:80/live/Bb58/Wddrf/52106.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/16c21c0f9f47dae2c984d8276a66a04d.png" group-title="USA Channels", Music Choice - 90's
+http://vp-txpro.com:80/live/Bb58/Wddrf/52107.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/16c21c0f9f47dae2c984d8276a66a04d.png" group-title="USA Channels", Music Choice - Alternative
+http://vp-txpro.com:80/live/Bb58/Wddrf/52108.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/16c21c0f9f47dae2c984d8276a66a04d.png" group-title="USA Channels", Music Choice - Dance EDM
+http://vp-txpro.com:80/live/Bb58/Wddrf/52109.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/16c21c0f9f47dae2c984d8276a66a04d.png" group-title="USA Channels", Music Choice - Family Hits
+http://vp-txpro.com:80/live/Bb58/Wddrf/52110.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/16c21c0f9f47dae2c984d8276a66a04d.png" group-title="USA Channels", Music Choice - Hip Hop & R & B
+http://vp-txpro.com:80/live/Bb58/Wddrf/52111.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/16c21c0f9f47dae2c984d8276a66a04d.png" group-title="USA Channels", Music Choice - Hit List
+http://vp-txpro.com:80/live/Bb58/Wddrf/52112.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/16c21c0f9f47dae2c984d8276a66a04d.png" group-title="USA Channels", Music Choice - Kids Only
+http://vp-txpro.com:80/live/Bb58/Wddrf/52113.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/16c21c0f9f47dae2c984d8276a66a04d.png" group-title="USA Channels", Music Choice - Mexicana
+http://vp-txpro.com:80/live/Bb58/Wddrf/52114.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/16c21c0f9f47dae2c984d8276a66a04d.png" group-title="USA Channels", Music Choice - Musica Urbana
+http://vp-txpro.com:80/live/Bb58/Wddrf/52115.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/16c21c0f9f47dae2c984d8276a66a04d.png" group-title="USA Channels", Music Choice - Pop & Country
+http://vp-txpro.com:80/live/Bb58/Wddrf/52116.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/16c21c0f9f47dae2c984d8276a66a04d.png" group-title="USA Channels", Music Choice - Pop Hits
+http://vp-txpro.com:80/live/Bb58/Wddrf/52117.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/16c21c0f9f47dae2c984d8276a66a04d.png" group-title="USA Channels", Music Choice - R&B Soul
+http://vp-txpro.com:80/live/Bb58/Wddrf/52118.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/16c21c0f9f47dae2c984d8276a66a04d.png" group-title="USA Channels", Music Choice - Rap
+http://vp-txpro.com:80/live/Bb58/Wddrf/52119.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/16c21c0f9f47dae2c984d8276a66a04d.png" group-title="USA Channels", Music Choice - Rap 2K
+http://vp-txpro.com:80/live/Bb58/Wddrf/52120.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/16c21c0f9f47dae2c984d8276a66a04d.png" group-title="USA Channels", Music Choice - Rock
+http://vp-txpro.com:80/live/Bb58/Wddrf/52121.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/16c21c0f9f47dae2c984d8276a66a04d.png" group-title="USA Channels", Music Choice - Soft Rock
+http://vp-txpro.com:80/live/Bb58/Wddrf/52122.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/16c21c0f9f47dae2c984d8276a66a04d.png" group-title="USA Channels", Music Choice - Teen Beats
+http://vp-txpro.com:80/live/Bb58/Wddrf/52123.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/16c21c0f9f47dae2c984d8276a66a04d.png" group-title="USA Channels", Music Choice - Throwback Jamz
+http://vp-txpro.com:80/live/Bb58/Wddrf/52124.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/16c21c0f9f47dae2c984d8276a66a04d.png" group-title="USA Channels", Music Choice - Todays Country
+http://vp-txpro.com:80/live/Bb58/Wddrf/52125.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/16c21c0f9f47dae2c984d8276a66a04d.png" group-title="USA Channels", Music Choice - Toddler Tunes
+http://vp-txpro.com:80/live/Bb58/Wddrf/52126.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/16c21c0f9f47dae2c984d8276a66a04d.png" group-title="USA Channels", Music Choice - Tropicales
+http://vp-txpro.com:80/live/Bb58/Wddrf/52127.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/16c21c0f9f47dae2c984d8276a66a04d.png" group-title="USA Channels", Music Choice - Y2K
+http://vp-txpro.com:80/live/Bb58/Wddrf/52128.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/83e98b59459d37d6b8ae9fe51e72d869.png" group-title="USA Channels", My9
+http://vp-txpro.com:80/live/Bb58/Wddrf/52129.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/f73fbf99d33b99d3dd6c9dd7009e4737.png" group-title="USA Channels", NASA
+http://vp-txpro.com:80/live/Bb58/Wddrf/52130.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/853fd4be82b7fdd106062b891d16bbff.png" group-title="USA Channels", Nat Geo
+http://vp-txpro.com:80/live/Bb58/Wddrf/52131.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/297b2bee4daafa5f7b2a6403e2930fbb.png" group-title="USA Channels", Nat Geo Wild
+http://vp-txpro.com:80/live/Bb58/Wddrf/52132.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/a13ce21ad456227e56b8950b2062515e.png" group-title="USA Channels", NBA TV
+http://vp-txpro.com:80/live/Bb58/Wddrf/52133.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/83df816cb1b119015069ecc59dce2736.png" group-title="USA Channels", NBC
+http://vp-txpro.com:80/live/Bb58/Wddrf/52134.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/47a163ab84da8a5701daf3030a8ee2f5.png" group-title="USA Channels", NBCSN - Bay Area
+http://vp-txpro.com:80/live/Bb58/Wddrf/52135.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/a73f533fb516efd123b4a60a87098e52.png" group-title="USA Channels", NBCSN - Boston
+http://vp-txpro.com:80/live/Bb58/Wddrf/52136.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/9e54834f53d480d97d60ee91d8f25ba4.png" group-title="USA Channels", NBCSN - California
+http://vp-txpro.com:80/live/Bb58/Wddrf/52137.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/aeda97be7d84af4867e4e337de0c41cd.png" group-title="USA Channels", NBCSN - Chicago
+http://vp-txpro.com:80/live/Bb58/Wddrf/52138.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/29c85ca1a78c7adca65d2fd894c4afa3.png" group-title="USA Channels", NBCSN - Philadelphia
+http://vp-txpro.com:80/live/Bb58/Wddrf/52139.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/0539036e68d8adca0a6f36d6e1e209e9.png" group-title="USA Channels", NBCSN - Washington
+http://vp-txpro.com:80/live/Bb58/Wddrf/52140.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/790c51bef4eb35ef13cbfe4316df92df.png" group-title="USA Channels", NESN
+http://vp-txpro.com:80/live/Bb58/Wddrf/52141.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/cfacd7cb32899e760497a214824715c7.png" group-title="USA Channels", NESN PLUS
+http://vp-txpro.com:80/live/Bb58/Wddrf/52142.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/5a9a882aca8bb11e3eef4acb48e5f5eb.png" group-title="USA Channels", NewsMAX TV
+http://vp-txpro.com:80/live/Bb58/Wddrf/52143.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/3b7ed413f25d5fe7b34e5fdf258961b5.png" group-title="USA Channels", NewsNation
+http://vp-txpro.com:80/live/Bb58/Wddrf/52144.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/fd14f62f14658b9d33cf8f27a0b5d285.png" group-title="USA Channels", Newsy
+http://vp-txpro.com:80/live/Bb58/Wddrf/52145.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/1778b7a60104e7856fc216e0764b2577.png" group-title="USA Channels", NFL Network
+http://vp-txpro.com:80/live/Bb58/Wddrf/52146.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/51553281d4b21d64ef5f900ed8216968.png" group-title="USA Channels", NHL Network
+http://vp-txpro.com:80/live/Bb58/Wddrf/52147.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/7361badd189ce0823bdcac56ef0322d7.png" group-title="USA Channels", Nick Jr.
+http://vp-txpro.com:80/live/Bb58/Wddrf/52148.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/c4ecc1b2a0db1580bd120344bfe82799.png" group-title="USA Channels", Nick Music
+http://vp-txpro.com:80/live/Bb58/Wddrf/52149.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/69a3b240bc31f17e14b5e1f80ee06061.png" group-title="USA Channels", Nickelodeon
+http://vp-txpro.com:80/live/Bb58/Wddrf/52150.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/5e5a39785fbc7e81ecc63f8fa6fddee9.png" group-title="USA Channels", Nicktoons
+http://vp-txpro.com:80/live/Bb58/Wddrf/52151.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/41739982e37b8b220656a142bbc1d4aa.png" group-title="USA Channels", One America News
+http://vp-txpro.com:80/live/Bb58/Wddrf/52152.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/115190bd8050fc0c258081a6fc66f5e9.png" group-title="USA Channels", Outdoor Channel
+http://vp-txpro.com:80/live/Bb58/Wddrf/52153.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/b7a2005c35fcbfe6e5d796893ea99a29.png" group-title="USA Channels", Outside TV
+http://vp-txpro.com:80/live/Bb58/Wddrf/52154.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/c88a6dc625db5ddc3d3618c86ccbecb6.png" group-title="USA Channels", Ovation
+http://vp-txpro.com:80/live/Bb58/Wddrf/52155.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/5d434593737498b1d6da1a5ce9873e4a.png" group-title="USA Channels", OWN
+http://vp-txpro.com:80/live/Bb58/Wddrf/52156.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/7d5a37c736578e5bf0e1ba7dbb461bcc.png" group-title="USA Channels", Oxygen
+http://vp-txpro.com:80/live/Bb58/Wddrf/52157.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/3ff10383f305c7b7de1f0fd905e9cb93.png" group-title="USA Channels", PAC-12 Arizona
+http://vp-txpro.com:80/live/Bb58/Wddrf/52158.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/c7e31a2a4838111eddacd933ed7e0fed.png" group-title="USA Channels", PAC-12 Bay Area
+http://vp-txpro.com:80/live/Bb58/Wddrf/52159.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/f553f12723780ed3b6577dd495357d1d.png" group-title="USA Channels", PAC-12 Los Angeles
+http://vp-txpro.com:80/live/Bb58/Wddrf/52160.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/a3bc3a3350fcffeefe470e2aff9ace38.png" group-title="USA Channels", PAC-12 Mountain
+http://vp-txpro.com:80/live/Bb58/Wddrf/52161.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/13b8d3042cecd186494d71a812ce7b03.png" group-title="USA Channels", PAC-12 National
+http://vp-txpro.com:80/live/Bb58/Wddrf/52162.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/9260f16aa99e009d658602ec8643f104.png" group-title="USA Channels", PAC-12 Oregon
+http://vp-txpro.com:80/live/Bb58/Wddrf/52163.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/10290572249d40334f0a8f48e67fb19e.png" group-title="USA Channels", PAC-12 Washington
+http://vp-txpro.com:80/live/Bb58/Wddrf/52164.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/022dc2db50b8b84d75aa6d3dcfd7eff8.png" group-title="USA Channels", Paramount
+http://vp-txpro.com:80/live/Bb58/Wddrf/52165.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/599bc046b2a1d05a8b18bd535fd2ab59.png" group-title="USA Channels", PBS
+http://vp-txpro.com:80/live/Bb58/Wddrf/52166.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/77efcf7b089a7fa7ade6abe68fcc9733.png" group-title="USA Channels", PBS Kids
+http://vp-txpro.com:80/live/Bb58/Wddrf/52167.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/0996c420d3d78cda914ee5f7af346715.png" group-title="USA Channels", People TV
+http://vp-txpro.com:80/live/Bb58/Wddrf/52168.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/a07e24347b4e35d57fbe6e85c04e60fe.png" group-title="USA Channels", POP
+http://vp-txpro.com:80/live/Bb58/Wddrf/52169.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/c134790d8f3701a46972819228ed364f.png" group-title="USA Channels", Pursuit
+http://vp-txpro.com:80/live/Bb58/Wddrf/52170.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/d1edb23e0060476efd74dd2c3467db70.png" group-title="USA Channels", QVC 1
+http://vp-txpro.com:80/live/Bb58/Wddrf/52171.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/aade14af20144f5e825b32303cc33c86.png" group-title="USA Channels", QVC 2
+http://vp-txpro.com:80/live/Bb58/Wddrf/52172.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/b5baf82477f2985bc996fcf383f95037.png" group-title="USA Channels", Reelz Channel
+http://vp-txpro.com:80/live/Bb58/Wddrf/52173.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/06e087d77f3d9400e97c5ffb7a757f3f.png" group-title="USA Channels", Revolt
+http://vp-txpro.com:80/live/Bb58/Wddrf/52174.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/77f9641047a8de0225b18311c833faec.png" group-title="USA Channels", RFD TV
+http://vp-txpro.com:80/live/Bb58/Wddrf/52175.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/618/286/png-transparent-at-t-sportsnet-pittsburgh-at-t-sportsnet-southwest-houston-astros-pittsburgh-penguins-others-television-text-sport.png" group-title="USA Channels", Root Sports Northwest
+http://vp-txpro.com:80/live/Bb58/Wddrf/52176.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/1200px-SEC_Network_logo.svg.png" group-title="USA Channels", SEC Network
+http://vp-txpro.com:80/live/Bb58/Wddrf/52177.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/c0e52b12dbcf056a0e5554db5e53efba.png" group-title="USA Channels", Showtime
+http://vp-txpro.com:80/live/Bb58/Wddrf/52178.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/2f1b89e1c85914a8e9a1bf01c8a391cf.png" group-title="USA Channels", Showtime 2
+http://vp-txpro.com:80/live/Bb58/Wddrf/52179.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/3c4c5b1abfc0f2908fa6d13a7c10cee4.png" group-title="USA Channels", Showtime Extreme
+http://vp-txpro.com:80/live/Bb58/Wddrf/52180.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/77118e2d6d2a1b9a19b16bf6f7277d4a.png" group-title="USA Channels", Showtime Family Zone
+http://vp-txpro.com:80/live/Bb58/Wddrf/52181.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/bccedb4690c9556ea08c6698f898a5b5.png" group-title="USA Channels", Showtime Next
+http://vp-txpro.com:80/live/Bb58/Wddrf/52182.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/fbceaf83f501692f4942d3288bd0cace.png" group-title="USA Channels", Showtime Showcase
+http://vp-txpro.com:80/live/Bb58/Wddrf/52183.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/5221222130723f34905025d9b2ba4bcb.png" group-title="USA Channels", Showtime Women
+http://vp-txpro.com:80/live/Bb58/Wddrf/52184.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/3d3a7709dbe9972e61967b9a8328f2be.png" group-title="USA Channels", Smithsonian Channel
+http://vp-txpro.com:80/live/Bb58/Wddrf/52185.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/9d43d42fea83479b040d357103af61bb.png" group-title="USA Channels", Sony Movie Channel
+http://vp-txpro.com:80/live/Bb58/Wddrf/52186.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/967b1a33ded1a1f2de0c24500c1b1948.png" group-title="USA Channels", Spectrum Sportsnet
+http://vp-txpro.com:80/live/Bb58/Wddrf/52187.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/7d6b7c17378905ddf2003bccb10710d8.png" group-title="USA Channels", Sportsman Channel
+http://vp-txpro.com:80/live/Bb58/Wddrf/52188.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/8ae8444dcd3ec1bb40eb3b6aeaa25e3d.png" group-title="USA Channels", Sportsnet LA
+http://vp-txpro.com:80/live/Bb58/Wddrf/52189.m3u8
+
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/311/734/png-clipart-los-angeles-lakers-nba-basketball-logo-nba-text-logo.png" group-title="USA Channels", Sportsnet Lakers
+http://vp-txpro.com:80/live/Bb58/Wddrf/52190.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/795e6b1aa946be9fe5564e14093bff43.png" group-title="USA Channels", Sportsnet NY
+http://vp-txpro.com:80/live/Bb58/Wddrf/52191.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/71ccd3e910e38e4e06962bdd332e834c.png" group-title="USA Channels", Stadium Network
+http://vp-txpro.com:80/live/Bb58/Wddrf/52192.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/48f0f013223fb8cd9d589977171dfac8.png" group-title="USA Channels", Start TV
+http://vp-txpro.com:80/live/Bb58/Wddrf/52193.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/8cff41ef4a8c3fa934aa4ac86320cfeb.png" group-title="USA Channels", Starz
+http://vp-txpro.com:80/live/Bb58/Wddrf/52194.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/01aaba42577e7f90b2d7ed7c42e89467.png" group-title="USA Channels", Starz Cinema
+http://vp-txpro.com:80/live/Bb58/Wddrf/52195.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/2053ae27c4e5bd1e9fe26a55b58e5fba.png" group-title="USA Channels", Starz Comedy
+http://vp-txpro.com:80/live/Bb58/Wddrf/52196.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/78e2a6915c871e62d8b5ae06819cb3f0.png" group-title="USA Channels", Starz Edge
+http://vp-txpro.com:80/live/Bb58/Wddrf/52197.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/3131fbcbfe4becd6beeb4e9e31040ac2.png" group-title="USA Channels", Starz Encore
+http://vp-txpro.com:80/live/Bb58/Wddrf/52198.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/6136971c969e08d6c4839b9b4629284c.png" group-title="USA Channels", Starz Encore Action
+http://vp-txpro.com:80/live/Bb58/Wddrf/52199.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/9e2105f0657d430da1d996f52b7b57eb.png" group-title="USA Channels", Starz Encore Black
+http://vp-txpro.com:80/live/Bb58/Wddrf/52200.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/ad96cf7ab28759ca08443468daf12fc1.png" group-title="USA Channels", Starz Encore Classic
+http://vp-txpro.com:80/live/Bb58/Wddrf/52201.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/ce4ff6963f0ecab67e58bc4ab8327c47.png" group-title="USA Channels", Starz Encore Family
+http://vp-txpro.com:80/live/Bb58/Wddrf/52202.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/f8ac1e6952ad53ed0378e6fd57ff1dfa.png" group-title="USA Channels", Starz Encore Suspense
+http://vp-txpro.com:80/live/Bb58/Wddrf/52203.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/2eaa24b456c2660a97c50f861a238d17.png" group-title="USA Channels", Starz Encore Westerns
+http://vp-txpro.com:80/live/Bb58/Wddrf/52204.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/05d375ecbd829214610763dab1ffc81a.png" group-title="USA Channels", Starz In Black
+http://vp-txpro.com:80/live/Bb58/Wddrf/52205.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/94604fd16bc2d57621bec3be8f088969.png" group-title="USA Channels", Starz Kids and Family
+http://vp-txpro.com:80/live/Bb58/Wddrf/52206.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/2d25096525590d0492fd1ce020b1f130.png" group-title="USA Channels", Sundance TV
+http://vp-txpro.com:80/live/Bb58/Wddrf/52207.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/a719c9efbc974759b20496ffb340c9a7.png" group-title="USA Channels", SyFy
+http://vp-txpro.com:80/live/Bb58/Wddrf/52208.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/2f186e0d10c079db2615075852852906.png" group-title="USA Channels", TBS
+http://vp-txpro.com:80/live/Bb58/Wddrf/52209.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/7fc89edb3de3cec1daee6beab21e01f7.png" group-title="USA Channels", TCM
+http://vp-txpro.com:80/live/Bb58/Wddrf/52210.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/69954128ad33781c61d0a897768aa0fd.png" group-title="USA Channels", Teen Nick
+http://vp-txpro.com:80/live/Bb58/Wddrf/52211.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/678348428a6b897d7e64b1b1f191eae7.png" group-title="USA Channels", Telemundo
+http://vp-txpro.com:80/live/Bb58/Wddrf/52212.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/481d0267d18d1bf021dcb5bab3b53e2d.png" group-title="USA Channels", Tennis Channel
+http://vp-txpro.com:80/live/Bb58/Wddrf/52213.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/edca6934d4681e52f69a1195194dc8c6.png" group-title="USA Channels", The Blaze
+http://vp-txpro.com:80/live/Bb58/Wddrf/52214.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/8e9fcce9530c53549b8723e8a89df635.png" group-title="USA Channels", The Cooking Channel
+http://vp-txpro.com:80/live/Bb58/Wddrf/52215.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/b771e69ae7b619d2037625e898401f4e.png" group-title="USA Channels", The Cowboy Channel
+http://vp-txpro.com:80/live/Bb58/Wddrf/52216.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/5d84e90472e5fd7664eb9115cf6f7e45.png" group-title="USA Channels", The CW Network
+http://vp-txpro.com:80/live/Bb58/Wddrf/52217.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/0330dc70de7cd32fa5bd498b0e073763.png" group-title="USA Channels", The Longhorn Network
+http://vp-txpro.com:80/live/Bb58/Wddrf/52218.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/69069e0a5fcee4de1723df61c0db5caf.png" group-title="USA Channels", The Weather Channel
+http://vp-txpro.com:80/live/Bb58/Wddrf/52219.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/614790c350174a224361c1c1a1df4ab0.png" group-title="USA Channels", TLC
+http://vp-txpro.com:80/live/Bb58/Wddrf/52220.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/a7cc0449376584adebe8d0126b9899f9.png" group-title="USA Channels", TNT
+http://vp-txpro.com:80/live/Bb58/Wddrf/52221.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/a0cb84b5696764b1eef83a630f1082b7.png" group-title="USA Channels", Travel Channel
+http://vp-txpro.com:80/live/Bb58/Wddrf/52222.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/d38a5c86d9d68513a7670bd7bd90ad3f.png" group-title="USA Channels", Tru TV
+http://vp-txpro.com:80/live/Bb58/Wddrf/52223.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/b13f405e58934b7d24d00e9bcb48add9.png" group-title="USA Channels", TV Land
+http://vp-txpro.com:80/live/Bb58/Wddrf/52224.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/e86eacef092eeb48d594efc920374ff1.png" group-title="USA Channels", TV One
+http://vp-txpro.com:80/live/Bb58/Wddrf/52225.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/fe778cc25a89143fea6e9e586c6f4cda.png" group-title="USA Channels", TVG
+http://vp-txpro.com:80/live/Bb58/Wddrf/52226.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/5399902cc97eff163086ae9f95d7407a.png" group-title="USA Channels", TVG2
+http://vp-txpro.com:80/live/Bb58/Wddrf/52227.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/87ed3e1912aa69f01469c23cce2bb7c3.png" group-title="USA Channels", UFC Fight Pass
+http://vp-txpro.com:80/live/Bb58/Wddrf/52228.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/727c757a8a7948412c761b9ab3ba277d.png" group-title="USA Channels", Unimas
+http://vp-txpro.com:80/live/Bb58/Wddrf/52229.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/961398bbedbc66a1125eab4ba7d87be2.png" group-title="USA Channels", Universal Kids
+http://vp-txpro.com:80/live/Bb58/Wddrf/52230.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/81395c4934a4abd42cfd45614cf752f2.png" group-title="USA Channels", Univision
+http://vp-txpro.com:80/live/Bb58/Wddrf/52231.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/2708a573df3690c91c36435fcbdae2ac.png" group-title="USA Channels", UP TV
+http://vp-txpro.com:80/live/Bb58/Wddrf/52232.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/62aa1584713b1b9d91bf21f5509097ae.png" group-title="USA Channels", USA Network
+http://vp-txpro.com:80/live/Bb58/Wddrf/52233.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/88edf7ee8555b9b14c66bbacc02a2b2b.png" group-title="USA Channels", VH1
+http://vp-txpro.com:80/live/Bb58/Wddrf/52234.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/815255b968484991a8810ab345e07b41.png" group-title="USA Channels", Viceland
+http://vp-txpro.com:80/live/Bb58/Wddrf/52235.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/9ee58bc8ee12e227efeedddd2cdfb8cb.png" group-title="USA Channels", Vsin
+http://vp-txpro.com:80/live/Bb58/Wddrf/52236.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/9ac546ac11ba576f6b8a3de7eaa6738e.png" group-title="USA Channels", We TV
+http://vp-txpro.com:80/live/Bb58/Wddrf/52237.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/6b44051e3e8561ffaf8ba6cb8063462a.png" group-title="USA Channels", Weather Nation
+http://vp-txpro.com:80/live/Bb58/Wddrf/52238.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/337e6cbf952bbd3631851381f1392034.png" group-title="USA Channels", WeTV Reality
+http://vp-txpro.com:80/live/Bb58/Wddrf/52239.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/802ad94e5330e26dc3b7bdc32972b0f8.png" group-title="USA Channels", WGN America
+http://vp-txpro.com:80/live/Bb58/Wddrf/52240.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/6bac8c98a8d1a730dd609c4a553df47b.png" group-title="USA Channels", Willow Cricket
+http://vp-txpro.com:80/live/Bb58/Wddrf/52241.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/fdea7f8eb5c36becaba8765bdbc862b7.png" group-title="USA Channels", World Fishing Network
+http://vp-txpro.com:80/live/Bb58/Wddrf/52243.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/9c3ac56eaf952aaffcb157591da63c15.png" group-title="USA Channels", WPIX 11
+http://vp-txpro.com:80/live/Bb58/Wddrf/52244.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/576121cd52a07f220a3d717dfeb4f1ee.png" group-title="USA Channels", WWE Network
+http://vp-txpro.com:80/live/Bb58/Wddrf/52245.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/bce0335c5a783e2b5f0465f71534baf9.png" group-title="USA Channels", YES Network
+http://vp-txpro.com:80/live/Bb58/Wddrf/52246.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/40038bf65d43d83faf4ab61b4c5e8096.png" group-title="USA Channels", Zona Futbol
+http://vp-txpro.com:80/live/Bb58/Wddrf/52247.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/5e312881688b1ecea55961372ba7a627.png" group-title="USA Channels", ABC SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52248.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/3fc639a4eb011f00711b8ac164c424d4.png" group-title="USA Channels", ACC Network SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52249.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/0c389cd95356cb58376b33b1395ef0a4.png" group-title="USA Channels", AMC SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52250.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/c4457632bdd6731b5b455ab6cfa6dd6b.png" group-title="USA Channels", Animal Planet SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52251.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/3274502c9da85169583332723847cea1.png" group-title="USA Channels", BBC America SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52252.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/da919087626bfacc0f73b9fbfa93419c.png" group-title="USA Channels", BET SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52253.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/65c25af1acd18e1e76d96d888fa6b09f.png" group-title="USA Channels", Big Ten Network SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52254.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/ad17c5897b4a521f3b7d89fdab57e8ae.png" group-title="USA Channels", Boomerang SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52255.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/402b21949a65b963f9258a059a830745.png" group-title="USA Channels", Bravo SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52256.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/788882e833b4d30f2e3b454d16e3d122.png" group-title="USA Channels", Cartoon Network SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52257.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/a7f1ac1d55e9e190c1b95acf3d33ccf3.png" group-title="USA Channels", Cinemax SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52259.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/2733742d9ebe5c52901d62c04f8d53ca.png" group-title="USA Channels", CMT SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52260.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/7beabbf6d8ee87a04b00a910f6d1df32.png" group-title="USA Channels", CNBC SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52261.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/36a0b4da7b77c9e5ff60deb0cbc3ed8e.png" group-title="USA Channels", CNN SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52262.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/1cc0389d17396cb7e7f378a6d268f857.png" group-title="USA Channels", Comedy Central SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52263.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/4a56cd6f2c64cd227c1c1ff8ab0af1c8.png" group-title="USA Channels", The CW Network SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52264.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/44395c9e2ae5bd41bc7dd511f9c569a3.png" group-title="USA Channels", Destination America SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52265.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/d11686f71195dda3cf2793c95722bfa5.png" group-title="USA Channels", Discovery Channel SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52266.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/10249562c0d8997f933a1c644cdcc7b1.png" group-title="USA Channels", Discovery Science SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52267.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/5b486891d4dd0c1657c5a229ba868cd8.png" group-title="USA Channels", Disney Channel SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52268.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/d0411cb51efe430efaa296811bf2a475.png" group-title="USA Channels", Disney Jr. SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52269.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/2952d379ce16e768cd5dc7c25cfcbaac.png" group-title="USA Channels", Disney XD SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52270.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/17849a3be3ee2892d1b8845485d8d4d4.png" group-title="USA Channels", Magnolia Network SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52271.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/af47cab7611f385725d37afbc31d06a0.png" group-title="USA Channels", E! Entertainment SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52272.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/b96df4748c21857cb1522eded1adfb8f.png" group-title="USA Channels", ESPN SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52273.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/c65bf7d14b4cde5fa69a5cbd51131780.png" group-title="USA Channels", ESPN 2 SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52274.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/d75edb00e927a8768265939a3bba62eb.png" group-title="USA Channels", ESPN News SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52275.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/6cd463819e45c85eb1fda496b1fecd1f.png" group-title="USA Channels", ESPN U SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52276.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/1a89f0c1647d5282b8c4e7fecf9e16ce.png" group-title="USA Channels", Food Network SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52277.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/280abb326747123c1e515050f85e3a52.png" group-title="USA Channels", Fox SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52278.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/f6681323c73ef6b51b64a975b26ac317.png" group-title="USA Channels", Fox Business SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52279.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/0996124909b18df5995a6b7d4562478d.png" group-title="USA Channels", Fox News SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52280.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/052d8370f13d2da88d348530abd2ef22.png" group-title="USA Channels", FS1 SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52281.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/d73587cfca11960e3fbd78f689351110.png" group-title="USA Channels", FS2 SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52282.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/789b014e37d4abd9ae977b3cb86e7344.png" group-title="USA Channels", Freeform SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52283.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/69b232dd6c6cee8728e6b52c639993e6.png" group-title="USA Channels", FX SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52284.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/1b47ae29e32cc7c9c4dd6c614989ee17.png" group-title="USA Channels", FXM SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52285.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/c0dcb60822b112b83ee3cd67c3355a39.png" group-title="USA Channels", FXX SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52286.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/e2dc9edf96d68888871c97e96e398ca0.png" group-title="USA Channels", Game Show Network SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52287.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/eb3356eff07284d537418f3e22fdf504.png" group-title="USA Channels", Golf Channel SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52288.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/139d156ec3e68d829c39c29cb494d495.png" group-title="USA Channels", Hallmark SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52289.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/04a76cd2aad561932dfe01d8b960f9bb.png" group-title="USA Channels", Hallmark Movies & Mysteries SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52290.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/e4f099b88b406c26a7f2774bb69d5ebd.png" group-title="USA Channels", HBO SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52291.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/f156f386642e7b08f14feabcac3968eb.png" group-title="USA Channels", HGTV
+http://vp-txpro.com:80/live/Bb58/Wddrf/52292.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/e5f46899375287786c53c6360f7ba260.png" group-title="USA Channels", History Channel SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52293.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/b6b045b6b6fd055a1c939f479f4128c7.png" group-title="USA Channels", HLN SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52294.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/d900a6ebe556003f99cc7d9e43f40517.png" group-title="USA Channels", Investigation Discovery SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52295.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/94294006643ceebbe0fc800219fe5cfe.png" group-title="USA Channels", Lifetime SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52296.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/06cd84b0ad504db8181e513d34b6b714.png" group-title="USA Channels", Lifetime Movies Network SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52297.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/243817997f9fb16d1d3612641e561269.png" group-title="USA Channels", MLB Network SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52298.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/9edf33d258acee57fe5ed628df39b8f9.png" group-title="USA Channels", Motortrend SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52299.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/a8fc0a18982d2aa001d31047a9b4f0d4.png" group-title="USA Channels", MSNBC SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52300.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/555e4b9c8bc8c25deb534e6b144ee3fe.png" group-title="USA Channels", MTV SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52301.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/34365991c81c6016c116b33df3a49076.png" group-title="USA Channels", National Geographic SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52302.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/a93524851ed87de77baa7658a039ceda.png" group-title="USA Channels", National Geographic Wild SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52303.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/ad02dbe5142f23f9f3075b4a8b20203f.png" group-title="USA Channels", NBA TV SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52304.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/9c8be0d827c036ea5c551bace0ddae4e.png" group-title="USA Channels", NBC SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52305.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/a5837e2f205f2c4e71cebc768d5ac59a.png" group-title="USA Channels", NBCSN SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52306.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/1267c0336890292f3564279f80aef8e5.png" group-title="USA Channels", Nickelodeon SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52307.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/e36eb7a51c32024c5928101e6130d41e.png" group-title="USA Channels", Nicktoons SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52308.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/22de73777b7398155058f6a662a52ae4.png" group-title="USA Channels", Olympic Channel SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52309.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/944f802d1f5595ea6ba0bf8bb68a139f.png" group-title="USA Channels", One America News Network SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52310.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/9b57c4879f5f2507f4a5ef9f4a625f21.png" group-title="USA Channels", Oprah Winfrey Network SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52311.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/6e69a40d4e0628b8385270d362629de4.png" group-title="USA Channels", Oxygen SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52312.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/8ca35bdb051a85927cc5ce4eee91a545.png" group-title="USA Channels", Paramount Network SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52313.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/3bd60404c7f6323b0a673388020d1b08.png" group-title="USA Channels", PBS SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52314.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/0ed7742f3a9cac80cf0a37b025b2060a.png" group-title="USA Channels", POP SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52315.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/0c817ec9a9f67a2f2c8092d9fa7a6290.png" group-title="USA Channels", Sec Network SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52316.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/421789c001a9b67af5b21367bdadcbd7.png" group-title="USA Channels", Showtime SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52317.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/79dc3096bad0ef1c82745b65bb151306.png" group-title="USA Channels", Starz SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52318.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/8ba3585c3772159c4ec323c5153b3dee.png" group-title="USA Channels", Sundance TV SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52319.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/c940c5c16281eccd2fe2bdc53eff9e31.png" group-title="USA Channels", Syfy SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52320.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/91c5f5a66f746cb185bbe5e7424e6b01.png" group-title="USA Channels", TBS SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52321.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/75c56982ba6df415e9eee185050cc7ae.png" group-title="USA Channels", Telemundo SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52322.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/2986362ff4302a6b54d94928657ed2f6.png" group-title="USA Channels", Tennis Channel SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52323.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/dbdf12c9a71ad8ad783454136618ee8c.png" group-title="USA Channels", The Weather Channel SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52324.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/6c4ed5a15dbae3c2bea78d41931be90f.png" group-title="USA Channels", TLC SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52325.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/31b38152d658e89ae142cc2baef1c79f.png" group-title="USA Channels", TNT SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52326.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/b01b1c9b8f075b80d3fb80cc6a323ea9.png" group-title="USA Channels", Travel Channel SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52327.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/4fd8fc690ef06be31a9417d836171f3e.png" group-title="USA Channels", Tru TV SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52328.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/55891ac4042b5113fa35845289a82633.png" group-title="USA Channels", Turner Classic Movies SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52329.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/dd4115a53f609e714fe9a8fe097bfc98.png" group-title="USA Channels", TV Land SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52330.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/262e5d8017409fe198c0ac4ff24e4c84.png" group-title="USA Channels", Univision SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52331.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/7eb9b70c2297cb3812f39f76ae04eb89.png" group-title="USA Channels", USA Network SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52332.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/9c554369c0b9aecb4704517a841aa500.png" group-title="USA Channels", VH1 SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52333.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/664acad01ef326e92099dd19ddd4d35a.png" group-title="USA Channels", We Tv SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52334.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/6bef63b069e85f18b64b0b817554053f.png" group-title="USA Channels", WWE Network SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52335.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/ade2ed61c8a545de77386e2e064d3005.png" group-title="USA Channels", YES Network SD
+http://vp-txpro.com:80/live/Bb58/Wddrf/52336.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/1962cf2a6c2613e89d78dc8eaeaa3678.png" group-title="CBS Local Networks", CBS | DC | WASHINGTON-HAGERSTOWN | WUSA
+http://vp-txpro.com:80/live/Bb58/Wddrf/53351.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/78a29571d8c26301e49541d679a9f76a.png" group-title="NBC Local Networks", NBC | CO | DENVER | KUSA
+http://vp-txpro.com:80/live/Bb58/Wddrf/53618.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 Channels", Whose Line Is It Anyway USA (1998)
+http://vp-txpro.com:80/live/Bb58/Wddrf/50892.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 Channels", Whose Line Is It Anyway USA (2013)
+http://vp-txpro.com:80/live/Bb58/Wddrf/50893.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/659d3680fa3126919d43fb349ca5198b.png" group-title="Canadian Channels", A&E
+http://vp-txpro.com:80/live/Bb58/Wddrf/54868.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/8df25e6ec6d445e78d251eff7e4442ea.png" group-title="Canadian Channels", ABC Spark
+http://vp-txpro.com:80/live/Bb58/Wddrf/54869.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/a333619be2bfd7ea224a5e28167bcd94.png" group-title="Canadian Channels", ABC West
+http://vp-txpro.com:80/live/Bb58/Wddrf/54870.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/18dae584e8fd8ca61492809b06bed24b.png" group-title="Canadian Channels", Aboriginal People Television Network
+http://vp-txpro.com:80/live/Bb58/Wddrf/54871.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/eec387dfd510f74851c149d10624336a.png" group-title="Canadian Channels", Adult Swim
+http://vp-txpro.com:80/live/Bb58/Wddrf/54872.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/f176787f910401dfc9177a737883825c.png" group-title="Canadian Channels", AMC
+http://vp-txpro.com:80/live/Bb58/Wddrf/54873.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/3825a711d5c7ff0f73cf9fe22bd71150.png" group-title="Canadian Channels", American Heroes Channel
+http://vp-txpro.com:80/live/Bb58/Wddrf/54874.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/c2569f4de6b5a30c1fd3ca4e22b0db27.png" group-title="Canadian Channels", Ami Television
+http://vp-txpro.com:80/live/Bb58/Wddrf/54875.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/bfb16f4f557aef8abcad5fdc028cf261.png" group-title="Canadian Channels", Animal Planet
+http://vp-txpro.com:80/live/Bb58/Wddrf/54876.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canadian Channels", BBC Canada
+http://vp-txpro.com:80/live/Bb58/Wddrf/54877.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/7e60c50ba0e9c26898d34d1204e82c2c.png" group-title="Canadian Channels", Bet
+http://vp-txpro.com:80/live/Bb58/Wddrf/54878.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/9169d43d3dc725ad6addeeba0e48ad5f.png" group-title="Canadian Channels", BNN Bloomberg
+http://vp-txpro.com:80/live/Bb58/Wddrf/54879.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/9965f3e83267d38fcedb28f6454c55bf.png" group-title="Canadian Channels", Bravo
+http://vp-txpro.com:80/live/Bb58/Wddrf/54880.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/b119f7aadfc3b23186d1423cc130c634.png" group-title="Canadian Channels", Canada One
+http://vp-txpro.com:80/live/Bb58/Wddrf/54881.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/427866dcaeb7e1953cf2f16e3a1e58ea.png" group-title="Canadian Channels", Cartoon Network
+http://vp-txpro.com:80/live/Bb58/Wddrf/54882.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/7d101607656267540a9a522be90ab3f6.png" group-title="Canadian Channels", CBC
+http://vp-txpro.com:80/live/Bb58/Wddrf/54883.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/b6702441c61a165d3a5f068f26cae26f.png" group-title="Canadian Channels", CBC Edmonton
+http://vp-txpro.com:80/live/Bb58/Wddrf/54884.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/288bb2b016e1c6f80b6634bf3259c1f7.png" group-title="Canadian Channels", CBC Halifax
+http://vp-txpro.com:80/live/Bb58/Wddrf/54885.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/b6702441c61a165d3a5f068f26cae26f.png" group-title="Canadian Channels", CBC Montreal
+http://vp-txpro.com:80/live/Bb58/Wddrf/54886.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/7787fbff40c6f0b4d501034ff9fb7299.png" group-title="Canadian Channels", CBC News Network
+http://vp-txpro.com:80/live/Bb58/Wddrf/54887.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/04557416a3c4a47d1a095974eaf20f71.png" group-title="Canadian Channels", CBC Ottawa
+http://vp-txpro.com:80/live/Bb58/Wddrf/54888.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/b6702441c61a165d3a5f068f26cae26f.png" group-title="Canadian Channels", CBC St Johns
+http://vp-txpro.com:80/live/Bb58/Wddrf/54889.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/b6702441c61a165d3a5f068f26cae26f.png" group-title="Canadian Channels", CBC Toronto
+http://vp-txpro.com:80/live/Bb58/Wddrf/54890.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/b6702441c61a165d3a5f068f26cae26f.png" group-title="Canadian Channels", CBC Vancouver
+http://vp-txpro.com:80/live/Bb58/Wddrf/54891.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/bd146110aab7f87600b78e9b8e4cda50.png" group-title="Canadian Channels", CBS Buffalo (WIVB)
+http://vp-txpro.com:80/live/Bb58/Wddrf/54892.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/8405c6abc21c5f799ee6c6ca716dd19c.png" group-title="Canadian Channels", Chch
+http://vp-txpro.com:80/live/Bb58/Wddrf/54893.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/ecf69cc9b66b72a7602fdc96d32ff8d3.png" group-title="Canadian Channels", Chrgd
+http://vp-txpro.com:80/live/Bb58/Wddrf/54894.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/b6971c4c56f9d1bbe487222ec4728745.png" group-title="Canadian Channels", City TV Toronto
+http://vp-txpro.com:80/live/Bb58/Wddrf/54895.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/6c5d74ef83253938bef4da1b3ff40e2d.png" group-title="Canadian Channels", CMT
+http://vp-txpro.com:80/live/Bb58/Wddrf/54896.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/ab23a1e27eb2b840bcfeca059f6b5279.png" group-title="Canadian Channels", CNBC Canada
+http://vp-txpro.com:80/live/Bb58/Wddrf/54897.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/e8b079df49211d26253f8bd55ebc5e15.png" group-title="Canadian Channels", CNN
+http://vp-txpro.com:80/live/Bb58/Wddrf/54898.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/9fd5a360e576868e93394994eb597d8d.png" group-title="Canadian Channels", Cottage Life TV
+http://vp-txpro.com:80/live/Bb58/Wddrf/54899.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/0cca010405d0fdc3ec6f3d4bd1edf48e.png" group-title="Canadian Channels", Cp24
+http://vp-txpro.com:80/live/Bb58/Wddrf/54900.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/94babd8a212a94a9cfe999d5cf6134a9.png" group-title="Canadian Channels", Cpac English
+http://vp-txpro.com:80/live/Bb58/Wddrf/54901.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/429c4cd3f284ca7d4716b7398dd820cb.png" group-title="Canadian Channels", Cpac French
+http://vp-txpro.com:80/live/Bb58/Wddrf/54902.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/ecc72c12dbda7bad3e1c3e2ee230f4ed.png" group-title="Canadian Channels", Crave 1
+http://vp-txpro.com:80/live/Bb58/Wddrf/54903.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/01b604edbb1f901de26f9445eae6384b.png" group-title="Canadian Channels", Crave 2
+http://vp-txpro.com:80/live/Bb58/Wddrf/54904.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/a0609e2907d99d4b99fd8bac4bcd486b.png" group-title="Canadian Channels", Crave 3
+http://vp-txpro.com:80/live/Bb58/Wddrf/54905.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/7e/CI_Crime_Investigation_Network_Logo.png" group-title="Canadian Channels", Crime Investigation
+http://vp-txpro.com:80/live/Bb58/Wddrf/54906.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/bb2e4daac122b8f4ab449c8884bca91a.png" group-title="Canadian Channels", CTV
+http://vp-txpro.com:80/live/Bb58/Wddrf/54907.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/26ff9cbd5ea1377bf307497796593048.png" group-title="Canadian Channels", CTV 2
+http://vp-txpro.com:80/live/Bb58/Wddrf/54908.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/3a1b2c71e9bc32c59bdc4296a2fa7a58.png" group-title="Canadian Channels", CTV Comedy
+http://vp-txpro.com:80/live/Bb58/Wddrf/54909.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/31e82710df69be78e34bf785ab2ae6ea.png" group-title="Canadian Channels", CTV Drama
+http://vp-txpro.com:80/live/Bb58/Wddrf/54910.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/2363b1aa5c6e74752b3c93a04760b383.png" group-title="Canadian Channels", CTV News Channel
+http://vp-txpro.com:80/live/Bb58/Wddrf/54911.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/8891ec2f80690c05546748c15731ba13.png" group-title="Canadian Channels", CTV Sci-Fi
+http://vp-txpro.com:80/live/Bb58/Wddrf/54912.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/bb2e4daac122b8f4ab449c8884bca91a.png" group-title="Canadian Channels", CTV Toronto
+http://vp-txpro.com:80/live/Bb58/Wddrf/54913.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/7a4befd8fd71f762a5a56666d3e172bf.png" group-title="Canadian Channels", Discovery Channel
+http://vp-txpro.com:80/live/Bb58/Wddrf/54914.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/280b94bdc7ef10497eb9673e776a3e6e.png" group-title="Canadian Channels", Discovery Science
+http://vp-txpro.com:80/live/Bb58/Wddrf/54915.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/f4ee9d445a7fc0795ada0e7fba6faae7.png" group-title="Canadian Channels", Disney Channel
+http://vp-txpro.com:80/live/Bb58/Wddrf/54916.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/26d5cb60d9197f4fff716a23f70f9933.png" group-title="Canadian Channels", Disney Jr
+http://vp-txpro.com:80/live/Bb58/Wddrf/54917.m3u8
+
+#EXTINF:-1 tvg-logo="http://mains.vip:2086/images/a83dec3009a0b0ba1e484864eddbd654.png" group-title="Canadian Channels", Disney Xd
+http://vp-txpro.com:80/live/Bb58/Wddrf/54918.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/6097d0443625c27a9812222cfaf36849.png" group-title="Canadian Channels", DIY Network
+http://vp-txpro.com:80/live/Bb58/Wddrf/54919.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/16c8b7f78c74ea1c85800e652b732fde.png" group-title="Canadian Channels", Dtour
+http://vp-txpro.com:80/live/Bb58/Wddrf/54920.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/e570ef330201634cfe566e3f542e10c7.png" group-title="Canadian Channels", E!
+http://vp-txpro.com:80/live/Bb58/Wddrf/54921.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Canadian Channels", Events Channel
+http://vp-txpro.com:80/live/Bb58/Wddrf/54922.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/b753c9ba5a4d41c27ab878bdbfad527e.png" group-title="Canadian Channels", Family
+http://vp-txpro.com:80/live/Bb58/Wddrf/54923.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/2cc2f0cfc316734abd43eb68e314ceca.png" group-title="Canadian Channels", Family (East)
+http://vp-txpro.com:80/live/Bb58/Wddrf/54924.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/769fe199501c270e2855ca721f8dfee9.png" group-title="Canadian Channels", Family Junior
+http://vp-txpro.com:80/live/Bb58/Wddrf/54925.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/aeb54f483ac0fc99cdc93132f77ee019.png" group-title="Canadian Channels", Fight Network
+http://vp-txpro.com:80/live/Bb58/Wddrf/54926.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/df796b74eb1d91deee176e6637d61910.png" group-title="Canadian Channels", Food Network
+http://vp-txpro.com:80/live/Bb58/Wddrf/54927.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/2322b218d596b71ffb157c701de71dfb.png" group-title="Canadian Channels", Fox News
+http://vp-txpro.com:80/live/Bb58/Wddrf/54928.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/a284406254ec0bfe5a3ba7a61690a9c6.png" group-title="Canadian Channels", Fox Sports Racing
+http://vp-txpro.com:80/live/Bb58/Wddrf/54929.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/9a1ef6ca78445385720b82eae30f7355.png" group-title="Canadian Channels", FX
+http://vp-txpro.com:80/live/Bb58/Wddrf/54930.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/c0f2044e2b57d9ab7a41e865c0a39b3c.png" group-title="Canadian Channels", FXX
+http://vp-txpro.com:80/live/Bb58/Wddrf/54931.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/d805c40ddfd154e68856caf26295dcdc.png" group-title="Canadian Channels", Game TV
+http://vp-txpro.com:80/live/Bb58/Wddrf/54932.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/ab40393e28a104b521934c23916d98d9.png" group-title="Canadian Channels", Game+
+http://vp-txpro.com:80/live/Bb58/Wddrf/54933.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/1bdf10ec1de9357e1f8db03febac32de.png" group-title="Canadian Channels", Global Edmonton
+http://vp-txpro.com:80/live/Bb58/Wddrf/54934.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/1d18c5a52158d48b7a76638dae2db0ed.png" group-title="Canadian Channels", Global Montreal
+http://vp-txpro.com:80/live/Bb58/Wddrf/54935.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/8eb9885e2e6d17c637f93c0cf5187ad3.png" group-title="Canadian Channels", Global Toronto
+http://vp-txpro.com:80/live/Bb58/Wddrf/54936.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/9ec9569c4d7660ff7cfd745daf78c312.png" group-title="Canadian Channels", HBO 1
+http://vp-txpro.com:80/live/Bb58/Wddrf/54937.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/7513268b659b52e881d003548453928c.png" group-title="Canadian Channels", HBO 2
+http://vp-txpro.com:80/live/Bb58/Wddrf/54938.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/b959d529948193222c520d55c55f6ba2.png" group-title="Canadian Channels", HGTV
+http://vp-txpro.com:80/live/Bb58/Wddrf/54939.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/a333619be2bfd7ea224a5e28167bcd94.png" group-title="USA Channels", ABC
+http://vp-txpro.com:80/live/Bb58/Wddrf/51952.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/3581e541cecd1ac13f7c0a080ae251f6.png" group-title="USA Channels", ABC News
+http://vp-txpro.com:80/live/Bb58/Wddrf/51953.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/ed49d693956580f3fe962f102dba4515.png" group-title="Canadian Channels", HPI TV
+http://vp-txpro.com:80/live/Bb58/Wddrf/54942.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/4106c832ea9e9e2c20035286acf70ccc.png" group-title="Canadian Channels", ID
+http://vp-txpro.com:80/live/Bb58/Wddrf/54943.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/047b9cfdec5d0fbf2489dafbd1258b38.png" group-title="Canadian Channels", Leaf's Nation
+http://vp-txpro.com:80/live/Bb58/Wddrf/54944.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/62062410e78a245447fafbfc285efb7d.png" group-title="Canadian Channels", Lifetime
+http://vp-txpro.com:80/live/Bb58/Wddrf/54945.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/f84e915db6f304f0212f10f2ff9920fe.png" group-title="Canadian Channels", Makeful
+http://vp-txpro.com:80/live/Bb58/Wddrf/54946.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/acd63a0bb3be92932c116597b481eab7.png" group-title="Canadian Channels", MLB Network
+http://vp-txpro.com:80/live/Bb58/Wddrf/54947.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/f00d1847ad33455f0463d33bf626cfa3.png" group-title="Canadian Channels", Movietime
+http://vp-txpro.com:80/live/Bb58/Wddrf/54948.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/2a169a135e2ab2fbf26d286ed847186d.png" group-title="Canadian Channels", MTV
+http://vp-txpro.com:80/live/Bb58/Wddrf/54949.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/327c3ba26df34e07ae33ddbf0f9d3a72.png" group-title="Canadian Channels", MTV 2
+http://vp-txpro.com:80/live/Bb58/Wddrf/54950.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/e72938f759ccc566238ad3c4ee00e0d1.png" group-title="Canadian Channels", Much Music
+http://vp-txpro.com:80/live/Bb58/Wddrf/54951.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/95ade3bdc37a392a59bab99aa7f29ee2.png" group-title="Canadian Channels", Nat Geo Wild
+http://vp-txpro.com:80/live/Bb58/Wddrf/54952.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/a0c76257f989423c219d7023fccd24b1.png" group-title="Canadian Channels", National Geographic
+http://vp-txpro.com:80/live/Bb58/Wddrf/54953.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/a3d608cf8c424666ff8d3c5f32172b12.png" group-title="Canadian Channels", NBA TV
+http://vp-txpro.com:80/live/Bb58/Wddrf/54954.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/744396813956ab78a63ca1ded4724eed.png" group-title="Canadian Channels", NBC Golf
+http://vp-txpro.com:80/live/Bb58/Wddrf/54955.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/fdcc5fa5aaf969c7315bffc2819394bc.png" group-title="Canadian Channels", NFL Network
+http://vp-txpro.com:80/live/Bb58/Wddrf/54956.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/5cb92b096faca1c360135bb6787609f8.png" group-title="Canadian Channels", Nickelodeon
+http://vp-txpro.com:80/live/Bb58/Wddrf/54957.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/138b1126f58cb486c5211a3a81b8008b.png" group-title="Canadian Channels", NTV Newfoundland
+http://vp-txpro.com:80/live/Bb58/Wddrf/54958.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/43bd7f680489c6f427d7ec149d2731b9.png" group-title="Canadian Channels", OLN
+http://vp-txpro.com:80/live/Bb58/Wddrf/54959.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/4431af289a072e62715ce52ee6a4302b.png" group-title="Canadian Channels", Omni 1
+http://vp-txpro.com:80/live/Bb58/Wddrf/54960.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/457551b3c7309d9683acde457f51bc3e.png" group-title="Canadian Channels", Omni 2
+http://vp-txpro.com:80/live/Bb58/Wddrf/54961.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/aaf544ca14d1188f25dcd36072f89c45.png" group-title="Canadian Channels", Omni East
+http://vp-txpro.com:80/live/Bb58/Wddrf/54962.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/cc9b85e71780298476d65cf3ee648e9b.png" group-title="Canadian Channels", Own
+http://vp-txpro.com:80/live/Bb58/Wddrf/54963.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/0fa2a7c7d9cb0863283d2c1692d29ac9.png" group-title="Canadian Channels", Pbs Buffalo (Wned)
+http://vp-txpro.com:80/live/Bb58/Wddrf/54964.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/f7ff50e888e81e4ceb3406f3d9d933f6.png" group-title="Canadian Channels", Peach Tree TV
+http://vp-txpro.com:80/live/Bb58/Wddrf/54965.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/00859b81d5ab8ab7f8d7acab6c13a740.png" group-title="Canadian Channels", Showcase
+http://vp-txpro.com:80/live/Bb58/Wddrf/54966.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/a463aadcfad2375c0a45f6e1a96f0131.png" group-title="Canadian Channels", Silver Screen Classics
+http://vp-txpro.com:80/live/Bb58/Wddrf/54967.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/7c1fb7f74c416c47f3b55aac4531c8bc.png" group-title="Canadian Channels", Slice
+http://vp-txpro.com:80/live/Bb58/Wddrf/54968.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/0d57f0d5c618fca558a338f95620e71e.png" group-title="Canadian Channels", Sportsnet 360
+http://vp-txpro.com:80/live/Bb58/Wddrf/54969.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/e2392484d9caff969b3288b6d39ec0cf.png" group-title="Canadian Channels", Sportsnet East
+http://vp-txpro.com:80/live/Bb58/Wddrf/54970.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/2e9a511cfa58c688c710c3ec47248c37.png" group-title="Canadian Channels", Sportsnet One
+http://vp-txpro.com:80/live/Bb58/Wddrf/54971.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/e329cec8cfa02a4ae6b65d2b31af86ab.png" group-title="Canadian Channels", Sportsnet Ontario
+http://vp-txpro.com:80/live/Bb58/Wddrf/54972.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/98786f62c7e1954b7f4bb52de93f5132.png" group-title="Canadian Channels", Sportsnet Pacific
+http://vp-txpro.com:80/live/Bb58/Wddrf/54973.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/32af3b19a4e0d400f9c7ec6b0a626a59.png" group-title="Canadian Channels", Sportsnet West
+http://vp-txpro.com:80/live/Bb58/Wddrf/54974.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/fd7202591a2f4e2dcd55963a5efc33ba.png" group-title="Canadian Channels", Sportsnet World
+http://vp-txpro.com:80/live/Bb58/Wddrf/54975.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/841ab5f991b0dc66739ec2d9d5f46533.png" group-title="Canadian Channels", TCM
+http://vp-txpro.com:80/live/Bb58/Wddrf/54976.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/e2c621c01bdbc204211fc2ed45288768.png" group-title="Canadian Channels", Teletoon
+http://vp-txpro.com:80/live/Bb58/Wddrf/54977.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/5595131f65e2704987e685e979ad55d2.png" group-title="Canadian Channels", TFO
+http://vp-txpro.com:80/live/Bb58/Wddrf/54978.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/aab45c3ee9f8932f183c60d980b1f836.png" group-title="Canadian Channels", The Shopping Channel
+http://vp-txpro.com:80/live/Bb58/Wddrf/54979.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/a58fd67cec85f45b6b89d9a22983ba31.png" group-title="Canadian Channels", TLC
+http://vp-txpro.com:80/live/Bb58/Wddrf/54980.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/3a04199c52f9301f9d906630077258b5.png" group-title="Canadian Channels", Treehouse TV
+http://vp-txpro.com:80/live/Bb58/Wddrf/54981.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/d60399ce84f52fcbaa03fb970a30fe78.png" group-title="Canadian Channels", TSN 1
+http://vp-txpro.com:80/live/Bb58/Wddrf/54982.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/b297185a4d472e53a84c7cc25e7cdafb.png" group-title="Canadian Channels", TSN 2
+http://vp-txpro.com:80/live/Bb58/Wddrf/54983.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/ebaa4af77e9c9ba10aa55f20212fd8f5.png" group-title="Canadian Channels", TSN 3
+http://vp-txpro.com:80/live/Bb58/Wddrf/54984.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/23e739ebedba3915f63a62443aae2107.png" group-title="Canadian Channels", TSN 4
+http://vp-txpro.com:80/live/Bb58/Wddrf/54985.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/bec1119f6b6775db440da6171e52fb9c.png" group-title="Canadian Channels", TSN 5
+http://vp-txpro.com:80/live/Bb58/Wddrf/54986.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/3050d175c0646fbf7df35325ee628f2e.png" group-title="Canadian Channels", TV Ontario
+http://vp-txpro.com:80/live/Bb58/Wddrf/54987.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/4187ab3458d9b4479a00c4172cc5d2a7.png" group-title="Canadian Channels", TVa Montreal
+http://vp-txpro.com:80/live/Bb58/Wddrf/54988.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/d5252ecffe6d50ee5d949c373806e901.png" group-title="Canadian Channels", Vision TV
+http://vp-txpro.com:80/live/Bb58/Wddrf/54989.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/bdbf4bc51b6ffc7ea1cbfee1f24f45c9.png" group-title="Canadian Channels", W Network
+http://vp-txpro.com:80/live/Bb58/Wddrf/54990.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/7b9949e62e34e63aff6c011676691986.png" group-title="Canadian Channels", Weather Network
+http://vp-txpro.com:80/live/Bb58/Wddrf/54991.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/c582a54f8ec50d41978f50a20b3ebdc8.png" group-title="Canadian Channels", WWE Network
+http://vp-txpro.com:80/live/Bb58/Wddrf/54992.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/57d43e4bcc08fe0f46c68e1e00b3e5c2.png" group-title="Canadian Channels", Yes TV
+http://vp-txpro.com:80/live/Bb58/Wddrf/54993.m3u8
+
+#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/804e1ba85d95df85b2138f0dcebacccb.png" group-title="Canadian Channels", YTV East
+http://vp-txpro.com:80/live/Bb58/Wddrf/54994.m3u8
+
+
 #EXTINF:-1 
 #EXTM3U billed-msg="❤TIDAK UNTUK DIJUAL https://t.me/IPTVcostum ❤️"
 
