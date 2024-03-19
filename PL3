@@ -18738,18 +18738,6 @@ http://vp-txpro.com:80/live/Bb58/Wddrf/52335.m3u8
 #EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/ade2ed61c8a545de77386e2e064d3005.png" group-title="USA Channels", YES Network SD
 http://vp-txpro.com:80/live/Bb58/Wddrf/52336.m3u8
 
-#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/1962cf2a6c2613e89d78dc8eaeaa3678.png" group-title="CBS Local Networks", CBS | DC | WASHINGTON-HAGERSTOWN | WUSA
-http://vp-txpro.com:80/live/Bb58/Wddrf/53351.m3u8
-
-#EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/78a29571d8c26301e49541d679a9f76a.png" group-title="NBC Local Networks", NBC | CO | DENVER | KUSA
-http://vp-txpro.com:80/live/Bb58/Wddrf/53618.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 Channels", Whose Line Is It Anyway USA (1998)
-http://vp-txpro.com:80/live/Bb58/Wddrf/50892.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="24/7 Channels", Whose Line Is It Anyway USA (2013)
-http://vp-txpro.com:80/live/Bb58/Wddrf/50893.m3u8
-
 #EXTINF:-1 tvg-logo="http://vp-txpro.com:80/images/659d3680fa3126919d43fb349ca5198b.png" group-title="Canadian Channels", A&E
 http://vp-txpro.com:80/live/Bb58/Wddrf/54868.m3u8
 
