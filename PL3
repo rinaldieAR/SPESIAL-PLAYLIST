@@ -7119,6 +7119,234 @@ https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/mls4a.m3u8
 #EXTINF:-1 tvg-logo="https://api.athleticsnyc.site/wp-content/uploads/2019/05/MLS_logo_sm.jpg" group-title="MLS", MLS 5a
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/mls5a.m3u8
 
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/EUROSPORT1HD.png" group-title="EUROSPORT", FR ★ EUROSPORT 1 FHD
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/2729.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/EUROSPORT2HD.png" group-title="EUROSPORT", FR ★ EUROSPORT 2 FHD
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/2730.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/Eurosport_360_HD.png" group-title="EUROSPORT", FR ★ EUROSPORT 360 1 FHD
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/2731.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/Eurosport_360_HD.png" group-title="EUROSPORT", FR ★ EUROSPORT 360 2 FHD
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/2732.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/Eurosport_360_HD.png" group-title="EUROSPORT", FR ★ EUROSPORT 360 3 FHD
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/2733.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/Eurosport_360_HD.png" group-title="EUROSPORT", FR ★ EUROSPORT 360 4 FHD
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/2734.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/Eurosport_360_HD.png" group-title="EUROSPORT", FR ★ EUROSPORT 360 5 FHD
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/2735.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/EUROSPORT1HD.png" group-title="EUROSPORT", FR ★ EUROSPORT 1 4K
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/2779.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/EUROSPORT2HD.png" group-title="EUROSPORT", FR ★ EUROSPORT 2 4K
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/2780.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/EUROSPORT1HD.png" group-title="EUROSPORT", BE ★ EUROSPORT 1 HD
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/3257.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/EUROSPORT2HD.png" group-title="EUROSPORT", BE ★ EUROSPORT 2 HD
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/3258.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/SPAIN/EUROSPORT.png" group-title="EUROSPORT", ES ★ EUROSPORT 1 HD
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/839.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/SPAIN/EUROSPORT.png" group-title="EUROSPORT", ES ★ EUROSPORT 2 HD
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/840.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/SPAIN/EUROSPORT.png" group-title="EUROSPORT", ES ★ EUROSPORT 1 4K
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/861.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/SPAIN/EUROSPORT.png" group-title="EUROSPORT", ES ★ EUROSPORT 2 4K
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/862.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/SPAIN/EUROSPORT.png" group-title="EUROSPORT", PT ★ EUROSPORT 1 HD
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/3115.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/SPAIN/EUROSPORT.png" group-title="EUROSPORT", PT ★ EUROSPORT 2 HD
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/3116.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/NEDERLAND/EUROSPORT.png" group-title="EUROSPORT", NL ★ EUROSPORT 1 HD
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/2135.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/NEDERLAND/EUROSPORT.png" group-title="EUROSPORT", NL ★ EUROSPORT 2 HD
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/2136.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/NEDERLAND/EUROSPORT.png" group-title="EUROSPORT", NL ★ EUROSPORT 1 FHD ◉
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/2153.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/NEDERLAND/EUROSPORT.png" group-title="EUROSPORT", NL ★ EUROSPORT 2 FHD ◉
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/2154.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/ITALY/EUROSPORT.png" group-title="EUROSPORT", IT ★ EUROSPORT 1 4K
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/1679.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/ITALY/ITALY/EUROSPORT1HD.png" group-title="EUROSPORT", IT ★ Eurosport 1 HD
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/485913.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/ITALY/EUROSPORT.png" group-title="EUROSPORT", IT ★ EUROSPORT 2 4K
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/1680.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/ITALY/ITALY/EUROSPORT2HD.png" group-title="EUROSPORT", IT ★ Eurosport 2 HD
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/485915.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/SPAIN/EUROSPORT.png" group-title="EUROSPORT", UK ★ EUROSPORTS 1 FHD
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/457.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/SPAIN/EUROSPORT.png" group-title="EUROSPORT", UK ★ EUROSPORTS 2 FHD
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/458.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/Eurosport_360_HD.png" group-title="EUROSPORT", FR ★ EUROSPORT 360 1 FHD
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/2731.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/SPAIN/EUROSPORT.png" group-title="EUROSPORT", UK ★ EUROSPORT 2 SD
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/483.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/SPAIN/EUROSPORT1.png" group-title="EUROSPORT", DE ★ EUROSPORT 1 HD
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/1133.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/GERMANY/EUROSPORT2HD.png" group-title="EUROSPORT", DE ★ EUROSPORT 2 HD
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/1134.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/SPAIN/EUROSPORT1.png" group-title="EUROSPORT", DE ★ EUROSPORT 1 4K
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/1347.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/GERMANY/EUROSPORT2HD.png" group-title="EUROSPORT", DE ★ EUROSPORT 2 4K
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/1348.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/ITALY/EUROSPORT.png" group-title="EUROSPORT", TR ★ EUROSPORT 1 HD
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/102153.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/ITALY/EUROSPORT.png" group-title="EUROSPORT", TR ★ EUROSPORT 2 HD
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/102155.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/ROMANIA/EUROSPORT.png" group-title="EUROSPORT", DK ★ EUROSPORT 1
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/103153.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/ROMANIA/EUROSPORT.png" group-title="EUROSPORT", DK ★ EUROSPORT 2
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/103155.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/ROMANIA/EUROSPORT.png" group-title="EUROSPORT", FI ★ EUROSPORT 1 FINLAND 4K
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/103253.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/ROMANIA/EUROSPORT.png" group-title="EUROSPORT", FI ★ EUROSPORT 2 HD
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/103255.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/EUROSPORT1HD.png" group-title="EUROSPORT", SW ★ EUROSPORT 1 UHD
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/102895.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/EUROSPORT2HD.png" group-title="EUROSPORT", SW ★ EUROSPORT 2 UHD
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/102897.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/SCANDINAVIAN/EUROSPORT1HD.png" group-title="EUROSPORT", NO ★ EUROSPORT 1 HD
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/103461.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/ROMANIA/EUROSPORT.png" group-title="EUROSPORT", NO ★ EUROSPORT N 4K
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/103465.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/NORWAY/EUROSPORT.png" group-title="EUROSPORT", PL ★ EUROSPORT 1 HD
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/137107.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/NORWAY/EUROSPORT.png" group-title="EUROSPORT", PL ★ EUROSPORT 2 HD
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/137109.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/EUROSPORT1HD.png" group-title="EUROSPORT", SLO ★ EUROSPORT
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/135957.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/EUROSPORT1HD.png" group-title="EUROSPORT", GR ★ EUROSPORT 1 HD
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/135905.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/EUROSPORT2HD.png" group-title="EUROSPORT", GR ★ EUROSPORT 2 HD
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/135907.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/ROMANIA/EUROSPORT.png" group-title="EUROSPORT", RU ★ EUROSPORT 1 HD
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/135679.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/ROMANIA/EUROSPORT.png" group-title="EUROSPORT", RU ★ EUROSPORT 2 HD
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/135681.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/EUROSPORT1HD.png" group-title="EUROSPORT", HU ★ EUROSPORT 1 HD
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/135433.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/EUROSPORT2HD.png" group-title="EUROSPORT", HU ★ EUROSPORT 2 HD
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/135435.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/ROMANIA/EUROSPORT.png" group-title="EUROSPORT", RO ★ EUROSPORT 1 HD
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/135109.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/ROMANIA/EUROSPORT.png" group-title="EUROSPORT", RO ★ EUROSPORT 2 HD
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/135111.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/ROMANIA/EUROSPORT.png" group-title="EUROSPORT", RO ★ EUROSPORT 2
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/135113.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/BULGARIA/EUROSPORT.png" group-title="EUROSPORT", BG ★ EUROSPORT 1 HD
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/134815.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/BULGARIA/EUROSPORT2.png" group-title="EUROSPORT", BG ★ EUROSPORT 2 HD
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/134817.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/MALTA/Eurosport-1.png" group-title="EUROSPORT", MT ★ EUROSPORT
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/159225.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/MALTA/Eurosport-2-HD.png" group-title="EUROSPORT", MT ★ EUROSPORT 2
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/159223.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/NORWAY/EUROSPORT.png" group-title="EUROSPORT", IL ★ EUROSPORT
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/165457.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/NORWAY/EUROSPORT.png" group-title="EUROSPORT", IL ★ EUROSPORT 2
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/165459.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/ROMANIA/EUROSPORT.png" group-title="EUROSPORT", MY ★ EUROSPORT HD
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/254917.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/EXYU/EXYO/EUROSPORT-1.png" group-title="EUROSPORT", EXYU ★ EUROSPORT 1 HD
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/137471.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/EXYU/EXYO/EUROSPORT-1.png" group-title="EUROSPORT", EXYU ★ EUROSPORT 2 HD
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/137473.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/AFRICA/CANAL+/Eurosport1-.png" group-title="EUROSPORT", AF ★ EUROSPORT 1
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/142897.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/AFRICA/CANAL+/Eurosport2-.png" group-title="EUROSPORT", AF ★ EUROSPORT 2
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/142899.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/EUROSPORT1HD.png" group-title="EUROSPORT", CZ ★ EUROSPORT 1 HD
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/156407.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/EUROSPORT2HD.png" group-title="EUROSPORT", CZ ★ EUROSPORT 2 HD
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/156409.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/ROMANIA/EUROSPORT.png" group-title="EUROSPORT", LAT ★ EUROSPORT
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/381583.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/ROMANIA/EUROSPORT.png" group-title="EUROSPORT", LAT ★ EUROSPORT 2
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/381585.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/EUROSPORT1HD.png" group-title="EUROSPORT", FR ★ EUROSPORT 1 HEVC
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/458105.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/EUROSPORT2HD.png" group-title="EUROSPORT", FR ★ EUROSPORT 2 HEVC
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/458107.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/EUROSPORT1HD.png" group-title="EUROSPORT", FR ★ EUROSPORT 1 SD
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/458397.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/EUROSPORT2HD.png" group-title="EUROSPORT", FR ★ EUROSPORT 2 SD
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/458399.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/ICELAND/Eurosport_HD.png" group-title="EUROSPORT", IS ★ EUROSPORT HD
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/463237.m3u8
+
+#EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/ICELAND/Eurosport_2.png" group-title="EUROSPORT", IS ★ EUROSPORT 2 HD
+http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/463235.m3u8
+
 
 ====================================== SPORT DUNIA ================================================
 
