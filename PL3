@@ -208,12 +208,16 @@ http://iptvtree.net:8080/c4596f70/c3848d92/197964
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa26_vPZ8WXonfR6KRH8VoMtnsQD501-ri3k73VoiTf1hr8RHMPXduwoQ&s=10" group-title="ETV BIOSKOP", ETV BIOSKOP 1 X
+http://iptvtree.net:8080/F28364/b1a3b4a8/298526
 https://raw.githubusercontent.com/Arrasyid22/moviepremium/main/etvbioskop1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa26_vPZ8WXonfR6KRH8VoMtnsQD501-ri3k73VoiTf1hr8RHMPXduwoQ&s=10" group-title="ETV BIOSKOP", ETV BIOSKOP 2 X
+http://iptvtree.net:8080/F28364/b1a3b4a8/298527
 https://raw.githubusercontent.com/Arrasyid22/moviepremium/main/etvbioskop2.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa26_vPZ8WXonfR6KRH8VoMtnsQD501-ri3k73VoiTf1hr8RHMPXduwoQ&s=10" group-title="ETV BIOSKOP", ETV BIOSKOP 3 X
+http://iptvtree.net:8080/F28364/b1a3b4a8/298528
 https://raw.githubusercontent.com/Arrasyid22/moviepremium/main/etvbioskop3.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRa26_vPZ8WXonfR6KRH8VoMtnsQD501-ri3k73VoiTf1hr8RHMPXduwoQ&s=10" group-title="ETV BIOSKOP", ETV BIOSKOP 4 X
+http://iptvtree.net:8080/F28364/b1a3b4a8/298529
 https://raw.githubusercontent.com/Arrasyid22/moviepremium/main/etvbioskop4.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="ETV BIOSKOP",ETV BIOSKOP 1
@@ -1211,11 +1215,6 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #EXTINF:0 tvg-id="Trans7.id" tvg-logo="https://www.transtv.co.id/layout/new/src/images/tv/TRANS%20TV%20live%20streaming%20tv.jpg",Trans TV (Vidio)
 http://50.7.234.10:8278/Transtv/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
 
-
-#EXTGRP:NASIONAL
-#EXTINF:0 tvg-id="Trans7.id" tvg-logo="https://www.transtv.co.id/layout/ttvnew/src/images/logo/01-t7.png",Trans 7 (Vidio)
-http://50.7.234.10:8278/Trans7/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
-
 #EXTGRP:NASIONAL
 #EXTINF:-1 tvg-id="ANTV.id"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/2560px-Antv_logo.svg.png" group-title="NASIONAL",ANTV
 http://50.7.234.10:8278/Antv/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
@@ -1228,14 +1227,6 @@ http://50.7.234.10:8278/Tvone/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe62
 #EXTINF:0 tvg-id="RajawaliTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/rtv.jpg",Rajawali TV (RTV) (Vidio)
 http://50.7.234.10:8278/Rtv/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
 
-
-#EXTGRP:NASIONAL
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png",Moji (Vidio)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://api.sedot-cw.my.id/sc/vidio/play.m3u8?id=206&type=hls
-
 #EXTGRP:NASIONAL
 #EXTINF:0 tvg-id="MentariTV.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1200px-INDOSIAR_Logo.png",Indosiar (Vidio)
 http://50.7.234.10:8278/Indosiar/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
@@ -1246,12 +1237,14 @@ http://50.7.234.10:8278/Indosiar/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=f
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png" group-title="NASIONAL",INDOSIAR DIGI1
+http://iptvtree.net:8080/F28364/b1a3b4a8/162138
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/ligabri1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="NASIONAL", SCTV (Vidio)
 http://50.7.234.10:8278/Sctv/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
 
 #EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="NASIONAL", SCTV DIGI1
+http://iptvtree.net:8080/F28364/b1a3b4a8/162141
 https://raw.githubusercontent.com/Arrasyid22/vision-/main/sctv.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg" group-title="NASIONAL", SCTV DENS
@@ -1259,6 +1252,7 @@ https://raw.githubusercontent.com/Arrasyid22/vision-/main/sctv.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="NASIONAL", MOJI DIGI1
+http://iptvtree.net:8080/F28364/b1a3b4a8/298550
 https://raw.githubusercontent.com/Arrasyid22/vision-/main/moji.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="NASIONAL", MOJI DENS
@@ -1491,9 +1485,11 @@ https://raw.githubusercontent.com/Arrasyid22/vision-/main/citrabioskop.m3u8
 https://raw.githubusercontent.com/Arrasyid22/vision-/main/citradrama.m3u8
 
 #EXTINF:-1 group-title="MOVIE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png", Bioskop Indonesia X
+http://iptvtree.net:8080/F28364/b1a3b4a8/264801
 https://raw.githubusercontent.com/Arrasyid22/vision-/main/bioskopindonesia.m3u8
 
 #EXTINF:-1 group-title="MOVIE" tvg-logo="https://images.indihometv.com/tvposter/flik.png", Flik X
+http://iptvtree.net:8080/F28364/b1a3b4a8/165095
 https://raw.githubusercontent.com/Arrasyid22/vision-/main/flix.m3u8
 
 #EXTINF:-1 group-title="MOVIE" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png", Bioskop Indonesia
