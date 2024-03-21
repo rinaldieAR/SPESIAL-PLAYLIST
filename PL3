@@ -6836,6 +6836,9 @@ https://raw.githubusercontent.com/Arrasyid22/sportarab/main/pakistansport.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Starz_Logo2008.png" group-title="SPORT ARAB🇸🇦", STARZ SPORT
 https://raw.githubusercontent.com/Arrasyid22/sportarab/main/starzsport.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg0FRSjeIWgNtDRaH2JrTewczFHi77DyiOl_Vg56akZcd7LplZrLBTFC4&s=10" group-title="SPORT ARAB🇸🇦", VARZISH SPORT
+https://raw.githubusercontent.com/Arrasyid22/sportarab/main/varzishsport.m3u8
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1704037624917209088/YmyRUw2C_400x400.jpg" group-title="SPORT ARAB🇸🇦", YAS SPORT
 https://raw.githubusercontent.com/Arrasyid22/sportarab/main/yass.m3u8
 
