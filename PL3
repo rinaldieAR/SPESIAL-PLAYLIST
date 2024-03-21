@@ -6225,16 +6225,19 @@ https://sport.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8|Referer=ht
 https://sport.livedoomovies.com:4432/02_2sporthd4_720p/chunklist.m3u8|Referer=https://www.movie87hd.com/?r\u003dajax
 
 #EXTINF:-1 tvg-logo="https://ia801604.us.archive.org/28/items/sbs-sports-logo-2018/SBS_Sports_logo_2018.png" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", SBS SPORT  
-http://176868.cloud/0110e370b9649038212e4ab507486e2a/343cef9d126e1a2327fd4842328b89f3/4aedb74052b45637fee91842fd47f2c0/
+http://176868.cloud/0110e370b9649038212e4ab507486e2a/343cef9d126e1a2327fd4842328b89f3/4aedb74052b45637fee91842fd47f2c0/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvchinese.net/uploads/tv/kbsn-sports.jpg" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", KBS SPORT
-http://176868.cloud/238309b625bc4938557052426b76d931/343cef9d126e1a2327fd4842328b89f3/6a82114ce7174e8d7edc97ef1e740731/
+http://176868.cloud/238309b625bc4938557052426b76d931/343cef9d126e1a2327fd4842328b89f3/6a82114ce7174e8d7edc97ef1e740731/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://spnimage.edaily.co.kr/images/photo/files/NP/S/2022/04/PS22041900009.jpg" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", TVN SPORT
-http://176868.cloud/7c30585584f1b00c8c04f6fa06c58074/343cef9d126e1a2327fd4842328b89f3/b0bb263e899a8bddc94b6f841d2d1642/
+http://176868.cloud/7c30585584f1b00c8c04f6fa06c58074/343cef9d126e1a2327fd4842328b89f3/b0bb263e899a8bddc94b6f841d2d1642/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/Mbcsports_logo2.svg" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", MBC SPORT+
-http://176868.cloud/c9a4c033b8884dfaf9d41664666d2a0b/343cef9d126e1a2327fd4842328b89f3/bf54520ec53d9041546277bdd68fa813/
+http://176868.cloud/c9a4c033b8884dfaf9d41664666d2a0b/343cef9d126e1a2327fd4842328b89f3/bf54520ec53d9041546277bdd68fa813/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe9dtFjptyuPXkfLxUvNMpww_9vrcOxOPXtw&usqp=CAU" group-title="SPORT ASIA🇺🇸🇸🇬🇮🇳🇨🇳", SBS GOLF
+http://176868.cloud/5b618f45a005786e1af858db463166d4/343cef9d126e1a2327fd4842328b89f3/d1fa61050f48dcffc9e1bad72a35e62c/index.m3u8
 
 #################################################################################################################
 #EXTINF:-1 group-logo="https://cdn.slidesharecdn.com/ss_thumbnails/benuaeropa-200811172928-thumbnail.jpg"
