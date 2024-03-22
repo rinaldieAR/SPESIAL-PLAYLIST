@@ -1190,11 +1190,6 @@ NASIONAL
 #################################################################################################################
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT8HhX9MPIWfBO3ei6DxFPetKGunE_zvxrYw&usqp=CAU" group-title="NASIONAL"
 #################################################################################################################
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/INDOSIAR_Logo.png/1280px-INDOSIAR_Logo.png",INDOSIAR
-https://ariev.vercel.app/api/play.m3u?ch=indosiar&pw=ramadhan1445&user-agent=|User-Agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36"
-
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://www.wowkeren.com/display/images/photo/2019/09/07/00272011.jpg",SCTV
-https://ariev.vercel.app/api/play.m3u?ch=sctv&pw=ramadhan1445&user-agent=|User-Agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36"
 
 #EXTGRP:NASIONAL
 #EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/RCTI.jpg",RCTI (R+)
