@@ -2461,9 +2461,6 @@ https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
 ################################################################################
 ####################################RELIGI######################################
 ################################################################################
-#EXTINF:-1 group-title="RELIGI" tvg-id="ajwatv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Ajwa_TV_logo.png",AJWA TV
-https://ariev.vercel.app/api/play.m3u?ch=ajwa&pw=ramadhan1445&user-agent=|User-Agent="Mozilla/ (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36"
-
 #https://ahsan.tv/
 #EXTGRP:RELIGI
 #EXTINF:0 tvg-id="AhsanTV.id" tvg-logo="https://i.imgur.com/dZdUbYd.png",Ahsan TV
