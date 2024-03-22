@@ -7824,6 +7824,20 @@ https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/mls4a.m3u8
 #EXTINF:-1 tvg-logo="https://api.athleticsnyc.site/wp-content/uploads/2019/05/MLS_logo_sm.jpg" group-title="MLS", MLS 5a
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/mls5a.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREYxtkXUeVn9mI5jGHP4Bw83PZ02w0hnsP5uLsygqpguQRvVBo4cdThb2Q&s=10" group-title="FIFA+", Fifa+
+https://4b92bb6a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdF9GSUZBUGx1c19ITFM/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREYxtkXUeVn9mI5jGHP4Bw83PZ02w0hnsP5uLsygqpguQRvVBo4cdThb2Q&s=10" group-title="FIFA+", Fifa+
+https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREYxtkXUeVn9mI5jGHP4Bw83PZ02w0hnsP5uLsygqpguQRvVBo4cdThb2Q&s=10" group-title="FIFA+", Fifa+
+https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREYxtkXUeVn9mI5jGHP4Bw83PZ02w0hnsP5uLsygqpguQRvVBo4cdThb2Q&s=10" group-title="FIFA+", Fifa+
+https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREYxtkXUeVn9mI5jGHP4Bw83PZ02w0hnsP5uLsygqpguQRvVBo4cdThb2Q&s=10" group-title="FIFA+", Fifa+
+https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREYxtkXUeVn9mI5jGHP4Bw83PZ02w0hnsP5uLsygqpguQRvVBo4cdThb2Q&s=10" group-title="FIFA+" , FIFA+
+https://i.mjh.nz/SamsungTVPlus/KRBD1900001Y2.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/EUROSPORT1HD.png" group-title="EUROSPORT", FR ★ EUROSPORT 1 FHD
 http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/2729.m3u8
 
