@@ -7809,16 +7809,27 @@ https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/mls9.m3u8
 #EXTINF:-1 tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_8_desktop_mobile/mls-mia-prd/cslhobzgkmpvuwue9wgx.png" group-title="MLS", MLS 20
 https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/mls10.m3u8
 
-#EXTINF:-1 tvg-logo="https://api.athleticsnyc.site/wp-content/uploads/2019/05/MLS_logo_sm.jpg" group-title="MLS", MLS 1a
-https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/mls1a.m3u8
-#EXTINF:-1 tvg-logo="https://api.athleticsnyc.site/wp-content/uploads/2019/05/MLS_logo_sm.jpg" group-title="MLS", MLS 2a
-https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/mls2a.m3u8
-#EXTINF:-1 tvg-logo="https://api.athleticsnyc.site/wp-content/uploads/2019/05/MLS_logo_sm.jpg" group-title="MLS", MLS 3a
-https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/mls3a.m3u8
-#EXTINF:-1 tvg-logo="https://api.athleticsnyc.site/wp-content/uploads/2019/05/MLS_logo_sm.jpg" group-title="MLS", MLS 4a
-https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/mls4a.m3u8
-#EXTINF:-1 tvg-logo="https://api.athleticsnyc.site/wp-content/uploads/2019/05/MLS_logo_sm.jpg" group-title="MLS", MLS 5a
-https://raw.githubusercontentcom/Arrasyid22/Playlist-IPTV/main/mls5a.m3u8
+#EXTINF:-1 tvg-logo="https://api.athleticsnyc.site/wp-content/uploads/2019/05/MLS_logo_sm.jpg" group-title="MLS", MLS 1L
+https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/mls1.m3u8
+#EXTINF:-1 tvg-logo="https://api.athleticsnyc.site/wp-content/uploads/2019/05/MLS_logo_sm.jpg" group-title="MLS", MLS 2L
+https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/mls2.m3u8
+#EXTINF:-1 tvg-logo="https://api.athleticsnyc.site/wp-content/uploads/2019/05/MLS_logo_sm.jpg" group-title="MLS", MLS 3L
+https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/mls3.m3u8
+#EXTINF:-1 tvg-logo="https://api.athleticsnyc.site/wp-content/uploads/2019/05/MLS_logo_sm.jpg" group-title="MLS", MLS 4L
+https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/mls4.m3u8
+#EXTINF:-1 tvg-logo="https://api.athleticsnyc.site/wp-content/uploads/2019/05/MLS_logo_sm.jpg" group-title="MLS", MLS 5L
+https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/mls5.m3u8
+#EXTINF:-1 tvg-logo="https://api.athleticsnyc.site/wp-content/uploads/2019/05/MLS_logo_sm.jpg" group-title="MLS", MLS 6L
+https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/mls6.m3u8
+#EXTINF:-1 tvg-logo="https://api.athleticsnyc.site/wp-content/uploads/2019/05/MLS_logo_sm.jpg" group-title="MLS", MLS 7L
+https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/mls7.m3u8
+#EXTINF:-1 tvg-logo="https://api.athleticsnyc.site/wp-content/uploads/2019/05/MLS_logo_sm.jpg" group-title="MLS", MLS 8L
+https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/mls8.m3u8
+#EXTINF:-1 tvg-logo="https://api.athleticsnyc.site/wp-content/uploads/2019/05/MLS_logo_sm.jpg" group-title="MLS", MLS 9L
+https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/mls9.m3u8
+#EXTINF:-1 tvg-logo="https://api.athleticsnyc.site/wp-content/uploads/2019/05/MLS_logo_sm.jpg" group-title="MLS", MLS 10L
+https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/mls10.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD0zSCH3i4tCg7Oz6DWcYzPKXuTAkD4kiIHA&usqp=CAU" group-title="CLUB SPORT", FB TV
 https://raw.githubusercontent.com/Arrasyid22/clubtv/comoters/fbtv.m3u8
