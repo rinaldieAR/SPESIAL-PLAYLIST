@@ -11,6 +11,11 @@ https://github.com/Arrasyid22/inaldie/raw/main/DONATE.ts
 http://171.238.181.52:18080/194.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQupj7QWc_xm609ACfOElofYVMY56yyu3EfNRho-fkNIQ&s" group-title="##🇮🇩TIMNAS LIVE🇮🇩##", THAILAND VS KOREA
 http://line.iptvwings.com/play/live.php?mac=00:1A:79:00:1e:dc&stream=164746&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQupj7QWc_xm609ACfOElofYVMY56yyu3EfNRho-fkNIQ&s" group-title="##🇮🇩TIMNAS LIVE🇮🇩##", INDIA VS AFGANISTAN
+http://line.iptvwings.com/play/live.php?mac=00:1A:79:00:1e:dc&stream=1104676&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQupj7QWc_xm609ACfOElofYVMY56yyu3EfNRho-fkNIQ&s" group-title="##🇮🇩TIMNAS LIVE🇮🇩##", MALAYSIA VS OMAN
+http://line.iptvwings.com/play/live.php?mac=00:1A:79:00:1e:dc&stream=591593&extension=ts
+
 
 #EXTINF:-1 group-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="##🇮🇩BRI LIGA 1🇮🇩##"
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="##🇮🇩BRI LIGA 1🇮🇩##", INDOSIAR 1
