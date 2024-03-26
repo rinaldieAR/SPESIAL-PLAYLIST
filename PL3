@@ -7010,6 +7010,11 @@ https://raw.githubusercontent.com/Arrasyid22/sporteropa/main/arenasportpremium1.
 https://raw.githubusercontent.com/Arrasyid22/sporteropa/main/arenasportpremium2.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvarenasport.com/files/img/icons/chanel-a3p.png" group-title="SPORT EROPA", ARENA SPORT PREMIUM 3
 https://raw.githubusercontent.com/Arrasyid22/sporteropa/main/arenasportpremium3.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT48MKQDEVAdLzwIP6lmVvTxdaCGMdX9waTfGO24BbiDRg0aVD2dGZBxgU&s=10" group-title="SPORT EROPA", MAX SPORT HR 1 
+https://raw.githubusercontent.com/Arrasyid22/sporteropa/main/maxsportHR1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNwzmmPG6d9nQu8WB16qqF8cpmZwtwVh2S0cANE_LaSvwy9KFLY21zEMs&s=10" group-title="SPORT EROPA", MAX SPORT HR 2
+https://raw.githubusercontent.com/Arrasyid22/sporteropa/main/maxsportHR2.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fsportklub.jpg" group-title="SPORT EROPA", SPORT KLUB HR 1
 https://raw.githubusercontent.com/Arrasyid22/sporteropa/main/sportklubHR1.m3u8
 #EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fsportklub.jpg" group-title="SPORT EROPA", SPORT KLUB HR 2
