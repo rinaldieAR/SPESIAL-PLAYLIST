@@ -2102,7 +2102,7 @@ https://cdn3-reg2.mm.oxygen.id/hls/oxygentv-web/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumb.viva.id/intipseleb/665x374/2023/10/06/651f4364392df-vtv.jpg" group-title="NASIONAL",VTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://oxygentv-atv-61866e69314c.herokuapp.com/oxygen/vtv.m3u8
+https://raw.githubusercontent.com/Arrasyid22/vision-/main/vtv.m3u8
 
 
 ################################################################################
