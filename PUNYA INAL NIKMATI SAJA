@@ -9732,49 +9732,53 @@ http://m.marstvx.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=833302&extens
 #EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", UFC TV US
 http://m.marstvx.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=91949&extension=ts&play_token=IV0yk7bGfo
 #EXTINF:-1 tvg-logo="______" group-title="FIGHT SPORT", UFC TV UK
-http://m.marstvx.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=825538&extension=ts&play_token=thO2rtmyko
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=825538&extension=ts
 #EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="SPORT DUNIA 1", FOX SOCCER PLUS
-http://m.marstvx.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=174668&extension=ts&play_token=aP5SGPY26C
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=45572&extension=ts
 #EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="SPORT DUNIA 1", FOX SPORT 1
-http://m.marstvx.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=174669&extension=ts&play_token=eYcVCzh36m
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=45571&extension=ts
 #EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="SPORT DUNIA 1", FOX SPORT 2
-http://m.marstvx.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=174670&extension=ts&play_token=IdEBSk7LYU
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=45570&extension=ts
 #EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="SPORT DUNIA 1", FOX SPORT ARIZONA
-http://m.marstvx.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=174671&extension=ts&play_token=JaPTMoccbH
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=45569&extension=ts
 #EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="SPORT DUNIA 1", FOX SPORT WEST
-http://m.marstvx.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=174688&extension=ts&play_token=2101Kmd4c0
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=45559&extension=ts
 #EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="SPORT DUNIA 1", FOX SPORT SOUTH
-http://m.marstvx.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=174684&extension=ts&play_token=Wipa3xAkxU
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=45563&extension=ts
 #EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="SPORT DUNIA 1", FOX SPORT EAST
-http://m.marstvx.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=174682&extension=ts&play_token=bj9EQummoH
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=45562&extension=ts
 #EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="SPORT DUNIA 1", FOX SPORT 1 ES
-http://m.marstvx.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=984950&extension=ts&play_token=KbEinhef17
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=984950&extension=ts
 #EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="SPORT DUNIA 1", FOX SPORT 2 ES
-http://m.marstvx.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=984951&extension=ts&play_token=KADFOT0Lsx
-#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="SPORT DUNIA 1", FOX SPORT PREMIUM
-http://m.marstvx.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=984953&extension=ts&play_token=HalHutHLf1
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=984951&extension=ts
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FSOval_wBackground_1040x585.gif" group-title="SPORT DUNIA 1", FOX SPORT 3 ES
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=984952&extension=ts
 #EXTINF:-1 tvg-logo="https://blog.burst.com/wp-content/uploads/2016/03/foxsports-smaller.jpg" group-title="SPORT DUNIA 1", FOX SPORT 501
-http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=646971_&extension=ts
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=646971&extension=ts
 #EXTINF:-1 tvg-logo="https://blog.burst.com/wp-content/uploads/2016/03/foxsports-smaller.jpg" group-title="SPORT DUNIA 1", FOX SPORT 502
-http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=646970_&extension=ts
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=646970&extension=ts
 #EXTINF:-1 tvg-logo="https://blog.burst.com/wp-content/uploads/2016/03/foxsports-smaller.jpg" group-title="SPORT DUNIA 1", FOX SPORT 503
-http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=646969_&extension=ts
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=646969&extension=ts
 #EXTINF:-1 tvg-logo="https://blog.burst.com/wp-content/uploads/2016/03/foxsports-smaller.jpg" group-title="SPORT DUNIA 1", FOX SPORT 504
-http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=646968_&extension=ts
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=646968&extension=ts
 #EXTINF:-1 tvg-logo="https://blog.burst.com/wp-content/uploads/2016/03/foxsports-smaller.jpg" group-title="SPORT DUNIA 1", FOX SPORT 505
-http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=646967_&extension=ts
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=646967&extension=ts
 #EXTINF:-1 tvg-logo="https://blog.burst.com/wp-content/uploads/2016/03/foxsports-smaller.jpg" group-title="SPORT DUNIA 1", FOX SPORT 506
-http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=646966_&extension=ts
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=646966&extension=ts
 #EXTINF:-1 tvg-logo="https://blog.burst.com/wp-content/uploads/2016/03/foxsports-smaller.jpg" group-title="SPORT DUNIA 1", FOX SPORT 507
-http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=646965_&extension=ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/BeIN_SPORTS_Australia_logo_2017.jpg" group-title="SPORT DUNIA 1", BEIN SPORT
-http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=646977_&extension=ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/BeIN_SPORTS_Australia_logo_2017.jpg" group-title="SPORT DUNIA 1", BEIN SPORT 2
-http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=646976_&extension=ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/BeIN_SPORTS_Australia_logo_2017.jpg" group-title="SPORT DUNIA 1", BEIN SPORT 3
-http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=646975_&extension=ts
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=646965&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/BeIN_SPORTS_Australia_logo_2017.jpg" group-title="SPORT DUNIA 1", BEIN SPORT CA
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=177356&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/BeIN_SPORTS_Australia_logo_2017.jpg" group-title="SPORT DUNIA 1", BEIN SPORT 2 CA
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=177357&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/BeIN_SPORTS_Australia_logo_2017.jpg" group-title="SPORT DUNIA 1", BEIN SPORT 4 CA
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=177358&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/BeIN_SPORTS_Australia_logo_2017.jpg" group-title="SPORT DUNIA 1", BEIN SPORT 5 CA
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=177359&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/BeIN_SPORTS_Australia_logo_2017.jpg" group-title="SPORT DUNIA 1", BEIN SPORT 6 CA
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=177360&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0UDARA8CCGZZ_UYJ7mUGQ6QcWsF5Osy1q0A&usqp=CAU" group-title="SPORT DUNIA 1", RACING.COM
-http://m.marstvx.com:80/play/live.php?mac=00:1A:79:E7:2A:14&stream=156848_&extension=ts
+http://m.marstvx.com:80/play/live.php?mac=00:1A:79:C6:20:7D&stream=156848&extension=ts
 
 
 
