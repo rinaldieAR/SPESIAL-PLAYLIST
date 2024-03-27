@@ -70,7 +70,6 @@ https://raw.githubusercontent.com/Arrasyid22/sportlive/main/motogp6.m3u8
 https://raw.githubusercontent.com/Arrasyid22/sportlive/main/motogp7.m3u8
 
 
-
 #EXTINF:-1 group-logo="https://statik.tempo.co/data/2021/09/22/id_1052908/1052908_720.jpg" group-title="##🏆LIGA CHAMPIONS UEFA🏆##"
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOtyHyx63MgN6OAtAUZnUpAF20q-jmNRT1KA&usqp=CAU" group-title="##🏆LIGA CHAMPIONS UEFA🏆##", LIVE 1
 https://raw.githubusercontent.com/Arrasyid22/sportlive/main/uucl1.m3u8
@@ -7915,6 +7914,30 @@ https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREYxtkXUeVn9mI5jGHP4Bw83PZ02w0hnsP5uLsygqpguQRvVBo4cdThb2Q&s=10" group-title="FIFA+" , FIFA+
 https://i.mjh.nz/SamsungTVPlus/KRBD1900001Y2.m3u8
 
+
+
+#EXTINF:-1 tvg-logo="______" group-title="F1 & GP", CANAL+ MOTOGP
+http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/2713
+#EXTINF:-1 tvg-logo="______" group-title="F1 & GP", CANAL+ MOTOGP FHD
+http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/2763
+#EXTINF:-1 tvg-logo="______" group-title="F1 & GP", DAZN 1 MOTOGP FHD
+http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/432455
+#EXTINF:-1 tvg-logo="______" group-title="F1 & GP", SKY MOTOGP FHD
+http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/1637
+#EXTINF:-1 tvg-logo="______" group-title="F1 & GP", SKY MOTOGP
+http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/1700
+#EXTINF:-1 tvg-logo="______" group-title="F1 & GP", SKY SPORT F1
+http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/138715
+#EXTINF:-1 tvg-logo="______" group-title="F1 & GP", DAZN F1
+http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/138717
+#EXTINF:-1 tvg-logo="______" group-title="F1 & GP", SKY SPORT F1 IT
+http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/138727
+#EXTINF:-1 tvg-logo="______" group-title="F1 & GP", SKY SPORT F1 DE
+http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/138719
+#EXTINF:-1 tvg-logo="______" group-title="F1 & GP", TNT SPORT 2
+http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/479
+#EXTINF:-1 tvg-logo="______" group-title="F1 & GP", DIGI SPORT 3
+http://cdnmax.pro:80/S45C43U81V36R5/5ZS04ERNG2DCVPWG/135105
 
 #EXTINF:-1 tvg-logo="http://lg.mygolden.xyz:8080/logo/EUROPE/FRANCE/EUROSPORT1HD.png" group-title="EUROSPORT", FR ★ EUROSPORT 1 FHD
 http://cdnmax.pro:80/live/S45C43U81V36R5/5ZS04ERNG2DCVPWG/2729.m3u8
