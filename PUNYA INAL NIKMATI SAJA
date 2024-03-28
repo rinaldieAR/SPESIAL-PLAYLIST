@@ -2413,6 +2413,9 @@ http://89.187.177.137:8081/&PRIVE/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/tvposter/k+.png" group-title="MOVIE", K+
 http://210.210.155.37/uq2663/h/h08/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScs76xdJXpaqFvIhgOZXdhNwmfT11YdNqGTRucnrVwx-WHwr-DmPCNrbA&s=10" group-title="MOVIE", SONY GEM 
+https://raw.githubusercontent.com/Arrasyid22/vision-/main/gem.m3u8
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
@@ -2509,6 +2512,9 @@ https://linearjitp02-playback.astro.com.my/dash-wv/dashiso/2407/default.mpd
 ################################################################################
 Knowledge & Documentary
 ################################################################################
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/HGTV_2010.svg" group-title="DOCUMENTARY", HGTV
+https://raw.githubusercontent.com/Arrasyid22/vision-/main/hgtv.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
