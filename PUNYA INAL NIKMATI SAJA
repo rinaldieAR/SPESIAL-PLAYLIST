@@ -5703,17 +5703,9 @@ https://4utv.my.id/vd/play.mpd?id=17140&type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://4utv.my.id/vd/play.php?id=6685&type=drm
-https://4utv.my.id/vd/play.mpd?id=6685&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://4utv.my.id/vd/drm-plt.php?id=6685
+https://4utv.my.id/vd/dash.mpd?id=6685|User-Agent=mozilla/89
 
-#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/_QrhoPVikJ5xrsOpHke9heqU_iY=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6685/5add43.png", CTV 1 HLS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://4utv.my.id/vd/play.php?id=6685&type=hls
-https://4utv.my.id/vd/play.m3u8?id=6685&type=hls
 
 #EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/qQICmNbxaAtir-zxCSv6-Cqbxt0=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6686/14270d.png", CTV 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -5721,47 +5713,37 @@ https://4utv.my.id/vd/play.m3u8?id=6685&type=hls
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://4utv.my.id/vd/play.php?id=6686&type=drm
-https://4utv.my.id/vd/play.mpd?id=6686&type=dash 
-
-#EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/qQICmNbxaAtir-zxCSv6-Cqbxt0=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6686/14270d.png", CTV 2 HLS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://4utv.my.id/vd/play.php?id=6686&type=drm
-https://4utv.my.id/vd/play.m3u8?id=6686&type=hls
+#KODIPROP:inputstream.adaptive.license_key=https://4utv.my.id/vd/drm-plt.php?id=6686
+https://4utv.my.id/vd/dash.mpd?id=6686|User-Agent=mozilla/89
 
 #EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/Xbri5YIQ-JyNB_UQMJ6wz49lru4=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6786/d2ebc5.png", CTV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://4utv.my.id/vd/play.php?id=6786&type=drm 
-https://4utv.my.id/vd/play.mpd?id=6786&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://4utv.my.id/vd/drm-plt.php?id=6786
+https://4utv.my.id/vd/dash.mpd?id=6786|User-Agent=mozilla/89
+
 
 #EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/S1YVrsYE0Fm49BGKhIgqkpnEk8M=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9182/13b733.png", CTV 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://4utv.my.id/vd/play.php?id=9182&type=drm 
-https://4utv.my.id/vd/play.mpd?id=9182&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://4utv.my.id/vd/drm-plt.php?id=9182
+https://4utv.my.id/vd/dash.mpd?id=9182|User-Agent=mozilla/89
 
 #EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/5uxtD9zKbgyCgAjpj6W3TwkqO2A=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9183/33e19d.png", CTV 6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://4utv.my.id/vd/play.php?id=9183&type=drm 
-https://4utv.my.id/vd/play.mpd?id=9183&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://4utv.my.id/vd/drm-plt.php?id=9183
+https://4utv.my.id/vd/dash.mpd?id=9183|User-Agent=mozilla/89
+
 
 #EXTINF:-1 group-title="VIDOVIL" tvg-logo="https://thumbor.prod.vidiocdn.com/jWfO9AAKL03aw_crIUZztvDSd5o=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9353/a79dfe.png", Premier League TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
